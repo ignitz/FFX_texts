@@ -1,0 +1,177 @@
+[Tidus]<NL>
+Nice excuse.<END>
+
+[Wakka]<NL>
+Hey, hey!<END>
+
+[Wakka]<NL>
+So, after quitting,<NL>
+I got this new job, ya?<END>
+
+[Wakka]<NL>
+But every time my mind wandered,<NL>
+I thought about the game.<END>
+
+[Tidus]<NL>
+Ten years without<NL>
+a single win'll do that.<END>
+
+[Wakka]<NL>
+My first match last year<NL>
+was my big chance.<END>
+
+[Wakka]<NL>
+But something else was on my mind.<NL>
+I couldn't focus.<END>
+
+[Tidus]<NL>
+So you want to win the next<NL>
+tournament--go out with a bang.<END>
+
+[Tidus]<NL>
+So, what's our goal?<END>
+
+[Wakka]<NL>
+I don't care how we do.<NL>
+Long as we play our best.<END>
+
+[Tidus]<NL>
+No, no, no, no, no.<NL>
+If I say, "What's our goal?"<NL>
+you say, "Victory!"<END>
+
+[Tidus]<NL>
+When you play in a [blitzball]<NL>
+tournament, you play to win!<END>
+
+[Wakka]<NL>
+Victory? You serious?<END>
+
+[Wakka]<NL>
+If we give it our all,<NL>
+I can walk away happy.<END>
+
+<NL>
+Ah, the one from the sea!<END>
+
+<NL>
+Be on guard. There're<NL>
+fiends on the road today!<END>
+
+<NL>
+After surviving your run-in with [Sin],<NL>
+'twould be a shame if something happened now.<END>
+
+[Tidus]<NL>
+Who were they?<END>
+
+[Wakka]<NL>
+[Luzzu] and [Gatta]--[Crusader]s.<END>
+
+[Tidus]<NL>
+Crews of what?<END>
+
+[Wakka]<NL>
+What, you forgot that, too?<END>
+
+[Wakka]<NL>
+Hey, sorry.<NL>
+Don't worry about it, I'll help you out.<END>
+
+[Tidus]<NL>
+Cool.<END>
+
+[Tidus]<NL>
+In return, come tournament time,<NL>
+I'll make sure we take the cup!<END>
+
+[Wakka]<NL>
+Cool.<END>
+
+[Wakka]<NL>
+About the [Crusader]s, you can<NL>
+ask them yourself. They've got<NL>
+a lodge in the village.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

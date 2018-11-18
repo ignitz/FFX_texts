@@ -1,0 +1,828 @@
+[Kimahri]<NL>
+[Kimahri] never forget<NL>
+the [Al Bhed] sacrifice.<END>
+
+[Kimahri]<NL>
+[Kimahri] will use machina,<NL>
+if machina can find [Yuna].<END>
+
+[Kimahri]<NL>
+[Yuna] should make<NL>
+[Yuna]'s decision.<END>
+
+[Kimahri]<NL>
+[Yuna] in trouble.<NL>
+[Kimahri] worried.<END>
+
+[Kimahri]<NL>
+You keep walking path forward.<NL>
+[Kimahri] watch the rear.<END>
+
+[Kimahri]<NL>
+Because of you,<NL>
+[Yuna] still smiles.<END>
+
+[Kimahri]<NL>
+Thank you.<END>
+
+[Kimahri]<NL>
+Friends have saved [Kimahri]'s life.<NL>
+[Kimahri] will treasure it.<END>
+
+[Kimahri]<NL>
+[Kimahri] is ready.<NL>
+Let us fight [Sin].<END>
+
+[Kimahri]<NL>
+[Sin] still lives.<NL>
+[Kimahri] knows.<END>
+
+[Kimahri]<NL>
+The [Ronso] were singing, too.<NL>
+[Kimahri]'s ears never wrong.<END>
+
+[Kimahri]<NL>
+[Kimahri] felt friendship<NL>
+from somewhere inside [Sin].<END>
+
+[Kimahri]<NL>
+There is no need for fear.<NL>
+[Kimahri] will go with you.<END>
+
+[Isaaru]<NL>
+We owe our lives to the [Al Bhed].<END>
+
+[Isaaru]<NL>
+However, no matter how they beg,<NL>
+we cannot quit our pilgrimage.<END>
+
+[Tidus]<NL>
+Even though you'll die?<END>
+
+[Isaaru]<NL>
+I've known since I was a child.<NL>
+My will is set.<END>
+
+[Isaaru]<NL>
+If I do not do it, someone<NL>
+else must, you understand.<END>
+
+[Isaaru]<NL>
+I'm amazed this thing can fly, truly!<END>
+
+[Isaaru]<NL>
+It must be sacrilege to<NL>
+think so highly of a machina.<END>
+
+[Isaaru]<NL>
+I feel uneasy just riding it!<END>
+
+[Tidus]<NL>
+Sure it's not motion sickness?<END>
+
+[Isaaru]<NL>
+Motion sickness?<NL>
+What infirmity is that?<END>
+
+[Isaaru]<NL>
+As soon as we land,<NL>
+we continue the pilgrimage!<END>
+
+[Maroda]<NL>
+Hey, I'm not looking forward<NL>
+to my brother dying when this is all over.<END>
+
+[Maroda]<NL>
+If only there was some way of<NL>
+doing it without anyone dying.<END>
+
+[Tidus]<NL>
+Let's think of one!<END>
+
+[Maroda]<NL>
+Easier said than done.<END>
+
+[Maroda]<NL>
+If we had all the time in the world,<NL>
+yeah, we'd think of something.<END>
+
+[Maroda]<NL>
+And while we were thinking,<NL>
+[Sin] would kill us all.<END>
+
+[Maroda]<NL>
+[Spira] doesn't have that time.<END>
+
+[Maroda]<NL>
+The [Al Bhed] caught up<NL>
+to us in [Besaid].<END>
+
+[Maroda]<NL>
+They grabbed [Pacce],<NL>
+so we had to do what they said.<END>
+
+[Maroda]<NL>
+We needed a break, anyway.<NL>
+[Pacce] was pretty tired.<END>
+
+[Maroda]<NL>
+He should never have come<NL>
+on the pilgrimage, little kid like that.<END>
+
+[Maroda]<NL>
+Still, he does pretty good for his size.<NL>
+He's gonna be something someday.<END>
+
+[Maroda]<NL>
+Hey, you know<NL>
+where this ship's headed?<END>
+
+[Maroda]<NL>
+Be careful!<END>
+
+[Isaaru]<NL>
+Let him rest.<END>
+
+[Maroda]<NL>
+Let him sleep, man.<END>
+
+[Pacce]<NL>
+Don't worry!<NL>
+We'll guard this area!<END>
+
+[Rin]<NL>
+Well, well.<END>
+
+[Rin]<NL>
+It appears you, too,<NL>
+have escaped harm.<END>
+
+[Tidus]<NL>
+You were on the ship, too?<END>
+
+[Rin]<NL>
+I came to [Home] to pick up some<NL>
+goods and found myself here.<END>
+
+[Rin]<NL>
+Quite the escape.<END>
+
+[Rin]<NL>
+Thankfully, my goods were spared.<END>
+
+[Rin]<NL>
+Please let me know if you<NL>
+need any of my wares.<END>
+
+<TEXT>
+<CHOICE1>Got any weapons?<NL>
+<CHOICE2>Got any items?<NL>
+<CHOICE3>Leave.<END>
+
+[Rin]<NL>
+Thank you. Your patronage<NL>
+is very much appreciated.<END>
+
+[Rin]<NL>
+All proceeds will go<NL>
+to help restore [Home].<END>
+
+[Rin]<NL>
+May I help you?<END>
+
+[Rin]<NL>
+Welcome!<END>
+
+[Rin]<NL>
+[Rin]'s Aerial Branch Office,<NL>
+at your service.<END>
+
+[Rin]<NL>
+Welcome!<END>
+
+[Rin]<NL>
+How may I assist you today?<END>
+
+[Rin]<NL>
+Lady [Yuna] has become<NL>
+quite the summoner.<END>
+
+[Rin]<NL>
+A gentle nature,<NL>
+yet strong as steel.<END>
+
+[Rin]<NL>
+She reminds me of her parents.<END>
+
+[Tidus]<NL>
+[Yuna]'s old man was a priest of [Yevon2],<NL>
+but he married an [Al Bhed], huh?<END>
+
+[Rin]<NL>
+Lord [Braska] wanted peace<NL>
+between his people and ours.<END>
+
+[Rin]<NL>
+He would occasionally visit<NL>
+the [Home] of those days.<END>
+
+[Tidus]<NL>
+So that's how he<NL>
+met [Cid]'s sister?<END>
+
+[Rin]<NL>
+They ran off together,<NL>
+into the night.<END>
+
+[Tidus]<NL>
+Hmph. Sounds like love.<END>
+
+[Tidus]<NL>
+Wow, [Cid] must've been furious!<END>
+
+[Rin]<NL>
+Yes.<NL>
+He wouldn't talk to her after that.<END>
+
+[Rin]<NL>
+But, when [Yuna] was born,<NL>
+they made up again.<END>
+
+[Rin]<NL>
+His sister took off<NL>
+for [Home] at once.<END>
+
+[Rin]<NL>
+But then, her ship...<END>
+
+[Tidus]<NL>
+[Sin]?<END>
+
+[Rin]<NL>
+That incident turned Lord [Braska]<NL>
+down the summoner's path.<END>
+
+[Tidus]<NL>
+Everything leads back to [Sin].<END>
+
+[Rin]<NL>
+But, you'll put an end to it?<END>
+
+[Tidus]<NL>
+With a vengeance.<END>
+
+[Rin]<NL>
+I pray for your success.<END>
+
+[Rin]<NL>
+Any last minute supplies<NL>
+before the showdown?<END>
+
+[Tidus]<NL>
+You're selling stuff? Now?<END>
+
+[Rin]<NL>
+But of course.<END>
+
+[Rin]<NL>
+Once [Sin] is gone, we'll need<NL>
+to be rebuilding [Home], you see.<END>
+
+[Tidus]<NL>
+Man, your dedication is...<NL>
+really astounding.<END>
+
+[Rin]<NL>
+Ah, how is your<NL>
+progress with our language?<END>
+
+[Tidus]<NL>
+None too shabby!<END>
+
+[Tidus]<NL>
+Check this out!<END>
+
+[Tidus]<NL>
+Nice to meet you.<END>
+
+[Rin]<NL>
+Just repeating what<NL>
+I've said is not talking, now.<END>
+
+[Rin]<NL>
+But your pronunciation's quite passable.<NL>
+You've been studying, I see.<END>
+
+[Rin]<NL>
+If there's anything I can help<NL>
+you with in the future, just ask.<END>
+
+[Tidus]<NL>
+I am in your debt!<END>
+
+[Rin]<NL>
+Very good!<END>
+
+[Rin]<NL>
+You have well<NL>
+learned our tongue.<END>
+
+[Tidus]<NL>
+Easy, once you know the trick!<END>
+
+[Rin]<NL>
+To think the day would come,<NL>
+that we could talk so,<NL>
+it is joyous indeed!<END>
+
+[Tidus]<NL>
+I am happy too!<END>
+
+[Rin]<NL>
+Here, a present to<NL>
+congratulate your success!<END>
+
+[Tidus]<NL>
+Thank you!<END>
+
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+<NL>
+Those [Guado]! They will feel<NL>
+my wrath in the [blitz] sphere!<END>
+
+<NL>
+This I leave to you!<NL>
+Battle was never my forte.<END>
+
+<NL>
+I long for the sands of [Bikanel].<NL>
+Desert it may be, but there<NL>
+is no place like home!<END>
+
+<NL>
+The lord [Mika], an unsent?<NL>
+But I saw him in [Luca].<END>
+
+<NL>
+If every mouth in [Spira] sings,<NL>
+we may win this battle.<END>
+
+<NL>
+Should we not be watching<NL>
+[Sin] more closely?<END>
+
+<NL>
+You will attack [Sin] head on?<NL>
+Truly a great warrior are you!<END>
+
+<NL>
+Never have I thought of flying<NL>
+into [Sin]! Not even in dreams!<END>
+
+<NL>
+Now is the time<NL>
+to train, train!<END>
+
+<NL>
+Everyone be calm! Be calm!<NL>
+Fear is our enemy!<END>
+
+<NL>
+That was first time being<NL>
+so close to [Sin]!<END>
+
+<NL>
+Being on ship is bad for health.<NL>
+Let us kick the [blitzball]!<END>
+
+<NL>
+Soon is the final battle with [Sin]!<NL>
+How very excited I am!<END>
+
+<NL>
+This is the calm before the storm.<NL>
+Now is time to train, train!<END>
+
+<NL>
+Make this battle the last!<NL>
+We are counting on you!<END>
+
+<NL>
+When the [Calm] comes, we will play<NL>
+each day! Now we must train, train!<END>
+
+<NL>
+Forgive me for my actions in [Luca].<NL>
+We wanted to protect the [summoner], you see?<END>
+
+<NL>
+[Yevon2] found the place of our [Home].<NL>
+Perhaps we were followed?<END>
+
+<NL>
+In ancient times a temple was in [Baaj].<NL>
+Now it is a nest for [fiend] only.<NEWPAGE>
+<NL>
+There is great treasure<NL>
+in the deserted temple, they say.<NEWPAGE>
+<NL>
+But a great [fiend] lives there too,<NL>
+and guards the treasure.<END>
+
+<NL>
+My friend, he went to [Baaj] to<NL>
+explore. He told a story...<NEWPAGE>
+<NL>
+In the deserted temple there, faintly<NL>
+the Hymn of the Fayth can be heard!<NEWPAGE>
+<NL>
+Maybe it has something to do<NL>
+with the [aeons] I think.<END>
+
+<NL>
+[Baaj] is a place of mystery.<NL>
+Mystery worth exploring, no?<END>
+
+<NL>
+I have faith you will do this thing.<NL>
+I will sing, too, for I believe.<END>
+
+<NL>
+When the battle is over,<NL>
+we will play [blitz] once more!<END>
+
+<NL>
+Since childhood, I have played<NL>
+only [blitz]! It is true!<END>
+
+<NL>
+I hoped only to rest at [Home] a while<NL>
+then return to [Luca].<END>
+
+<NL>
+You are a traitor, no?<NL>
+Then you are one with the [Al Bhed]!<END>
+
+<NL>
+Both [Yunalesca] and [Mika] were dead,<NL>
+yet they clung to [Spira] tightly.<END>
+
+<NL>
+Pardon me. So scared was I that<NL>
+I began to tremble all over!<END>
+
+<NL>
+Such fear I knew before the battle!<NL>
+But the singing did calm me.<END>
+
+<NL>
+I wish the battles<NL>
+would be over...<END>
+
+<NL>
+Going inside [Sin]...<NL>
+I sang in fright and would not stop!<END>
+
+<NL>
+The [Al Bhed Psyches] all escaped harm.<NL>
+We are ready to play again!<END>
+
+<NL>
+Have care! There are [fiend]<NL>
+in all places!<END>
+
+<NL>
+I wonder, where will the<NL>
+[airship] go from here?<END>
+
+<NL>
+I want to be a top player.<NL>
+Many teams I want to try.<END>
+
+<NL>
+I do not run around in panic!<NL>
+Hope for the best, prepare for the worst!<END>
+
+<NL>
+Leave the ship to us [Al Bhed].<NL>
+Take rest while you are able.<END>
+
+<NL>
+I know it will not do to panic,<NL>
+but I do not know how to be calm!<END>
+
+<NL>
+[Rikku] and [Yuna] are<NL>
+in your hands.<END>
+
+<NL>
+We need [blitz] to cheer our people<NL>
+after the loss of [Home], you see?<END>
+
+<NL>
+I will not die in this place!<NL>
+I fear no [fiend]! Come, and I will fight!<END>
+
+<NL>
+I must train or the [airship]<NL>
+will rob me of my muscles!<END>
+
+<NL>
+The age of the temples is past.<NL>
+Now comes the age of [machina]!<END>
+
+<NL>
+Elder [Cid] has great courage!<NL>
+I must learn to be like him.<END>
+
+<NL>
+The ship rocked so much<NL>
+I felt quite funny!<END>
+
+<NL>
+When the time comes, I will fight.<NL>
+[Sin]! Here is my best shot!<END>
+
+<NL>
+How was it inside [Sin]?<NL>
+Many [fiend] there, I think.<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+<Cor 43>[Al Bhed] Compilation Sphere<Cor 41><END>
+
+<TEXT>
+Scans memory cards [']8MB[/'] [']for PlayStation[REG]2[/']<NL>
+for [Al Bhed] primers and adds them to your<NL>
+collection. Use these spheres to expand your<NL>
+[Al Bhed] vocabulary.<END>
+
+<TEXT>
+Select a slot:<NL>
+<CHOICE1>MEMORY CARD slot 1<NL>
+<CHOICE2>MEMORY CARD slot 2<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+MEMORY CARD slot 1<END>
+
+<TEXT>
+Do not remove/insert memory cards [']8MB[/']<NL>
+[']for PlayStation[REG]2[/'] or controllers.<NL>
+Do not open disc tray.<END>
+
+<TEXT>
+No memory card [']8MB[/'] [']for PlayStation[REG]2[/']<NL>
+found in MEMORY CARD slot 1!<END>
+
+<TEXT>
+No [FINAL FANTASY X] INTERNATIONAL<NL>
+saved game data found!<END>
+
+<TEXT>
+Error loading [Al Bhed] dictionary!<END>
+
+<TEXT>
+No [Al Bhed] dictionary data found!<END>
+
+<TEXT>
+[Al Bhed] dictionary successfully loaded!<END>
+
+<TEXT>
+Compile [Al Bhed] dictionary?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<TEXT>
+MEMORY CARD slot 2<END>
+
+<TEXT>
+No memory card [']8MB[/'] [']for PlayStation[REG]2[/']<NL>
+found in MEMORY CARD slot 2!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

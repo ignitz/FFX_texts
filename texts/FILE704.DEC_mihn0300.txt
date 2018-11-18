@@ -1,0 +1,543 @@
+[Tidus]<NL>
+As if I could sleep!<END>
+
+[Lulu]<NL>
+This might be the last time<NL>
+we can rest like this.<END>
+
+[Maechen]<NL>
+Mr. [Rin]'s shops are all over [Spira].<NL>
+They are quite convenient when<NL>
+you're on the road.<END>
+
+[Shelinda]<NL>
+I've heard that the proprietor,<NL>
+Mr. [Rin], is an [Al Bhed].<END>
+
+[Shelinda]<NL>
+But I was very relieved to find that<NL>
+he keeps nothing sacrilegious here.<END>
+
+<NL>
+<Cor A1>Pardon me.<END>
+
+[Tidus]<NL>
+Sorry?<END>
+
+<NL>
+Ah, forgive me, sir.<END>
+
+<NL>
+I meant to say "pardon me,"<NL>
+but it came out in [Al Bhed].<END>
+
+[Tidus]<NL>
+Oh, you're an [Al Bhed]?<END>
+
+<NL>
+I am [Rin],<NL>
+owner of this establishment.<END>
+
+[Rin]<NL>
+<Cor A1>Nice to meet you.<END>
+
+[Rin]<NL>
+It means, "nice to meet you."<END>
+
+[Tidus]<NL>
+Well <Cor A1>helly doo sad wee<Cor 41> to you, too.<END>
+
+[Rin]<NL>
+If you are interested...<END>
+
+[Rin]<NL>
+[Al Bhed] primers can be found<NL>
+all over [Spira].<END>
+
+[Rin]<NL>
+Finding them and learning<NL>
+our language might be fun.<END>
+
+[Rin]<NL>
+Here, let me give you one in<NL>
+commemoration of our meeting.<END>
+
+[Rin]<NL>
+Although you might want to be careful<NL>
+where you speak our language.<END>
+
+[Tidus]<NL>
+Yeah, I hear [Al Bhed] aren't<NL>
+liked much. Oh, sorry!<END>
+
+[Rin]<NL>
+<Cor A1>It is a shame.<END>
+
+<NL>
+Someone, help! The chocobos!<END>
+
+[Auron]<NL>
+That's our cue, let's go.<END>
+
+[Rin]<NL>
+Thank you for your help.<NL>
+Please, use this.<END>
+
+<NL>
+          <END>
+
+[Rin]<NL>
+It is a ferocious beast.<NL>
+Be prepared!<END>
+
+[Rin]<NL>
+We appreciate this thing you have done.<END>
+
+[Rin]<NL>
+Thank you.<END>
+
+[Rin]<NL>
+It means "I thank you."<END>
+
+[Rin]<NL>
+There are branches of my<NL>
+travel agency all over [Spira].<END>
+
+[Rin]<NL>
+Your patronage is always welcome.<END>
+
+<NL>
+You guys already<NL>
+got a room, right?<END>
+
+<NL>
+There are so many things I want,<NL>
+I can't decide what to get.<END>
+
+<NL>
+Say... Will you buy something for me?<END>
+
+<NL>
+I'm just kidding.<END>
+
+<NL>
+Yeah, I'm kidding.<END>
+
+<NL>
+Buy it yourself.<NL>
+I'm not your mom.<END>
+
+<NL>
+Man, I'm beat. I woke<NL>
+up early for nothing.<END>
+
+<NL>
+I left early this morning only to find<NL>
+the end of the Highroad closed to traffic.<NEWPAGE>
+<NL>
+So I had to turn back.<NL>
+What a waste of time.<END>
+
+<NL>
+Oh, you didn't know? The [Crusader]s<NL>
+have sealed off the Highroad.<END>
+
+<NL>
+Is it true? Th-There's a fiend outside!?<NL>
+No way! I'm staying right here!<END>
+
+<NL>
+What are you standing around for?<NL>
+Go take care of it!<END>
+
+<NL>
+Welcome to [Rin]'s Travel Agency.<END>
+
+<NL>
+Would you care to rest?<END>
+
+<NL>
+Welcome to [Rin]'s Travel Agency.<END>
+
+<NL>
+Do you wish to make a purchase?<END>
+
+<NL>
+A fellow [Crusader] and I promised<NL>
+to meet here after the operation and<NL>
+have some drinks.<END>
+
+<NL>
+That guy always keeps his promises.<NL>
+I'm not leaving here until he comes.<END>
+
+<NL>
+I know what happened to his friend,<NL>
+but I...I just can't tell him.<END>
+
+<NL>
+I'm sure we'll see our fellow<NL>
+Crusaders if we wait here.<NEWPAGE>
+<NL>
+We can't depend on the temple,<NL>
+so I guess it's all on us.<END>
+
+<NL>
+We owe the [Al Bhed2] so much for all<NL>
+their help. I'd like to repay them someday.<END>
+
+<NL>
+We've mustered a lot of men. They<NL>
+just keep coming. Soon we'll be able<NL>
+to restore the [Crusader]s!<END>
+
+<NL>
+Once we have enough men, we're gonna<NL>
+head north, taking care of the fiends<NL>
+along the way.<NEWPAGE>
+<NL>
+And when we reach [Bevelle],<NL>
+we're gonna challenge [Sin] again.<END>
+
+<TEXT>
+<CHOICE1>Buy something for her.<NL>
+<CHOICE2>You've gotta be kidding.<NL>
+<CHOICE3>No, you buy me something.<END>
+
+<NL>
+I thought I'd quit the [Crusader]s for<NL>
+good, but singing the Hymn changed<NL>
+my mind.<NEWPAGE>
+<NL>
+I can't just sit around while those<NL>
+guys on the flying ship are risking<NL>
+their lives fighting [Sin]!<END>
+
+<NL>
+I will fight as a [Crusader]<NL>
+even if my family objects.<END>
+
+<NL>
+I told them I could fight, but<NL>
+they said to get off the ship.<NEWPAGE>
+<NL>
+[Cid] has become quite the fox<NL>
+treating me like an old man.<END>
+
+<NL>
+[Rin] is up there, so he'll<NL>
+keep an eye on [Cid].<END>
+
+<NL>
+I never thought I would teach [Al Bhed]<NL>
+to the people of [Yevon2].<NEWPAGE>
+<NL>
+These are strange times.<END>
+
+<NL>
+You're a guardian, right?<NL>
+I think this'll help.<END>
+
+<NL>
+The sphere monitor will teach you how to<NL>
+use it. Have you read the instructions yet?<END>
+
+<TEXT>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<NL>
+Then you should be okay.<END>
+
+<NL>
+In that case, you should view the sphere<NL>
+monitor there and find out how to use it.<END>
+
+<TEXT>
+<CHOICE1>Rest.<NL>
+<CHOICE2>No.<END>
+
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+<TEXT>
+<CHOICE1>Got any weapons?<NL>
+<CHOICE2>Got any items?<NL>
+<CHOICE3>Leave.<END>
+
+<NL>
+There are various books.<NL>
+Many are written in [Al Bhed].<END>
+
+<NL>
+Weapons, armor, and food are sold here.<NEWPAGE>
+<NL>
+Purchase at the counter.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. VIII!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>R<Cor 41> [RIGHT] <Cor 97>H<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<TEXT>
+<Cor 43>[Al Bhed] Compilation Sphere<Cor 41><END>
+
+<TEXT>
+Scans memory cards [']8MB[/'] [']for PlayStation[REG]2[/']<NL>
+for [Al Bhed] primers and adds them to your<NL>
+collection. Use these spheres to expand your<NL>
+[Al Bhed] vocabulary.<END>
+
+<TEXT>
+Select a slot:<NL>
+<CHOICE1>MEMORY CARD slot 1<NL>
+<CHOICE2>MEMORY CARD slot 2<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+MEMORY CARD slot 1<END>
+
+<TEXT>
+Do not remove/insert memory cards [']8MB[/']<NL>
+[']for PlayStation[REG]2[/'] or controllers.<NL>
+Do not open disc tray.<END>
+
+<TEXT>
+No memory card [']8MB[/'] [']for PlayStation[REG]2[/']<NL>
+found in MEMORY CARD slot 1!<END>
+
+<TEXT>
+No [FINAL FANTASY X] INTERNATIONAL<NL>
+saved game data found!<END>
+
+<TEXT>
+Error loading [Al Bhed] dictionary!<END>
+
+<TEXT>
+No [Al Bhed] dictionary data found!<END>
+
+<TEXT>
+[Al Bhed] dictionary successfully loaded!<END>
+
+<TEXT>
+Compile [Al Bhed] dictionary?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+MEMORY CARD slot 2<END>
+
+<TEXT>
+No memory card [']8MB[/'] [']for PlayStation[REG]2[/']<NL>
+found in MEMORY CARD slot 2!<END>
+
+<END>
+
+<END>
+
+<END>
+

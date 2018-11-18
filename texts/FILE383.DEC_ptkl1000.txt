@@ -1,0 +1,130 @@
+[Tidus]<NL>
+Uh, what's a "sending"?<NL>
+Are we going somewhere?<END>
+
+[Lulu]<NL>
+You truly are clueless.<NL>
+Are you sure it's just your<NL>
+memory that's the problem?<END>
+
+[Lulu]<NL>
+The dead need guidance.<END>
+
+[Lulu]<NL>
+Filled with grief over<NL>
+their own death, they<NL>
+refuse to face their fate.<END>
+
+[Lulu]<NL>
+They yearn to live on, and<NL>
+resent those still alive.<END>
+
+[Lulu]<NL>
+You see, they envy the living.<END>
+
+[Lulu]<NL>
+And in time, that envy<NL>
+turns to anger, even hate.<END>
+
+[Lulu]<NL>
+Should these souls remain in<NL>
+[Spira], they become fiends<NL>
+that prey on the living.<END>
+
+[Lulu]<NL>
+Sad, isn't it?<END>
+
+[Lulu]<NL>
+The sending takes them to<NL>
+the [Farplane], where they<NL>
+may rest in peace.<END>
+
+[Tidus]<NL>
+Summoners do this?<END>
+
+[Tidus]<NL>
+It must be tough,<NL>
+being a summoner.<END>
+
+[Lulu]<NL>
+[Yuna] chose her own path. She knew<NL>
+from the beginning what it meant.<END>
+
+[Lulu]<NL>
+All we can do is protect<NL>
+her along the way.<END>
+
+[Lulu]<NL>
+Until the end.<END>
+
+[Tidus]<NL>
+Until the...end?<END>
+
+[Tidus]<NL>
+What's the end?<END>
+
+[Lulu]<NL>
+Until she defeats [Sin].<END>
+
+[Yuna]<NL>
+I hope...<NL>
+I hope I did okay.<END>
+
+[Lulu]<NL>
+You did very well!<END>
+
+[Lulu]<NL>
+They've reached the [Farplane] by now.<NL>
+But...no tears next time, hm?<END>
+
+<NL>
+I wished there would<NL>
+never be a next time.<END>
+
+<NL>
+No more people being killed by [Sin].<NL>
+No more sendings for [Yuna].<END>
+
+<NL>
+Everyone stood there watching her.<END>
+
+<NL>
+It was strange, and somehow...horrifying.<END>
+
+<NL>
+I never wanted to see it again.<END>
+
+<NL>
+"Youth,<NL>
+tread quietly upon the ground."<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

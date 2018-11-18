@@ -1,0 +1,1075 @@
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+<NL>
+We have been expecting you, Lady [Yuna].<NL>
+Welcome to [Guadosalam].<END>
+
+<NL>
+This way, my lady. This way.<END>
+
+[Wakka]<NL>
+Whoa, whoa, whoa!<END>
+
+<NL>
+Oh, I beg your pardon.<NL>
+I am called [Tromell Guado].<END>
+
+[Tromell]<NL>
+I am in the direct service<NL>
+of our leader, the great<NL>
+[Seymor] [Guado].<END>
+
+[Tromell]<NL>
+Lord [Seymor] has<NL>
+very important business<NL>
+with Lady [Yuna].<END>
+
+[Yuna]<NL>
+Business with me?<NL>
+Whatever could it be, I wonder?<END>
+
+[Tromell]<NL>
+Please, come inside<NL>
+the manor. All will<NL>
+be explained.<END>
+
+[Tromell]<NL>
+Of course, your<NL>
+friends are also<NL>
+welcome.<END>
+
+[Rikku]<NL>
+Twist our arms, why don't ya?<END>
+
+[Rikku]<NL>
+Ah, I almost forgot!<END>
+
+[Rikku]<NL>
+What would you do without me?<END>
+
+<TEXT>
+<Cor 43>Customizing Equipment<END>
+
+<TEXT>
+Now that [Rikku] has joined the party,<NL>
+you can <Cor 43>customize<Cor 41> weapons and armor.<NL>
+Let's take a look!<END>
+
+[Lulu]<NL>
+[Yuna], the high summoner's daughter.<NL>
+[Seymor], the leader of the [Guado].<END>
+
+[Lulu]<NL>
+Married in the name of [Yevon2],<NL>
+overcoming the barriers of race.<END>
+
+[Lulu]<NL>
+It would give [Spira] something<NL>
+cheery to talk about, for a change.<END>
+
+[Wakka]<NL>
+Sounds just like a passin' daydream,<NL>
+like [Auron] says.<END>
+
+[Tidus]<NL>
+Come on, let's just<NL>
+get on with the pilgrimage!<END>
+
+[Tidus]<NL>
+I mean, marriage?<END>
+
+[Rikku]<NL>
+Hmmm. Jealous?<END>
+
+[Tidus]<NL>
+What? No way!<END>
+
+[Tidus]<NL>
+We gotta defeat [Sin].<NL>
+Romance can wait!<END>
+
+[Wakka]<NL>
+He sure picked a fine time<NL>
+to lay this one on us.<END>
+
+[Yuna]<NL>
+Maybe it is a fine time.<END>
+
+[Tidus]<NL>
+You serious?<END>
+
+[Yuna]<NL>
+If my getting married<NL>
+would help [Spira]...<END>
+
+[Yuna]<NL>
+if it would make people happy...<END>
+
+[Yuna]<NL>
+If I could do that for people...<NL>
+maybe I should do what I can.<END>
+
+[Yuna]<NL>
+I never imagined doing<NL>
+anything like this.<END>
+
+[Yuna]<NL>
+But, I won't answer till<NL>
+I know what's right.<END>
+
+[Tidus]<NL>
+Seriously?<END>
+
+[Rikku]<NL>
+You could always just quit<NL>
+your pilgrimage and get married.<END>
+
+[Yuna]<NL>
+I will...go on.<END>
+
+[Yuna]<NL>
+I'm sure that Lord [Seymor]<NL>
+will understand.<END>
+
+[Rikku]<NL>
+Umm, I guess so...<END>
+
+[Yuna]<NL>
+I am a summoner!<END>
+
+[Yuna]<NL>
+I must fight and defeat [Sin].<END>
+
+[Auron]<NL>
+Like [Braska] before you.<END>
+
+<NL>
+I had to stop myself from shouting:<END>
+
+<NL>
+What's there to think about?<END>
+
+[Yuna]<NL>
+I'm going to the <Cor 88>[Farplane]<Cor 41>.<END>
+
+[Yuna]<NL>
+I'm going to see my father<NL>
+and think on this.<END>
+
+[Lulu]<NL>
+Go on, we'll be<NL>
+right behind you.<END>
+
+<NL>
+I wondered why none of the others<NL>
+ever asked [Yuna].<END>
+
+<NL>
+Do you love [Seymor]?<NL>
+Do you even like him?<END>
+
+[Yuna]<NL>
+I will go...<NL>
+meet with Maester [Seymor].<END>
+
+<TEXT>
+[Auron]<NL>
+<TEXT>
+[Yuna]!<END>
+
+[Auron]<NL>
+[Jyscal] is the [Guado]'s<NL>
+problem, not yours.<END>
+
+<TEXT>
+[Tidus]<NL>
+<TEXT>
+Umm...<END>
+
+<TEXT>
+[Lulu]<NL>
+<TEXT>
+What?<END>
+
+[Tidus]<NL>
+So, [Lulu], what do you think<NL>
+about [Yuna] getting married?<END>
+
+[Lulu]<NL>
+As long as the pilgrimage<NL>
+continues, either way's fine.<END>
+
+[Tidus]<NL>
+That's it?<END>
+
+[Tidus]<NL>
+What if she doesn't even<NL>
+like the guy? Is that okay?<END>
+
+[Lulu]<NL>
+People marry for many reasons.<END>
+
+[Tidus]<NL>
+What's that mean?<END>
+
+[Lulu]<NL>
+Sometimes marriage doesn't<NL>
+require love, you know?<END>
+
+[Lulu]<NL>
+Defeat [Sin], and bring joy<NL>
+to the people of [Spira].<END>
+
+[Lulu]<NL>
+Get married, and bring joy<NL>
+to the people of [Spira].<END>
+
+[Lulu]<NL>
+For [Yuna], they're just<NL>
+two ways down the same road.<END>
+
+[Lulu]<NL>
+All you need is determination.<END>
+
+[Lulu]<NL>
+If you have that, you don't need love.<END>
+
+[Tidus]<NL>
+I don't know...<END>
+
+[Tidus]<NL>
+I just don't get it.<END>
+
+[Rikku]<NL>
+Wait up, I'll go with ya!<END>
+
+[Rikku]<NL>
+[Yunie]'s not getting<NL>
+married, is she?<END>
+
+[Tidus]<NL>
+Seems that way.<END>
+
+[Rikku]<NL>
+It's your big chance, huh?<END>
+
+<TEXT>
+<CHOICE1>I don't care.<NL>
+<CHOICE2>I guess you're right.<NL>
+<CHOICE3>I'd rather have you, [Rikku].<END>
+
+[Rikku]<NL>
+That's no thing to say!<END>
+
+[Rikku]<NL>
+I think she should get married<NL>
+and stop being a summoner.<END>
+
+[Tidus]<NL>
+You serious?<END>
+
+<TEXT>
+[Rikku]<NL>
+<TEXT>
+Yeah.<END>
+
+[Tidus]<NL>
+Why?<END>
+
+[Rikku]<NL>
+Because it's tough, you know?<END>
+
+[Rikku]<NL>
+In the end, she has to fight [Sin].<END>
+
+[Tidus]<NL>
+Yeah, but she...<END>
+
+[Tidus]<NL>
+She would never marry<NL>
+someone who wanted her to quit.<END>
+
+[Rikku]<NL>
+I guess you're right.<NL>
+Too bad.<END>
+
+[Rikku]<NL>
+That's the way to go!<END>
+
+[Rikku]<NL>
+Then, you could take her away<NL>
+and live a quiet life somewhere.<END>
+
+[Rikku]<NL>
+Yeah, sounds good to me!<END>
+
+<TEXT>
+[Rikku]<NL>
+<TEXT>
+Oh!<END>
+
+<TEXT>
+[Rikku]<NL>
+<TEXT>
+H-Honest?<END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<TEXT>
+[Rikku]<NL>
+<TEXT>
+See ya!<END>
+
+[Rikku]<NL>
+Maybe someday<Cor 97>!<END>
+
+[Lulu]<NL>
+Listen.<END>
+
+[Lulu]<NL>
+If [Yuna] gets married, then I...<END>
+
+[Tidus]<NL>
+What? That again?<END>
+
+<TEXT>
+[Lulu]<NL>
+<TEXT>
+Yes.<END>
+
+[Lulu]<NL>
+If she is to marry, I would<NL>
+want her to marry for love.<END>
+
+[Tidus]<NL>
+See?<END>
+
+[Lulu]<NL>
+But...<END>
+
+[Lulu]<NL>
+If [Yuna] said she<NL>
+wanted to marry the one she loves,<END>
+
+[Lulu]<NL>
+I would have to object.<END>
+
+<TEXT>
+[Tidus]<NL>
+Huh?<END>
+
+[Tidus]<NL>
+Uh... You're not making much sense.<END>
+
+[Lulu]<NL>
+I know.<END>
+
+<TEXT>
+[Tidus]<NL>
+<TEXT>
+[Lulu]...<END>
+
+[Lulu]<NL>
+I've talked enough about that.<END>
+
+<TEXT>
+[Tidus]<NL>
+<TEXT>
+What?<END>
+
+[Lulu]<NL>
+I'm sorry, just forget about it.<END>
+
+[Tidus]<NL>
+Geez! Grumpy!<END>
+
+[Lulu]<NL>
+You'll understand one of these days.<END>
+
+[Lulu]<NL>
+I just don't want to give it words.<NL>
+Not yet.<END>
+
+[Lulu]<NL>
+I shouldn't have to say this,<NL>
+but don't fall in love with her. <END>
+
+<TEXT>
+<CHOICE1>Okay.<NL>
+<CHOICE2>Too late.<NL>
+<CHOICE3>You're more my type, [Lulu].<END>
+
+[Lulu]<NL>
+That's fine, then.<END>
+
+[Lulu]<NL>
+I see.<END>
+
+[Lulu]<NL>
+But...<END>
+
+[Lulu]<NL>
+You must keep your feelings inside,<NL>
+until the pilgrimage is over.<END>
+
+[Lulu]<NL>
+Interesting.<END>
+
+[Lulu]<NL>
+I suppose I could add you to my list.<END>
+
+[Lulu]<NL>
+I wish you good luck, little boy.<NL>
+You're going to need it.<END>
+
+[Rikku]<NL>
+Say, you ever think<NL>
+about gettin' married?<END>
+
+[Tidus]<NL>
+Me? No, never.<END>
+
+[Rikku]<NL>
+I think about it a lot.<END>
+
+[Tidus]<NL>
+Aren't you a little young?<END>
+
+[Rikku]<NL>
+Some people marry really<NL>
+young in [Spira], you know.<END>
+
+[Tidus]<NL>
+You mean people our age<NL>
+get married?<END>
+
+<TEXT>
+[Rikku]<NL>
+<TEXT>
+Yeah.<END>
+
+[Rikku]<NL>
+Fiends are around,<NL>
+and there's always [Sin], right?<END>
+
+[Rikku]<NL>
+One of them might<NL>
+get you, you know?<END>
+
+[Rikku]<NL>
+Lots of people marry the first person<NL>
+they fall in love with, just like that!<END>
+
+[Tidus]<NL>
+Really?<END>
+
+[Rikku]<NL>
+I'll probably be the same way.<END>
+
+[Rikku]<NL>
+You an only child?<END>
+
+<TEXT>
+[Tidus]<NL>
+<TEXT>
+Yeah.<END>
+
+[Rikku]<NL>
+I got an older brother, myself.<END>
+
+[Tidus]<NL>
+Huh.<END>
+
+[Rikku]<NL>
+I wish I had some younger<NL>
+brothers and sisters, though...<END>
+
+[Tidus]<NL>
+So ask your parents.<END>
+
+[Rikku]<NL>
+Mom died...<NL>
+A machina went on a rampage...<END>
+
+[Tidus]<NL>
+I'm sorry.<END>
+
+[Rikku]<NL>
+When I get married,<NL>
+I'm gonna have lots of kids!<END>
+
+[Rikku]<NL>
+That way they'll all<NL>
+have brothers and sisters!<END>
+
+[Rikku]<NL>
+What?<END>
+
+[Tidus]<NL>
+You're really thinking about your<NL>
+future, aren't you? That's great.<END>
+
+[Rikku]<NL>
+It's pretty normal, I think.<END>
+
+[Rikku]<NL>
+Hey, maybe [Yuna]'s back!<END>
+
+[Wakka]<NL>
+For a while there, I was a little worried<NL>
+about what was gonna happen, ya?<END>
+
+[Lulu]<NL>
+I'm a little worried about Lord [Jyscal].<END>
+
+[Lulu]<NL>
+I wonder if Maester<NL>
+[Seymor] has heard.<END>
+
+[Lulu]<NL>
+Leave the [Guado]'s problems<NL>
+to the [Guado]...they say.<END>
+
+[Kimahri]<NL>
+[Guado] potions good.<NL>
+Buy some before leaving.<END>
+
+[Rikku]<NL>
+When we leave here, we have to go<NL>
+through the <Cor 88>[Thunder Plains]<Cor 41> next, you know.<END>
+
+[Rikku]<NL>
+I can't stand thunder!<END>
+
+[Auron]<NL>
+We leave as soon as [Yuna] returns.<NL>
+I trust you'll be ready.<END>
+
+<TEXT>
+[Shelinda]<NL>
+<TEXT>
+My...<END>
+
+[Shelinda]<NL>
+Was the lady summoner<NL>
+not with you?<END>
+
+[Tidus]<NL>
+No. She's at [Seymor]'s place.<END>
+
+[Shelinda]<NL>
+That's "Maester [Seymor]."<NL>
+Or "Lord [Seymor]."<END>
+
+[Tidus]<NL>
+Oh, I'll be careful. Sorry.<END>
+
+[Shelinda]<NL>
+That's all right.<END>
+
+[Shelinda]<NL>
+Maester [Seymor] left<NL>
+[Guadosalam] a short while ago.<END>
+
+[Tidus]<NL>
+You serious?<END>
+
+[Shelinda]<NL>
+I believe he went<NL>
+to the temple in <Cor 88>Macalania<Cor 41>.<END>
+
+[Shelinda]<NL>
+Maester [Seymor]<NL>
+is also the high priest of that temple.<END>
+
+[Tidus]<NL>
+Whoa, I gotta tell the others!<END>
+
+[Shelinda]<NL>
+Please, tell the lady [Yuna] that<NL>
+I am doing just as she advised me!<END>
+
+[Shelinda]<NL>
+I, too, will go to the temple<NL>
+in Macalania shortly.<END>
+
+[Tidus]<NL>
+They say [Seymor] went<NL>
+to Macarena Temple.<END>
+
+[Wakka]<NL>
+[Macalania Temple].<END>
+
+[Tidus]<NL>
+Aye.<END>
+
+[Wakka]<NL>
+What I don't get is...<END>
+
+[Wakka]<NL>
+Why would the lord maester<NL>
+head off without a peep to anyone?<END>
+
+[Rikku]<NL>
+Maybe he wasn't expecting<NL>
+[Yuna]'s answer so soon.<END>
+
+[Wakka]<NL>
+Ah, that's probably it.<END>
+
+[Auron]<NL>
+[Yuna], what is it?<END>
+
+[Yuna]<NL>
+Oh, nothing.<END>
+
+[Auron]<NL>
+Hmm... You're a poor liar.<END>
+
+[Yuna]<NL>
+It's true. It's nothing!<END>
+
+[Yuna]<NL>
+Come on, let's go.<END>
+
+[Tromell]<NL>
+Why are you in [Guadosalam]?<NL>
+What business have you here?<END>
+
+[Tidus]<NL>
+You wanna start something?<END>
+
+[Tromell]<NL>
+If it would please you<NL>
+to harm a defenseless old man...<END>
+
+[Tromell]<NL>
+then burn me, boil me, it matters not.<END>
+
+[Tromell]<NL>
+Lord [Seymor] is gone.<NL>
+No lord rises to take his place.<END>
+
+[Tromell]<NL>
+The [Guado] merely wait for<NL>
+[Sin] to come and finish us off.<END>
+
+[Tromell]<NL>
+Why should I care what you do to me?<END>
+
+[Tromell]<NL>
+If it meant rejoining Lord [Jyscal]<NL>
+and Lord [Seymor]...<END>
+
+[Tromell]<NL>
+then your taking off my head<NL>
+would be the greatest kindness.<END>
+
+[Tromell]<NL>
+Come to kill the old man?<NL>
+I welcome it!<END>
+
+[Tromell]<NL>
+Or are you here to laugh?<NL>
+Laugh at the fallen [Guado]?<END>
+
+<NL>
+A ferocious storm is ripping through<NL>
+the Thunder Plains. Please, remain inside.<END>
+
+<NL>
+Lord [Seymor] awaits at<NL>
+[Macalania Temple]. Please, make haste.<END>
+
+<NL>
+None may enter this lordless manor.<END>
+
+<NL>
+It is to remain sealed until a new<NL>
+lord is chosen to lead the [Guado2].<END>
+
+<NL>
+Present yourself to Lord [Seymor]<NL>
+before approaching the [Farplane].<END>
+
+<NL>
+A guardian abandoning his summoner?<NL>
+Most unbecoming.<END>
+
+<NL>
+Remember, the [Farplane] is sacrosanct.<NL>
+Proper conduct, please.<END>
+
+<NL>
+Please refrain from speaking<NL>
+of Lord [Jyscal].<NEWPAGE>
+<NL>
+We must avoid unseemly rumors<NL>
+for the sake of [Spira]'s harmony.<END>
+
+<NL>
+Please, leave the matter of<NL>
+Lord [Jyscal] to us [Guado].<END>
+
+<NL>
+We have no intention of fighting you,<NL>
+for we know that we cannot win.<END>
+
+<NL>
+Many brave [Guado] have given their lives.<NL>
+Now, only a handful remain.<END>
+
+<NL>
+Although we [Guado] differ from<NL>
+humans in appearance, our respect<NL>
+for the dead is the same.<END>
+
+<NL>
+People come to [Guadosalam] from every corner<NL>
+of [Spira] to see their loved ones again.<END>
+
+<NL>
+Why Lord [Jyscal]?<NL>
+We gave him such a warm sending.<END>
+
+<NL>
+This is most disturbing. We must<NL>
+inform Lord [Seymor] at once.<END>
+
+<NL>
+We know not what has befallen<NL>
+Lord [Jyscal]...<NEWPAGE>
+<NL>
+But Lord [Seymor] will soon shed<NL>
+light upon this matter.<END>
+
+<NL>
+We are simply obeying<NL>
+Lord [Seymor]'s orders.<END>
+
+<NL>
+Many a Guado met an untimely death<NL>
+in the name of Lord [Seymor].<NEWPAGE>
+<NL>
+With most of our youth dead now, the<NL>
+future of the [Guado] appears grim indeed.<END>
+
+<NL>
+Living with the [Farplane] as we do,<NL>
+we [Guado] live with death every day.<NEWPAGE>
+<NL>
+We are prepared to face our own<NL>
+deaths at [Sin]'s hand.<END>
+
+<NL>
+[Sin] embodies death's sheer force.<NL>
+After all, no man can stop the inevitable.<END>
+
+<NL>
+I suppose you think we look...<NL>
+odd, don't you?<NEWPAGE>
+<NL>
+That's fine. We [Guado] are<NL>
+used to that sort of thing.<END>
+
+<NL>
+But if you ask me, you humans<NL>
+look absolutely disgusting.<NEWPAGE>
+<NL>
+Still, what does it matter?<NL>
+Such nonsense is beneath us, no?<END>
+
+<NL>
+Once, a human child simply looked at me<NL>
+and then burst into tears. That hurt.<END>
+
+<NL>
+Is Lord [Seymor] really going to marry?<NL>
+Aww...<END>
+
+<NL>
+One of my friends patrols the roads.<NL>
+If you meet him, please say hello for me!<END>
+
+<NL>
+We lost so many in<NL>
+the recent struggles...<END>
+
+<NL>
+My best friend walks the [Farplane].<NL>
+I...I can't go on like this.<END>
+
+<NL>
+I want to go to him...<NL>
+To see him on the [Farplane].<END>
+
+<NL>
+Humans! Humans!<NL>
+A summoner and her guardians!<END>
+
+<NL>
+Wait, I know.<NL>
+Keeheehee.<END>
+
+<NL>
+Lord [Jyscal] came back!<NL>
+Don't you find it intriguing?<END>
+
+<NL>
+Maybe Lord [Seymor] knows why!<NL>
+After all, he is of Lord [Jyscal]'s blood.<END>
+
+<NL>
+Don't you need to catch up<NL>
+with Lord [Seymor]?<END>
+
+<NL>
+Must keep quiet about Lord [Jyscal].<NL>
+A grownup said so.<END>
+
+<NL>
+Keeheehee!<END>
+
+<NL>
+Everyone will die.<NL>
+[Guado], humans, [Ronso], and [Al Bhed]!<NEWPAGE>
+<NL>
+Only [Sin] will remain,<NL>
+forever!<END>
+
+<NL>
+Once everyone in [Spira]'s dead,<NL>
+it'll get real stuffy on the [Farplane].<END>
+
+<NL>
+Keeheehee!<END>
+
+<NL>
+We [Guado] protect the [Farplane]<NL>
+so the dead can rest in peace.<END>
+
+<NL>
+I beg you, please tell no one<NL>
+about Lord [Jyscal].<NEWPAGE>
+<NL>
+Why, if word leaked out that the lord of<NL>
+the [Guado] and a maester of [Yevon2] wandered<NL>
+from the [Farplane]...<NEWPAGE>
+<NL>
+we [Guado2] would become the laughingstock<NL>
+of all [Spira]! Yevon have mercy upon us.<END>
+
+<NL>
+We [Guado2] will solve our own problems.<NL>
+Please understand.<END>
+
+<NL>
+The [Guado2] are deeply saddened<NL>
+by the loss of so many of our own.<NEWPAGE>
+<NL>
+If only I could restore their cheer<NL>
+through [blitzball].<END>
+
+<NL>
+No [Guado2] has the strength<NL>
+to weave dark conspiracies any more.<END>
+
+<NL>
+Since embracing [Yevon2], we [Guado2]<NL>
+have learned the joy that is [blitzball].<END>
+
+<NL>
+I hope that the people of [Spira]<NL>
+will find peace through [blitz]ball.<END>
+
+<NL>
+I want to congratulate Lord [Seymor] on his<NL>
+marriage by blitzing like nobody's blitzed before.<END>
+
+<NL>
+[Guadosalam] is a natural stronghold.<NL>
+No fiends will find their way in here.<END>
+
+<NL>
+Lord [Seymor]'s aeon destroyed the<NL>
+fiends that appeared in [Luca Stadium].<NEWPAGE>
+<NL>
+That display of Lord [Seymor]'s<NL>
+raw power struck me speechless.<NEWPAGE>
+<NL>
+But it was all a show.<NL>
+I feel so...<END>
+
+<NL>
+I'm sorry.<NL>
+I cannot put it into words.<END>
+
+<NL>
+It's called endurance training.<NL>
+Stay out of my way.<END>
+
+<NL>
+What do you want?<NL>
+I'll face you in the sphere pool soon enough.<END>
+
+<NL>
+[Luca]'s tournament was completely<NL>
+upstaged by [Seymor]'s aeon.<NEWPAGE>
+<NL>
+And by showing support for the excommunicated<NL>
+Crusaders, [Seymor]'s popularity is growing fast.<END>
+
+<NL>
+First a tribe, then a temple, and now...a bride.<NL>
+Everything just falls into [Seymor]'s lap.<END>
+
+<NL>
+Now that [Seymor] is dead, no one<NL>
+knows who will rise to take his place.<NEWPAGE>
+<NL>
+That means that I still have a chance.<END>
+
+<NL>
+Once I lead the [Guado Glories] to victory,<NL>
+I will become the next lord here.<NEWPAGE>
+<NL>
+Until then, the [Farplane] cannot have me!<NL>
+Whatever it takes, I will live to see that day.<END>
+
+<NL>
+No one will lord over the [Guado] but me!<NL>
+Mwahahaha.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

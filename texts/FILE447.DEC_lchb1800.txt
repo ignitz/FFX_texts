@@ -1,0 +1,983 @@
+<NL>
+<END>
+
+<NL>
+Is it true that the temple and<NL>
+the Al Bhed have joined forces<NL>
+to fight Sin using a flying ship?<END>
+
+<NL>
+I'm glad the Crusaders are in high<NL>
+spirits, but I'm just worried they'll<NL>
+come up with another reckless plan.<END>
+
+<NL>
+During the battle, we could hear the<NL>
+roaring of the guns all the way to Luca...<END>
+
+<NL>
+We gave up serving the temple.<NL>
+It wasn't our choice.<END>
+
+<NL>
+I just want to sell off this sweaty armor,<NL>
+and start a new life here in Luca.<END>
+
+<NL>
+Having that airship would make travelling<NL>
+between Luca and Kilika a lot easier...<END>
+
+<NL>
+We can finally make it back to Kilika,<NL>
+now that the ferries are running again.<END>
+
+<NL>
+I just wish the summoners<NL>
+would end this, already.<END>
+
+<NL>
+Sin hasn't attacked lately.<NL>
+That's making me even more nervous.<END>
+
+<NL>
+I knew the Crusaders wouldn't win.<END>
+
+<NL>
+The [Crusader]s are blustering on about<NL>
+destroying [Sin], but, heh... I doubt they will.<END>
+
+<NL>
+I hear there's going to be another blitz<NL>
+tournament, to commemorate the Calm!<NEWPAGE>
+<NL>
+If I reserve a bunch of tickets now,<NL>
+I can make a killing!<END>
+
+<NL>
+Say, you're that blitzer, right?<NL>
+I expect great things from you<NL>
+at the next tournament!<END>
+
+<NL>
+The city of Luca keeps on blitzin', even<NL>
+with all the turmoil goin' on these days.<NEWPAGE>
+<NL>
+Even the faltering of the Yevon temple<NL>
+won't change that.<END>
+
+<NL>
+Even if Sin were to attack today,<NL>
+the people of Luca would probably be<NL>
+more interested in tomorrow's match.<END>
+
+<NL>
+The warrior monks want it all!<NL>
+They're asking for VIP seats in the stadium now.<NEWPAGE>
+<NL>
+Who do they think they are, anyway?<END>
+
+<NL>
+The warrior monks better watch their<NL>
+step. What goes around comes around!<END>
+
+<NL>
+Fiend attack? So what!<NL>
+Big deal.<END>
+
+<NL>
+Everyone'll soon forget about it and<NL>
+occupy themselves with blitzball.<END>
+
+<NL>
+Can't wait till next year's tournament.<END>
+
+<NL>
+Tch! Everyone went to go<NL>
+see the opening ceremony.<END>
+
+<NL>
+Hey, ain't ya a blitzer?<NL>
+What are ya doin' walkin' around?<END>
+
+<NL>
+What happened to that young lady<NL>
+you were with?<END>
+
+<NL>
+Heh. She dumped ya, eh?<NL>
+Don't let it get ya down.<END>
+
+<NL>
+Hey, kiddo, got an extra ticket?<NL>
+I'll buy it off you!<END>
+
+<NL>
+Or how about I sell ya front row tickets<NL>
+for you and the young lady?<END>
+
+<NL>
+Huh? You're a blitzer, ain'tcha?<NL>
+Guess ya don't need tickets.<END>
+
+<NL>
+Get your front row tickets here!<NL>
+Sell your unwanted tickets here!<END>
+
+<NL>
+I am reporting to you live,<NL>
+from outside Luca Stadium.<END>
+
+<NL>
+The excitement here has reached<NL>
+a feverish pitch as the opening<NL>
+ceremony gets under way... H-Hey!<END>
+
+<NL>
+I'm in the middle of a broadcast!<NL>
+Leave me alone!<END>
+
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+<NL>
+Many have disdained and shunned the<NL>
+Al Bhed and their machina for years, but...<END>
+
+<NL>
+As I speak, a flying ship, apparently<NL>
+one of those very machina, has<NL>
+cornered Sin in its tracks.<END>
+
+<NL>
+It may be time for the people of Spira<NL>
+to question precepts that have stood<NL>
+for a thousand years.<END>
+
+<NL>
+However, the Yevon temple has kept its silence<NL>
+ever since Grand Maester Mika's death, and...<NL>
+Enough already!<END>
+
+<NL>
+In Spira's long history, this could<NL>
+be the biggest news to ever--<NL>
+Move! Now!<END>
+
+<NL>
+Even as faith in the Yevon clergy dwindles,<NL>
+the temple remains silent, choosing not to<NL>
+issue any official statement on the matter.<END>
+
+<NL>
+Many are protesting the cold and<NL>
+insensitive manner in which the<NL>
+temple has treated the people.<END>
+
+<NL>
+There have even been reports of a mass exodus<NL>
+from Bevelle by dejected temple followers...<NL>
+Wh-What do you think you're doing!?<END>
+
+<NL>
+Can't you see I'm working here?<NL>
+You sure are a show-off, aren't you!<END>
+
+<NL>
+As you all know, Operation Mi'ihen<NL>
+ended in utter failure.<END>
+
+<NL>
+With the Crusaders annihilated, the warrior<NL>
+monks and the Guado have been assigned to<NL>
+take up security posts in various locales.<END>
+
+<NL>
+This dispatch was ordered by Maester<NL>
+Kinoc and Maester Seymour as they...<NL>
+H-Hey!<END>
+
+<NL>
+Would you stop interrupting my broadcast?<NL>
+You get enough attention already!<END>
+
+<NL>
+Do you know anything about the<NL>
+fiends inside the stadium?<END>
+
+<NL>
+We have so few facts, we can't<NL>
+write up a feature on it yet.<END>
+
+<NL>
+Hm? You want me to interview you?<END>
+
+<NL>
+It's not like the [Aurochs] are going<NL>
+to make it past the first round anyway.<END>
+
+<NL>
+Why bother with an interview when<NL>
+we already know the outcome?<END>
+
+<NL>
+The people of Spira are holding their breaths<NL>
+as the flying ship begins its attack on...<NL>
+Move it!<END>
+
+<NL>
+We have unconfirmed reports that<NL>
+Maester Seymour has committed an<NL>
+unspeakable crime... Will you move!?<END>
+
+<NL>
+The mysterious disappearance of the summoners<NL>
+may somehow be connected to the Al Bhe...<NL>
+Ahh! Just let me do my job!<END>
+
+<NL>
+I've been interviewing eyewitnesses,<NL>
+but nobody seems to know a thing.<END>
+
+<NL>
+Well... If you win at least one<NL>
+game, I'll grant you an interview.<END>
+
+<NL>
+Oh yes, congratulations!<NL>
+I have a lot more respect<NL>
+for the [Aurochs] now.<END>
+
+<NL>
+Did our Hymn of the Fayth<NL>
+reach the flying ship?<END>
+
+<NL>
+The temple is in a state of chaos, but we must<NL>
+remain strong and keep faith in the teachings<NL>
+as we wait for the Calm.<END>
+
+<NL>
+I pray that the fallen Crusaders may<NL>
+rest peacefully on the Farplane.<END>
+
+<NL>
+The power of [Master Seymor]'s aeon<NL>
+was just incredible.<END>
+
+<NL>
+I can see why he was appointed a<NL>
+maester at such a young age.<END>
+
+<NL>
+A lady summoner?<NL>
+Sorry, haven't seen her.<END>
+
+<NL>
+Even if she did pass by, I<NL>
+probably wouldn't have noticed,<NL>
+what with the huge crowd and all.<END>
+
+<NL>
+By the way, I did hear<NL>
+someone whistling, though...<END>
+
+<NL>
+I really don't care which team<NL>
+wins or loses.<END>
+
+<NL>
+I just want to watch the game<NL>
+and go crazy.<END>
+
+<NL>
+I never imagined the Calm would<NL>
+come during my lifetime.<END>
+
+<NL>
+I hear the mood in Guadosalam is<NL>
+just as gloomy as the Farplane.<END>
+
+<NL>
+Even if the Crusaders are wiped out,<NL>
+the warrior monks will protect us.<END>
+
+<NL>
+The <Cor 88>Sphere Theater<Cor 41> is up ahead.<END>
+
+<NL>
+Please enjoy revisiting all the<NL>
+wondrous sights and sounds you've<NL>
+encountered along your journey.<END>
+
+<NL>
+The temple's probably devising a grand plan.<NL>
+That's why they're not doing anything right now.<END>
+
+<NL>
+We'll be okay as long as the<NL>
+warrior monks protect us.<END>
+
+<NL>
+I hope those fiends aren't a<NL>
+harbinger of [Sin]'s coming.<END>
+
+<NL>
+How can you not be excited when the<NL>
+tournament's about to start soon!<END>
+
+<NL>
+I'm sure the people of Kilika were<NL>
+singing, too. I'm sure of it.<END>
+
+<NL>
+I'm just worried that Sin<NL>
+might attack Kilika again.<END>
+
+<NL>
+The Kilika Beasts went back home.<NL>
+I hope they win next year.<END>
+
+<NL>
+The [Kilika Beasts] couldn't play up<NL>
+to their potential this year.<END>
+
+<NL>
+Can't blame 'em, though. Their island was<NL>
+recently attacked by [Sin], after all.<END>
+
+<NL>
+Our family has supported the [Kilika Beasts]<NL>
+ever since my great grandfather's day.<END>
+
+<NL>
+Let us pray that Yevon will be<NL>
+watching over the flying ship.<END>
+
+<NL>
+Some of Luca's residents are making<NL>
+light of the teachings. What sacrilege.<END>
+
+<NL>
+I shall remain in Luca for a while<NL>
+and spread the word of Yevon<NL>
+among the citizens.<END>
+
+<NL>
+Glory be to [Master Seymor]'s aeon,<NL>
+for keeping the destruction to a minimum.<END>
+
+<NL>
+A blessing from [Yevon2], indeed.<END>
+
+<NL>
+The people are indulging in merrymaking,<NL>
+but we must keep in mind that...<END>
+
+<NL>
+I will spare you the lecture.<END>
+
+<NL>
+We should make a whole bunch of those<NL>
+flying ships and deliver an all-out attack!<END>
+
+<NL>
+I saw a flying ship at dock number 1.<NL>
+Think that's gonna beat Sin?<END>
+
+<NL>
+It's too bad about the Crusaders...<NL>
+I thought for sure their plan would work.<END>
+
+<NL>
+I can't believe fiends would attack<NL>
+right in front of the maester, of all people.<END>
+
+<NL>
+Just goes to show you there is absolutely<NL>
+no safe haven in [Spira].<END>
+
+<NL>
+Have you seen a little boy?<NL>
+My son and I got separated in the crowd.<END>
+
+<NL>
+I told him to whistle<NL>
+if he ever got lost...<END>
+
+<NL>
+The Calm shall infuse new light and<NL>
+energy into the temple once again.<END>
+
+<NL>
+The Macalania temple is losing its faith.<NL>
+I do not wish to live there anymore.<END>
+
+<NL>
+The Crusaders defied the precepts and failed.<NL>
+They should disband for their own good.<END>
+
+<NL>
+The [Crusader]s are devising<NL>
+a sacrilegious operation.<END>
+
+<NL>
+I hear they may be collaborating<NL>
+with the [Al Bhed].<END>
+
+<NL>
+You think I stand out in this temple attire?<NL>
+Perhaps I should change?<END>
+
+<NL>
+The machina and the Hymn may weaken Sin,<NL>
+but only a summoner can finish it off.<END>
+
+<NL>
+Those warrior monks were useless.<NL>
+They didn't do a thing.<END>
+
+<NL>
+I think the fiend incident was the Al Bhed's doing.<NL>
+They're always up to no good.<END>
+
+<NL>
+Up until last year, it was the [Crusader]s<NL>
+who were in charge of security.<END>
+
+<NL>
+If they had been here this year, the<NL>
+fiends would never have appeared.<END>
+
+<NL>
+Don't you think it's disrespectful of<NL>
+the [Al Bhed2] to play in the Yevon Cup?<END>
+
+<NL>
+The flying ship is a forbidden machina, but<NL>
+we should just get it approved by the temple.<END>
+
+<NL>
+The warrior monks came in as reinforcements<NL>
+soon after the Crusaders were defeated.<NL>
+It was as if they knew the operation would fail.<END>
+
+<NL>
+My buddy's in critical condition after<NL>
+being attacked by a fiend. Damn it!<END>
+
+<NL>
+I feel bad for the [Crusader]s.<NL>
+They can't even stick around and watch<NL>
+the game because of the operation.<END>
+
+<NL>
+I hear the warrior monks invaded Besaid.<NL>
+They were looking for some traitors.<END>
+
+<NL>
+The Aurochs are a completely new team!<NL>
+They finally have some offense because of you!<END>
+
+<NL>
+This is the first time I've ever<NL>
+seen the [Aurochs] win!<END>
+
+<NL>
+You're that newbie from the [Aurochs], right?<NL>
+Good luck to you!<END>
+
+<NL>
+The only thing the people can really<NL>
+do is to pray for the Calm.<END>
+
+<NL>
+Why use machina, when we have summoners?<END>
+
+<NL>
+The [Aurochs] really improved this year, but their<NL>
+success was overshadowed by the fiend incident.<END>
+
+<NL>
+Hey, did you see the lady summoner?<NL>
+What was she like?<END>
+
+<NL>
+You! You're that traitor!<END>
+
+<NL>
+Let him go. Even the two of us<NL>
+won't be able to overpower him.<END>
+
+<NL>
+But, what about our duties<NL>
+to the temple?<END>
+
+<NL>
+Our duties? We missed the ship to Bevelle!<NL>
+They're not coming back for us!<NL>
+We're nothing now!<END>
+
+<NL>
+You'd probably kick my butt, anyway.<END>
+
+<NL>
+We wear the armor of the temple,<NL>
+but it doesn't mean a thing.<END>
+
+<NL>
+So, how did those fiends<NL>
+break into the stadium?<END>
+
+<NL>
+The authorities have no idea.<NL>
+They can only assume they just<NL>
+popped out of nowhere.<END>
+
+<NL>
+I'm keeping a close eye on the<NL>
+[Al Bhed Psyches] this year.<END>
+
+<NL>
+Ewww... Why would you root for the<NL>
+[Al Bhed2]? You really do have bad taste.<END>
+
+<NL>
+I like how they cover up their faces.<NL>
+It's just so sexy and mysterious.<END>
+
+<NL>
+Who knows what would have happened<NL>
+if Maester [Seymor] hadn't been there...<END>
+
+<NL>
+[Master Seymor] is our saviour.<END>
+
+<NL>
+Well, I would have to say it's<NL>
+the [Ronso Fangs] for me.<END>
+
+<NL>
+The [Ronso2]?<NL>
+They're just a bunch of meatheads!<END>
+
+<NL>
+And that's why the other teams<NL>
+are dead meat!<END>
+
+<NL>
+I was really surprised by the<NL>
+sudden fiend attack, but you<NL>
+know what shocked me the most?<END>
+
+<NL>
+Oh, the [Aurochs] winning the tournament,<NL>
+right? Yeah, I still can't believe it.<END>
+
+<NL>
+What? The [Besaid Aurochs]?<END>
+
+<NL>
+Oh, come on. Seriously?<END>
+
+<NL>
+What do you say we ditch guard<NL>
+duty and go have some fun?<END>
+
+<NL>
+H-How can you propose such<NL>
+a thing? As warriors of Yevon,<NL>
+we have duties to uphold!<END>
+
+<NL>
+Hmph! That's the problem with you<NL>
+temple types. You're too square!<END>
+
+<NL>
+But, you serve the temple, too.<END>
+
+<NL>
+We're in sunny Luca now, so<NL>
+you should all just loosen up!<END>
+
+<NL>
+The [Aurochs] won the tournament.<NL>
+It must be some kind of mistake.<END>
+
+<NL>
+I agree! The authorities should<NL>
+drop the fiend investigation<NL>
+and look into this first!<END>
+
+<NL>
+I'm glad the Goers won, but<NL>
+I don't feel like celebrating.<END>
+
+<NL>
+Yeah, those fiends really ruined<NL>
+the whole blitz experience.<END>
+
+<NL>
+I wonder how it'll turn out this year?<END>
+
+<NL>
+Well, duh!<NL>
+Of course the Goers are gonna win.<END>
+
+<NL>
+Psshhh! I know that! What I mean is,<NL>
+how many goals will Bickson score?<END>
+
+<NL>
+Yeah, Bickson's gonna lead the<NL>
+Goers to victory as usual.<END>
+
+<NL>
+But you know, Graav's<NL>
+been doin' well lately.<NL>
+Maybe he'll be the tournament MVP.<END>
+
+<NL>
+No way! I'm cheering for<NL>
+Bickson all the way! He is<NL>
+and will always be number one.<END>
+
+<NL>
+Oh, yeah? Well, my sister's friend's<NL>
+boyfriend is Graav's cousin!<END>
+
+<NL>
+Well, I know a guy who's best friends<NL>
+with Bickson's younger brother!<END>
+
+<NL>
+Once the Calm comes, I'm planning to travel all<NL>
+through Spira to film the joyous occasion.<END>
+
+<NL>
+If you want to be interviewed, show<NL>
+us your most outrageous gag, okay?<END>
+
+<NL>
+Stop bothering us! You've already proven<NL>
+your point at the tournament!<END>
+
+<NL>
+Hey, congratulations!<NL>
+I got everything on sphere.<END>
+
+<NL>
+Never in my wildest dreams did I think<NL>
+the [Besaid Aurochs] would win the cup.<END>
+
+<NL>
+Sorry, but we're broadcasting<NL>
+the news about the fiend attack.<END>
+
+<NL>
+Hey, well if it isn't the [Aurochs] comedian.<NL>
+Thanks for that comic relief!<END>
+
+<NL>
+Keep up the antics throughout the tournament.<NL>
+I'll be sure to capture you on sphere.<END>
+
+<NL>
+The opening ceremony's about to begin.<NL>
+Shouldn't you be heading back?<END>
+
+<NL>
+Is it true that the ferry is out of service?<END>
+
+<NL>
+I hear [Sin] may still be lurking<NL>
+in the sea nearby.<END>
+
+<NL>
+At this rate, who knows when<NL>
+we'll make it back to [Kilika]?<END>
+
+<NL>
+<END>
+
+[Yuna]<NL>
+I'm sorry, please let me through.<END>
+
+[Yuna]<NL>
+Hey, let's go.<END>
+
+[Tidus]<NL>
+You're really famous.<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+[Yuna]<NL>
+I hope we don't get separated.<END>
+
+[Tidus]<NL>
+[Yuna]!<END>
+
+<NL>
+<END>
+
+<NL>
+          <END>
+
+[Yuna]<NL>
+What was that?<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+In [Zanarkand], we do this<NL>
+to cheer on blitz players.<END>
+
+<NL>
+<END>
+
+[Yuna]<NL>
+It's not working.<END>
+
+[Tidus]<NL>
+Practice!<END>
+
+[Yuna]<NL>
+Okay.<END>
+
+[Tidus]<NL>
+Hey, use that if we get separated.<END>
+
+[Tidus]<NL>
+Then, I'll come running, okay?<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+Well, guess we should just<NL>
+stick together, then,<NL>
+till you can do it.<END>
+
+[Yuna]<NL>
+Yes, sir!<END>
+
+[Tidus]<NL>
+You try it, too! Put your fingers<NL>
+in your mouth like this.<END>
+
+[Yuna]<NL>
+Like...this?<END>
+
+[Tidus]<NL>
+Uh-uh, not like that.<NL>
+Like this.<END>
+
+[Tidus]<NL>
+Then, you just blow.<END>
+
+<TEXT>
+Map Debug Menu<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Update Map Data<NL>
+    <CHOICE3>Event Debug<NL>
+    <CHOICE4>Wait Count<NL>
+    <CHOICE5>Model Change<NL>
+    <CHOICE6>Control Map Line<NL>
+    <CHOICE7>Invisible<NL>
+    <CHOICE8>Return to Saito<END>
+
+<TEXT>
+Model  :  <CHOICE???>B<END>
+
+<TEXT>
+Wait Count<NL>
+    <CHOICE1>End Settings<NL>
+    <CHOICE2>01      <CHOICE7>06<NL>
+    <CHOICE3>02      <CHOICE8>07<NL>
+    <CHOICE4>03      <CHOICE9>08<NL>
+    <CHOICE5>04      <CHOICE???>909<NL>
+    <CHOICE6>05      <CHOICE???> 10<END>
+
+<TEXT>
+Wait<VAR12 30>  :  <CHOICE???>D<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

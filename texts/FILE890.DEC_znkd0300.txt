@@ -1,0 +1,158 @@
+[Tidus]<NL>
+I know.<END>
+
+[Tidus]<NL>
+You want this to end.<END>
+
+[Tidus]<NL>
+I'll find a way. Promise.<END>
+
+[Tidus]<NL>
+No!<END>
+
+[Tidus]<NL>
+So what if I'm a dream!<END>
+
+[Tidus]<NL>
+I...I like being here.<END>
+
+<NL>
+          <END>
+
+Fayth<NL>
+The [fayth] do not live, thus<NL>
+we cannot die. Yet we are not<NL>
+dead, so we cannot live.<END>
+
+Fayth<NL>
+All we can do...is dream.<END>
+
+Fayth<NL>
+We've been dreaming so long...<NL>
+we're tired.<END>
+
+Fayth<NL>
+Would you and your father...<NL>
+Would you let us rest?<END>
+
+[Tidus]<NL>
+Let you rest?<END>
+
+Fayth<NL>
+Both you and your father<NL>
+have been touched by [Sin].<END>
+
+Fayth<NL>
+[Sin], the one around whom all<NL>
+[Spira]--the spiral--revolves.<END>
+
+Fayth<NL>
+You two are more<NL>
+than just dreams now.<END>
+
+[Yuna]<NL>
+Wake up!<NL>
+Wake up, please!<END>
+
+[Tidus]<NL>
+What are you saying?<END>
+
+Fayth<NL>
+Just a little more, and maybe...<END>
+
+Fayth<NL>
+Maybe you are the dream<NL>
+that will end our dreaming at last.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

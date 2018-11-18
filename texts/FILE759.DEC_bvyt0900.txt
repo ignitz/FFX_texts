@@ -1,0 +1,97 @@
+<NL>
+Lady [Yuna], forgive me.<END>
+
+[Yuna]<NL>
+[Lulu], I...<END>
+
+[Lulu]<NL>
+It's okay. I know.<END>
+
+[Kimahri]<NL>
+[Yuna],<NL>
+sorry we left you alone.<END>
+
+[Yuna]<NL>
+No, it's okay.<END>
+
+[Auron]<NL>
+There must be an exit somewhere.<NL>
+We search!<END>
+
+[Isaaru]<NL>
+Lady [Yuna]...<NL>
+So it is you!<END>
+
+[Yuna]<NL>
+Why are you here?<END>
+
+[Isaaru]<NL>
+We rode the airship to the<NL>
+[Calm Lands], then came to Bevelle.<END>
+
+[Isaaru]<NL>
+[Maester Kinoc] summoned us then.<NL>
+Ordered us to "deal with the traitors."<END>
+
+[Auron]<NL>
+You will fight us?<END>
+
+[Isaaru]<NL>
+The temple's orders are law.<END>
+
+[Isaaru]<NL>
+Even if you are<NL>
+Lord [Braska]'s flesh and blood...<END>
+
+[Isaaru]<NL>
+You're a traitor!<END>
+
+[Lulu]<NL>
+His guardians...<NL>
+I don't see them.<END>
+
+[Isaaru]<NL>
+[Maroda] and [Pacce] are not here.<END>
+
+[Isaaru]<NL>
+I will do this unhappy deed myself.<END>
+
+[Isaaru]<NL>
+Forgive me, Lady [Yuna].<END>
+
+<NL>
+          <END>
+
+[Isaaru]<NL>
+Stay away!<END>
+
+[Lulu]<NL>
+[Yuna], let's go.<END>
+
+[Isaaru]<NL>
+There's a way to the surface up ahead.<END>
+
+[Auron]<NL>
+Your pilgrimage is over.<END>
+
+<TEXT>
+<Cor 43>To the Condemned:<Cor 41><NL>
+Stone panels are scattered throughout the<NL>
+Via Purifico. Step on one to transport<NEWPAGE>
+yourself to the next panel in the indicated<NL>
+direction. Nothing will happen if there is<NL>
+no panel to receive you at the far end.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<END>
+

@@ -1,0 +1,224 @@
+[Yuna]<NL>
+Greetings! I am the summoner [Yuna].<NL>
+I have come from the temple in [Besaid].<END>
+
+<NL>
+M'lady Summoner!<END>
+
+[Yuna]<NL>
+If there is no other summoner here,<NL>
+please allow me to perform the sending.<END>
+
+<NL>
+Thanks be to ye!<END>
+
+<NL>
+Our loved ones...<NL>
+We feared they would become fiends!<END>
+
+[Yuna]<NL>
+Please, take me to them.<END>
+
+[Wakka]<NL>
+We'll go see what we<NL>
+can do to help in town.<END>
+
+Letty<NL>
+[Tidus], watch your step!<NL>
+It's not safe this way.<END>
+
+<NL>
+We won't be able to return to<NL>
+[Besaid] unless it's fixed.<END>
+
+<NL>
+The pub's closed. I don't think<NL>
+I can get through this without a drink.<END>
+
+<NL>
+Hey, you're alive!<NEWPAGE>
+<NL>
+Wait!<END>
+
+<NL>
+What do you want?<NL>
+We're not open!<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

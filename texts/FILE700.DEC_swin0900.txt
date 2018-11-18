@@ -1,0 +1,189 @@
+<NL>
+You're not gonna get better overnight<NL>
+with just any old training.<NEWPAGE>
+<NL>
+I suggest you ask the Goers<NL>
+for some tips instead.<END>
+
+<NL>
+It's already late.<NL>
+You should go get some rest.<END>
+
+<NL>
+You're from [Zanarkand]? Everyone on<NL>
+the ship's been talking about you.<END>
+
+<NL>
+You've got the biggest mouth<NL>
+of any blitzer I've ever seen!<END>
+
+<NL>
+No offense, but I'm a<NL>
+diehard [Luca Goers] fan.<NEWPAGE>
+<NL>
+Good luck, pal.<NL>
+You're gonna need it.<END>
+
+<NL>
+Maybe you're better off asking<NL>
+the Goers to coach you.<END>
+
+<NL>
+We're lucky that we didn't run<NL>
+into any fiends on the open sea.<END>
+
+<NL>
+I admire your zeal, but we're gonna<NL>
+leave you behind if you do that again.<END>
+
+<NL>
+We have two summoners<NL>
+and the Goers onboard.<NEWPAGE>
+<NL>
+It is my responsibility to carry<NL>
+them safely to their destination.<END>
+
+<NL>
+What, the [Besaid Aurochs]?<NL>
+They're more like cargo.<END>
+
+<NL>
+We're doing double duty on the watch<NL>
+to avoid ending up like the [S.S. Liki].<NEWPAGE>
+<NL>
+Report to us immediately<NL>
+if you see any sign of [Sin].<END>
+
+<NL>
+This ship is just a ferry.<NL>
+We're doomed if we run into [Sin].<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. V!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>A<Cor 41> [RIGHT] <Cor 97>E<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

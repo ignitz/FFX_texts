@@ -1,0 +1,126 @@
+[Wakka]<NL>
+Go present yourself to the temple<NL>
+summoner before we eat, ya?<END>
+
+[Wakka]<NL>
+A little praying might do<NL>
+your memory some good!<END>
+
+[Wakka]<NL>
+Sorry, man.<NL>
+No time for lunch yet.<END>
+
+[Wakka]<NL>
+Take a nap!<NL>
+You look bushed.<END>
+
+<TEXT>
+<CHOICE1>Thanks.<NL>
+<CHOICE2>No, I'm fine.<END>
+
+<NL>
+You could at least<NL>
+go see how they are doing.<END>
+
+[Wakka]<NL>
+We can't interfere.<NL>
+It's a rule.<END>
+
+<NL>
+But, it's been nearly...<END>
+
+[Tidus]<NL>
+[Wakka]?<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

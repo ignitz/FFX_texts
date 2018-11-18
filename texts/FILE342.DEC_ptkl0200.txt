@@ -1,0 +1,324 @@
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+<NL>
+Leave it to me! I'll take<NL>
+you anywhere you want to go.<END>
+
+<TEXT>
+<CHOICE1>To [Besaid Island].<NL>
+<CHOICE2>To [Luca].<NL>
+<CHOICE3>Forget it.<END>
+
+[Wakka]<NL>
+Ah, there you are!<END>
+
+[Wakka]<NL>
+[Besaid Aurochs]! Huddle!<END>
+
+[Wakka]<NL>
+On to the temple,<NL>
+where we pray for victory!<END>
+
+[Wakka]<NL>
+High Summoner [Ohalland] used<NL>
+to live in the [Kilika] temple here.<END>
+
+[Wakka]<NL>
+Yep, Lord [Ohalland] was once<NL>
+a great blitzer, you know?<END>
+
+[Tidus]<NL>
+[Wakka]...<END>
+
+[Wakka]<NL>
+Hm?<END>
+
+[Tidus]<NL>
+Praying for victory's all<NL>
+good...but is this right?<END>
+
+[Wakka]<NL>
+Something wrong with<NL>
+enjoying [blitzball]?<END>
+
+[Tidus]<NL>
+Is this really the time?<END>
+
+[Wakka]<NL>
+This is the only time!<END>
+
+[Wakka]<NL>
+The players fight with all<NL>
+their strength; the fans<NL>
+cheer for their favorite team.<END>
+
+[Wakka]<NL>
+They forget pain, suffering...<NL>
+Only the game matters!<END>
+
+[Wakka]<NL>
+That's why blitz has<NL>
+been around for so long.<END>
+
+[Wakka]<NL>
+Least that's what I think.<END>
+
+[Tidus]<NL>
+Whatever you say.<END>
+
+[Wakka]<NL>
+Let's play...and win!<END>
+
+[Wakka]<NL>
+Right?<END>
+
+[Tidus]<NL>
+Right!<END>
+
+[Wakka]<NL>
+Temple's beyond the<NL>
+jungle there. Let's go!<END>
+
+[Wakka]<NL>
+Off to <Cor 88>Luca<Cor 41> at last!<END>
+
+[Wakka]<NL>
+The matches start soon as we get<NL>
+there, so rest up on the way, ya?<END>
+
+<NL>
+Hey, you! Hands off<NL>
+the merchandise!<NEWPAGE>
+<NL>
+Oh, you're a customer, are you?<END>
+
+<TEXT>
+<CHOICE1>Embark.<NL>
+<CHOICE2>Not yet.<END>
+
+<NL>
+If the [Kilika Beasts] win,<NL>
+it'll give the whole island<NL>
+something to celebrate.<NEWPAGE>
+<NL>
+Thinking about that makes<NL>
+me want to practice harder.<END>
+
+<NL>
+Well, we lost the tournament...<NL>
+but no point dwelling on the past!<NEWPAGE>
+<NL>
+Better to practice harder<NL>
+than to mope around!<END>
+
+<NL>
+Next time, I'll show 'em the [Kilika]<NL>
+spirit we've inherited from Lord [Ohalland].<END>
+
+<NL>
+Everyone was so pumped up<NL>
+for the tournament, but now<NL>
+because of [Sin], well...<NEWPAGE>
+<NL>
+We players don't even feel<NL>
+up to practicing anymore.<END>
+
+<NL>
+We may be short on practice,<NL>
+but we'll prove we've got<NL>
+what it takes.<NEWPAGE>
+<NL>
+We'll cheer up the whole<NL>
+island by bringing home<NL>
+the victory cup this year!<END>
+
+<NL>
+We're off to Luca as<NL>
+soon as I finish this off.<END>
+
+<NL>
+Just wait and see.<NL>
+We'll win for sure.<END>
+
+<NL>
+I tried to dismantle that<NL>
+wrecked ship over there and<NL>
+haul it away, but...<NEWPAGE>
+<NL>
+She's so sturdy I couldn't get<NL>
+so much as a deck board off her!<NL>
+Hats off to that shipbuilder.<END>
+
+<NL>
+Reconstruction of the town is<NL>
+nearly complete. All that's left<NL>
+is to fix that road over there.<END>
+
+<NL>
+I don't know if it's the toxin,<NL>
+but I can't remember a thing.<NL>
+Like my name, my house...<NEWPAGE>
+<NL>
+I thought someone might notice<NL>
+me and help me out if I sat here.<NEWPAGE>
+<NL>
+But no one's paying any attention.<NL>
+I guess everyone has their own<NL>
+problems to worry about.<END>
+
+<NL>
+Hey, I may not even be from around here.<NL>
+Maybe I come from someplace far away...<NL>
+Who knows?<END>
+
+<NL>
+The toxin's effect wore off.<NL>
+I remember my family now...<NEWPAGE>
+<NL>
+[Sin] attacked, and my family, they...<NL>
+They all went to the [Farplane].<NEWPAGE>
+<NL>
+Heh, it was better to have<NL>
+forgotten everything.<END>
+
+<NL>
+The next time [Sin] comes around,<NL>
+I want to go to the [Farplane], too.<END>
+
+<NL>
+The temple is fully supporting<NL>
+our restoration of [Kilika].<END>
+
+<NL>
+Just between us, these<NL>
+[Kilika Island] folks are crazy!<NEWPAGE>
+<NL>
+Living this close to the sea is<NL>
+like asking [Sin] to attack.<END>
+
+<NL>
+Well, just let me know if you'd like a ride.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

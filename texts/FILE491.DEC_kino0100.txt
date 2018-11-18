@@ -1,0 +1,242 @@
+<NL>
+<TEXT>
+[Botão Círculo]: Up<END>
+
+[Lucil]<NL>
+We've been expecting you.<NL>
+Please proceed to the command center.<END>
+
+[Lucil]<NL>
+The presence of a maester<NL>
+and a summoner is great<NL>
+for the troops' morale--<END>
+
+[Lucil]<NL>
+myself included. Thank you<NL>
+for being here, my lady.<END>
+
+[Lucil]<NL>
+Depending on the way things turn<NL>
+out, we might suffer casualties.<END>
+
+[Lucil]<NL>
+In such an event, we would<NL>
+be grateful if you could<NL>
+perform the sending, my lady.<END>
+
+[Lucil]<NL>
+We may have to fight here,<NL>
+as well. Stay alert.<END>
+
+[Elma]<NL>
+Lady Summoner!<NL>
+What are you doing here?<END>
+
+[Elma]<NL>
+Well, with your guardians near you<NL>
+shouldn't have anything to worry about.<END>
+
+[Elma]<NL>
+Don't say we shouldn't be<NL>
+using machina! Not now, please?<END>
+
+[Elma]<NL>
+I hope Captain [Lucil] notices<NL>
+my efforts in this mission!<END>
+
+<NL>
+There is increasing fiend activity.<NL>
+This may not be much help, but...<END>
+
+<NL>
+A summoner's entourage!<NL>
+Please accept this.<END>
+
+<NL>
+After the operation, my compadres and I<NL>
+are heading straight to [Luca].<NEWPAGE>
+<NL>
+It's gonna be a blast. We've already<NL>
+reserved a place and everything.<END>
+
+<NL>
+Do you think [Yevon2] will take<NL>
+us back in if we succeed?<END>
+
+[Shelinda]<NL>
+In the end, I wasn't able<NL>
+to stop them, as you can see.<END>
+
+[Shelinda]<NL>
+But seeing their fierce determination,<NL>
+I couldn't just sit there.<END>
+
+[Shelinda]<NL>
+So I decided that I would do<NL>
+everything in my power to help them.<END>
+
+[Shelinda]<NL>
+Truly, I know nothing of<NL>
+the ways of fighting, but<NL>
+I do know some white magic.<END>
+
+[Shelinda]<NL>
+I'm hoping that will be<NL>
+of some use to them.<END>
+
+[Shelinda]<NL>
+Is there anything I can<NL>
+do to help you?<END>
+
+[Shelinda]<NL>
+Take care!<END>
+
+<NL>
+          <END>
+
+<TEXT>
+<Cor 43>Getting Away<Cor 41><NL>
+<NL>
+- Battle will begin if your persuers<NL>
+  get too close.<NL>
+- Run as fast as you can to thin out<NL>
+  enemy forces.<NL>
+- The screen will flash to warn you<NL>
+  when pursuers are near:<NL>
+    Not flashing - Safe, for now.<NL>
+    <Cor 43>Yellow<Cor 41> - Pursuers approaching!<NL>
+    <Cor 94>Red<Cor 41> - Capture imminent! <NL>
+- Even if you can't see your pursuers<NL>
+  they will catch you if they get close,<NL>
+  so stay on your guard at all times.<END>
+
+<TEXT>
+Lost one pursuer!<END>
+
+<NL>
+[Yevon2]'s emblem bears mystic powers.<NEWPAGE>
+<NL>
+Step onto the platform, and you shall see.<END>
+
+<TEXT>
+<CHOICE1>We're fine!<NL>
+<CHOICE2>Please heal us.<END>
+
+<NL>
+<TEXT>
+[Botão Círculo]: Down<END>
+
+<NL>
+<TEXT>
+[Botão Círculo]: Up<END>
+
+<NL>
+It won't open.<END>
+
+<NL>
+The <Cor 43>[Celestial Mirror]<Cor 41> seems to react.<END>
+
+<TEXT>
+Use the <Cor 43>[Celestial Mirror]<Cor 41>?<NL>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<NL>
+The <Cor 43>[Cloudy Mirror]<Cor 41> seems to react.<END>
+
+<TEXT>
+Use the <Cor 43>[Cloudy Mirror]<Cor 41>?<NL>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<NL>
+Not enough energy...<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

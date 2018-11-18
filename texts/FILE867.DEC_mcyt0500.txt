@@ -1,0 +1,179 @@
+[Tidus]<NL>
+Right!<END>
+
+<NL>
+<TEXT>
+A <Cor 43>Glyph Sphere<Cor 41> is inserted here.<END>
+
+<NL>
+<TEXT>
+A <Cor 43>Destruction Sphere<Cor 41> is inserted here.<END>
+
+<NL>
+<TEXT>
+A <Cor 43>Macalania Sphere<Cor 41> is inserted here.<END>
+
+<NL>
+<TEXT>
+You can only hold one sphere at a time.<END>
+
+<NL>
+<TEXT>
+You see a sphere-shaped recess.<END>
+
+<TEXT>
+<CHOICE1>Take sphere.<NL>
+<TEXT>
+<CHOICE2>Do nothing.<END>
+
+<NL>
+<TEXT>
+You are holding a <Cor 43>Macalania Sphere<Cor 41>.<END>
+
+<TEXT>
+<CHOICE1>Insert sphere.<NL>
+<TEXT>
+<CHOICE2>Do nothing.<END>
+
+<NL>
+<TEXT>
+You are holding a <Cor 43>Glyph Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+You are holding a <Cor 43>Destruction Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+Removed <Cor 43>Macalania Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+Removed <Cor 43>Glyph Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+Removed <Cor 43>Destruction Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+Inserted <Cor 43>Macalania Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+Inserted <Cor 43>Glyph Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+Inserted <Cor 43>Destruction Sphere<Cor 41>.<END>
+
+[Wakka]<NL>
+This can't be happening.<END>
+
+[Lulu]<NL>
+If he is truly at fault,<NL>
+it must be done.<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+Gimme a break!<END>
+
+[Auron]<NL>
+Even a maester.<END>
+
+[Auron]<NL>
+[Kimahri]'s up ahead. Go.<END>
+
+[Auron]<NL>
+We will protect [Yuna] from anyone.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

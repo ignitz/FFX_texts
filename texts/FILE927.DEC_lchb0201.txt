@@ -1,0 +1,398 @@
+<TEXT>
+Save current game?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<NL>
+<NL>
+I'll bet you anything the [Luca Goers]<NL>
+are gonna win again this year.<END>
+
+<NL>
+Maybe so, but you'd better not<NL>
+count out the [Kilika Beasts]!<END>
+
+<NL>
+The [Besaid Aurochs]? Win?<END>
+
+<NL>
+Now that's funny! Hahaha!<NEWPAGE>
+<NL>
+Gimme a break, man!<END>
+
+<NL>
+We have sealed off all access to<NL>
+the stadium for the time being.<NEWPAGE>
+<NL>
+We're trying to control the mad rush of<NL>
+people who have already entered the stadium.<END>
+
+<NL>
+We apologize for the inconvenience, but<NL>
+access to the stadium has been sealed off.<END>
+
+<NL>
+[Maester Mika2] has ruled Spira<NL>
+for the past fifty years.<END>
+
+<NL>
+Man, this tournament is gonna rock!<NL>
+Even the big man is here to see the game.<END>
+
+<NL>
+If I can catch one glimpse of Maester [Mika],<NL>
+I'll have something to brag about back home.<END>
+
+<NL>
+Maester [Mika] doesn't make many public<NL>
+appearances. He's getting too old for that.<END>
+
+<NL>
+I'm glad I got here safely.<NL>
+Don't want another S.S. Liki incident.<END>
+
+<NL>
+Ladies and gentlemen, the day<NL>
+we've all been waiting for!<END>
+
+<NL>
+The opening tournament<NL>
+of the season!<END>
+
+<NL>
+This event is sponsored by [Yevon2].<END>
+
+<NL>
+And this year we celebrate<NL>
+[Maester Mika]'s 50th year in office.<END>
+
+<NL>
+Ah, over there!<NL>
+The ships carrying the<NL>
+players are arriving now!<END>
+
+<NL>
+This would be dock number 2.<END>
+
+<NL>
+They're a living, breathing,<NL>
+statistical impossibility!<NL>
+I've never seen a team this bad!<END>
+
+<NL>
+That's right!<NL>
+In twenty-three years they've<NL>
+never made it past the first round!<END>
+
+<NL>
+Only a few die-hard fans<NL>
+are in the audience today.<END>
+
+<NL>
+Best of luck to them, and a<NL>
+safe journey back to [Besaid].<END>
+
+<NL>
+Right, Jimma.<END>
+
+<NL>
+Moving right along,<NL>
+our next team is...<END>
+
+<NL>
+Here they are, folks!<NL>
+Our very own [Luca Goers]!<END>
+
+<NL>
+They've got power!<NL>
+They've got speed!<NL>
+They've got teamwork!<END>
+
+<NL>
+They're an all-around first-class team!<NL>
+And they're back home in Luca!<END>
+
+<NL>
+Without a doubt, they are<NL>
+the favorite this year, Bobba.<END>
+
+<NL>
+And after the way they dominated<NL>
+last year, it'd take a miracle<NL>
+for them to lose today.<END>
+
+<NL>
+You can say that again, Jimma.<NL>
+Look at the crowd, folks!<NL>
+Look at the crowd!<END>
+
+<NL>
+Looks like all of Luca has turned<NL>
+out to cheer the Goers on!<END>
+
+<NL>
+They know, I know,<NL>
+and you know, folks!<END>
+
+<NL>
+The [Luca Goers] are number one!<END>
+
+[Wakka]<NL>
+It's like this every year, ya?<NL>
+Don't let it bother you.<END>
+
+[Tidus]<NL>
+Stop right there, Goers!<END>
+
+[Tidus]<NL>
+You guys are smilin' now,<NL>
+but not for long!<END>
+
+[Tidus]<NL>
+'Cause this year, us<NL>
+[Aurochs] are taking the cup!<END>
+
+[Wakka]<NL>
+What in [Yevon2]'s name<NL>
+were you doing up there?<END>
+
+Datto<NL>
+We sure stood out, though!<END>
+
+Letty<NL>
+We were on the sphere!<END>
+
+<NL>
+We were?<END>
+
+<NL>
+[Maester Mika] is here!<END>
+
+<NL>
+Already?<END>
+
+<NL>
+The number 3 dock!<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+What's up now?<END>
+
+[Yuna]<NL>
+[Maester Mika] has arrived, that's what!<END>
+
+[Tidus]<NL>
+Mika? Maester?<END>
+
+[Lulu]<NL>
+[Maester Mika] is the leader of<NL>
+all the peoples of [Spira].<END>
+
+[Lulu]<NL>
+He's come all the way from [Bevelle].<NL>
+The tournament is being held to<NL>
+honor his fifty years as maester.<END>
+
+[Tidus]<NL>
+Fifty years? Shouldn't he<NL>
+be, uh, retired by now?<END>
+
+[Wakka]<NL>
+Hey!<NL>
+Mind your mouth, now.<END>
+
+[Yuna]<NL>
+Let's all go see him!<END>
+
+Map jump here<END>
+
+Image from a different map.<NL>
+Image inserting movie.<END>
+
+<NL>
+All the way from [Kilika],<NL>
+it's the [Kilika Beasts]!<END>
+
+<NL>
+High Summoner [Ohalland] used to play<NL>
+for them--a big name to live up to.<END>
+
+<NL>
+Their hometown was recently attacked<NL>
+by [Sin]. Isn't that right, Jimma?<END>
+
+<NL>
+Yes, Bobba. They're going to<NL>
+be pulling out all the stops to try<NL>
+and bring back the cup this year.<END>
+
+<NL>
+Exciting, isn't it, folks?<END>
+
+<NL>
+Our next team off the ramp is...<END>
+
+<NL>
+Well, well, well!<NL>
+If it isn't the [Besaid Aurochs]!<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

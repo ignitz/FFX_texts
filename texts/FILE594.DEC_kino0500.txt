@@ -1,0 +1,353 @@
+[Gatta]<NL>
+Why only you, sir?<NL>
+I want to fight, too!<END>
+
+[Luzzu]<NL>
+Orders are orders.<END>
+
+[Gatta]<NL>
+I'm not a cadet anymore, sir!<END>
+
+[Gatta]<NL>
+Let me go with you, and<NL>
+I'll prove it to them!<END>
+
+[Luzzu]<NL>
+Guarding the command center<NL>
+is important too, you know.<END>
+
+[Gatta]<NL>
+But I came all the way from<NL>
+[Besaid] to fight [Sin], sir!<END>
+
+[Luzzu]<NL>
+I know, but an order's an order.<NL>
+To your post, Crusader.<END>
+
+[Gatta]<NL>
+But, sir!<END>
+
+[Luzzu]<NL>
+They let you through, huh?<END>
+
+[Tidus]<NL>
+[Gatta] deserves better...<END>
+
+[Wakka]<NL>
+At least there's no<NL>
+chance he'll get hurt.<END>
+
+[Wakka]<NL>
+Why are you guys fighting, anyway? Aren't<NL>
+the almighty [Al Bhed] machina enough?<END>
+
+[Luzzu]<NL>
+They still need some<NL>
+time to get them ready.<END>
+
+[Luzzu]<NL>
+Our job is to keep [Sin]<NL>
+at bay till they're done.<END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+[Luzzu]<NL>
+[Wakka]...<END>
+
+[Luzzu]<NL>
+I might not get another<NL>
+chance to say this.<END>
+
+[Luzzu]<NL>
+It's about your brother.<END>
+
+[Lulu]<NL>
+[Luzzu], no!<END>
+
+[Wakka]<NL>
+What?<END>
+
+[Luzzu]<NL>
+I'm the one who<NL>
+convinced him...to enlist.<END>
+
+[Luzzu]<NL>
+I'm sorry.<END>
+
+[Wakka]<NL>
+When we used to play blitz together,<NL>
+[Chappu] used to say...<END>
+
+[Wakka]<NL>
+He'd say that--when we won the<NL>
+Cup, ya?--he'd propose to [Lulu].<END>
+
+[Wakka]<NL>
+And then one day...he goes off and<NL>
+becomes a [Crusader]. Just like that.<END>
+
+[Luzzu]<NL>
+[Chappu] also said to me...<END>
+
+[Luzzu]<NL>
+That being with your girl is good...<END>
+
+[Luzzu]<NL>
+But keeping [Sin] far<NL>
+away from her is better.<END>
+
+[Wakka]<NL>
+Lu, you knew?<END>
+
+[Lulu]<NL>
+[Luzzu] told me...before we left.<END>
+
+[Luzzu]<NL>
+She hit me, too.<END>
+
+[Lucil]<NL>
+All [Crusader]s in the vanguard<NL>
+are to assemble on the beach!<END>
+
+[Luzzu]<NL>
+That's my cue.<END>
+
+[Wakka]<NL>
+[Luzzu]!<NL>
+Don't die out there.<END>
+
+[Luzzu]<NL>
+So you can hit me more?<END>
+
+[Wakka]<NL>
+Lots! Lots more!<END>
+
+[Yuna]<NL>
+Sir [Luzzu], please!<NL>
+Please, don't go!<END>
+
+[Luzzu]<NL>
+I have to, [Yuna].<END>
+
+[Auron]<NL>
+Let him go.<END>
+
+[Auron]<NL>
+The man has already<NL>
+chosen his path...<END>
+
+[Auron]<NL>
+As you did when you<NL>
+became a summoner.<END>
+
+<NL>
+It would be a long time...<END>
+
+<NL>
+before I ever really understood the<NL>
+reason why [Yuna] let [Luzzu] pass that day.<END>
+
+<NL>
+Be sure to make thorough preparations.<NL>
+Here, put this to good use.<END>
+
+<NL>
+Give this to the lady summoner, and<NL>
+grant us your help when the time comes.<END>
+
+<NL>
+We've secured the command center perimeter.<NL>
+But please take this as a precaution.<END>
+
+<NL>
+We've concentrated our forces along the<NL>
+coast to prevent [Sin] from reaching land.<NEWPAGE>
+<NL>
+We plan to stage a frontal assault.<NL>
+The men are preparing for the worst.<END>
+
+<NL>
+My friend is stationed there.<NL>
+All I can do is pray for him.<END>
+
+<NL>
+The command center is strategically<NL>
+located on a ledge overlooking the sea.<NEWPAGE>
+<NL>
+It's just beyond the artillery base up ahead.<END>
+
+<NL>
+We have neutralized all fiends around<NL>
+the command center.  The sector is secure.<END>
+
+<NL>
+This is a mechanical lift<NL>
+built by the [Al Bhed2].<NEWPAGE>
+<NL>
+Please take it up<NL>
+to the command center.<END>
+
+<NL>
+Relying on machines goes against the<NL>
+teachings, but the maester just used it.<END>
+
+<NL>
+You're out of luck.<NL>
+It's not workin' anymore.<NEWPAGE>
+<NL>
+Stop relyin' on machina.<NL>
+Use your feet a little.<END>
+
+<NL>
+This machina's had it.<NL>
+Completely busted.<NEWPAGE>
+<NL>
+I will try salvaging its parts.<NL>
+<END>
+
+<NL>
+The sea breeze really rusted away<NL>
+this baby. No point repairing it.<NL>
+It probably won't work anyway.<END>
+
+[Tidus]<NL>
+[Wakka]!<NL>
+That's enough, [Wakka]!<END>
+
+<NL>
+<TEXT>
+[Botão Círculo]: Down<END>
+
+<NL>
+<TEXT>
+[Botão Círculo]: Up<END>
+
+<NL>
+Nothing happens.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. X!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>Z<Cor 41> [RIGHT] <Cor 97>J<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<TEXT>
+Obtained [Auron]'s sphere!<END>
+
+<TEXT>
+<CHOICE1>Take a look.<NL>
+<CHOICE2>Leave it alone.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

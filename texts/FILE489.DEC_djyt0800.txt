@@ -1,0 +1,49 @@
+[Dona]<NL>
+You owe much to your father.<END>
+
+[Dona]<NL>
+All these guardians...<NL>
+and Sir [Auron], too?<END>
+
+[Dona]<NL>
+And I hear Maester [Seymor]'s<NL>
+quite taken with you.<END>
+
+[Dona]<NL>
+The world must look different when<NL>
+you're the daughter of Lord [Braska].<END>
+
+[Dona]<NL>
+Oh, is that so?<END>
+
+[Dona]<NL>
+Then try standing on your<NL>
+own two legs for once.<END>
+
+[Dona]<NL>
+Your guardians won't be able to<NL>
+protect you when the time comes.<END>
+
+[Yuna]<NL>
+This has nothing to do with my father!<END>
+
+[Yuna]<NL>
+I am travelling on my own,<NL>
+as a full-fledged summoner!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

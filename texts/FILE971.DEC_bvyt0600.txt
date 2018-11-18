@@ -1,0 +1,195 @@
+[Tidus]<NL>
+Get me outta here!<NL>
+I want out now!<END>
+
+[Tidus]<NL>
+You hear me?<END>
+
+[Auron]<NL>
+You waste your breath.<END>
+
+[Tidus]<NL>
+Man, I hope [Yuna]'s okay.<END>
+
+<NL>
+          <END>
+
+[Auron]<NL>
+She's strong.<NL>
+She'll make it.<END>
+
+[Tidus]<NL>
+She'll make it?<END>
+
+[Tidus]<NL>
+What, so she can die?<END>
+
+[Tidus]<NL>
+Why is it...<END>
+
+[Tidus]<NL>
+everything in Spira seems to<NL>
+revolve around people dying?<END>
+
+[Auron]<NL>
+Ahh, the spiral of death.<END>
+
+[Tidus]<NL>
+Huh?<END>
+
+[Auron]<NL>
+Summoners challenge the bringer<NL>
+of death, [Sin], and die doing so.<END>
+
+[Auron]<NL>
+Guardians give their lives<NL>
+to protect their summoner.<END>
+
+[Auron]<NL>
+The [fayth] are the souls of the dead.<NL>
+Even the maesters of [Yevon2] are unsent.<END>
+
+[Auron]<NL>
+[Spira] is full of death.<END>
+
+[Auron]<NL>
+Only [Sin] is reborn,<NL>
+and then only to bring more death.<END>
+
+[Auron]<NL>
+It is a cycle of death,<NL>
+spiraling endlessly.<END>
+
+[Kinoc]<NL>
+Come out.<NL>
+Your sentence has been decided.<END>
+
+[Auron]<NL>
+Sentence?<NL>
+Don't you mean execution?<END>
+
+[Kinoc]<NL>
+Really, now, what person<NL>
+would execute a dear friend?<END>
+
+[Auron]<NL>
+You would.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,397 @@
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+<NL>
+As sole protectors of the [Farplane],<NL>
+the [Guado] are the supreme race of [Spira].<NEWPAGE>
+<NL>
+We are fundamentally different from the<NL>
+populous humans and the hulking [Ronso].<NEWPAGE>
+<NL>
+But, that's an old story. Now the [Guado]<NL>
+seek harmony with other races.<END>
+
+<NL>
+Let us welcome human and [Ronso]<NL>
+without prejudice.<END>
+
+<NL>
+Lord [Jyscal], back from the [Farplane]?<NL>
+Hahaha, you must be joking!<NEWPAGE>
+<NL>
+He passed away in peace,<NL>
+leaving the leadership to Lord [Seymor].<NEWPAGE>
+<NL>
+He would never come back to haunt us.<END>
+
+<NL>
+Leave the [Farplane] to the [Guado].<NL>
+Do not meddle with matters you know nothing of.<END>
+
+<NL>
+Perhaps Lord [Jyscal] wanted to<NL>
+see his son's new bride.<NEWPAGE>
+<NL>
+Even maesters of [Yevon2] dote on<NL>
+their children sometimes.<END>
+
+<NL>
+Speaking of the incident now<NL>
+will only cloud the joy of the wedding.<NL>
+Say nothing.<END>
+
+<NL>
+Following a half-human was our<NL>
+fatal mistake.<NEWPAGE>
+<NL>
+[Seymor] destroyed the [Guado] single-handedly.<NL>
+Him alone.<END>
+
+<NL>
+[Tromell] now spends his days mourning<NL>
+on the [Farplane]. You won't get<NL>
+a word out of him.<END>
+
+<NL>
+You find it difficult telling<NL>
+us [Guado] apart, don't you?<NEWPAGE>
+<NL>
+I suppose you think we<NL>
+all look the same.<END>
+
+<NL>
+Actually, we [Guado] tend to have trouble<NL>
+telling one human from another, too.<END>
+
+<NL>
+My mother passed away<NL>
+a long time ago.<NEWPAGE>
+<NL>
+But I can always visit the<NL>
+[Farplane] whenever I need her.<END>
+
+<NL>
+I think it's wonderful that we can see<NL>
+the dead whenever we want, don't you?<END>
+
+<NL>
+Who knows when the [Al Bhed] will strike next!<NL>
+Best be on your guard.<END>
+
+<NL>
+Watch over Lady [Yuna] well. After all,<NL>
+she is the [Guado] leader's bride-to-be!<END>
+
+<NL>
+I prayed and prayed on the [Farplane],<NL>
+but Lord [Seymor] did not appear.<END>
+
+<NL>
+I don't care who it is, I just want someone<NL>
+to lead the [Guado] back to greatness.<END>
+
+<NL>
+I'd love to step away from the [Guado Glories]<NL>
+and play for a different team once in a while.<END>
+
+<NL>
+Why, if they paid me enough, I'd<NL>
+even play for the [Al Bhed2]!<END>
+
+<NL>
+We're always practicing<NL>
+out in the [Moonflow].<NEWPAGE>
+<NL>
+But the other day a shoopuf passed<NL>
+by and nearly flattened us!<END>
+
+<NL>
+We also test our reflexes by dodging<NL>
+lightning bolts on the [Thunder Plains].<END>
+
+<NL>
+It's true that many tossed themselves to<NL>
+the [Farplane] in Lord [Seymor]'s name.<NEWPAGE>
+<NL>
+But until recently, I looked up to<NL>
+him so much.<NEWPAGE>
+<NL>
+So I suppose I'd be a<NL>
+hypocrite to belittle him.<END>
+
+<NL>
+I might come across as proud,<NL>
+but my pride is all I have left.<END>
+
+<NL>
+Say, you play for the [Besaid Aurochs].<NL>
+You're [Tidus], right?<NEWPAGE>
+<NL>
+I saw you at the tournament.<NL>
+Let's blitz sometime.<END>
+
+<NL>
+Those fiends really made a mess.<NL>
+Some of my teammates were badly hurt.<END>
+
+<NL>
+Aren't you headed to [Macalania]?<NL>
+Better not keep them waiting.<NEWPAGE>
+<NL>
+Lord [Seymor] may be cool,<NL>
+but [Tromell] has quite a temper, you know.<END>
+
+<NL>
+Come back after the wedding.<NL>
+We'll swap blitz stories!<END>
+
+<NL>
+Our captain is aiming for<NL>
+bigger goals now.<NEWPAGE>
+<NL>
+He says he'll take the helm of the [Guado]!<NL>
+I wonder if he's really serious.<END>
+
+<NL>
+How much [Guado] life would change<NL>
+with a blitzer in charge...<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. XIII!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>S<Cor 41> [RIGHT] <Cor 97>M<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

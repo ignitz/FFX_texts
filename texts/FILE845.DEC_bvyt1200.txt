@@ -1,0 +1,123 @@
+[Tidus]<NL>
+[Yuna]?<END>
+
+[Wakka]<NL>
+Inside, maybe?<END>
+
+[Tidus]<NL>
+Then what are we<NL>
+standing here for?<END>
+
+[Wakka]<NL>
+H-Hey!<END>
+
+[Tidus]<NL>
+You can stuff your taboos!<END>
+
+[Kinoc]<NL>
+There's the last of them.<END>
+
+[Kinoc]<NL>
+You are to stand trial.<END>
+
+[Auron]<NL>
+I expect it will be a fair trial.<END>
+
+[Kinoc]<NL>
+Of course it will.<END>
+
+[Shelinda]<NL>
+I'm afraid the grand maester<NL>
+is nowhere to be found!<END>
+
+[Tidus]<NL>
+S'okay, we were just leaving.<END>
+
+[Shelinda]<NL>
+Oh...I see.<END>
+
+[Rikku]<NL>
+Hey!<END>
+
+[Rikku]<NL>
+Maybe you could<NL>
+help us with the hymn.<END>
+
+[Tidus]<NL>
+Hey, good idea!<END>
+
+[Rikku]<NL>
+It's like, we need you to tell<NL>
+as many people as you can.<END>
+
+[Shelinda]<NL>
+What should I tell them?<END>
+
+[Rikku]<NL>
+A ship in the sky will<NL>
+sing the Hymn of the Fayth.<END>
+
+[Rikku]<NL>
+When they hear it,<NL>
+we need everyone to sing along!<END>
+
+[Wakka]<NL>
+Everyone in Spira!<END>
+
+[Shelinda]<NL>
+I'm not sure I understand.<END>
+
+[Rikku]<NL>
+You don't have to!<NL>
+Just tell everyone!<END>
+
+[Shelinda]<NL>
+A ship in the sky will<NL>
+sing the Hymn of the Fayth?<END>
+
+[Shelinda]<NL>
+So when they hear it,<NL>
+everyone should sing along, correct?<END>
+
+[Tidus]<NL>
+If they do, we might<NL>
+be able to defeat [Sin]!<END>
+
+[Shelinda]<NL>
+Truly?<END>
+
+[Yuna]<NL>
+Yes!<END>
+
+[Shelinda]<NL>
+That's wonderful!<END>
+
+[Shelinda]<NL>
+You can count on me!<NL>
+I shall tell all of Spira!<END>
+
+<TEXT>
+Save current game?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

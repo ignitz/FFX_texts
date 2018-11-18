@@ -1,0 +1,222 @@
+<NL>
+Oooh, them's fascinatin'<NL>
+clothes you're wearing!<END>
+
+<NL>
+Yewh! Filthy, filthy! These won't<NL>
+sell or me name's not [O'aka]!<END>
+
+<NL>
+Don't look like you<NL>
+got much money, either.<END>
+
+<NL>
+I've no business with ye.<NL>
+Outta me way!<END>
+
+[Tidus]<NL>
+Who do you think you are?<END>
+
+<NL>
+[O'aka] XXIII, merchant extraordinaire!<END>
+
+[Tidus]<NL>
+[O'aka] the who?<END>
+
+[O'aka]<NL>
+Don't know me?<NL>
+Well, not many do, not yet.<END>
+
+[O'aka]<NL>
+But someday, the name [O'aka]<NL>
+will be spoken all over [Spira]!<END>
+
+[O'aka]<NL>
+Say, lad, you wouldn't<NL>
+have a bit o' Gil to lend?<END>
+
+[O'aka]<NL>
+I guess it pays to ask!<NL>
+Thank ye kindly, lad!<END>
+
+[O'aka]<NL>
+Fine seed money for the<NL>
+[O'aka] merchant empire!<END>
+
+[O'aka]<NL>
+Eh, it figures.<END>
+
+[O'aka]<NL>
+Have you got some to lend?<END>
+
+[O'aka]<NL>
+Much obliged, lad!<NL>
+I'll be sure to pay ye back!<END>
+
+[O'aka]<NL>
+Should've expected as much.<END>
+
+[Gatta]<NL>
+Restricted area!<NL>
+Our operation depends on this cargo!<END>
+
+[Gatta]<NL>
+Why don't you go topside?<END>
+
+[Gatta]<NL>
+The fresh sea breeze might<NL>
+help restore your memory!<END>
+
+[Luzzu]<NL>
+I'm not at liberty<NL>
+to talk about our plan.<END>
+
+[Luzzu]<NL>
+If people think you're with us,<NL>
+you'll be excommunicated, too!<END>
+
+[Luzzu]<NL>
+Some things you're<NL>
+better off not knowing.<NL>
+Take it from me.<END>
+
+<TEXT>
+Total: <VAR12 30> Gil<END>
+
+<TEXT>
+Total loan: <VAR12 31> Gil<END>
+
+<TEXT>
+[Direcional Cima][Direcional Baixo][Direcional Esquerda][Direcional Direita]Select amount<NL>
+[Botão Círculo]Confirm<END>
+
+<TEXT>
+How much do you want to lend?<NL>
+Lend <CHOICE???>G Gil to [O'aka].<END>
+
+[O'aka]<NL>
+Hey, lad. I appreciate yer offer,<NL>
+but ye ain't got enough Gil.<END>
+
+[O'aka]<NL>
+Ye really gonna lend me <VAR12 32> Gil?<END>
+
+<TEXT>
+<CHOICE1>Wait a minute.<NL>
+<CHOICE2>No sweat.<NL>
+<CHOICE3>Cancel.<END>
+
+<TEXT>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<TEXT>
+<NL>
+"Power Room."<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

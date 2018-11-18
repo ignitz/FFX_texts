@@ -1,0 +1,551 @@
+<TEXT>
+[Lucil]<NL>
+Let's go!<END>
+
+<TEXT>
+<NL>
+Fire!<END>
+
+<TEXT>
+[Lucil]<NL>
+Charge!<END>
+
+[Wakka]<NL>
+It won't work anyway.<END>
+
+[Yuna]<NL>
+Don't say that.<END>
+
+[Yuna]<NL>
+It might be a hopeless campaign,<NL>
+and it might mean defying [Yevon2]...<END>
+
+[Yuna]<NL>
+But the [Crusader]s and the [Al Bhed]--<NL>
+they're doing their best to defeat [Sin].<END>
+
+[Yuna]<NL>
+They want to rid [Spira]<NL>
+of [Sin] forever.<NL>
+<END>
+
+[Yuna]<NL>
+And that's just what<NL>
+we want, too, isn't it?<END>
+
+[Yuna]<NL>
+Isn't it?<END>
+
+[Wakka]<NL>
+Hmph! All right, all right!<END>
+
+[Wakka]<NL>
+But I still think machina are bad news.<NL>
+They're forbidden for a reason!<END>
+
+[Lucil]<NL>
+Lady Summoner!<NL>
+There you are!<END>
+
+[Lucil]<NL>
+The command center is that way.<NL>
+[Maester Kinoc] is also there.<END>
+
+[Yuna]<NL>
+[Maester Kinoc], too?<END>
+
+[Lucil]<NL>
+Yes. Please hurry, my lady.<END>
+
+[Gatta]<NL>
+The operation will begin shortly.<END>
+
+[Gatta]<NL>
+Please check all your equipment.<END>
+
+[Wakka]<NL>
+Um, you all right?<END>
+
+[Gatta]<NL>
+Of course not!<END>
+
+[Gatta]<NL>
+I came here to fight [Sin]!<END>
+
+[Gatta]<NL>
+But they stick me here!<END>
+
+[Auron]<NL>
+If you want to prove yourself...<END>
+
+[Gatta]<NL>
+Huh?<END>
+
+[Auron]<NL>
+first you must complete<NL>
+the tasks you are given.<END>
+
+[Gatta]<NL>
+Just doing what they say?<NL>
+It just won't be enough.<END>
+
+[Gatta]<NL>
+That's right!<NL>
+It's not fair!<END>
+
+[Gatta]<NL>
+You'd think the same if you were me.<END>
+
+[Gatta]<NL>
+I'll do something...even if<NL>
+it means bending the rules.<END>
+
+[Gatta]<NL>
+I've got to show<NL>
+[Luzzu] what I can do.<NL>
+<END>
+
+<NL>
+          <END>
+
+<NL>
+I'd heard from [Seymor], but I<NL>
+didn't know if we'd actually meet.<END>
+
+<NL>
+Good to see you, [Auron]!<NL>
+Ten years, is it?<END>
+
+<NL>
+          <END>
+
+[Lulu]<NL>
+That's Wen [Kinoc], one of<NL>
+the Four Maesters of [Yevon2].<END>
+
+[Lulu]<NL>
+He leads the warrior monks and<NL>
+also commands the [Crusader]s.<END>
+
+[Gatta]<NL>
+All troops ready to move<NL>
+at your command, sir!<END>
+
+[Kinoc]<NL>
+Good. Dismissed.<END>
+
+[Gatta]<NL>
+Sir!<END>
+
+[Kinoc]<NL>
+Tell me, [Auron]. Where have<NL>
+you been the last ten years?<END>
+
+[Auron]<NL>
+We don't have time<NL>
+for this now, do we?<END>
+
+[Kinoc]<NL>
+This plan won't work, you know that.<END>
+
+[Kinoc]<NL>
+We'll just let them<NL>
+dream a little longer.<END>
+
+[Tidus]<NL>
+What?<END>
+
+[Seymor]<NL>
+Lord [Kinoc]...<END>
+
+[Kinoc]<NL>
+Oh, yes. Proceed.<END>
+
+[Auron]<NL>
+That [Kinoc], a maester?<END>
+
+[Kinoc]<NL>
+I heard that, [Auron].<END>
+
+[Kinoc]<NL>
+A lot has happened the last ten years.<NL>
+What were you doing, and where?<END>
+
+[Auron]<NL>
+Fulfilling a promise I made<NL>
+to a friend. I still am.<END>
+
+[Kinoc]<NL>
+Just tell me one thing:<NL>
+Have you seen [Zanarkand]?<END>
+
+[Auron]<NL>
+Go to [Yuna].<END>
+
+[Kinoc]<NL>
+Being a maester has its privileges.<NL>
+I can just sit here and watch.<END>
+
+[Wakka]<NL>
+With them here, it's like [Yevon2]<NL>
+authorizes this whole operation!<END>
+
+[Lulu]<NL>
+Anything could happen.<NL>
+Make sure you're ready for combat.<END>
+
+[Yuna]<NL>
+I'm a little nervous.<END>
+
+[Yuna]<NL>
+I kinda...think we don't belong here.<END>
+
+<NL>
+It is time at last.<END>
+
+<NL>
+We must tell the [Al Bhed] waiting outside<NL>
+to begin the operation at once.<END>
+
+<NL>
+The fiends may break through.<NL>
+This place is not safe.<END>
+
+<NL>
+Make sure you're prepared<NL>
+to defend yourselves.<NL>
+Tell me when you're ready.<END>
+
+<NL>
+Are you ready?<END>
+
+<NL>
+Please hurry.<END>
+
+<NL>
+[Maester Kinoc]. Please.<END>
+
+[Yuna]<NL>
+Will [Sin] come?<END>
+
+<NL>
+[Sin] always returns for its spawn.<END>
+
+<NL>
+To make sure, we're going to<NL>
+encourage them to call out to it.<END>
+
+[Auron]<NL>
+You won't have to.<NL>
+It'll come.<END>
+
+<NL>
+I remembered [Auron] telling me.<END>
+
+<NL>
+[Sin] is my old man.<NL>
+[Sin] is [Jecht].<END>
+
+[Auron]<NL>
+Look out!<END>
+
+[O'aka]<NL>
+What can I do for ya?<END>
+
+[O'aka]<NL>
+Monopoly's a great thing! Things are<NL>
+sellin' no matter what the price!<END>
+
+[O'aka]<NL>
+Oops! Sorry, I forgot.<END>
+
+[O'aka]<NL>
+Welcome to [O'aka]'s!<END>
+
+<NL>
+We're only moments away from<NL>
+commencing [Operation Mi'ihen].<NEWPAGE>
+<NL>
+[Spira]'s fate hangs on the<NL>
+outcome of this mission.<NEWPAGE>
+<NL>
+We will do our duty as soldiers<NL>
+and defeat [Sin] this day!<END>
+
+<NL>
+Sir!<END>
+
+<NL>
+Man, you'd think he'd shut up<NL>
+after five times--or was that six?<END>
+
+<NL>
+The captain just keeps repeating himself.<NL>
+He must be really nervous.<END>
+
+<NL>
+It's important to spur my men on every<NL>
+now and then. Maybe I should give<NL>
+them another pep talk to be sure...<END>
+
+<NL>
+The operation will begin momentarily.<NL>
+Please do not leave this area.<END>
+
+<NL>
+Please remain within this area.<END>
+
+<NL>
+We have the ancient [machina].<NL>
+The operation will succeed.<NEWPAGE>
+<NL>
+Our [machina] will prove that<NL>
+[Yevon2]'s teachings are not the way.<END>
+
+<NL>
+A [summoner]...<NL>
+I shall report this later.<END>
+
+<NL>
+Being around [Yevon2]'s<NL>
+followers makes me sick.<END>
+
+<NL>
+We're inspecting the<NL>
+weapons right now.<END>
+
+<NL>
+They're [Al Bhed] machina, so<NL>
+we have to be extra cautious.<END>
+
+<NL>
+So far so good.<NL>
+I'm gonna run more tests.<END>
+
+<NL>
+Come on!<NL>
+Swing like a man!<NEWPAGE>
+<NL>
+Do you wanna avenge your<NL>
+sister or don't you?<END>
+
+<NL>
+Okay, come on now!<NL>
+Pretend I'm a fiend!<END>
+
+<NL>
+I'm gonna beat [Sin]!<NL>
+I'm gonna beat it!<NEWPAGE>
+<NL>
+I'm gonna beat it no matter what!<END>
+
+<NL>
+Die, die, die!<END>
+
+<TEXT>
+<CHOICE1>Yeah, you should be out on the front lines.<NL>
+<CHOICE2>Guarding the command center is important, too.<END>
+
+<TEXT>
+<CHOICE1>Not yet.<NL>
+<CHOICE2>Yes.<END>
+
+<TEXT>
+<CHOICE1>Got any weapons?<NL>
+<CHOICE2>Got any items?<NL>
+<CHOICE3>Leave.<END>
+
+<NL>
+Yeah? What do you wanna know?<END>
+
+<TEXT>
+<CHOICE1>About the cannons.<NL>
+<CHOICE2>About the Chocobo Knights.<NL>
+<CHOICE3>About this operation.<NL>
+<CHOICE4>Never mind.<END>
+
+<NL>
+The [Al Bhed2] provided us with<NL>
+these cannons at no charge.<NEWPAGE>
+<NL>
+I hate the bastards, but I've got<NL>
+a little respect for them now.<END>
+
+<NL>
+These cannons have good range.<NL>
+We'll give [Sin] a shower it<NL>
+won't soon forget!<END>
+
+<NL>
+Only a select few can become<NL>
+Chocobo Knights.<NEWPAGE>
+<NL>
+You have to be a skilled rider or<NL>
+achieve some combat merit to become one.<NEWPAGE>
+<NL>
+Captain [Lucil] is no doubt the best<NL>
+of the bunch right now.<END>
+
+<NL>
+I just don't know how that wimp [Clasko]<NL>
+got knighted.<NEWPAGE>
+<NL>
+Well, he is good at earning<NL>
+their trust--the chocobos, that is.<END>
+
+<NL>
+We've researched [Sin]'s past behaviors<NL>
+in planning this operation.<NEWPAGE>
+<NL>
+[Sin] often turns up where its [sinspawn] are.<NEWPAGE>
+<NL>
+So we hunted down the [sinspawn] at various<NL>
+places and brought them here to lure it.<NEWPAGE>
+<NL>
+When it shows up, we're gonna hit it with<NL>
+the ancient machina, and it's bye-bye [Sin].<END>
+
+<NL>
+The [Crusader]s' responsibility is<NL>
+to lure [Sin] and immobilize it.<NEWPAGE>
+<NL>
+The [Al Bhed] will deliver the<NL>
+finishing blow.<NEWPAGE>
+<NL>
+I wish it could be the other way around,<NL>
+but as long as we defeat [Sin], who cares.<END>
+
+<NL>
+I'm short on various stuff,<NL>
+so I'm trying to buy them now.<NEWPAGE>
+<NL>
+Everything seems a bit pricier than usual.<NL>
+<END>
+
+<NL>
+Well, I guess I should just be thankful.<NL>
+I never imagined I could buy stuff out here.<END>
+
+<NL>
+Time to shop!<END>
+
+<NL>
+That merchant's obviously<NL>
+ripping people off.<NEWPAGE>
+<NL>
+I guess it can't be helped.<NL>
+He's the only game out here.<END>
+
+<NL>
+I asked him for a discount, and<NL>
+do you know what he said to me?<NEWPAGE>
+<NL>
+"Ye gonna die anyway,<NL>
+so what's the point?"<END>
+
+<NL>
+I wonder what that merchant's gonna do<NL>
+when the battle starts.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

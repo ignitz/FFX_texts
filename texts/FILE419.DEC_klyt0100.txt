@@ -1,0 +1,263 @@
+<NL>
+          <END>
+
+[Wakka]<NL>
+These stone steps have<NL>
+a history, you know?<END>
+
+[Wakka]<NL>
+Yep, Lord [Ohalland]<NL>
+trained here at his peak.<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+A race, huh?<END>
+
+[Tidus]<NL>
+Think you can beat me?<END>
+
+[Wakka]<NL>
+[Yuna], if you would.<END>
+
+[Yuna]<NL>
+Ready?<END>
+
+[Wakka]<NL>
+Hey! Hey!<END>
+
+[Lulu]<NL>
+Kids...<END>
+
+Datto<NL>
+L-Look out!<END>
+
+[Wakka]<NL>
+Everyone, quick!<NL>
+Sinspawn!<END>
+
+[Tidus]<NL>
+Yeesh!<END>
+
+[Wakka]<NL>
+Sorry about that!<NL>
+Hoped to break you in a little slower.<END>
+
+[Tidus]<NL>
+Being a guardian's tiring!<END>
+
+[Wakka]<NL>
+You handled yourself pretty well.<NL>
+You got talent.<END>
+
+[Tidus]<NL>
+Nah.<END>
+
+[Tidus]<NL>
+So, what are these<NL>
+"[sinspawn]" anyway?<END>
+
+[Lulu]<NL>
+Fiends. They fall from [Sin]'s body,<NL>
+and are left behind in its wake.<END>
+
+[Wakka]<NL>
+Leave 'em alone, and [Sin] comes<NL>
+back for 'em. You gotta be quick!<END>
+
+<NL>
+That moment when [Wakka] told<NL>
+me I had talent in battle...<END>
+
+<NL>
+I think that was when I started seriously<NL>
+considering becoming a guardian.<END>
+
+[Wakka]<NL>
+So, uh...they got fiends<NL>
+in [Zanarkand], too?<END>
+
+[Tidus]<NL>
+Just a few. It's a big deal when<NL>
+one shows up, though.<END>
+
+[Tidus]<NL>
+Hey! Since when have you believed<NL>
+me about [Zanarkand], anyway?<END>
+
+[Wakka]<NL>
+I been thinking.<END>
+
+[Wakka]<NL>
+Maybe people [Sin]<NL>
+gets to don't die.<END>
+
+[Wakka]<NL>
+Maybe [Sin] carries 'em through time.<NL>
+Like a thousand years through time.<END>
+
+[Wakka]<NL>
+And then, one day,<NL>
+maybe they just pop back, see?<END>
+
+[Lulu]<NL>
+Amazing. Simply amazing.<END>
+
+[Lulu]<NL>
+You make up one theory after another,<NL>
+refusing to face the simple truth.<END>
+
+[Lulu]<NL>
+[Sin] didn't take<NL>
+[Chappu] anywhere.<END>
+
+[Lulu]<NL>
+[Sin] crushed him and left him<NL>
+on the [Djose] shore!<END>
+
+[Lulu]<NL>
+Your brother won't just pop back.<END>
+
+[Lulu]<NL>
+Oh, and one more thing.<END>
+
+[Lulu]<NL>
+No matter how much you want it,<NL>
+no one can take [Chappu]'s place.<END>
+
+[Lulu]<NL>
+No one can replace<NL>
+Sir [Jecht], for that matter.<END>
+
+[Lulu]<NL>
+And there's no replacement<NL>
+for Lord [Braska], either.<END>
+
+[Lulu]<NL>
+It's pointless to think<NL>
+about it, and sad.<END>
+
+[Wakka]<NL>
+I...I could never be<NL>
+what [Chappu] was.<END>
+
+[Wakka]<NL>
+Well, stuff happens.<NL>
+Best not to worry.<END>
+
+<NL>
+[Wakka], [Lulu], and<NL>
+[Wakka]'s brother [Chappu].<END>
+
+<NL>
+Something had happened between them<NL>
+a long time ago. I was sure of it.<END>
+
+<NL>
+Well, whatever it was, it was none<NL>
+of my business, that's for sure.<NL>
+Best not to go there.<END>
+
+<NL>
+You, there!<NL>
+Your kind is not welcome in this holy place!<NEWPAGE>
+<NL>
+You shall not pass!<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

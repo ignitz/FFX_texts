@@ -1,0 +1,40 @@
+[Wakka]<NL>
+[Yuna]! Where are you?<END>
+
+[Wakka]<NL>
+What in Yevon's name are<NL>
+those [Guado] thinking?<END>
+
+[Rikku]<NL>
+This is terrible!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

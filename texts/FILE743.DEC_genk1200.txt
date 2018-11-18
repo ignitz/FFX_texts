@@ -1,0 +1,246 @@
+<CHOICE1>Not yet.<NL>
+<CHOICE2>Let me on!<END>
+
+<NL>
+Shoopuf shleeping.<NL>
+Wait until shoopuf wake up?<END>
+
+<NL>
+Seems you destroyed the [Al Bhed2]'s<NL>
+machina. That's some dedication.<NL>
+You'll receive a blessing from [Yevon2].<NEWPAGE>
+<NL>
+It'll be necessary to strengthen security so<NL>
+that the [Al Bhed] won't get their way anymore.<END>
+
+<NL>
+The [Al Bhed2] hide their green eyes<NL>
+with goggles. They're known to<NL>
+resort to petty tricks like that.<END>
+
+<NL>
+[Sin] took my daughter, but I just saw<NL>
+her again for the first time in five years.<NEWPAGE>
+<NL>
+That [Guadosalam] place was amazing.<END>
+
+<NL>
+I've seen my daughter, so I have no regrets.<NL>
+I'm ready for the [Farplane] anytime now.<END>
+
+<NL>
+After seeing my dead daughter again,<NL>
+I felt complete and free of any worry.<END>
+
+<NL>
+The wedding will be an absolute joy. It's good<NL>
+to be able to experience all this, I tell you.<END>
+
+<NL>
+I thought I was lucky not to run into any<NL>
+wily merchants on this side of the shore.<NEWPAGE>
+<NL>
+But I ended up buying something<NL>
+from that man over there.<END>
+
+<NL>
+His goods are cheaper than the other merchants',<NL>
+but he seems kind of suspicious.<END>
+
+<NL>
+Everyone seems happy.<NL>
+Did something good happen?<NEWPAGE>
+<NL>
+[Sin] might arrive any time now and<NL>
+everyone just seems so laid back.<END>
+
+<NL>
+People want to forget their anxiety about [Sin],<NL>
+so they absorb themselves in festivities.<END>
+
+<NL>
+The [Al Bhed2] seem docile nowadays,<NL>
+but it always pays to be cautious.<END>
+
+<NL>
+I believe that an [Al Bhed2] conspiracy<NL>
+is behind all the chaos in the temple.<END>
+
+<NL>
+An [Al Bhed2] ship is<NL>
+battling [Sin], right?<NEWPAGE>
+<NL>
+I'm certain it's a ploy to win<NL>
+favor with the temple!<END>
+
+<NL>
+Even if the [Al Bhed2] do something nice,<NL>
+I can't bring myself to trust them.<END>
+
+<NL>
+My wife and I ran away<NL>
+from [Bevelle].<NEWPAGE>
+<NL>
+I thought we could forget the terror of [Sin]<NL>
+if we lived in the heart of [Yevon2]...<NEWPAGE>
+<NL>
+Boy, was I wrong.<END>
+
+<NL>
+I've expended all my energy coming here<NL>
+and I can't run any farther.<END>
+
+<NL>
+If I could ride the flying ship,<NL>
+I'm sure I could get back in a jiffy. <END>
+
+<NL>
+I've expended all my energy coming here<NL>
+and I can't run any farther.<END>
+
+<NL>
+We're hoping to return to<NL>
+our hometown of [Kilika].<NEWPAGE>
+<NL>
+First we must cross the [Moonflow], pass<NL>
+through [Djose], then travel the<NL>
+[Mushroom Rock Road] and the [Mi'ihen Highroad]...<NEWPAGE>
+<NL>
+After that, it's onto the [S.S. Winno]...<NL>
+Phew! There's a long way to go, isn't there?<END>
+
+<NL>
+I wonder how long it'll<NL>
+take to reach our hometown?<END>
+
+<NL>
+We were lucky we left<NL>
+[Bevelle] in a hurry.<NEWPAGE>
+<NL>
+If we'd waited much longer to get out,<NL>
+we would've been killed by [Sin].<END>
+
+<NL>
+This area may also become a battlefield...<NL>
+Perhaps it's better to run farther away?<END>
+
+[Auron]<NL>
+Guard [Yuna].<END>
+
+Driver<NL>
+Ride ze shoopuf?<END>
+
+Driver<NL>
+Shoopuf's waiting!<END>
+
+Driver<NL>
+All aboardss!<END>
+
+[O'aka]<NL>
+[O'aka], at your service!<END>
+
+<TEXT>
+<CHOICE1>Whatcha got?<NL>
+<CHOICE2>Leave.<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. XII!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>M<Cor 41> [RIGHT] <Cor 97>L<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,119 @@
+[Tidus]<NL>
+Got it!<END>
+
+[Cid]<NL>
+Couldn't have done it without you!<END>
+
+[Cid]<NL>
+All right!<END>
+
+[Cid]<NL>
+Everyone look sharp!<NL>
+Time to hit the other side!<END>
+
+[Rikku]<NL>
+Easy for you to say!<END>
+
+[Rikku]<NL>
+The main gun's busted!<END>
+
+[Cid]<NL>
+Dang it! All right, back inside!<NL>
+Time for another plan!<END>
+
+[Tidus]<NL>
+No! We're going in!<END>
+
+[Tidus]<NL>
+Every blitzer knows: when you got<NL>
+the ball, you gotta score!<END>
+
+[Yuna]<NL>
+Let's go!<END>
+
+[Rikku]<NL>
+See you there!<END>
+
+[Lulu]<NL>
+A day with you is never dull!<END>
+
+[Wakka]<NL>
+Go, go, go!<END>
+
+[Auron]<NL>
+Foolhardy...<NL>
+but fun plan.<END>
+
+[Kimahri]<NL>
+On my honor as [Ronso]!<END>
+
+[Tidus]<NL>
+Hey! Star players first!<END>
+
+<TEXT>
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

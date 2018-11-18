@@ -1,0 +1,166 @@
+[Jecht]<NL>
+Smallest heap of huts I ever seen!<END>
+
+[Braska]<NL>
+Now, that looks like<NL>
+a fine place to live.<END>
+
+[Braska]<NL>
+Hmm...<END>
+
+[Braska]<NL>
+[Auron].<END>
+
+[Auron]<NL>
+My lord?<END>
+
+[Braska]<NL>
+When this is over...<NL>
+could you bring [Yuna] here?<END>
+
+[Braska]<NL>
+I want her to lead a life<NL>
+far away from this conflict.<END>
+
+[Auron]<NL>
+You have my word.<NL>
+I will bring her here.<END>
+
+[Braska]<NL>
+Thank you, [Auron].<NL>
+You are a good friend.<END>
+
+[Jecht]<NL>
+What are you guys doin'?<NL>
+Let's go!<END>
+
+[Jecht]<NL>
+I'm so hungry<NL>
+I could eat a shoopuf whole!<END>
+
+[Braska]<NL>
+Sorry.<NL>
+Well, let's go then.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

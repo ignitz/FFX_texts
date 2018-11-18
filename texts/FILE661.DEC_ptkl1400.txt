@@ -1,0 +1,161 @@
+<NL>
+Did you rest well?<END>
+
+<NL>
+The others left some time ago.<END>
+
+<NL>
+Hey, wait a minute!<END>
+
+<NL>
+You should save your records<NL>
+onto the Save Sphere.<END>
+
+<NL>
+Still sleepy?<END>
+
+<NL>
+Everyone else has already left.<END>
+
+<NL>
+We're still cleaning up here.<NEWPAGE>
+<NL>
+Uh...<NL>
+Shouldn't you be on your way?<END>
+
+<NL>
+We're still cleaning up here.<END>
+
+<NL>
+This is my home, and no matter<NL>
+how bad it gets, I ain't movin'.<END>
+
+<NL>
+Repairs to the village are going well,<NL>
+but it'll take more than wood to<NL>
+repair the hearts of the people.<NEWPAGE>
+<NL>
+The young'uns are all packing<NL>
+up and leaving the island.<END>
+
+<NL>
+I ain't leaving my home.<NL>
+Nope. Never, I tell you.<END>
+
+<NL>
+The people of [Kilika]<NL>
+are used to destruction.<NL>
+It's nothing new.<END>
+
+<NL>
+I just want to live in<NL>
+[Kilika] in peace.<NEWPAGE>
+<NL>
+That's all I ask for.<END>
+
+<NL>
+I'm gonna be a blitzball<NL>
+when I grow up!<END>
+
+<NL>
+When I grow up, I'm gonna<NL>
+ride the flying ship!<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

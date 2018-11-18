@@ -1,0 +1,1035 @@
+<TEXT>
+<CHOICE1>League<NL>
+<CHOICE2><Cor 52>Tournament<Cor 41><NL>
+<CHOICE3>Exhibition<NL>
+<CHOICE4>Tutorial<NL>
+<CHOICE5>Team Data<NL>
+<CHOICE6>Cancel<NL>
+<CHOICE7>Reset Data<END>
+
+<TEXT>
+<CHOICE1>League<NL>
+<CHOICE2>Tournament<NL>
+<CHOICE3>Exhibition<NL>
+<CHOICE4>Tutorial<NL>
+<CHOICE5>Team Data<NL>
+<CHOICE6>Cancel<NL>
+<CHOICE7>Reset Data<END>
+
+<TEXT>
+<NL>
+Spira League: Round <VAR12 30><NL>
+<VAR07 50><VAR12 31><VAR07 78>vs. <VAR12 32><NL>
+<VAR07 50><VAR12 33><VAR07 78>vs. <VAR12 34><NL>
+<VAR07 50><VAR12 35><VAR07 78>vs. <VAR12 36><END>
+
+<TEXT>
+<NL>
+Starting game vs. <VAR12 30>.<END>
+
+<TEXT>
+<NL>
+<VAR07 8F><VAR12 30><NL>
+<VAR12 3D><VAR07 8F><VAR12 31><NL>
+<VAR07 8F><VAR12 32><NL>
+<VAR07 8F><VAR12 33><NL>
+<VAR07 8F><VAR12 34><NL>
+<VAR07 8F><VAR12 35><NL>
+<VAR07 44><VAR12 3C><VAR07 72><VAR12 3A><NL>
+<VAR07 72><VAR12 3B><END>
+
+<TEXT>
+<NL>
+Yevon Cup Finals<NL>
+Championship Match:<NL>
+<VAR12 31> vs. <VAR12 32><NL>
+<NL>
+Consolation Match:<NL>
+<VAR12 33> vs. <VAR12 34><END>
+
+<TEXT>
+<NL>
+Yevon Cup: Round <VAR12 30><NL>
+<VAR07 50><VAR12 31><VAR07 78>vs. <VAR12 32><NL>
+<VAR07 50><VAR12 33><VAR07 78>vs. <VAR12 34><END>
+
+<TEXT>
+There is no tournament being held at this time.<END>
+
+<TEXT>
+<CHOICE1> vs. Luca Goers<NL>
+<CHOICE2> vs. Kilika Beasts<NL>
+<CHOICE3> vs. Al Bhed Psyches<NL>
+<CHOICE4> vs. Ronso Fangs<NL>
+<CHOICE5> vs. Guado Glories<END>
+
+<TEXT>
+<Cor 43>Team Data<Cor 41><NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7>Cancel<END>
+
+<TEXT>
+<Cor 43>Team Data<Cor 41><NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8>Cancel<END>
+
+<TEXT>
+<Cor 43>Team Data<Cor 41><NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><NL>
+<CHOICE9>Cancel<END>
+
+<TEXT>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+All player data and abilities will<NL>
+be reset to the default settings.<END>
+
+<TEXT>
+Reset data?<NL>
+<CHOICE1>No<NL>
+<CHOICE2>Yes<END>
+
+<TEXT>
+<NL>
+<Cor 43>Assign Positions<Cor 41><NL>
+Select this game's Left<NL>
+Forward [']LF[/'], Right Forward<NL>
+[']RF[/'], Midfielder [']MF[/'], Left<NL>
+Defense [']LD[/'], Right Defense<NL>
+[']RD[/'], and Goalkeeper [']GL[/'].<END>
+
+<TEXT>
+<NL>
+Positions<NL>
+<VAR12 30><NL>
+<VAR12 31><NL>
+<VAR12 32><NL>
+<VAR12 33><NL>
+<VAR12 34><NL>
+<VAR12 35><END>
+
+<TEXT>
+Proceed?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+<NL>
+<Cor 43>Set Player Techniques<Cor 41><NL>
+Players level three and up<NL>
+can use techniques.<NL>
+Available slots multiply as<NL>
+a player goes up levels, up<NL>
+to a maximum of five slots.<END>
+
+<TEXT>
+Set Techs<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7>Done<END>
+
+<TEXT>
+<NL>
+Set Techs<NL>
+<VAR12 30><NL>
+<VAR12 31><NL>
+<VAR12 32><NL>
+<VAR12 33><NL>
+<VAR12 34><NL>
+<VAR12 35><NL>
+Done<END>
+
+<TEXT>
+<CHOICE1><VAR12 30><END>
+
+<TEXT>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><END>
+
+<TEXT>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><END>
+
+<TEXT>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><END>
+
+<TEXT>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><END>
+
+<TEXT>
+<NL>
+<VAR12 30><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<VAR12 31><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<VAR12 31><NL>
+<VAR12 32><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<VAR12 31><NL>
+<VAR12 32><NL>
+<VAR12 33><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<VAR12 31><NL>
+<VAR12 32><NL>
+<VAR12 33><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<VAR07 48>Current HP: <VAR12 33><NL>
+<Cor B1>Key Techniques:<Cor 41><NL>
+<VAR12 30>  <VAR12 31>  <VAR12 32><END>
+
+<TEXT>
+<CHOICE1><VAR12 31><VAR07 67><CHOICE???> <VAR12 3B><VAR07 8E><CHOICE???>*<VAR12 45><NL>
+<CHOICE2><VAR12 32><VAR07 67><CHOICE???>!<VAR12 3C><VAR07 8E><CHOICE???>+<VAR12 46><NL>
+<CHOICE3><VAR12 33><VAR07 67><CHOICE???>"<VAR12 3D><VAR07 8E><CHOICE???>,<VAR12 47><NL>
+<CHOICE4><VAR12 34><VAR07 67><CHOICE???>#<VAR12 3E><VAR07 8E><CHOICE???>-<VAR12 48><NL>
+<CHOICE5><VAR12 35><VAR07 67><CHOICE???>$<VAR12 3F><VAR07 8E><CHOICE???>.<VAR12 49><NL>
+<CHOICE6><VAR12 36><VAR07 67><CHOICE???>%<VAR12 40><VAR07 8E><CHOICE???>/<VAR12 4A><NL>
+<CHOICE7><VAR12 37><VAR07 67><CHOICE???>&<VAR12 41><VAR07 8E><CHOICE???>:<VAR12 4B><NL>
+<CHOICE8><VAR12 38><VAR07 67><CHOICE???>'<VAR12 42><VAR07 8E><CHOICE???>;<VAR12 4C><NL>
+<CHOICE9><VAR12 39><VAR07 67><CHOICE???>[']<VAR12 43><VAR07 8E><CHOICE???><<VAR12 4D><NL>
+<CHOICE???>9<VAR12 3A><VAR07 67><CHOICE???>[/']<VAR12 44><VAR07 8E><CHOICE???>=<VAR12 4E><NL>
+<VAR07 8E><CHOICE???>>Drop Tech<NL>
+<VAR07 8E><CHOICE???>?Next Page<VAR07 AC><NL>
+<NL>
+<END>
+
+<TEXT>
+<CHOICE1><VAR12 31><VAR07 67><CHOICE???> <VAR12 3B><VAR07 8E><CHOICE???>*<VAR12 45><NL>
+<CHOICE2><VAR12 32><VAR07 67><CHOICE???>!<VAR12 3C><VAR07 8E><CHOICE???>+<VAR12 46><NL>
+<CHOICE3><VAR12 33><VAR07 67><CHOICE???>"<VAR12 3D><VAR07 8E><CHOICE???>,<VAR12 47><NL>
+<CHOICE4><VAR12 34><VAR07 67><CHOICE???>#<VAR12 3E><VAR07 8E><CHOICE???>-<VAR12 48><NL>
+<CHOICE5><VAR12 35><VAR07 67><CHOICE???>$<VAR12 3F><VAR07 8E><CHOICE???>.<VAR12 49><NL>
+<CHOICE6><VAR12 36><VAR07 67><CHOICE???>%<VAR12 40><VAR07 8E><CHOICE???>/<VAR12 4A><NL>
+<CHOICE7><VAR12 37><VAR07 67><CHOICE???>&<VAR12 41><VAR07 8E><CHOICE???>:<VAR12 4B><NL>
+<CHOICE8><VAR12 38><VAR07 67><CHOICE???>'<VAR12 42><VAR07 8E><CHOICE???>;<VAR12 4C><NL>
+<CHOICE9><VAR12 39><VAR07 67><CHOICE???>[']<VAR12 43><VAR07 8E><CHOICE???><<VAR12 4D><NL>
+<CHOICE???>9<VAR12 3A><VAR07 67><CHOICE???>[/']<VAR12 44><VAR07 8E><CHOICE???>=<VAR12 4E><NL>
+<VAR07 8E><CHOICE???>>Drop Tech<NL>
+<VAR07 8E><CHOICE???>?Previous Page<VAR07 AC><NL>
+<NL>
+<END>
+
+<TEXT>
+Not enough HP to equip.<END>
+
+<TEXT>
+<NL>
+<Cor 43>Set Mark<Cor 41><NL>
+Makes players follow their<NL>
+mark in Mark Mode and learn<NL>
+their techniques.<NL>
+Players can only learn<NL>
+Techs highlighted in blue.<END>
+
+<TEXT>
+Set Mark<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7>Done<END>
+
+<TEXT>
+<NL>
+Set Mark<NL>
+<VAR12 30><NL>
+<VAR12 31><NL>
+<VAR12 32><NL>
+<VAR12 33><NL>
+<VAR12 34><NL>
+<VAR12 35><NL>
+Done<END>
+
+<TEXT>
+Mark:<NL>
+<CHOICE1><VAR12 38><NL>
+<CHOICE2><VAR12 39><NL>
+<CHOICE3><VAR12 3A><NL>
+<CHOICE4><VAR12 3B><NL>
+<CHOICE5><VAR12 3C><NL>
+<CHOICE6><VAR12 3D><NL>
+<CHOICE7>No Mark<END>
+
+<TEXT>
+Proceed?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+<NL>
+<VAR12 30><END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  SH +<VAR12 32><NL>
+Knocks away up to two<NL>
+opposing players.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  SH +<VAR12 32><NL>
+Invisible shot. Knocks away<NL>
+three opposing players. <END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  SH +<VAR12 32><NL>
+Adds random amount to SH.<NL>
+Press [Botão Círculo] to select.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  SH +<VAR12 32><NL>
+Control direction with left<NL>
+stick. <VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  SH +<VAR12 32><NL>
+Poisons goalkeeper.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  SH +<VAR12 32><NL>
+Poisons goalkeeper.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  SH +<VAR12 32><NL>
+Poisons goalkeeper.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  SH +<VAR12 32><NL>
+Puts goalkeeper to sleep.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  SH +<VAR12 32><NL>
+Puts goalkeeper to sleep.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  SH +<VAR12 32><NL>
+Puts goalkeeper to sleep.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  SH +<VAR12 32><NL>
+Lowers goalie's BL and CA.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  SH +<VAR12 32><NL>
+Lowers goalie's BL and CA.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  SH +<VAR12 32><NL>
+Lowers goalie's BL and CA.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  PA +<VAR12 32><NL>
+Poisons opponents.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  PA +<VAR12 32><NL>
+Poisons opponents.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  PA +<VAR12 32><NL>
+Poisons opponents.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  PA +<VAR12 32><NL>
+Puts opponents to sleep.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  PA +<VAR12 32><NL>
+Puts opponents to sleep.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  PA +<VAR12 32><NL>
+Puts opponents to sleep.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  PA +<VAR12 32><NL>
+Lowers opponents' EN, AT,<NL>
+and BL. <VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  PA +<VAR12 32><NL>
+Lowers opponents' EN, AT,<NL>
+and BL. <VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  PA +<VAR12 32><NL>
+Lowers opponents' EN, AT,<NL>
+and BL. <VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31><NL>
+Player can shoot free balls<NL>
+unblocked. <VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31><NL>
+Player can shoot free balls<NL>
+unblocked. <VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31><NL>
+Player can shoot free balls<NL>
+unblocked. <VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  AT +<VAR12 32><NL>
+Inflicts poison.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  AT +<VAR12 32><NL>
+Inflicts poison.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  AT +<VAR12 32><NL>
+Inflicts poison.<NL>
+<VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  AT +<VAR12 32><NL>
+Puts target to sleep if EN is<NL>
+reduced to 0. 100% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  AT +<VAR12 32><NL>
+Puts target to sleep if EN is<NL>
+reduced to 0. 100% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  AT +<VAR12 32><NL>
+Puts target to sleep if EN is<NL>
+reduced to 0. 100% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  AT +<VAR12 32><NL>
+Lowers target's EN, PA,<NL>
+and SH. <VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  AT +<VAR12 32><NL>
+Lowers target's EN, PA,<NL>
+and SH. <VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  AT +<VAR12 32><NL>
+Lowers target's EN, PA,<NL>
+and SH. <VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Absorbed: <VAR12 31>  AT +<VAR12 32><NL>
+Absorb HP. Own HP must be<NL>
+over <VAR12 31>. <VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Absorbed: <VAR12 31>  AT +<VAR12 32><NL>
+Absorb HP. Own HP must be<NL>
+over <VAR12 31>. <VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Absorbed: <VAR12 31>  AT +<VAR12 32><NL>
+Absorb HP. Own HP must be<NL>
+over <VAR12 31>. <VAR12 33>% chance.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31> <VAR12 33>% chance<NL>
+Evade tackles. Player may be<NL>
+disoriented after evading.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31> <VAR12 33>% chance<NL>
+Evade tackles. Player may be<NL>
+disoriented after evading.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31> <VAR12 33>% chance<NL>
+Blocks poison.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31> <VAR12 33>% chance<NL>
+Blocks poison.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31> <VAR12 33>% chance<NL>
+Blocks sleep.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31> <VAR12 33>% chance<NL>
+Blocks sleep.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31> <VAR12 33>% chance<NL>
+Prevents stat reduction.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31> <VAR12 33>% chance<NL>
+Prevents stat reduction.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31> <VAR12 33>% chance<NL>
+Prevents HP drain.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31> <VAR12 33>% chance<NL>
+Prevents HP drain.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31><NL>
+Puts spin on the ball. Harder<NL>
+for goalkeeper to control.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31><NL>
+Raises goalkeeper's ball<NL>
+control ability.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+Equip HP Cost: <VAR12 31><NL>
+Find and intercept the ball<NL>
+carrier from farther away.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31> <VAR12 33>% chance<NL>
+Participate in encounters<NL>
+from farther away.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+Equip HP Cost: <VAR12 31><NL>
+Cumulate poison effects.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+Equip HP Cost: <VAR12 31><NL>
+Cumulate the effects of<NL>
+stat-lowering techniques.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+Equip HP Cost: <VAR12 31><NL>
+Speeds up HP recovery when<NL>
+not carrying the ball.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31> <VAR12 33>% chance<NL>
+Powers up player after<NL>
+waking from sleep.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+Equip HP Cost: <VAR12 31><NL>
+Lowers all stats to 1/2, but<NL>
+doubles experience points.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+Equip HP Cost: <VAR12 31>  AT +<VAR12 32><NL>
+Slows SH and PA loss<NL>
+during passes and shots.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31> <VAR12 33>% chance<NL>
+Stats randomized after<NL>
+waking. Press [Botão Círculo] to select.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>+ <VAR12 33>% chance<NL>
+Adds random amount to CA.<NL>
+Press [Botão Círculo] to select.<END>
+
+<TEXT>
+<NL>
+<Cor 43><VAR12 30><Cor 41><NL>
+HP Cost: <VAR12 31>  SH +<VAR12 32><NL>
+Sum of original [Aurochs]'s SH<NL>
+on team added to [Wakka]'s!<END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<VAR12 31><NL>
+<VAR12 32><NL>
+<VAR12 33><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<Cor B1><VAR12 30><Cor 41><NL>
+<VAR12 31><NL>
+<VAR12 32><NL>
+<VAR12 33><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<Cor B1><VAR12 31><Cor 41><NL>
+<VAR12 32><NL>
+<VAR12 33><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<Cor B1><VAR12 30><Cor 41><NL>
+<Cor B1><VAR12 31><Cor 41><NL>
+<VAR12 32><NL>
+<VAR12 33><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<VAR12 31><NL>
+<Cor B1><VAR12 32><Cor 41><NL>
+<VAR12 33><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<Cor B1><VAR12 30><Cor 41><NL>
+<VAR12 31><NL>
+<Cor B1><VAR12 32><Cor 41><NL>
+<VAR12 33><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<Cor B1><VAR12 31><Cor 41><NL>
+<Cor B1><VAR12 32><Cor 41><NL>
+<VAR12 33><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<Cor B1><VAR12 30><Cor 41><NL>
+<Cor B1><VAR12 31><Cor 41><NL>
+<Cor B1><VAR12 32><Cor 41><NL>
+<VAR12 33><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<VAR12 31><NL>
+<VAR12 32><NL>
+<Cor B1><VAR12 33><Cor 41><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<Cor B1><VAR12 30><Cor 41><NL>
+<VAR12 31><NL>
+<VAR12 32><NL>
+<Cor B1><VAR12 33><Cor 41><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<Cor B1><VAR12 31><Cor 41><NL>
+<VAR12 32><NL>
+<Cor B1><VAR12 33><Cor 41><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<Cor B1><VAR12 30><Cor 41><NL>
+<Cor B1><VAR12 31><Cor 41><NL>
+<VAR12 32><NL>
+<Cor B1><VAR12 33><Cor 41><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<VAR12 31><NL>
+<Cor B1><VAR12 32><Cor 41><NL>
+<Cor B1><VAR12 33><Cor 41><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<Cor B1><VAR12 30><Cor 41><NL>
+<VAR12 31><NL>
+<Cor B1><VAR12 32><Cor 41><NL>
+<Cor B1><VAR12 33><Cor 41><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<Cor B1><VAR12 31><Cor 41><NL>
+<Cor B1><VAR12 32><Cor 41><NL>
+<Cor B1><VAR12 33><Cor 41><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<Cor B1><VAR12 30><Cor 41><NL>
+<Cor B1><VAR12 31><Cor 41><NL>
+<Cor B1><VAR12 32><Cor 41><NL>
+<Cor B1><VAR12 33><Cor 41><NL>
+<VAR12 34><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<VAR12 31><NL>
+<VAR12 32><NL>
+<VAR12 33><NL>
+<Cor B1><VAR12 34><Cor 41><END>
+
+<TEXT>
+<NL>
+<Cor B1><VAR12 30><Cor 41><NL>
+<VAR12 31><NL>
+<VAR12 32><NL>
+<VAR12 33><NL>
+<Cor B1><VAR12 34><Cor 41><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<Cor B1><VAR12 31><Cor 41><NL>
+<VAR12 32><NL>
+<VAR12 33><NL>
+<Cor B1><VAR12 34><Cor 41><END>
+
+<TEXT>
+<NL>
+<Cor B1><VAR12 30><Cor 41><NL>
+<Cor B1><VAR12 31><Cor 41><NL>
+<VAR12 32><NL>
+<VAR12 33><NL>
+<Cor B1><VAR12 34><Cor 41><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<VAR12 31><NL>
+<Cor B1><VAR12 32><Cor 41><NL>
+<VAR12 33><NL>
+<Cor B1><VAR12 34><Cor 41><END>
+
+<TEXT>
+<NL>
+<Cor B1><VAR12 30><Cor 41><NL>
+<VAR12 31><NL>
+<Cor B1><VAR12 32><Cor 41><NL>
+<VAR12 33><NL>
+<Cor B1><VAR12 34><Cor 41><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<Cor B1><VAR12 31><Cor 41><NL>
+<Cor B1><VAR12 32><Cor 41><NL>
+<VAR12 33><NL>
+<Cor B1><VAR12 34><Cor 41><END>
+
+<TEXT>
+<NL>
+<Cor B1><VAR12 30><Cor 41><NL>
+<Cor B1><VAR12 31><Cor 41><NL>
+<Cor B1><VAR12 32><Cor 41><NL>
+<VAR12 33><NL>
+<Cor B1><VAR12 34><Cor 41><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<VAR12 31><NL>
+<VAR12 32><NL>
+<Cor B1><VAR12 33><Cor 41><NL>
+<Cor B1><VAR12 34><Cor 41><END>
+
+<TEXT>
+<NL>
+<Cor B1><VAR12 30><Cor 41><NL>
+<VAR12 31><NL>
+<VAR12 32><NL>
+<Cor B1><VAR12 33><Cor 41><NL>
+<Cor B1><VAR12 34><Cor 41><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<Cor B1><VAR12 31><Cor 41><NL>
+<VAR12 32><NL>
+<Cor B1><VAR12 33><Cor 41><NL>
+<Cor B1><VAR12 34><Cor 41><END>
+
+<TEXT>
+<NL>
+<Cor B1><VAR12 30><Cor 41><NL>
+<Cor B1><VAR12 31><Cor 41><NL>
+<VAR12 32><NL>
+<Cor B1><VAR12 33><Cor 41><NL>
+<Cor B1><VAR12 34><Cor 41><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<VAR12 31><NL>
+<Cor B1><VAR12 32><Cor 41><NL>
+<Cor B1><VAR12 33><Cor 41><NL>
+<Cor B1><VAR12 34><Cor 41><END>
+
+<TEXT>
+<NL>
+<Cor B1><VAR12 30><Cor 41><NL>
+<VAR12 31><NL>
+<Cor B1><VAR12 32><Cor 41><NL>
+<Cor B1><VAR12 33><Cor 41><NL>
+<Cor B1><VAR12 34><Cor 41><END>
+
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<Cor B1><VAR12 31><Cor 41><NL>
+<Cor B1><VAR12 32><Cor 41><NL>
+<Cor B1><VAR12 33><Cor 41><NL>
+<Cor B1><VAR12 34><Cor 41><END>
+
+<TEXT>
+<NL>
+<Cor B1><VAR12 30><Cor 41><NL>
+<Cor B1><VAR12 31><Cor 41><NL>
+<Cor B1><VAR12 32><Cor 41><NL>
+<Cor B1><VAR12 33><Cor 41><NL>
+<Cor B1><VAR12 34><Cor 41><END>
+
+<TEXT>
+<NL>
+No Mark<END>
+
+<TEXT>
+<NL>
+PRIZES<NL>
+1st Place: <VAR12 30><NL>
+2nd Place: <VAR12 31><NL>
+3rd Place: <VAR12 32><NL>
+Top Scorer: <VAR12 33><END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

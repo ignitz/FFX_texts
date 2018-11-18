@@ -1,0 +1,202 @@
+[Kimahri]<NL>
+[Yuna]!<END>
+
+[Dona]<NL>
+She's not here.<END>
+
+[Dona]<NL>
+Hello again.<END>
+
+[Dona]<NL>
+Wait there until we have<NL>
+performed the sending.<END>
+
+[Isaaru]<NL>
+They died...protecting us.<END>
+
+[Isaaru]<NL>
+It's not much, but the least we can<NL>
+do is give them a proper sending.<END>
+
+[Pacce]<NL>
+Hey, what's "sacrificed"?<END>
+
+[Pacce]<NL>
+The [Al Bhed] said summoners<NL>
+were being "sacrificed."<END>
+
+[Pacce]<NL>
+That summoners shouldn't<NL>
+have to do a pilgrimage...<END>
+
+[Rikku]<NL>
+The pilgrimages have to stop!<END>
+
+[Rikku]<NL>
+You know, don't you?<END>
+
+[Rikku]<NL>
+Summoners journey to<NL>
+get the Final Aeon.<END>
+
+[Rikku]<NL>
+[Yuna] told you, didn't she?<END>
+
+[Tidus]<NL>
+Was I the only one<NL>
+who didn't know?<END>
+
+[Wakka]<NL>
+We weren't hiding it...<END>
+
+[Lulu]<NL>
+It was just...too hard to say.<END>
+
+[Isaaru]<NL>
+But that is our choice...<END>
+
+[Dona]<NL>
+We all live in fear<NL>
+of [Sin]. You know that.<END>
+
+[Isaaru]<NL>
+A world without [Sin]...<END>
+
+[Isaaru]<NL>
+That is the dream of<NL>
+all [Yevon2]'s children.<END>
+
+[Dona]<NL>
+We summoners have the power<NL>
+to make that dream come true.<END>
+
+[Isaaru]<NL>
+And we will use that power,<NL>
+even if it means our lives!<END>
+
+[Tidus]<NL>
+I can't let her die!<END>
+
+[Tidus]<NL>
+I'll find her!<END>
+
+[Tidus]<NL>
+Why couldn't they trust guardians<NL>
+to protect the summoners?<END>
+
+[Tidus]<NL>
+The [Al Bhed] had no right<NL>
+stopping their pilgrimage!<END>
+
+[Rikku]<NL>
+If they don't, and<NL>
+they get to Zanarkand...<END>
+
+[Rikku]<NL>
+They might defeat [Sin].<NL>
+[Yunie] could...<NL>
+but then she...<END>
+
+[Rikku]<NL>
+[Yunie] will die, you know?<END>
+
+[Rikku]<NL>
+With the Final Aeon, she can<NL>
+beat [Sin]. But then...but then...<END>
+
+[Rikku]<NL>
+If she calls it, then the<NL>
+Final Aeon's going to kill her!<END>
+
+[Rikku]<NL>
+Even if she defeats [Sin], it<NL>
+will kill [Yunie] too, you know!<END>
+
+[Tidus]<NL>
+Tell me why!<NL>
+Why were you hiding it?<END>
+
+[Tidus]<NL>
+Why didn't I know?<END>
+
+[Tidus]<NL>
+[Lulu]! How could you? How could you?<NL>
+Isn't she like a sister to you?<END>
+
+[Tidus]<NL>
+I thought you were family!<END>
+
+[Tidus]<NL>
+Why don't you do something, [Wakka]?<END>
+
+[Lulu]<NL>
+Don't you think we tried to stop her?<END>
+
+[Lulu]<NL>
+She follows...her heart.<END>
+
+[Wakka]<NL>
+[Yuna], she knew what she was doing<NL>
+when she chose to become a summoner.<END>
+
+[Wakka]<NL>
+To face [Sin], ya? [Yuna] knew!<END>
+
+[Rikku]<NL>
+But, [Wakka], that's just totally wrong!<END>
+
+[Rikku]<NL>
+Summoners shouldn't have to<NL>
+sacrifice themselves...<END>
+
+[Rikku]<NL>
+just so the rest of Spira<NL>
+can be happy, right?<END>
+
+[Tidus]<NL>
+And I've been telling [Yuna]...<END>
+
+[Tidus]<NL>
+Let's go to Zanarkand together!<NL>
+Let's beat [Sin]!<END>
+
+[Tidus]<NL>
+I told her all the things<NL>
+we could...we could...<END>
+
+[Tidus]<NL>
+And all along, the whole time,<NL>
+I didn't know anything!<END>
+
+[Tidus]<NL>
+But [Yuna], she'd...<END>
+
+[Tidus]<NL>
+just smile.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

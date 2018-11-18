@@ -1,0 +1,141 @@
+<NL>
+Like I said before, you're no<NL>
+match for the Goers! Hahaha!<END>
+
+<NL>
+The [Aurochs] taking the championship?<NL>
+Yeah, right! We'll see a hundred Calms<NL>
+before that happens!<END>
+
+<NL>
+I can't believe the [Aurochs] won!<NL>
+What kind of cheap tricks did they use?<END>
+
+<NL>
+The [Aurochs] just got lucky. They'd<NL>
+better enjoy it now, 'cause the Goers<NL>
+will crush 'em next year!<END>
+
+<NL>
+I've heard the [Al Bhed] attacked<NL>
+[Bevelle] with a flying ship.<NEWPAGE>
+<NL>
+[Master Seymor]'s wedding got<NL>
+cancelled and everything!<END>
+
+<NL>
+Those dirty [Al Bhed]! What's<NL>
+so fun about ruining a wedding?<END>
+
+<NL>
+If the temple falls apart, we won't<NL>
+be able to run this ferry anymore.<NEWPAGE>
+<NL>
+If that happens, maybe I can find<NL>
+a job guarding [Luca] Stadium.<END>
+
+<NL>
+Hey, if I work at the stadium, maybe<NL>
+I'll get to meet some of the Goers!<NL>
+Yeah!<END>
+
+<NL>
+We used to ferry a lot of [Crusader]s<NL>
+before [Operation Mi'ihen]...<NEWPAGE>
+<NL>
+But only a few returned from the front.<NL>
+They've sustained severe casualties.<END>
+
+<NL>
+Let us pray that the souls of the<NL>
+fallen reach the [Farplane].<END>
+
+<NL>
+[Maester Kinoc] has passed away and<NL>
+[Master Kelk Ronso] has resigned.<NEWPAGE>
+<NL>
+Now that [Master Seymor]'s disappeared<NL>
+as well, all of [Yevon2] is in chaos.<END>
+
+<NL>
+I had such high hopes for<NL>
+[Master Seymor]. He was truly<NL>
+dedicated to saving [Spira].<END>
+
+<NL>
+[Maester Mika2] has passed away.<NL>
+It seems even the grand maester<NL>
+could not overcome death.<END>
+
+<NL>
+A power struggle to replace<NL>
+the grand maester is coming,<NL>
+I know it.<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. V!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>A<Cor 41> [RIGHT] <Cor 97>E<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

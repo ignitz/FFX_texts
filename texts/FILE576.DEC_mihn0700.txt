@@ -1,0 +1,341 @@
+<NL>
+My Lady Summoner!<END>
+
+<NL>
+You're a summoner?<END>
+
+[Yuna]<NL>
+Yes.<NL>
+My name is [Yuna].<END>
+
+<NL>
+I'm Calli.<END>
+
+[Yuna]<NL>
+Nice to meet you, Calli.<END>
+
+Calli<NL>
+Lady [Yuna], are you going<NL>
+to bring us the [Calm]?<END>
+
+[Yuna]<NL>
+Yes, very soon.<END>
+
+Calli<NL>
+Yay!<END>
+
+<NL>
+We're looking forward to another<NL>
+[Calm], My Lady Summoner.<END>
+
+[Yuna]<NL>
+I'll do my best.<END>
+
+<NL>
+And good luck to your guardians as well.<END>
+
+[Tidus]<NL>
+What's the calm?<END>
+
+[Lulu]<NL>
+The [Calm] is a time of peace.<END>
+
+[Lulu]<NL>
+It comes after a summoner defeats<NL>
+[Sin], and lasts until [Sin] reappears.<END>
+
+[Yuna]<NL>
+[Sin] dies and is reborn.<END>
+
+[Tidus]<NL>
+I get it!<END>
+
+[Tidus]<NL>
+I thought it was weird.<END>
+
+[Tidus]<NL>
+[Yuna]'s dad defeated [Sin]<NL>
+ten years ago, right?<END>
+
+[Tidus]<NL>
+But [Sin]'s still here!<NL>
+Didn't make much sense till now.<END>
+
+[Tidus]<NL>
+Wait...<NL>
+If it just comes back...<END>
+
+[Yuna]<NL>
+Don't say it isn't worth it...<NL>
+Because it is.<END>
+
+<NL>
+Even for a little while...<END>
+
+<NL>
+people can sleep in their<NL>
+beds without being afraid.<END>
+
+<NL>
+That kind of time is worth anything.<END>
+
+<NL>
+Don't say it isn't worth it.<END>
+
+<NL>
+Your words that day, [Yuna]--<NL>
+I remember them well.<END>
+
+<NL>
+Watch out. There are fiends everywhere.<NL>
+Here, you can have this.<END>
+
+<NL>
+This ring helps keep flames at bay.<NL>
+Please, give it to the lady summoner.<END>
+
+<NL>
+I'm watching the [Crusader]s pass by.<NL>
+They look cool.<END>
+
+<NL>
+Should I become a [Crusader] or a <NL>
+blitzer when I grow up? I don't know.<END>
+
+<NL>
+My sister's waiting for me, but who cares.<NL>
+<END>
+
+<NL>
+Hey! That was my ball!<END>
+
+<NL>
+Gee, you really socked that puppy.<END>
+
+<NL>
+Why don't you become a blitzer?<NL>
+Maybe someday you can play for the Goers.<NL>
+<END>
+
+<NL>
+Whaddya want!<NL>
+I'm in a hurry here!<END>
+
+<NL>
+They're gonna kill me<NL>
+if I'm late for the operation!<END>
+
+<NL>
+They won't...be able to...<NL>
+defeat [Sin]...without my...<END>
+
+<NL>
+Whew...<NL>
+At this rate, I'll croak sooner than [Sin].<END>
+
+<NL>
+Yes, sir! On patrol, sir!<END>
+
+<NL>
+Normally we patrol the area of<NL>
+operation with chocobos.<NEWPAGE>
+<NL>
+But we couldn't muster the funds<NL>
+for any more chocobos.<END>
+
+<NL>
+Usually the temple contributes some,<NL>
+but not for this operation.<END>
+
+<NL>
+I'm sure if we defeat [Sin],<NL>
+[Yevon2] will finally bless us.<END>
+
+<NL>
+We're raising funds at the end of<NL>
+the Highroad. We're counting on you!<END>
+
+<NL>
+The warrior monks are real stiffs,<NL>
+really unapproachable.<NEWPAGE>
+<NL>
+But I am grateful to them for<NL>
+guarding the Highroad.<END>
+
+<NL>
+A warrior monk got mad at me.<NEWPAGE>
+<NL>
+He said I can't play anymore,<NL>
+because there are fiends here.<END>
+
+<NL>
+I heard so much noise<NL>
+during the operation.<NEWPAGE>
+<NL>
+Was that the sound of machina?<END>
+
+<NL>
+Fiends stalk the area, but people<NL>
+just stroll through anyway.<NEWPAGE>
+<NL>
+It doesn't make our job any easier.<END>
+
+<NL>
+Don't stray off the road.<NL>
+Make our job a little easier.<END>
+
+<NL>
+I fled [Bevelle] and came here.<NL>
+I got sick of living there.<NEWPAGE>
+<NL>
+It was so unsettling, what with the priests'<NL>
+meddling and the warrior monks' arrogance.<NL>
+<END>
+
+<NL>
+[Yevon2] had better start<NL>
+getting its act together.<END>
+
+<NL>
+I'm not playing. I'm practicing<NL>
+with my brother.<END>
+
+<NL>
+It's important to train.<NL>
+You never know what's gonna happen.<END>
+
+<NL>
+I have to become strong like my brother<NL>
+so that I'll be able to run away like him<NL>
+if fiends attack us.<END>
+
+<NL>
+My sister wanted to play, so we came here.<NL>
+I just didn't expect to see so many fiends.<NL>
+<END>
+
+<NL>
+I'll have no problems outrunning fiends,<NL>
+but I doubt my sister could.<NEWPAGE>
+<NL>
+I'm gonna pray we don't run into any.<END>
+
+<NL>
+If there were no fiends in [Spira],<NL>
+we wouldn't even have to worry like this.<END>
+
+<NL>
+My grandpa and I... We used to take<NL>
+a stroll through here almost every day.<END>
+
+<NL>
+[Yevon2]'s blessing has granted me sound<NL>
+health, but grandpa...<NEWPAGE>
+<NL>
+He's been blessed with too much energy.<NL>
+He marched on down to go see [Sin].<END>
+
+<NL>
+Grandpa said he'd go fetch me a sinscale.<NEWPAGE>
+<NL>
+When he's gonna act his own age,<NL>
+I can't say.<END>
+
+<NL>
+My brother and I were playing. Then a<NL>
+fiend came out, and he ran away without me.<END>
+
+<NL>
+He ran so fast.<NL>
+My brother is the best!<END>
+
+<NL>
+I'm gonna practice running.<NL>
+I'm gonna beat my brother someday.<END>
+
+<NL>
+I'll protect [Spira] from now on.<NEWPAGE>
+<NL>
+[Sin] beat us last time, but I'm okay.<END>
+
+<NL>
+Do you know [Sin]'s weakness?<NL>
+Tell me, and I'll kill it for you.<END>
+
+<NL>
+If you get attacked by fiends,<NL>
+you can come to us for help.<END>
+
+[Elma]<NL>
+Our prayers are with you.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

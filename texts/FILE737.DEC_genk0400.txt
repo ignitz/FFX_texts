@@ -1,0 +1,131 @@
+[Yuna]<NL>
+Shoopufs!<NL>
+I haven't ridden one in so long!<END>
+
+[Tidus]<NL>
+What?<NL>
+You've been on one of these?<END>
+
+[Yuna]<NL>
+Well, just once.<NL>
+Ten years ago, with [Kimahri].<END>
+
+[Yuna]<NL>
+Remember?<END>
+
+[Kimahri]<NL>
+Shoopuf shook,<NL>
+[Yuna] fall in water.<END>
+
+[Kimahri]<NL>
+Shoopuf scoop up<NL>
+[Yuna] with long nose.<END>
+
+[Kimahri]<NL>
+[Yuna] jump in<NL>
+three more times for fun.<END>
+
+<NL>
+<END>
+
+[Kimahri]<NL>
+[Kimahri] worried.<END>
+
+[Yuna]<NL>
+Whoops!<END>
+
+[Kimahri]<NL>
+[Yuna] had fun.<NL>
+[Kimahri] happy.<END>
+
+[Yuna]<NL>
+I lived in the city of [Bevelle]<NL>
+until ten years ago.<END>
+
+[Yuna]<NL>
+I moved to [Besaid] after<NL>
+my father defeated [Sin].<END>
+
+[Yuna]<NL>
+[Kimahri] was with me the whole way!<END>
+
+[Tidus]<NL>
+[Bevelle]?<END>
+
+[Yuna]<NL>
+It's the biggest city in [Spira]!<NL>
+The main temple of [Yevon2] is there.<END>
+
+[Yuna]<NL>
+Come on! Let's get on the shoopuf!<END>
+
+[Kimahri]<NL>
+[Biran] is troublemaker,<NL>
+but [Ronso] do not lie.<END>
+
+[Kimahri]<NL>
+Summoners disappearing--<NL>
+that was not lie.<END>
+
+[Tidus]<NL>
+Right, I'll be careful.<END>
+
+[Kimahri]<NL>
+Smells like oil.<END>
+
+[O'aka]<NL>
+[O'aka], at your service!<END>
+
+<TEXT>
+<CHOICE1>Got any weapons?<NL>
+<CHOICE2>Got any items?<NL>
+<CHOICE3>Leave.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,35 @@
+[Yuna]<NL>
+The others?<END>
+
+[Yuna]<NL>
+Everyone, stand back!<NL>
+I'll summon!<END>
+
+[Seymor]<NL>
+You won't hurt it.<END>
+
+[Seymor]<NL>
+Your powers are still...too weak.<END>
+
+[Yuna]<NL>
+But I must do something!<END>
+
+[Seymor]<NL>
+You can't!<END>
+
+[Seymor]<NL>
+Stand back, Lady [Yuna].<END>
+
+[Yuna]<NL>
+Y-Yes.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

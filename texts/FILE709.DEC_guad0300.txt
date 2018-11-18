@@ -1,0 +1,415 @@
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+<NL>
+Thou seem'st weary, good traveller.<NL>
+Wouldst sit and rest thy feet awhile?<NEWPAGE>
+<NL>
+Ah, belike my speech perplexes thee?<NEWPAGE>
+<NL>
+'Tis old [Guado] I speak, a tongue seldom<NL>
+heard within even [Guadosalam] now.<END>
+
+<NL>
+A dying breed we are, speakers of<NL>
+the old tongue.<NEWPAGE>
+<NL>
+I fear this precious legacy<NL>
+hath but little time remaining.<END>
+
+<NL>
+Many [Guado] shun the old tongue, favouring<NL>
+instead the speech of foreign tribes.<NL>
+'Tis a pity, verily.<END>
+
+<NL>
+Long ago, the [Guado] would have<NL>
+none of humans.<NEWPAGE>
+<NL>
+But Lord [Jyscal] took it on him to<NL>
+reform old ways, and opened our<NL>
+eyes to the outside world...<NEWPAGE>
+<NL>
+And thus did we enter modern times.<END>
+
+<NL>
+Lord [Jyscal] and Lord [Seymor]<NL>
+brought change to [Guado2] traditions,<NL>
+setting us a new course.<END>
+
+<NL>
+Our youth are all dead.<NL>
+Our future seemeth likewise dead.<NEWPAGE>
+<NL>
+O that the [Guado2] had remained<NL>
+here, protecting the [Farplane]<NL>
+instead of populating it!<END>
+
+<NL>
+With Lord [Seymor] gone, [Tromell]<NL>
+hath lost all hope.<NEWPAGE>
+<NL>
+Belike he will soon follow<NL>
+his master to the [Farplane].<END>
+
+<NL>
+[Sin] will surely crush<NL>
+the [Guado] now.<END>
+
+<NL>
+Good traveller, prithee forgive us<NL>
+our antiquated prattling.<END>
+
+<NL>
+Once, all [Guado2] spoke<NL>
+the old tongue.<NEWPAGE>
+<NL>
+But when Lord [Jyscal] brought<NL>
+us to the light of [Yevon2]...<NEWPAGE>
+<NL>
+the old tongue fell out of<NL>
+favour with many, and suffers<NL>
+now a slow demise.<END>
+
+<NL>
+The youth laugh upon us as stale old<NL>
+relics who live too much in the past.<END>
+
+<NL>
+Didst thou know Lord [Seymor]'s<NL>
+mother was human?<NEWPAGE>
+<NL>
+When Lord [Seymor] first took on<NL>
+himself the [Guado] leadership, many<NL>
+refused to acknowledge him as lord.<NEWPAGE>
+<NL>
+They felt his blood was impure, tainted.<NL>
+But none feel so now.<END>
+
+<NL>
+Our youth all but worship<NL>
+Lord [Seymor].<NEWPAGE>
+<NL>
+If he bade them leap from a cliff,<NL>
+they would greet death smiling.<END>
+
+<NL>
+Lord [Seymor] detests the old tongue.<NL>
+It shames us.<END>
+
+<NL>
+Lord [Seymor] took many lives.<NEWPAGE>
+<NL>
+It seems he is now revenged on<NL>
+both [Guado] and human.<END>
+
+<NL>
+In wedding that human maiden,<NL>
+Lord [Jyscal] broke ancient tradition.<NEWPAGE>
+<NL>
+Some rebell'd at Lord [Seymor]'s<NL>
+birth, desiring the half-breed<NL>
+child driven off.<NEWPAGE>
+<NL>
+To quell the outcry, Lord [Jyscal]<NL>
+tearfully exiled his wife and son<NL>
+to [Baaj Island].<END>
+
+<NL>
+Years later, Lord [Seymor] returned.<NL>
+He said his mother had died.<NEWPAGE>
+<NL>
+But he was no longer the lost child<NL>
+banish'd so long ago. He had returned a<NL>
+master of the summoner's art.<NEWPAGE>
+<NL>
+The half-breed boy once so reviled<NL>
+thus reversed his fortunes and won<NL>
+deep respect.<END>
+
+<NL>
+They say Lord [Seymor] discovered<NL>
+his gift for summoning as a mere child.<END>
+
+<NL>
+Lord [Seymor] instructs the [Guado]<NL>
+youth on numerous subjects.<NEWPAGE>
+<NL>
+Thanks to him, I learned about [Yevon2]'s<NL>
+teachings and the history of [Spira].<END>
+
+<NL>
+Lord [Seymor] is a great teacher.<NL>
+He explains everything quite clearly.<END>
+
+<NL>
+Everyone is talking about Lady [Yuna]--<NL>
+how she's the daughter<NL>
+of [High Summoner Braska].<NEWPAGE>
+<NL>
+She fought alongside Lord [Seymor]<NL>
+during [Operation Mi'ihen], right?<END>
+
+<NL>
+If Lady [Yuna] marries into the [Guado2] tribe,<NL>
+we will all welcome her warmly.<END>
+
+<NL>
+What happened to Lord [Seymor]?<NEWPAGE>
+<NL>
+I heard the rumors,<NL>
+but I can't believe it.<END>
+
+<NL>
+How could Lord [Seymor] do that<NL>
+to Lord [Jyscal]?<END>
+
+<NL>
+The elders just won't<NL>
+give up the old tongue.<NEWPAGE>
+<NL>
+I keep telling them how unseemly it<NL>
+is, babbling like that to guests.<END>
+
+<NL>
+It's just what old folks do, I guess.<NL>
+Please, take no offense.<END>
+
+<NL>
+Some say that it was the [Guado]<NL>
+who threw [Spira] into chaos.<NEWPAGE>
+<NL>
+It pains me to admit it,<NL>
+but they're right.<END>
+
+<NL>
+[Luca] has informed us that the [Guado2]<NL>
+team may continue to compete in tournaments.<NEWPAGE>
+<NL>
+We were saved by the<NL>
+[Luca]ns' generosity.<END>
+
+<NL>
+I want to return the favor by giving<NL>
+them a performance to remember.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

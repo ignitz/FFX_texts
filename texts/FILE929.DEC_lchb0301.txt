@@ -1,0 +1,98 @@
+<NL>
+          <END>
+
+[Tidus]<NL>
+Can't see a thing!<END>
+
+[Wakka]<NL>
+Shhhh!<END>
+
+<NL>
+That's a [Guado], right?<END>
+
+<NL>
+Who could it be?<END>
+
+<NL>
+Isn't that...<NL>
+Maester [Seymor]?<END>
+
+[Mika]<NL>
+People of [Spira], I thank<NL>
+you for your generous welcome.<END>
+
+[Mika]<NL>
+Rise, Maester [Seymor].<END>
+
+[Mika]<NL>
+And all of you as well.<END>
+
+[Mika]<NL>
+I present to you...<END>
+
+[Mika]<NL>
+the son of Maester [Jyscal Guado],<NL>
+who departed for the [Farplane]<NL>
+a fortnight past.<END>
+
+[Mika]<NL>
+As some of you already know,<NL>
+he has been officially ordained<NL>
+a maester of [Yevon2].<END>
+
+[Seymor]<NL>
+I am [Seymor] [Guado].<NL>
+I am honored to receive<NL>
+the title of maester.<END>
+
+[Seymor]<NL>
+In life, my father [Jyscal]<NL>
+worked to foster friendship<NL>
+between man and [Guado].<END>
+
+[Seymor]<NL>
+I vow to carry on his legacy, and<NL>
+to fulfill my duties as maester<NL>
+to the best of my abilities.<END>
+
+<NL>
+<END>
+
+[Wakka]<NL>
+You, too! Bow your head!<END>
+
+[Wakka]<NL>
+Really psyches you up, ya?<END>
+
+[Wakka]<NL>
+All right! Last meeting<NL>
+before the match! Hustle!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

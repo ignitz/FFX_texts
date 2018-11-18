@@ -1,0 +1,630 @@
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<VAR12 31><NL>
+<VAR12 32><NL>
+<VAR12 33><NL>
+<VAR12 34><NL>
+<VAR12 35><END>
+
+<TEXT>
+<NL>
+<VAR12 30>'s technique slots increased to <VAR12 31>!<END>
+
+<TEXT>
+<NL>
+<VAR12 30> learned <Cor 43>key technique<Cor 41> <VAR12 31>!<END>
+
+<TEXT>
+<NL>
+<VAR12 30> learned technique <VAR12 31>!<END>
+
+<TEXT>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><END>
+
+<TEXT>
+Overtime!<END>
+
+<TEXT>
+<Cor 43><VAR12 30><Cor 41>'s contract with<NL>
+the <VAR12 31> expired.<END>
+
+<TEXT>
+<Cor 43><VAR12 30><Cor 41> has re-signed with<NL>
+the <VAR12 31> for <VAR12 32> games.<END>
+
+<TEXT>
+<Cor 43><VAR12 30><Cor 41> has signed a contract<NL>
+for <VAR12 32> games with the <VAR12 31>.<END>
+
+<TEXT>
+Spira League: Round <VAR12 30> Results<NL>
+<CHOICE1><VAR07 45><VAR12 31><VAR07 6D><VAR12 37> - <VAR12 38>  <VAR12 32><NL>
+<CHOICE2><VAR07 45><VAR12 33><VAR07 6D><VAR12 39> - <VAR12 3A>  <VAR12 34><NL>
+<CHOICE3><VAR07 45><VAR12 35><VAR07 6D><VAR12 3B> - <VAR12 3C>  <VAR12 36><END>
+
+<TEXT>
+<NL>
+Spira League: Round <VAR12 30> Ranking<NL>
+Rank   Team name<VAR07 78> W  L  T  Points<NL>
+1st : <VAR12 31><VAR07 78><VAR12 37> <VAR12 3D> <VAR12 43> <VAR12 49><NL>
+2nd : <VAR12 32><VAR07 78><VAR12 38> <VAR12 3E> <VAR12 44> <VAR12 4A><NL>
+3rd : <VAR12 33><VAR07 78><VAR12 39> <VAR12 3F> <VAR12 45> <VAR12 4B><NL>
+4th : <VAR12 34><VAR07 78><VAR12 3A> <VAR12 40> <VAR12 46> <VAR12 4C><NL>
+5th : <VAR12 35><VAR07 78><VAR12 3B> <VAR12 41> <VAR12 47> <VAR12 4D><NL>
+6th : <VAR12 36><VAR07 78><VAR12 3C> <VAR12 42> <VAR12 48> <VAR12 4E><END>
+
+<TEXT>
+<NL>
+Spira League: Round <VAR12 30> Scoring Leaders<NL>
+Rank    Name<VAR07 78> Goals<NL>
+<VAR12 31>  : <VAR12 32><VAR07 78><VAR12 33><NL>
+<VAR12 34>  : <VAR12 35><VAR07 78><VAR12 36><NL>
+<VAR12 37>  : <VAR12 38><VAR07 78><VAR12 39><NL>
+<VAR12 3A>  : <VAR12 3B><VAR07 78><VAR12 3C><NL>
+<VAR12 3D>  : <VAR12 3E><VAR07 78><VAR12 3F><NL>
+<VAR12 40>  : <VAR12 41><VAR07 78><VAR12 42><NL>
+<VAR12 43>  : <VAR12 44><VAR07 78><VAR12 45><NL>
+<VAR12 46>  : <VAR12 47><VAR07 78><VAR12 48><NL>
+<VAR12 49>  : <VAR12 4A><VAR07 78><VAR12 4B><NL>
+<VAR12 4C>  : <VAR12 4D><VAR07 78><VAR12 4E><END>
+
+<TEXT>
+League Season Over<END>
+
+<TEXT>
+Congratulations. The Besaid Aurochs have ended<NL>
+the season at number <VAR12 30>.<END>
+
+<TEXT>
+Please accept this prize.<END>
+
+<TEXT>
+No [Besaid Aurochs] player can<NL>
+learn this ability.<END>
+
+<TEXT>
+<VAR12 30> has learned technique: <Cor 43><VAR12 31><Cor 41>!<END>
+
+<TEXT>
+Teach technique <Cor 43><VAR12 31><Cor 41> to which player?<END>
+
+<TEXT>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><END>
+
+<TEXT>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><END>
+
+<TEXT>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><END>
+
+<TEXT>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><END>
+
+<TEXT>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><END>
+
+<TEXT>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><END>
+
+<TEXT>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Learned <VAR12 30>!<NL>
+Player now able to learn extra techniques<NL>
+by expanding tech list slots!<END>
+
+<TEXT>
+Choose player to expand tech list.<END>
+
+<TEXT>
+Expand <VAR12 30>'s tech list:<NL>
+<NL>
+<CHOICE1><VAR12 31><VAR07 66><CHOICE???> <VAR12 3B><VAR07 8C><CHOICE???>*<VAR12 45><NL>
+<CHOICE2><VAR12 32><VAR07 66><CHOICE???>!<VAR12 3C><VAR07 8C><CHOICE???>+<VAR12 46><NL>
+<CHOICE3><VAR12 33><VAR07 66><CHOICE???>"<VAR12 3D><VAR07 8C><CHOICE???>,<VAR12 47><NL>
+<CHOICE4><VAR12 34><VAR07 66><CHOICE???>#<VAR12 3E><VAR07 8C><CHOICE???>-<VAR12 48><NL>
+<CHOICE5><VAR12 35><VAR07 66><CHOICE???>$<VAR12 3F><VAR07 8C><CHOICE???>.<VAR12 49><NL>
+<CHOICE6><VAR12 36><VAR07 66><CHOICE???>%<VAR12 40><VAR07 8C><CHOICE???>/<VAR12 4A><NL>
+<CHOICE7><VAR12 37><VAR07 66><CHOICE???>&<VAR12 41><VAR07 8C><CHOICE???>:<VAR12 4B><NL>
+<CHOICE8><VAR12 38><VAR07 66><CHOICE???>'<VAR12 42><VAR07 8C><CHOICE???>;<VAR12 4C><NL>
+<CHOICE9><VAR12 39><VAR07 66><CHOICE???>[']<VAR12 43><VAR07 8C><CHOICE???><<VAR12 4D><NL>
+<CHOICE???>9<VAR12 3A><VAR07 66><CHOICE???>[/']<VAR12 44><VAR07 8C><CHOICE???>=<VAR12 4E><NL>
+<VAR07 8C><CHOICE???>>Next Page<VAR07 AA><END>
+
+<TEXT>
+Expand <VAR12 30>'s tech list:<NL>
+<NL>
+<CHOICE1><VAR12 31><VAR07 66><CHOICE???> <VAR12 3B><VAR07 8C><CHOICE???>*<VAR12 45><NL>
+<CHOICE2><VAR12 32><VAR07 66><CHOICE???>!<VAR12 3C><VAR07 8C><CHOICE???>+<VAR12 46><NL>
+<CHOICE3><VAR12 33><VAR07 66><CHOICE???>"<VAR12 3D><VAR07 8C><CHOICE???>,<VAR12 47><NL>
+<CHOICE4><VAR12 34><VAR07 66><CHOICE???>#<VAR12 3E><VAR07 8C><CHOICE???>-<VAR12 48><NL>
+<CHOICE5><VAR12 35><VAR07 66><CHOICE???>$<VAR12 3F><VAR07 8C><CHOICE???>.<VAR12 49><NL>
+<CHOICE6><VAR12 36><VAR07 66><CHOICE???>%<VAR12 40><VAR07 8C><CHOICE???>/<VAR12 4A><NL>
+<CHOICE7><VAR12 37><VAR07 66><CHOICE???>&<VAR12 41><VAR07 8C><CHOICE???>:<VAR12 4B><NL>
+<CHOICE8><VAR12 38><VAR07 66><CHOICE???>'<VAR12 42><VAR07 8C><CHOICE???>;<VAR12 4C><NL>
+<CHOICE9><VAR12 39><VAR07 66><CHOICE???>[']<VAR12 43><VAR07 8C><CHOICE???><<VAR12 4D><NL>
+<CHOICE???>9<VAR12 3A><VAR07 66><CHOICE???>[/']<VAR12 44><VAR07 8C><CHOICE???>=<VAR12 4E><NL>
+<VAR07 8C><CHOICE???>>Previous Page<VAR07 AA><END>
+
+<TEXT>
+That tech list slot cannot be expanded.<END>
+
+<TEXT>
+<VAR12 30>'s tech list expanded.<END>
+
+<TEXT>
+[Wakka] has learned Overdrive <Cor 43><VAR12 30><Cor 41>!<END>
+
+<TEXT>
+Unfortunately, the Besaid Aurochs have ended the<NL>
+season at number <VAR12 30>.<END>
+
+<TEXT>
+<VAR12 30> is the top scorer!<END>
+
+<TEXT>
+The Besaid Aurochs' team level increased to <VAR12 30>,<NL>
+and they learned the <Cor B1><VAR12 31><Cor 41> formation!<END>
+
+<TEXT>
+The Besaid Aurochs' team level increased to <VAR12 30>,<NL>
+and your scout level increased to level 2!<END>
+
+<TEXT>
+The Besaid Aurochs' team level increased to <VAR12 30>,<NL>
+and your scout level increased to level 3!<END>
+
+<TEXT>
+The Besaid Aurochs' team level increased to <VAR12 30>,<NL>
+and your scout level increased to max level!<END>
+
+<TEXT>
+The Besaid Aurochs' team level increased to <VAR12 30>!<END>
+
+<TEXT>
+The Besaid Aurochs' current team level is <VAR12 30>.<NL>
+<VAR07 60>No. of wins: <VAR12 32><END>
+
+<TEXT>
+<NL>
+Yevon Cup Finals: Results<NL>
+<CHOICE1><VAR07 45><VAR12 31><VAR07 6D><VAR12 35> - <VAR12 36>  <VAR12 32><NL>
+<CHOICE2><VAR07 45><VAR12 33><VAR07 6D><VAR12 37> - <VAR12 38>  <VAR12 34><NL>
+<END>
+
+<TEXT>
+<NL>
+Yevon Cup: Round <VAR12 30> Results<NL>
+<CHOICE1><VAR07 45><VAR12 31> <VAR07 6D><VAR12 35> - <VAR12 36> <VAR12 32><NL>
+<CHOICE2><VAR07 45><VAR12 33> <VAR07 6D><VAR12 37> - <VAR12 38> <VAR12 34><END>
+
+<TEXT>
+<NL>
+<VAR07 8F><VAR12 30><NL>
+<VAR12 3D><VAR07 8F><VAR12 31><NL>
+<VAR07 8F><VAR12 32><NL>
+<VAR07 8F><VAR12 33><NL>
+<VAR07 8F><VAR12 34><NL>
+<VAR07 8F><VAR12 35><NL>
+<VAR07 44><VAR12 3C><VAR07 72><VAR12 3A><NL>
+<VAR07 72><VAR12 3B><END>
+
+<TEXT>
+<NL>
+Yevon Cup - Scoring Leaders<NL>
+Rank   Name<VAR07 78> Goals<NL>
+<VAR12 31>  : <VAR12 32><VAR07 78><VAR12 33><NL>
+<VAR12 34>  : <VAR12 35><VAR07 78><VAR12 36><NL>
+<VAR12 37>  : <VAR12 38><VAR07 78><VAR12 39><NL>
+<VAR12 3A>  : <VAR12 3B><VAR07 78><VAR12 3C><NL>
+<VAR12 3D>  : <VAR12 3E><VAR07 78><VAR12 3F><NL>
+<VAR12 40>  : <VAR12 41><VAR07 78><VAR12 42><NL>
+<VAR12 43>  : <VAR12 44><VAR07 78><VAR12 45><NL>
+<VAR12 46>  : <VAR12 47><VAR07 78><VAR12 48><NL>
+<VAR12 49>  : <VAR12 4A><VAR07 78><VAR12 4B><NL>
+<VAR12 4C>  : <VAR12 4D><VAR07 78><VAR12 4E><END>
+
+<TEXT>
+Tournament Over<END>
+
+<TEXT>
+Congratulations! The Besaid Aurochs have finished<NL>
+the tournament at number <VAR12 30>.<END>
+
+<TEXT>
+The Besaid Aurochs were unable to win<NL>
+a prize in this tournament.<END>
+
+<TEXT>
+Renew contract?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contracts must be longer<NL>
+that one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil.<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+<VAR12 30> is now a<NL>
+free agent.<END>
+
+<VAR12 30><NL>
+Bye now! See you later!<END>
+
+<VAR12 30><NL>
+Guess it's time for me to go<NL>
+low-key now that I'm retired,<NL>
+you know?<END>
+
+<VAR12 30><NL>
+Hey, I got pretty good, ya?<NL>
+Let's play again sometime.<END>
+
+<VAR12 30><NL>
+One day I'll be as good as you!<NL>
+Mark my words!<END>
+
+<VAR12 30><NL>
+Your team is da best, no question.<NL>
+Let me in again next time, ya?<END>
+
+<VAR12 30><NL>
+So, how did I do? Hey, you won't<NL>
+forget me next time, ya?<END>
+
+<VAR12 30><NL>
+I'll do better next time!<NL>
+I'm gonna practice real hard.<END>
+
+<VAR12 30><NL>
+I made the Goers what they are<NL>
+today. You'd best remember that.<END>
+
+<VAR12 30><NL>
+Hey, I liked being on your team.<NL>
+You got some moves, man.<END>
+
+<VAR12 30><NL>
+Playing with you wasn't as<NL>
+boring as I'd feared...barely.<END>
+
+<VAR12 30><NL>
+You know where to find me if you<NL>
+want me to...play with you.<END>
+
+<VAR12 30><NL>
+That was boring. Call me again if<NL>
+you think you can entertain me.<END>
+
+<VAR12 30><NL>
+Next time I play for you, don't<NL>
+give me so much work to do, huh?<END>
+
+<VAR12 30><NL>
+You're a pretty good player.<NL>
+Say, why don't you play for<NL>
+us next season?<END>
+
+<VAR12 30><NL>
+I beat Sin's toxin and gained<NL>
+my life back. I'm just getting<NL>
+better every time I play!<END>
+
+<VAR12 30><NL>
+Some day, I'll be an even greater<NL>
+blitzer than [Ohalland] ever was.<NL>
+And that's a promise, kid.<END>
+
+<VAR12 30><NL>
+Thanks for inviting me to play<NL>
+with you! Stop by the tavern<NL>
+when you're in [Kilika], okay?<END>
+
+<VAR12 30><NL>
+I guess this is the end, then.<NL>
+We will be on different sides of<NL>
+the sphere next time we meet.<END>
+
+<VAR12 30><NL>
+Hey, I think we made a great<NL>
+team, kid! Call me again when<NL>
+you need backup!<END>
+
+<VAR12 30><NL>
+I had a fun time.<NL>
+Call me again.<END>
+
+<VAR12 30><NL>
+Sorry for all the trouble we<NL>
+caused. Was that enough to<NL>
+earn your forgiveness?<END>
+
+<VAR12 30><NL>
+I helped you only to make up for<NL>
+kidnapping your [summoner].<END>
+
+<VAR12 30><NL>
+Doing your best is pretty fun.<NL>
+Call me again sometime.<END>
+
+<VAR12 30><NL>
+Maybe I kidnap you next time.<NL>
+Just kidding!<END>
+
+<VAR12 30><NL>
+You need goalie, you need me.<NL>
+You remember.<END>
+
+<VAR12 30><NL>
+Next we meet, Basik will<NL>
+be stronger! Basik swears<NL>
+it on his horn!<END>
+
+<VAR12 30><NL>
+[Ronso] only follow the strong.<NL>
+When you call, Argai will follow.<END>
+
+<VAR12 30><NL>
+Next time Gazna show you all<NL>
+that Sacred Mt. [Gagazet] has<NL>
+taught the [Ronso].<END>
+
+<VAR12 30><NL>
+You have courage equal to<NL>
+that of a [Ronso] warrior.<NL>
+You are...worthy.<END>
+
+<VAR12 30><NL>
+I must thank the sacred mount<NL>
+for bringing us together.<NL>
+You play excellent blitzball.<END>
+
+<VAR12 30><NL>
+Size not matter in [blitzball].<NL>
+You proved that.<END>
+
+<VAR12 30><NL>
+You have seen the [Guado]'s<NL>
+strength. Call me if you<NL>
+think you need lessons.<END>
+
+<VAR12 30><NL>
+As long as you've got Gil,<NL>
+I'm willing to play for you.<END>
+
+<VAR12 30><NL>
+Was that the best you can do,<NL>
+human? Your kind will never<NL>
+measure up to us [Guado].<END>
+
+<VAR12 30><NL>
+I must thank you for the<NL>
+opportunity you have given me to<NL>
+learn more about you and your ways.<END>
+
+<VAR12 30><NL>
+I was quite entertained.<NL>
+See you again.<END>
+
+<VAR12 30><NL>
+Our contract has come to an end.<NL>
+If you have no more use of me,<NL>
+I must leave.<END>
+
+<VAR12 30><NL>
+I must return to my shops soon.<NL>
+Please honor us again with your<NL>
+patronage.<END>
+
+<VAR12 30><NL>
+I have more time than I know<NL>
+what to do with. You know where<NL>
+to find me if you need me.<END>
+
+<VAR12 30><NL>
+Ah. I must return to my duties.<NL>
+Fight well, fellowman.<END>
+
+<VAR12 30><NL>
+That was fun, but tiring! I think<NL>
+I'll stick to cheering for you.<END>
+
+<VAR12 30><NL>
+I hope I made myself useful.<NL>
+I'm really the insecure type,<NL>
+you know.<END>
+
+<VAR12 30><NL>
+It was an honor playing with you!<NL>
+Thank you!<END>
+
+<VAR12 30><NL>
+Guess I'll go back to my old job.<NL>
+Someone's gotta protect the<NL>
+stadium.<END>
+
+<VAR12 30><NL>
+Come to the agency next time.<NL>
+Drinks are on me.<END>
+
+<VAR12 30><NL>
+It was fun playing with people<NL>
+other than [Al Bhed]!<END>
+
+<VAR12 30><NL>
+It was an enlightening experience.<NL>
+I miss my days in the pros.<END>
+
+<VAR12 30><NL>
+I quit being a sailor because<NL>
+I was afraid of the sea, but I<NL>
+play some good blitzball, no?<END>
+
+<VAR12 30><NL>
+I'm sorry, I have to go back now.<NL>
+[Rin] is going to be on my case for<NL>
+ditching work!<END>
+
+<VAR12 30><NL>
+Thank you for the training, sir!<NL>
+Your help will not be forgotten<NL>
+when we defeat [Sin]!<END>
+
+<VAR12 30><NL>
+I joined you to please my daughter,<NL>
+but it seems that all I could do was<NL>
+try to keep up with you.<END>
+
+<VAR12 30><NL>
+I had started to miss the quietude<NL>
+of the [Calm Lands]. But let's do<NL>
+this again sometime.<END>
+
+<VAR12 30><NL>
+Promise not to tell my husband<NL>
+and my son that I'm a blitzball<NL>
+player, okay?<END>
+
+<VAR12 30><NL>
+That was a great experience.<NL>
+I know it'll help me report<NL>
+blitzball games better. Thanks!<END>
+
+<VAR12 30><NL>
+Zev has grown strong playing<NL>
+with you. Now Zev will grow<NL>
+strong playing against you.<END>
+
+<VAR12 30><NL>
+The time spent with you was<NL>
+exhilarating. I must tell my<NL>
+friends back home all about it.<END>
+
+<VAR12 30><NL>
+Gee, I guess I still need some<NL>
+training. I'll practice out at<NL>
+sea when I'm sailing.<END>
+
+<VAR12 30><NL>
+Whoa! Father will be mad for<NL>
+leaving without telling him!<NL>
+But invite me again!<END>
+
+<VAR12 30><NL>
+Dodging lightning bolts is fun,<NL>
+but blitzball also has its appeal.<NL>
+Call me again!<END>
+
+<VAR12 30><NL>
+Shall I stay with the Crusaders,<NL>
+or retire and become a blitzer?<NL>
+Quite a dilemma.<END>
+
+<TEXT>
+<CHOICE1>Back<NL>
+<CHOICE2>Continue playing blitzball<END>
+
+<TEXT>
+<NL>
+<VAR12 30><END>
+
+<TEXT>
+<NL>
+<VAR07 42><VAR12 30><VAR07 72><VAR12 31><NL>
+<VAR07 42><VAR12 32><VAR07 72><VAR12 33><NL>
+<VAR07 42><VAR12 34><VAR07 72><VAR12 35><NL>
+<VAR07 42><VAR12 36><VAR07 72><VAR12 37><NL>
+<VAR07 42><VAR12 38><VAR07 72><VAR12 39><NL>
+<VAR07 42><VAR12 3A><VAR07 72><VAR12 3B><NL>
+<VAR07 42><VAR12 3C><VAR07 72><VAR12 3D><NL>
+<VAR07 42><VAR12 3E><VAR07 72><VAR12 3F><NL>
+<VAR07 42><VAR12 40><VAR07 72><VAR12 41><NL>
+<VAR07 42><VAR12 42><VAR07 72><VAR12 43><NL>
+<VAR07 42><VAR12 44><VAR07 72><VAR12 45><NL>
+<VAR07 42><VAR12 46><VAR07 72><VAR12 47><NL>
+<VAR07 42><VAR12 48><VAR07 72><VAR12 49><END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

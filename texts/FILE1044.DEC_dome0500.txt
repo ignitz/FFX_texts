@@ -1,0 +1,269 @@
+[Auron]<NL>
+We must talk.<END>
+
+[Tidus]<NL>
+What?<END>
+
+[Auron]<NL>
+There is something you should know.<END>
+
+[Tidus]<NL>
+I know...it's about you, right?<END>
+
+[Auron]<NL>
+I am also an unsent.<END>
+
+[Auron]<NL>
+You are not surprised?<END>
+
+[Tidus]<NL>
+I think I kinda knew.<NL>
+It was [Yunalesca], wasn't it?<END>
+
+[Auron]<NL>
+When [Braska] and [Jecht]<NL>
+died defeating [Sin]...<END>
+
+[Auron]<NL>
+I just couldn't accept it.<END>
+
+[Auron]<NL>
+I came back here...<NL>
+tried to avenge them.<END>
+
+[Auron]<NL>
+But she struck me down.<END>
+
+[Auron]<NL>
+Somehow I made my way,<NL>
+crawling, down Mount Gagazet.<END>
+
+[Auron]<NL>
+But my strength left me<NL>
+just outside [Bevelle].<NL>
+That's where [Kimahri] found me.<END>
+
+[Auron]<NL>
+I told him about [Yuna]...<NL>
+just before I died.<END>
+
+[Auron]<NL>
+I've been wandering ever since,<NL>
+never going to the [Farplane].<END>
+
+[Tidus]<NL>
+[Auron]...<END>
+
+[Auron]<NL>
+Don't make that face.<NL>
+Being dead has its advantages.<END>
+
+[Auron]<NL>
+I was able to ride [Sin]<NL>
+and go to your [Zanarkand].<END>
+
+[Tidus]<NL>
+And you've been watching over<NL>
+me since then, haven't you?<END>
+
+[Tidus]<NL>
+Why?<END>
+
+[Tidus]<NL>
+What's the big idea?<NL>
+Why me?<END>
+
+[Auron]<NL>
+It is one of those things<NL>
+that is difficult to explain.<END>
+
+[Auron]<NL>
+Very well, I will show you.<END>
+
+[Auron]<NL>
+My memories.<END>
+
+[Jecht]<NL>
+Can I ask you one last favor?<END>
+
+[Jecht]<NL>
+Uh...<END>
+
+[Jecht]<NL>
+Nah. Never mind.<END>
+
+[Auron]<NL>
+Out with it!<END>
+
+[Jecht]<NL>
+Okay. Listen good.<END>
+
+[Jecht]<NL>
+Take care of my son.<END>
+
+[Jecht]<NL>
+My son, in [Zanarkand].<NL>
+He's such a crybaby.<END>
+
+[Jecht]<NL>
+He needs someone there<NL>
+to hold his hand, see?<END>
+
+[Jecht]<NL>
+Take care of him, will you?<END>
+
+[Auron]<NL>
+But how am I supposed<NL>
+to go to [Zanarkand]?<END>
+
+[Jecht]<NL>
+Hey! You said it yourself!<END>
+
+[Jecht]<NL>
+There must be a way to<NL>
+get there, right? You'll find it.<END>
+
+[Auron]<NL>
+All right, I will!<END>
+
+[Auron]<NL>
+I give you my word.<END>
+
+[Auron]<NL>
+I'll take care of your son.<NL>
+I'll guard him with my life.<END>
+
+[Jecht]<NL>
+Thanks, [Auron].<END>
+
+[Jecht]<NL>
+You were always such a stiff,<NL>
+but that's what I liked about you.<END>
+
+[Auron]<NL>
+That is why.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

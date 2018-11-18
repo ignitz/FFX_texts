@@ -1,0 +1,320 @@
+<NL>
+I made a Movie Sphere of all<NL>
+of us singing.<END>
+
+<NL>
+Whenever I come to Luca, I always buy<NL>
+a sphere to take back to my family.<END>
+
+<NL>
+Can I interest you in one of our<NL>
+limited edition <Cor 88>Music Spheres<Cor 41>?<END>
+
+<TEXT>
+    <CHOICE1>Yeah, definitely!<NL>
+    <CHOICE2>What's a Music Sphere?<NL>
+    <CHOICE3>No, thanks.<END>
+
+<NL>
+Please come again.<END>
+
+<NL>
+Just as the name implies, it is a<NL>
+sphere that plays music, performed<NL>
+by the Yevon Musical Troupe.<END>
+
+<NL>
+Each sphere contains one song.<END>
+
+<NL>
+You will also need to use the audiovisual<NL>
+<Cor 88>control panel<Cor 41> found in the main hall.<END>
+
+<NL>
+So, would you like to purchase<NL>
+a memento of your travels?<END>
+
+<TEXT>
+    <CHOICE1>Yeah, definitely!<NL>
+    <CHOICE2>No, thanks.<END>
+
+<NL>
+You already have the entire collection of songs.<END>
+
+<TEXT>
+Total: <VAR12 30> Gil<END>
+
+<TEXT>
+Currently owned: <VAR12 31>/<VAR12 32><END>
+
+<NL>
+We have a special Music Sphere offer<NL>
+available exclusively to those who<NL>
+have purchased the entire collection.<END>
+
+<NL>
+Since this is a special offer,<NL>
+it is only available as a set.<NL>
+Would you like to purchase it?<END>
+
+<NL>
+<Cor 43>Special Music Sphere Set: 40,000 Gil<Cor 41><NL>
+<END>
+
+<TEXT>
+    <CHOICE1>Of course!<NL>
+    <CHOICE2>No, thanks.<END>
+
+<NL>
+I'm awfully sorry.<NL>
+Only one per customer, please.<END>
+
+<TEXT>
+Currently available: <VAR12 35><END>
+
+<TEXT>
+<NL>
+Music Sphere: <Cor 88><VAR12 37><Cor 41> x 2,000 Gil<NL>
+       <Cor 43>Total<Cor 41>: <VAR12 38> Gil<END>
+
+<TEXT>
+    <CHOICE1>Specify number.<NL>
+    <CHOICE2>Record all.<NL>
+    <CHOICE3>Quit.<END>
+
+<TEXT>
+[Direcional Cima][Direcional Baixo][Direcional Esquerda][Direcional Direita]: Select<NL>
+[Botão Círculo]: Confirm<END>
+
+<TEXT>
+Music Sphere: <CHOICE???>B<NL>
+<Cor 43>Enter 00 to cancel<END>
+
+<TEXT>
+Sorry, I don't have that many in stock.<END>
+
+<NL>
+You don't have enough Gil, sir.<END>
+
+<NL>
+Are you sure?<END>
+
+<TEXT>
+    <CHOICE1>Positive!<NL>
+    <CHOICE2>On second thought...<NL>
+    <CHOICE3>Maybe next time.<END>
+
+<TEXT>
+Thank you!<END>
+
+<TEXT>
+<NL>
+Music Sphere: <Cor 43>1<Cor 41><NL>
+is now available for your listening pleasure!<END>
+
+<TEXT>
+<NL>
+Music Sphere: <Cor 43>1 - <VAR12 31><Cor 41><NL>
+are now available for your listening pleasure!<END>
+
+<NL>
+Would you like to preserve memories of<NL>
+your travels on a <Cor 88>Movie Sphere<Cor 41>?<END>
+
+<TEXT>
+    <CHOICE1>Sure.<NL>
+    <CHOICE2>What's a Movie Sphere?<NL>
+    <CHOICE3>No, thanks.<END>
+
+<NL>
+Excellent. Please close<NL>
+your eyes and concentrate.<END>
+
+<NL>
+No more images are<NL>
+available for recording.<END>
+
+<NL>
+There are currently no images<NL>
+available for recording.<END>
+
+<NL>
+Let's see how many images you can<NL>
+currently record onto Movie Spheres.<NL>
+Ahh... Looks like <Cor 43><VAR12 36><Cor 41>.<END>
+
+<TEXT>
+Currently owned: <VAR12 33>/<VAR12 34><END>
+
+<TEXT>
+Currently available: <VAR12 36><END>
+
+<TEXT>
+<NL>
+Movie Sphere: <Cor 88><VAR12 37><Cor 41> x 5,000 Gil<NL>
+       <Cor 43>Total<Cor 41>: <VAR12 38> Gil<END>
+
+<TEXT>
+Movie Sphere: <CHOICE???>B<NL>
+<Cor 43>Enter 00 to cancel<END>
+
+<TEXT>
+Recorded successfully.<END>
+
+<TEXT>
+<NL>
+Movie Sphere: <Cor 43>1<Cor 41><NL>
+is now available for your viewing pleasure!<END>
+
+<TEXT>
+<NL>
+Movie Sphere: <Cor 43>1 - <VAR12 33><Cor 41><NL>
+are now available for your viewing pleasure!<END>
+
+<NL>
+It is a sphere that can record images<NL>
+from the past that stand out in your mind.<END>
+
+<NL>
+The images are saved onto a <Cor 88>Movie Sphere<Cor 41>.<END>
+
+<NL>
+It follows the same basic principles<NL>
+as sphere cameras, or monitors:<END>
+
+<NL>
+it captures the moment, so to speak.<END>
+
+<NL>
+However, the <Cor 88>Movie Sphere<Cor 41> differs mainly<NL>
+in that it records images from the past<NL>
+rather than the present.<END>
+
+<TEXT>
+    <CHOICE1>Sure.<NL>
+    <CHOICE2>No, thanks.<END>
+
+<NL>
+Welcome to the Sphere Theater.<NL>
+Would you like to go to the <Cor 88>main hall<Cor 41>?<END>
+
+<TEXT>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<TEXT>
+Map Debug Menu<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Update Map Data<NL>
+    <CHOICE3>Initialize Theater Parameter<NL>
+    <CHOICE4>Control Map Line<NL>
+    <CHOICE5>Return to Saito<END>
+
+<TEXT>
+Initialize Theater Parameter<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. VII!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>K<Cor 41> [RIGHT] <Cor 97>G<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

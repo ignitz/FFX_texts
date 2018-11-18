@@ -1,0 +1,381 @@
+[Shelinda]<NL>
+Ah! There you are!<END>
+
+[Shelinda]<NL>
+So Lady [Yuna]<NL>
+is getting married.<END>
+
+[Shelinda]<NL>
+You shouldn't kid around<NL>
+about these things.<END>
+
+[Shelinda]<NL>
+Maester [Seymor]<NL>
+and Lady [Yuna]...<END>
+
+[Shelinda]<NL>
+I couldn't be happier...<NL>
+even if it was my own wedding.<END>
+
+[Shelinda]<NL>
+Now, victims of [Sin] will have<NL>
+something to be joyful about.<END>
+
+[Tidus]<NL>
+Yeah, I guess so.<END>
+
+[Shelinda]<NL>
+You're not happy?<END>
+
+[Tidus]<NL>
+Nah, it's complicated.<END>
+
+[Tidus]<NL>
+Say...<END>
+
+[Tidus]<NL>
+Do you know where [Yuna] is?<END>
+
+[Shelinda]<NL>
+I believe...<END>
+
+[Shelinda]<NL>
+she's gone to the Cloister of<NL>
+Trials with Maester [Seymor].<END>
+
+[Tromell]<NL>
+Ah, Lady [Yuna]'s guardians!<NL>
+I haven't thanked you for<NL>
+your help earlier.<END>
+
+[Tromell]<NL>
+Thanks to you, I was able to<NL>
+bring Lady [Yuna] here safely.<END>
+
+[Tromell]<NL>
+You have my sincerest gratitude.<END>
+
+[Tromell]<NL>
+It...isn't much,<NL>
+but I want you to have this.<END>
+
+<NL>
+Lord [Jyscal]!<END>
+
+<NL>
+A sphere, in Lady<NL>
+[Yuna]'s belongings...<END>
+
+[O'aka]<NL>
+Hurray for Maester<NL>
+[Seymor]'s wedding!<END>
+
+[O'aka]<NL>
+Oh, I hear Lady [Yuna] is<NL>
+still going to continue<NL>
+her journey, ah?<END>
+
+[O'aka]<NL>
+I wonder if that means she<NL>
+and Maester [Seymor] will<NL>
+fight [Sin] together?<END>
+
+[O'aka]<NL>
+Just like Lady [Yunalesca]<NL>
+and Lord [Zaon]!<END>
+
+[Yuna]<NL>
+Please...<END>
+
+[Auron]<NL>
+Give us a chance to explain.<END>
+
+[Tromell]<NL>
+No need, I already know<NL>
+what I'll tell the other maesters.<END>
+
+[Auron]<NL>
+Meaning...?<END>
+
+[Tromell]<NL>
+Lord [Seymor] was the leader<NL>
+of the [Guado] before becoming<NL>
+a maester.<END>
+
+[Tidus]<NL>
+You're not letting us go.<END>
+
+[Tromell]<NL>
+Let you go? Lord [Seymor] would<NL>
+never forgive us if we did.<END>
+
+[Rikku]<NL>
+Wait, wait!<END>
+
+[Rikku]<NL>
+[Jyscal]'s sphere!<NL>
+We can show it to them!<END>
+
+[Tromell]<NL>
+You mean this?<END>
+
+[Tromell]<NL>
+The [Guado] take care<NL>
+of [Guado] affairs.<END>
+
+[Kimahri]<NL>
+Away!<END>
+
+[Auron]<NL>
+Run!<END>
+
+[Shelinda]<NL>
+Please send my best<NL>
+regards to Lady [Yuna].<END>
+
+[Shelinda]<NL>
+I am indebted to Lady [Yuna].<END>
+
+[Shelinda]<NL>
+Wherever they are to hold<NL>
+the ceremonies, I'll make<NL>
+sure to be there.<END>
+
+[Shelinda]<NL>
+I will be travelling north<NL>
+to tell the people there the<NL>
+wonderful news!<END>
+
+[Shelinda]<NL>
+What has happened?<NL>
+Is there anything I can do?<END>
+
+[Tromell]<NL>
+Well... We have much to<NL>
+do before the ceremony.<END>
+
+[Tromell]<NL>
+We are all going to be very busy.<END>
+
+[Tromell]<NL>
+Lord [Seymor] and Lady [Yuna]'s<NL>
+marriage will help foster goodwill<NL>
+between us and humankind.<END>
+
+[Tromell]<NL>
+Lord [Jyscal], rest his soul,<NL>
+would be pleased. I'm sure of it.<END>
+
+<NL>
+Entry is not permitted. Lady [Yuna] is<NL>
+on her way to the Cloister of Trials.<END>
+
+<NL>
+That [Ronso], he...<END>
+
+<NL>
+[Bevelle] will hear about this!<END>
+
+<NL>
+The high priest of [Macalania Temple]<NL>
+was Maester [Seymor].<NEWPAGE>
+<NL>
+A new high priest has not yet<NL>
+been appointed in his place.<NEWPAGE>
+<NL>
+We await further instructions<NL>
+from [St. Bevelle].<END>
+
+<NL>
+The temple cannot operate much<NL>
+longer without a high priest.<END>
+
+<NL>
+Why would the lady<NL>
+have such a thing?<END>
+
+<NL>
+Before, both humans and [Guado]<NL>
+came to pray at the temple.<NEWPAGE>
+<NL>
+Now, nobody comes.<NL>
+How long before our own hearts<NL>
+grow chill and void of faith?<END>
+
+<NL>
+There are times when I think about<NL>
+quitting the clergy and going home.<END>
+
+<TEXT>
+<CHOICE1>Got any weapons?<NL>
+<CHOICE2>Got any items?<NL>
+<CHOICE3>Leave.<END>
+
+<NL>
+Those who once criticized the<NL>
+[Al Bhed] are now blaming the [Guado].<NEWPAGE>
+<NL>
+Hmph, always blaming others for<NL>
+everything. Have they no shame?<END>
+
+<NL>
+Hmph, the [Ronso] will probably<NL>
+be singled out next. Just you watch.<END>
+
+<NL>
+We're the life of the party!<NL>
+It's our job to be happy and merry!<NL>
+Join us!<END>
+
+<NL>
+Listen to our magnificent music!<NL>
+We'll have a ball!<END>
+
+<NL>
+Let us add joy to the wedding<NL>
+by contributing our song!<END>
+
+<NL>
+Forget about [Sin]'s terror<NL>
+for a moment and listen to<NL>
+this exquisite piece.<END>
+
+<NL>
+Hey, this place is just like mine!<NL>
+It's damp and cold and makes me<NL>
+sleepy.<END>
+
+<NL>
+We'd better start the wedding<NL>
+before I get too sleepy.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

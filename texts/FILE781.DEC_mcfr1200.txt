@@ -1,0 +1,320 @@
+<TEXT>
+[Tidus]<NL>
+[Yuna].<END>
+
+[Yuna]<NL>
+I always thought that this<NL>
+would be easier somehow.<END>
+
+[Yuna]<NL>
+I thought that everyone would help me...<END>
+
+[Yuna]<NL>
+with all my friends together beside me.<END>
+
+[Yuna]<NL>
+I've been trying so hard.<END>
+
+[Tidus]<NL>
+Maybe you're trying too hard.<END>
+
+[Tidus]<NL>
+They told me...everything.<END>
+
+[Yuna]<NL>
+Everything?<END>
+
+[Yuna]<NL>
+Well, so then...<NL>
+you know.<END>
+
+[Tidus]<NL>
+I'm sorry.<END>
+
+[Tidus]<NL>
+It's just, you know...<NL>
+all those things I said.<END>
+
+[Tidus]<NL>
+Like "Let's go get [Sin]!"<NL>
+Or about [Zanarkand]...<END>
+
+[Tidus]<NL>
+I didn't know what would<NL>
+happen to you, [Yuna].<END>
+
+[Tidus]<NL>
+I guess...<NL>
+I hope it didn't make you sad.<END>
+
+[Tidus]<NL>
+Forgive me.<END>
+
+[Yuna]<NL>
+I wasn't sad.<END>
+
+[Yuna]<NL>
+I was happy.<END>
+
+[Tidus]<NL>
+[Yuna].<END>
+
+[Tidus]<NL>
+Just don't do it.<END>
+
+[Yuna]<NL>
+The pilgrimage?<END>
+
+[Tidus]<NL>
+That's right.<END>
+
+[Tidus]<NL>
+Forget all about [Sin], about<NL>
+being a summoner. Forget all that.<END>
+
+[Tidus]<NL>
+You know, live a normal life.<NL>
+Come on now, [Yuna], what do you say?<END>
+
+[Yuna]<NL>
+Maybe I will.<END>
+
+[Yuna]<NL>
+Wouldn't everyone be surprised?<END>
+
+[Tidus]<NL>
+Yeah.<END>
+
+[Tidus]<NL>
+Except [Rikku].<NL>
+She'd be with you.<END>
+
+[Tidus]<NL>
+[Lulu] and [Wakka]<NL>
+wouldn't hold out long.<END>
+
+[Yuna]<NL>
+[Kimahri] would say yes, too, I know.<NL>
+But Sir [Auron]...<END>
+
+[Tidus]<NL>
+I'll make him understand, [Yuna].<NL>
+It's the least I can do for you.<END>
+
+[Yuna]<NL>
+No, I should tell him.<NL>
+He deserves it.<END>
+
+[Yuna]<NL>
+What'll I do if I give up my pilgrimage?<END>
+
+[Tidus]<NL>
+Hey! [Zanarkand]!<NL>
+Let's go to [Zanarkand]!<END>
+
+[Tidus]<NL>
+Not the one in [Spira],<NL>
+the one I'm from.<END>
+
+[Tidus]<NL>
+Yeah, we can all fly there.<NL>
+Everyone can go!<END>
+
+[Tidus]<NL>
+Then we'll have a big<NL>
+party at my place!<END>
+
+[Yuna]<NL>
+And then we could see [blitzball]!<END>
+
+[Yuna]<NL>
+Your [Zanarkand Abes] would play!<END>
+
+[Yuna]<NL>
+We could all watch you play,<NL>
+in the stadium all lit up at night.<END>
+
+[Yuna]<NL>
+I'd cheer and cheer till<NL>
+I couldn't cheer anymore!<END>
+
+[Tidus]<NL>
+Right on!<END>
+
+[Yuna]<NL>
+Well, what about after the game?<END>
+
+[Tidus]<NL>
+We'd go out and have fun!<END>
+
+[Yuna]<NL>
+In the middle of the night?<END>
+
+[Tidus]<NL>
+No problem!<NL>
+[Zanarkand] never sleeps!<END>
+
+[Tidus]<NL>
+Let's go to the sea,<NL>
+before the sunrise.<END>
+
+[Tidus]<NL>
+The city lights go out one by one.<NL>
+The stars fade...<END>
+
+[Tidus]<NL>
+Then the horizon glows,<NL>
+almost like it's on fire.<END>
+
+[Tidus]<NL>
+It's kinda rose-colored, right? First<NL>
+in the sea, then it spreads to the sky,<NL>
+then to the whole city. It gets brighter<NL>
+and brighter, till everything glows.<END>
+
+[Tidus]<NL>
+It's really...pretty.<END>
+
+[Tidus]<NL>
+I know you'd like it.<END>
+
+<NL>
+          <END>
+
+[Yuna]<NL>
+I'd like to see it, someday.<END>
+
+[Tidus]<NL>
+Well you can, [Yuna].<NL>
+We can both go!<END>
+
+[Tidus]<NL>
+Yu...?<END>
+
+[Yuna]<NL>
+I can't.<NL>
+I just can't!<END>
+
+[Yuna]<NL>
+I can't go!<END>
+
+<NL>
+          <END>
+
+[Yuna]<NL>
+I'll continue. I must.<END>
+
+<NL>
+          <END>
+
+[Yuna]<NL>
+If I give up now...<END>
+
+[Yuna]<NL>
+I could do anything<NL>
+I wanted to, and yet...<END>
+
+[Yuna]<NL>
+Even if I was with you,<NL>
+I could never forget.<END>
+
+[Tidus]<NL>
+Yeah.<END>
+
+[Tidus]<NL>
+I'll go with you.<END>
+
+[Tidus]<NL>
+I'm your guardian.<END>
+
+[Tidus]<NL>
+Unless I'm...fired?<END>
+
+[Yuna]<NL>
+Stay with me until the end. Please.<END>
+
+[Tidus]<NL>
+Not until the end...<END>
+
+[Tidus]<NL>
+Always.<END>
+
+[Yuna]<NL>
+Always, then.<END>
+
+[Yuna]<NL>
+Maybe you should<NL>
+head back to camp first.<END>
+
+[Tidus]<NL>
+Roger!<END>
+
+[Yuna]<NL>
+Wait, I'll go with you.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

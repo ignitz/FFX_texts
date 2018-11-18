@@ -1,0 +1,134 @@
+[Auron]<NL>
+Why am I doing this?<END>
+
+[Jecht]<NL>
+Hey! Hold it steady!<END>
+
+[Jecht]<NL>
+You're gonna spoil it!<END>
+
+[Auron]<NL>
+What do you see there, my lord?<END>
+
+[Braska]<NL>
+Oh, I was just...thinking.<END>
+
+[Jecht]<NL>
+This is important!<NL>
+No foolin' around!<END>
+
+[Jecht]<NL>
+Whoa!<END>
+
+[Braska]<NL>
+Are you all right?<END>
+
+<NL>
+          <END>
+
+[Auron]<NL>
+Now there's a scene for posterity!<END>
+
+[Jecht]<NL>
+Yeah, yeah...<END>
+
+<NL>
+          <END>
+
+[Jyscal]<NL>
+What I am about to tell<NL>
+you is the unclouded truth.<END>
+
+[Jyscal]<NL>
+I swear it on my honor<NL>
+as a [Guado].<END>
+
+[Jyscal]<NL>
+Listen to me very carefully,<NL>
+for I shall tell you the truth<NL>
+about my son, [Seymor].<END>
+
+[Jyscal]<NL>
+His mind is closed even to<NL>
+me, a maester of [Yevon2].<END>
+
+[Jyscal]<NL>
+But I can feel flames of<NL>
+darkness burning in his heart.<END>
+
+[Jyscal]<NL>
+He is using [Yevon2], the [Guado],<NL>
+and even the summoners.<END>
+
+[Jyscal]<NL>
+If he is not stopped, he will surely bring<NL>
+destruction and chaos to [Spira].<END>
+
+[Jyscal]<NL>
+I will leave this world soon,<NL>
+killed by my own son.<END>
+
+[Jyscal]<NL>
+But I do not fault him.<END>
+
+[Jyscal]<NL>
+Because I was not wise enough,<NL>
+he has suffered, and become twisted.<END>
+
+[Jyscal]<NL>
+I could not protect him and his mother<NL>
+from the world and its cruelty.<END>
+
+[Jyscal]<NL>
+I will accept death as<NL>
+punishment for my deeds.<END>
+
+[Jyscal]<NL>
+But whoever is watching this...<END>
+
+[Jyscal]<NL>
+I implore you to stop [Seymor]!<NL>
+Stop my son.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

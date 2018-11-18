@@ -1,0 +1,541 @@
+<TEXT>
+[Yuna]<NL>
+Hmm?<END>
+
+[Tidus]<NL>
+Don't forget to smile, remember?<END>
+
+[Yuna]<NL>
+Oh, you're right.<NL>
+I'll try and remember.<END>
+
+[Yuna]<NL>
+Smiling...<END>
+
+[Tidus]<NL>
+Right! Keep at it!<END>
+
+[Auron]<NL>
+Anything can happen.<END>
+
+[Tidus]<NL>
+"Make sure you're prepared," right?<END>
+
+[Auron]<NL>
+There is a saying:<NL>
+"Hurry up and wait."<END>
+
+[Auron]<NL>
+It means, prepare quickly so<NL>
+you're ready for whatever comes next.<END>
+
+[Tidus]<NL>
+Sounds like something<NL>
+an old man would say.<END>
+
+[Auron]<NL>
+Forgive me.<END>
+
+[Tidus]<NL>
+Hey, just being honest!<END>
+
+[Rikku]<NL>
+Can we go now?<NL>
+I'm tired of waiting!<END>
+
+[Lulu]<NL>
+[Yuna]'s really quiet.<END>
+
+[Lulu]<NL>
+Sitting here like this,<NL>
+you really get to thinking.<END>
+
+[Kimahri]<NL>
+Temple not far.<NL>
+Why stop here?<END>
+
+[Wakka]<NL>
+Seriously...<END>
+
+[Wakka]<NL>
+A wedding's not supposed<NL>
+to make people feel this bad, huh?<END>
+
+[Tidus]<NL>
+Come on, don't say that!<END>
+
+<TEXT>
+[Wakka]<NL>
+Hmph!<END>
+
+[Wakka]<NL>
+I say what I want,<NL>
+ever since I was a kid!<END>
+
+[Tidus]<NL>
+Oh, so you're an adult now?<END>
+
+[Wakka]<NL>
+You know it!<END>
+
+[Wakka]<NL>
+Anyways... How long we supposed<NL>
+to stay here, you think?<END>
+
+[Tidus]<NL>
+Hey, don't ask me!<END>
+
+[Wakka]<NL>
+Things've sure gotten complicated<NL>
+since Sir [Auron] joined us.<END>
+
+[Tidus]<NL>
+You think so, too?<END>
+
+[Wakka]<NL>
+Still can't figure that guy out.<END>
+
+[Maechen]<NL>
+I've heard Lady [Yuna] is<NL>
+to wed Maester [Seymor].<END>
+
+[Maechen]<NL>
+It is great news.<NL>
+I'd like to congratulate her.<END>
+
+[Maechen]<NL>
+But...it is a pity.<END>
+
+[Maechen]<NL>
+I'd hoped Lady [Yuna] would defeat<NL>
+[Sin] and bring the [Calm] to [Spira].<END>
+
+[Tidus]<NL>
+[Yuna]'s still gonna journey,<NL>
+even after she's married.<END>
+
+[Maechen]<NL>
+That is also great news!<NL>
+Her resolve is admirable!<END>
+
+[Maechen]<NL>
+Would you like<NL>
+to hear about Macalania?<END>
+
+<TEXT>
+<CHOICE1>Maybe next time.<NL>
+<CHOICE2>Go ahead!<END>
+
+[Maechen]<NL>
+Lake Macalania is frozen<NL>
+over all through the year.<END>
+
+[Maechen]<NL>
+It stays frozen even<NL>
+on the hottest of days.<END>
+
+[Maechen]<NL>
+It is said that the temple's<NL>
+[fayth] is the cause of this<NL>
+fantastic phenomenon!<END>
+
+[Maechen]<NL>
+And that is all for today.<END>
+
+[Maechen]<NL>
+Pity.<END>
+
+[Maechen]<NL>
+Hopefully I can be<NL>
+present at the wedding.<END>
+
+[Maechen]<NL>
+It is not every day that one<NL>
+can attend such a joyous event.<END>
+
+[Maechen]<NL>
+What is all that ruckus outside?<END>
+
+<NL>
+Could the [Al Bhed2] be celebrating the<NL>
+wedding, too? It's hard to believe.<END>
+
+<NL>
+I heard a flying machina appeared<NL>
+in the skies over [Bevelle]! Could<NL>
+it really have been the [Al Bhed]?<END>
+
+<NL>
+Lady [Yuna]'s wedding is so soon!<NL>
+I'm so excited I can hardly sleep!<END>
+
+<NL>
+Could it be true that Lady [Yuna] is a<NL>
+traitor? Oh, I hope not...<END>
+
+<NL>
+The temple destroyed the home of the<NL>
+[Al Bhed], I hear. Was such violence<NL>
+really called for?<NEWPAGE>
+<NL>
+Not that I'm complaining about the<NL>
+temple! You heard nothing from me!<NL>
+Nothing!<END>
+
+<NL>
+The way things are these days, even<NL>
+this store isn't safe from attack.<END>
+
+<NL>
+[Macalania Temple] is full of those [Guado]<NL>
+soldiers. It's a madhouse, I tell you.<NEWPAGE>
+<NL>
+I can't even bring myself to go pray<NL>
+properly. Things were so quiet before.<END>
+
+<NL>
+You look an awful lot like those traitors.<NL>
+Take care you don't get mistaken for them!<END>
+
+<NL>
+I left the [airship] on<NL>
+Elder [Cid]'s orders.<NL>
+I wished to be with my family,<NL>
+but now I am here against my will.<END>
+
+<NL>
+I too can fight!<NL>
+Yet I am treated like an infant!<END>
+
+<NL>
+They say that [Sin] has fallen on [Bevelle].<NL>
+All the [Yevon2] folk are in a panic!<END>
+
+<NL>
+I had hoped to help<NL>
+Master [Rin] at his shop.<NEWPAGE>
+<NL>
+But because I can only speak<NL>
+[Al Bhed], he would not hire me.<NEWPAGE>
+<NL>
+I now learn your language<NL>
+from that kindly shopkeeper.<END>
+
+<NL>
+Now we must all employ two tongues,<NL>
+as do Master [Rin] and [Rikku].<END>
+
+<NL>
+Outside, I felt the white sand with<NL>
+my hand and it became most cold!<END>
+
+<NL>
+Could this be the snow?<NL>
+It is my first time seeing it!<END>
+
+<NL>
+When I sang the song outside,<NL>
+my breath--it became most white!<END>
+
+<NL>
+He is so weak to the cold, he just sits<NL>
+there and misses all there is to see!<END>
+
+<NL>
+I was playing at sliding on the ice,<NL>
+and I almost fell into a big hole!<END>
+
+<NL>
+Our new [Home] we should build here!<NL>
+Then we can have snow fun every day!<END>
+
+<TEXT>
+<NL>
+Welcome to the [Lake Macalania] branch of<NL>
+[Rin]'s Travel Agency, now Spira-wide!<END>
+
+<TEXT>
+<CHOICE1>Rest.<NL>
+<CHOICE2>Buy weapons.<NL>
+<CHOICE3>Buy items.<NL>
+<CHOICE4>Leave.<END>
+
+<TEXT>
+<NL>
+Thank you for your patronage!<NL>
+Please use our other agencies<NL>
+in your travels!<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+<Cor 43>[Al Bhed] Compilation Sphere<Cor 41><END>
+
+<TEXT>
+Scans memory cards [']8MB[/'] [']for PlayStation[REG]2[/']<NL>
+for [Al Bhed] primers and adds them to your<NL>
+collection. Use these spheres to expand your<NL>
+[Al Bhed] vocabulary.<END>
+
+<TEXT>
+Select a slot:<NL>
+<CHOICE1>MEMORY CARD slot 1<NL>
+<CHOICE2>MEMORY CARD slot 2<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+MEMORY CARD slot 1<END>
+
+<TEXT>
+Do not remove/insert memory cards [']8MB[/']<NL>
+[']for PlayStation[REG]2[/'] or controllers.<NL>
+Do not open disc tray.<END>
+
+<TEXT>
+No memory card [']8MB[/'] [']for PlayStation[REG]2[/']<NL>
+found in MEMORY CARD slot 1!<END>
+
+<TEXT>
+No [FINAL FANTASY X] INTERNATIONAL<NL>
+saved game data found!<END>
+
+<TEXT>
+Error loading [Al Bhed] dictionary!<END>
+
+<TEXT>
+No [Al Bhed] dictionary data found!<END>
+
+<TEXT>
+[Al Bhed] dictionary successfully loaded!<END>
+
+<TEXT>
+Compile [Al Bhed] dictionary?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<TEXT>
+MEMORY CARD slot 2<END>
+
+<TEXT>
+No memory card [']8MB[/'] [']for PlayStation[REG]2[/']<NL>
+found in MEMORY CARD slot 2!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

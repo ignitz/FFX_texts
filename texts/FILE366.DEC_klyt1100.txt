@@ -1,0 +1,114 @@
+[Wakka]<NL>
+Whoa, whoa, whoa!<END>
+
+[Tidus]<NL>
+It was [Dona] and that<NL>
+big musclehead man!<END>
+
+[Lulu]<NL>
+[Yuna] will be the one<NL>
+to suffer the consequences!<END>
+
+[Tidus]<NL>
+What consequences?<END>
+
+[Wakka]<NL>
+She could be excommunicated!<END>
+
+[Lulu]<NL>
+The chamber beyond is a sacred<NL>
+place. Only summoners may enter.<END>
+
+[Tidus]<NL>
+What, even guardians can't go?<END>
+
+[Wakka]<NL>
+It's taboo!<END>
+
+[Wakka]<NL>
+Just wait.<END>
+
+[Tidus]<NL>
+So, what's in there anyway?<END>
+
+[Wakka]<NL>
+The [fayth], remember?<END>
+
+[Tidus]<NL>
+Oh yeah, that thing. Right.<END>
+
+[Lulu]<NL>
+The [fayth] are people who<NL>
+gave their lives to battle [Sin].<END>
+
+[Lulu]<NL>
+[Yevon2] took their souls, willingly<NL>
+given from their still-living bodies.<END>
+
+[Tidus]<NL>
+Huh?<END>
+
+[Lulu]<NL>
+Now they live forever,<NL>
+trapped in statues.<END>
+
+[Lulu]<NL>
+But when a summoner beckons, the<NL>
+souls of the [fayth] emerge once again.<END>
+
+[Lulu]<NL>
+That's what we call an aeon.<END>
+
+[Tidus]<NL>
+All that in this room?<END>
+
+[Tidus]<NL>
+S-So what's [Yuna]<NL>
+doing in there?<END>
+
+[Wakka]<NL>
+She prays with all her heart<NL>
+for a way to defeat [Sin].<END>
+
+<NL>
+<NL>
+There was something I didn't<NL>
+tell anyone else that day.<END>
+
+<NL>
+That song we heard there, in the temple...<NL>
+I knew it from my childhood.<END>
+
+<NL>
+It was proof that [Spira] and<NL>
+[Zanarkand] were connected somehow.<NL>
+At least to me it was.<END>
+
+<NL>
+Maybe that's why, suddenly, I felt<NL>
+like...I just wanted to go home.<END>
+
+<NL>
+I tried to say something, to tell them.<NL>
+But the words wouldn't come.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

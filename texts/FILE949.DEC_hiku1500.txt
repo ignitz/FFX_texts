@@ -1,0 +1,265 @@
+[Cid]<NL>
+We gotta keep our distance, boys,<NL>
+but we can't let her get too far away.<END>
+
+[Cid]<NL>
+You all have to tell me<NL>
+when to move!<END>
+
+[Cid]<NL>
+But tell me quick, eh?<NL>
+This rig ain't so nimble, you hear?<END>
+
+[Tidus]<NL>
+Roger! I'll give the commands!<END>
+
+[Rikku]<NL>
+Not alone, you won't!<END>
+
+[Rikku]<NL>
+I can hear the song!<END>
+
+[Lulu]<NL>
+Yes, I can hear the Hymn, too.<END>
+
+[Rikku]<NL>
+They listened to us!<END>
+
+[Tidus]<NL>
+We won't let them down!<END>
+
+[Tidus]<NL>
+[Yuna]?<END>
+
+[Tidus]<NL>
+You don't need this anymore, right?<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+Right?<END>
+
+[Wakka]<NL>
+Hey, guys? Guys?<NL>
+That's not good, ya?<END>
+
+<NL>
+          <END>
+
+[Brother]<NL>
+Father!<NL>
+I cannot believe what I see!<END>
+
+[Cid]<NL>
+Believe it, son! They've<NL>
+done it! It is happening!<END>
+
+[Brother]<NL>
+[Rikku], excellent!<END>
+
+[Wakka]<NL>
+The [Crusader]s would be<NL>
+out of a job if it was this easy.<END>
+
+<NL>
+          <END>
+
+[Yuna]<NL>
+It's going to come back, isn't it?<END>
+
+[Tidus]<NL>
+I know.<END>
+
+[Cid]<NL>
+What? You're kidding me!<END>
+
+[Tidus]<NL>
+No!<NL>
+We have to beat the guy inside [Sin].<END>
+
+[Lulu]<NL>
+But it has weakened.<NL>
+I'm sure of it.<END>
+
+[Rikku]<NL>
+Yeah! We're winning!<END>
+
+[Cid]<NL>
+All right, I'll do what<NL>
+I can with the main gun!<END>
+
+<NL>
+          <END>
+
+<TEXT>
+Obtained Vachella's Sphere!<END>
+
+<TEXT>
+Obtained Robeya's Sphere!<END>
+
+<TEXT>
+Obtained Isrra's Sphere!<END>
+
+<TEXT>
+Obtained Elio's Sphere!<END>
+
+<TEXT>
+Obtained Flaile's Sphere!<END>
+
+<TEXT>
+Obtained the Sphere del Perdedor!<END>
+
+<TEXT>
+Obtained two Shadow Gems!<END>
+
+<TEXT>
+Obtained a Shining Gem!<END>
+
+<TEXT>
+Obtained a Blessed Gem!<END>
+
+<NL>
+<TEXT>
+<Cor 88>Time: <VAR12 32>:<VAR12 31>.<VAR12 30><Cor 41><END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

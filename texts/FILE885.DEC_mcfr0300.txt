@@ -1,0 +1,189 @@
+<TEXT>
+Obtained [Jecht]'s sphere!<END>
+
+<TEXT>
+<TEXT>
+<Cor 43>[Jecht]'s Spheres<Cor 41><NL>
+Spheres that document [Jecht]'s journey are<NL>
+hidden all over [Spira]. Defeating the<NL>
+Spherimorph has unlocked the seals<NL>
+that once bound the spheres. Find them!<END>
+
+[Tidus]<NL>
+This place...<END>
+
+[Tidus]<NL>
+It's just water, isn't it?<END>
+
+[Auron]<NL>
+This is what spheres are made of.<END>
+
+[Auron]<NL>
+It absorbs and preserves<NL>
+people's memories.<END>
+
+[Wakka]<NL>
+What's that?<END>
+
+[Auron]<NL>
+Fiends are also<NL>
+attracted to these places.<END>
+
+[Wakka]<NL>
+Whoa, this is old!<NL>
+Don't know if you can play it back.<END>
+
+[Auron]<NL>
+[Jecht] left it here ten years ago.<END>
+
+[Auron]<NL>
+Play it back.<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+What's the point?<NL>
+He wasn't on some pleasure cruise.<END>
+
+[Rikku]<NL>
+I think there's more.<END>
+
+[Tidus]<NL>
+He sounded almost serious,<NL>
+but it was too late.<END>
+
+[Auron]<NL>
+He was serious.<END>
+
+[Auron]<NL>
+[Jecht] had already<NL>
+accepted his fate.<END>
+
+[Tidus]<NL>
+His fate?<END>
+
+[Auron]<NL>
+[Jecht]... He...<END>
+
+[Auron]<NL>
+He was always talking<NL>
+about going home, to [Zanarkand].<END>
+
+[Auron]<NL>
+That's why he took all those pictures--<NL>
+to show them to you when he returned.<END>
+
+[Auron]<NL>
+But as he journeyed with us<NL>
+and came to understand [Spira],<NL>
+and [Braska]'s resolve...<END>
+
+[Auron]<NL>
+It happened gradually,<NL>
+but [Jecht] changed.<END>
+
+[Auron]<NL>
+He decided he would join [Braska]<NL>
+in his fight against [Sin].<END>
+
+[Tidus]<NL>
+So then, he gave up going home?<END>
+
+[Auron]<NL>
+That was his decision.<END>
+
+<NL>
+I guess I understood.<END>
+
+<NL>
+My old man...<END>
+
+<NL>
+He knew there was no way<NL>
+back home, back to [Zanarkand].<END>
+
+<NL>
+He wanted to go home,<NL>
+but he knew he couldn't.<END>
+
+<NL>
+He couldn't go on<NL>
+until he accepted it.<END>
+
+<NL>
+Besides...<END>
+
+<NL>
+even if he had<NL>
+found a way back...<END>
+
+<NL>
+I don't think he would've<NL>
+left his friends behind before<NL>
+their journey was complete.<END>
+
+[Tidus]<NL>
+All right!<NL>
+Let's go, guys!<END>
+
+<NL>
+Maybe I had to start<NL>
+accepting my own fate.<END>
+
+[Auron]<NL>
+Wait.<END>
+
+[Tidus]<NL>
+Yeah?<END>
+
+[Auron]<NL>
+[Jecht] loved you.<END>
+
+[Tidus]<NL>
+Oh, come on, please!<END>
+
+[Auron]<NL>
+He just didn't know how<NL>
+to express it, he said.<END>
+
+[Tidus]<NL>
+Enough about my old man, okay?<END>
+
+[Auron]<NL>
+I just thought you should know.<END>
+
+[Tidus]<NL>
+Okay.<END>
+
+[Tidus]<NL>
+Thanks.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

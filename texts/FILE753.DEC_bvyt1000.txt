@@ -1,0 +1,167 @@
+<NL>
+Looks like you're next!<END>
+
+[Tidus]<NL>
+Next for what?<END>
+
+<NL>
+Get going!<END>
+
+[Tidus]<NL>
+Where's everybody else?<END>
+
+<NL>
+Floating down there somewhere, maybe.<END>
+
+[Wakka]<NL>
+Oooh! You made it!<END>
+
+[Tidus]<NL>
+What's our sentence?<END>
+
+[Wakka]<NL>
+Think they expect us<NL>
+to give up and die down here.<END>
+
+[Tidus]<NL>
+Well, that's a lame<NL>
+way to kill someone.<END>
+
+[Rikku]<NL>
+Where's [Yunie]?<END>
+
+[Tidus]<NL>
+I don't know.<END>
+
+[Rikku]<NL>
+Wonder if we should wait for her...<END>
+
+[Tidus]<NL>
+Hmm...<END>
+
+[Tidus]<NL>
+Let's wait at the exit.<END>
+
+[Rikku]<NL>
+If there is an exit.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

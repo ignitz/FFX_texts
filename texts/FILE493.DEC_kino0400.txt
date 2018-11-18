@@ -1,0 +1,447 @@
+[Yuna]<NL>
+Hey, you two! Hurry up!<END>
+
+[Tidus]<NL>
+She's awfully cheerful.<END>
+
+[Kimahri]<NL>
+In dark times she must be.<NL>
+She must shine bright.<END>
+
+[Kimahri]<NL>
+Now are dark times.<NL>
+[Yuna] tries hard.<END>
+
+[Tidus]<NL>
+We should help her, then.<END>
+
+[Kimahri]<NL>
+If we worry, she tries harder.<END>
+
+[Kimahri]<NL>
+Do not frown.<END>
+
+[Tidus]<NL>
+Don't worry, be happy?<END>
+
+[Kimahri]<NL>
+[Kimahri] try, too.<END>
+
+[Tidus]<NL>
+Smile! Let me see.<END>
+
+[Tidus]<NL>
+Hey! How much longer<NL>
+till [Zanarkand]?<END>
+
+[Wakka]<NL>
+Still a ways.<END>
+
+[Lulu]<NL>
+First down the [Moonflow] to<NL>
+the [Guado] city of [Guadosalam]...<END>
+
+[Lulu]<NL>
+Then we cross the [Thunder Plains]<NL>
+to the temple of Macalania.<END>
+
+[Tidus]<NL>
+Oh, boy.<END>
+
+[Yuna]<NL>
+And before that, we get to pray<NL>
+at the temple in <Cor 88>[Djose]<Cor 41>!<END>
+
+[Tidus]<NL>
+We can't just skip all<NL>
+that? Can we, huh?<END>
+
+[Yuna]<NL>
+I have to pray to the [fayth] in every<NL>
+temple in order to earn the Final Aeon.<END>
+
+[Wakka]<NL>
+That's a summoner's training.<END>
+
+[Wakka]<NL>
+She's gotta prepare mind and body, all<NL>
+just to get ready for the Final Summoning.<END>
+
+[Tidus]<NL>
+Must be tough, [Yuna].<END>
+
+[Yuna]<NL>
+I'll be fine with you here!<END>
+
+[Auron]<NL>
+Hey, new guy.<END>
+
+[Tidus]<NL>
+Uh...me?<END>
+
+[Auron]<NL>
+Who else?<END>
+
+[Tidus]<NL>
+What can I do for you, boss?<END>
+
+[Auron]<NL>
+Don't tell [Yuna] you<NL>
+know about [Sin] and [Jecht].<END>
+
+<NL>
+          <END>
+
+[Auron]<NL>
+You know her...<END>
+
+[Auron]<NL>
+She would...distance<NL>
+herself from you.<END>
+
+[Auron]<NL>
+We do not want that.<END>
+
+[Tidus]<NL>
+I see, I think.<END>
+
+[Tidus]<NL>
+Yeah, but even if I did<NL>
+say something, no one<NL>
+would believe me, you know?<END>
+
+[Auron]<NL>
+[Yuna] would.<END>
+
+[Tidus]<NL>
+Ah...you have a point.<END>
+
+[Auron]<NL>
+Better than you finding out at a<NL>
+critical moment, becoming emotional.<END>
+
+[Tidus]<NL>
+What? Me, emotional?<END>
+
+[Auron]<NL>
+I heard you were quite the crybaby.<END>
+
+<NL>
+Yeah, maybe when I was a kid.<END>
+
+<NL>
+Maybe even a little now.<NL>
+Just a little.<END>
+
+[Tidus]<NL>
+Hey!<END>
+
+[Tidus]<NL>
+I still don't buy<NL>
+your story, you hear?<END>
+
+[Tidus]<NL>
+Where to next?<END>
+
+[Lulu]<NL>
+We cross the <Cor 88>[Moonflow]<Cor 41>.<END>
+
+[Tidus]<NL>
+Gotcha!<END>
+
+[Tidus]<NL>
+<Cor 88>[Moonflow]<Cor 41>, baby,<NL>
+here we come!<END>
+
+[Tidus]<NL>
+Come to think of it...did I really<NL>
+have to know about [Jecht]?<END>
+
+[Tidus]<NL>
+What about my feelings?<END>
+
+<NL>
+We've decided to rest at the temple.<NL>
+I just hope they let us.<NEWPAGE>
+<NL>
+We've been excommunicated, after all.<NL>
+They might throw us out.<END>
+
+<NL>
+Oh, I almost forgot.<NEWPAGE>
+<NL>
+There are fiends here that petrify<NL>
+humans. Wear this; it should help.<END>
+
+<NL>
+My buddy's missing. We served<NL>
+in the same unit. I hope he's okay.<END>
+
+<NL>
+My comrades are dead, all because<NL>
+we ignored the teachings.<NEWPAGE>
+<NL>
+Relying on a forbidden machina...<NL>
+What the heck were we thinking?<END>
+
+<NL>
+This'll hardly make amends, but...<NL>
+I want the lady summoner to have this.<END>
+
+<NL>
+I guess it's time to seek the monks' help<NL>
+and embrace the teachings once again.<END>
+
+<NL>
+We incurred heavy casualties in last<NL>
+year's [Djose] coast defense operation.<NEWPAGE>
+<NL>
+But even those losses<NL>
+don't compare to this.<END>
+
+<NL>
+I found this lying on the battlefield.<NL>
+Maybe it will be of some use to you.<END>
+
+<NL>
+All I can offer now are my prayers.<END>
+
+<NL>
+[Sin]'s attack has aggravated the fiends.<NL>
+I advise against going to [Luca].<END>
+
+<NL>
+The [Crusader]s have been ordered<NL>
+to regroup at [Djose Temple].<NEWPAGE>
+<NL>
+Not many left to regroup, but...<END>
+
+<NL>
+It's my fault. My men died in vain<NL>
+because of me. It's all my fault.<END>
+
+<NL>
+My sergeant's keepsake... Take it.<NL>
+<END>
+
+<NL>
+Supposedly, the warrior monks and the<NL>
+[Guado2] will guard the Highroad now.<NEWPAGE>
+<NL>
+Pretty soon they won't need the<NL>
+[Crusader]s around here at all.<END>
+
+<NL>
+I'll stay on to guard the Highroad,<NL>
+even without my fellow [Crusader]s.<END>
+
+<NL>
+The warrior monks have returned to<NL>
+[Bevelle]. In other words, they fled.<END>
+
+<NL>
+Rumor has it that [Sin] will<NL>
+return to this place someday.<END>
+
+<NL>
+Unbelievable! A flying ship that sings!<NL>
+My jaw dropped when I saw it.<NEWPAGE>
+<NL>
+A huge crowd gathered along the Highroad,<NL>
+and they all sang along, arm in arm.<END>
+
+<NL>
+So if we defeat [Sin], our crimes<NL>
+will be forgiven, right? Right!?<NEWPAGE>
+<NL>
+That time I stole that kid's...<NL>
+And the other time when I...<NL>
+All will be forgiven?<END>
+
+<NL>
+As followers of [Yevon2], we believe<NL>
+in aiding all those who are wounded.<NEWPAGE>
+<NL>
+Even the excommunicated [Crusader]s.<NEWPAGE>
+<NL>
+They have suffered so much. I believe<NL>
+the time has come to welcome them back.<END>
+
+<NL>
+May [Yevon2]'s blessing be with you.<END>
+
+<NL>
+A heartbreaking defeat, it was...<NL>
+[Yevon2]'s blessing has spared us.<END>
+
+<NL>
+There are some suspicious [Al Bhed2]<NL>
+prowling around the Highroad.<NEWPAGE>
+<NL>
+But then again, I've never met an<NL>
+[Al Bhed2] that wasn't suspicious!<END>
+
+<NL>
+Please notify me if you<NL>
+run into any [Al Bhed2].<END>
+
+<NL>
+What in [Spira] are you doing here?<NEWPAGE>
+<NL>
+Maester [Seymor] is expecting<NL>
+you in [Macalania].<END>
+
+<NL>
+We must spread news of the<NL>
+wedding to all of [Spira].<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<NL>
+  Luca<NL>
+                 Kilika Port<NL>
+<NL>
+<NL>
+             Besaid<END>
+
+<ÁREA><NL>
+Djose Highroad<END>
+
+<ÁREA><NL>
+Temple of Yevon-Djose<END>
+
+<ÁREA><NL>
+Moonflow<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. XI!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>G<Cor 41> [RIGHT] <Cor 97>K<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

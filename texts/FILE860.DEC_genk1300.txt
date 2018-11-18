@@ -1,0 +1,314 @@
+<NL>
+Lord [Braska] must be bursting with<NL>
+pride up on the [Farplane]<NL>
+at having such a fine daughter!<END>
+
+<NL>
+I heard the [Al Bhed] attacked you!<NL>
+Are you okay?<END>
+
+<NL>
+I hope to celebrate Lady [Yuna]'s<NL>
+Calm while I'm still alive.<END>
+
+<NL>
+How about seeing Lord [Braska]<NL>
+in [Guadosalam]?<END>
+
+<NL>
+With a summoner like you at our side,<NL>
+we've no need to fear [Sin]!<END>
+
+<NL>
+I'll have great stories to tell<NL>
+about meeting Lady [Yuna].<END>
+
+<NL>
+Never even crossed my mind that Lady [Yuna]<NL>
+would marry... Now that's a great story to tell!<END>
+
+<NL>
+You know that machina that lifts you up<NL>
+to the shoopuf? I don't like it, I tell you.<NEWPAGE>
+<NL>
+I don't care if it's been approved by the temple.<NL>
+Machina is machina. That's that.<END>
+
+<NL>
+Even sanctioned machina gives<NL>
+me the creeps, I tell you.<END>
+
+<NL>
+I tell you, my wife was as pretty as<NL>
+Lady [Yuna] back in her day.<END>
+
+<NL>
+When Lady [Yuna] gets married, will<NL>
+she abandon her quest to vanquish [Sin]?<NEWPAGE>
+<NL>
+That is what worries me the most.<END>
+
+<NL>
+I'm afraid I'll be attacked<NL>
+by [Al Bhed] if I travel alone.<END>
+
+<NL>
+I think the temple should crack down<NL>
+on the [Al Bhed] and teach them a lesson or two!<END>
+
+<NL>
+Have you seen the [Crusader]s returning home?<NL>
+They look pathetic.<NEWPAGE>
+<NL>
+And they were so confident<NL>
+the last time they passed through.<END>
+
+<NL>
+It should be a big ceremony because<NL>
+a maester's getting married.<NEWPAGE>
+<NL>
+It's been so long since we've<NL>
+had some good news! This is all so exciting!<END>
+
+<NL>
+So that's Lady [Yuna]?<NL>
+Hmmm... No wonder.<END>
+
+<NL>
+I can see why the [Al Bhed2] would<NL>
+go after someone like Lady [Yuna].<END>
+
+<NL>
+It'll be busy with all the wedding<NL>
+preparations. I'd better get on my feet.<END>
+
+<NL>
+Please watch after Lady [Yuna]<NL>
+until her wedding day.<END>
+
+<NL>
+I told my relatives on the [Farplane]<NL>
+that I'll be joining them soon.<NEWPAGE>
+<NL>
+Now I won't be afraid if<NL>
+[Sin] comes for me.<END>
+
+<NL>
+The [Guado] all looked so<NL>
+gloomy. I wonder what happened?<END>
+
+<NL>
+I feel at ease now, thanks to the Hymn.<NL>
+Now I can go to the [Farplane]<NL>
+without worry.<END>
+
+<NL>
+The [Guado] all looked so<NL>
+gloomy. I wonder what happened?<END>
+
+<NL>
+The people of [Spira] are in a<NL>
+state of chaos, but the Hypello are so calm.<NEWPAGE>
+<NL>
+They're a fearless bunch.<NL>
+You can only admire them.<END>
+
+<NL>
+If only Lady [Yunalesca] were here now,<NL>
+we wouldn't have to live in fear of [Sin].<END>
+
+<NL>
+Who is using ancient machina<NL>
+to battle [Sin]?<NEWPAGE>
+<NL>
+Could it be that Lady [Yunalesca]<NL>
+has risen again after a thousand years?<END>
+
+<NL>
+We beat [Sin] down with machina and the Hymn!<NL>
+A summoner just needs to finish it off!<END>
+
+[Lulu]<NL>
+Looks like we're<NL>
+stuck here for a while.<END>
+
+[Wakka]<NL>
+Might be more [Al Bhed]!<NL>
+Keep watch, ya?<END>
+
+[Kimahri]<NL>
+[Kimahri] fail as guardian on shoopuf.<NL>
+[Kimahri] never fail again.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

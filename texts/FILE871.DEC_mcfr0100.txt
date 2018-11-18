@@ -1,0 +1,376 @@
+[Barthello]<NL>
+Hey!<END>
+
+[Barthello]<NL>
+You, have you seen [Dona]?<END>
+
+[Tidus]<NL>
+[Dona]? Can't say I have.<END>
+
+[Wakka]<NL>
+What's up?<END>
+
+[Barthello]<NL>
+We got separated on the way here.<END>
+
+[Barthello]<NL>
+Damn it all!<NL>
+I've got to find her!<END>
+
+[Auron]<NL>
+Calm down.<END>
+
+[Barthello]<NL>
+But, if anything happens to her...<END>
+
+[Auron]<NL>
+Running around in a panic<NL>
+is not going to help.<END>
+
+[Auron]<NL>
+Right now, you have<NL>
+to keep cool, and search.<END>
+
+[Barthello]<NL>
+But--<END>
+
+[Auron]<NL>
+Guard your emotions,<NL>
+then guard your summoner.<END>
+
+[Barthello]<NL>
+You're right.<END>
+
+[Auron]<NL>
+Shall we search?<END>
+
+[Barthello]<NL>
+No, I've taken up<NL>
+enough of your time.<END>
+
+[Barthello]<NL>
+Thank you, Sir [Auron].<END>
+
+[Wakka]<NL>
+What's up?<END>
+
+[Rikku]<NL>
+Oh, I just wanted<NL>
+to wish him good luck.<END>
+
+<NL>
+It feels like there's<NL>
+something around here, doesn't it?<END>
+
+<NL>
+Yeah, there's definitely something<NL>
+around here. I wonder what it could be?<END>
+
+<NL>
+You might want to remember this place.<END>
+
+<NL>
+You found my dad!<NL>
+Thanks a bunch!<END>
+
+<NL>
+It's easier to get to [Macalania Temple]<NL>
+now that this road's open again.<END>
+
+<NL>
+I used to be able to pass through this way<NL>
+when I was a child, but then a big tree<NL>
+blocked off the road.<NEWPAGE>
+<NL>
+I'm glad someone cut it down!<END>
+
+<NL>
+I'm just taking a break now.<NL>
+Even with a shortcut, it can<NL>
+get tiring, you know?<END>
+
+<TEXT>
+Use the <Cor 43>[Cloudy Mirror]<Cor 41>?<NL>
+<CHOICE1>No.<NL>
+<CHOICE2>Yes.<END>
+
+<NL>
+The butterfly that changes color<NL>
+attracts the red and blue butterflies.<NEWPAGE>
+<NL>
+Red butterflies are ill omens.<NL>
+Get too close and they<NL>
+will summon deadly fiends.<NEWPAGE>
+<NL>
+Blue butterflies lead to good fortune!<NL>
+Find seven and a treasure will be yours.<END>
+
+<NL>
+Luck is a fickle thing.<NL>
+Traveller, find the blue<NL>
+butterflies as quickly as you can.<END>
+
+<NL>
+A butterfly with rainbow wings<NL>
+Will lead the way to secret things.<END>
+
+<TEXT>
+<Cor 43>-[Macalania Woods] Butterfly Hunt-<Cor 41><NL>
+Approach the butterfly of many hues,<NL>
+and its red and blue brethren shall appear.<END>
+
+<TEXT>
+Try to catch seven of the blue<NL>
+butterflies, but beware the reds, for<NL>
+they call powerful fiends when threatened.<END>
+
+<TEXT>
+Butterflies disappear after a certain time.<NL>
+Try catching the blue butterflies<NL>
+while avoiding the red ones.<END>
+
+<NL>
+Have you the Celestial Weapons?<END>
+
+<TEXT>
+Who will present their weapon?<NL>
+<CHOICE1>[Tidus]<NL>
+<CHOICE2>[Yuna]<NL>
+<CHOICE3>[Auron]<NL>
+<CHOICE4>[Kimahri]<NL>
+<CHOICE5>[Wakka]<NL>
+<CHOICE6>[Lulu]<NL>
+<CHOICE7>[Rikku]<NL>
+<CHOICE8>No one.<END>
+
+<NL>
+[Tidus] does not have a Celestial Weapon.<END>
+
+<TEXT>
+<NL>
+The weapon has already<NL>
+attained its peak power.<END>
+
+<TEXT>
+<NL>
+You must offer the [Sun Sigil]...<END>
+
+<TEXT>
+Complete the ritual?<NL>
+<NL>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<TEXT>
+The weapon's power has grown!<END>
+
+<TEXT>
+The weapon attains its maximum power!<END>
+
+<TEXT>
+<NL>
+Nothing happened.<END>
+
+<NL>
+This weapon is not yet ready<NL>
+for further strengthening.<END>
+
+<TEXT>
+<NL>
+You must offer the [Sun Crest]...<END>
+
+<NL>
+It seems the time has not yet arrived.<END>
+
+<NL>
+[Yuna] does not have a Celestial Weapon.<END>
+
+<TEXT>
+<NL>
+You must offer the [Moon Sigil]...<END>
+
+<TEXT>
+<NL>
+You must offer the [Moon Crest]...<END>
+
+<NL>
+[Auron] does not have a Celestial Weapon.<END>
+
+<TEXT>
+<NL>
+You must offer the [Saturn Sigil]...<END>
+
+<TEXT>
+<NL>
+You must offer the [Saturn Crest]...<END>
+
+<NL>
+[Kimahri] does not have a Celestial Weapon.<END>
+
+<TEXT>
+<NL>
+You must offer the [Jupiter Sigil]...<END>
+
+<TEXT>
+<NL>
+You must offer the [Jupiter Crest]...<END>
+
+<NL>
+[Wakka] does not have a Celestial Weapon.<END>
+
+<TEXT>
+<NL>
+You must offer the [Mercury Sigil]...<END>
+
+<TEXT>
+<NL>
+You must offer the [Mercury Crest]...<END>
+
+<NL>
+[Lulu] does not have a Celestial Weapon.<END>
+
+<TEXT>
+<NL>
+You must offer the [Mars Sigil]...<END>
+
+<TEXT>
+<NL>
+You must offer the [Mars Crest]...<END>
+
+<NL>
+[Rikku] does not have a Celestial Weapon.<END>
+
+<TEXT>
+<NL>
+You must offer the [Venus Sigil]<END>
+
+<TEXT>
+<NL>
+You must offer the [Venus Crest]...<END>
+
+<TEXT>
+Present other weapons?<NL>
+<NL>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<NL>
+<TEXT>
+<Cor 88>Time: <VAR12 32>:<VAR12 31>.<VAR12 30><Cor 41><END>
+
+<NL>
+<TEXT>
+<Cor 94>Time: <VAR12 32>:<VAR12 31>.<VAR12 30><Cor 41><END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

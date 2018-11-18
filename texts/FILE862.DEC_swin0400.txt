@@ -1,0 +1,230 @@
+[Dona]<NL>
+Some people can be so rude.<END>
+
+<NL>
+          <END>
+
+[Luzzu]<NL>
+Best to let him sleep.<END>
+
+[Luzzu]<NL>
+It might not mean much, but<NL>
+good luck in the tournament.<END>
+
+<NL>
+Oooh, them's fascinatin'<NL>
+clothes you're wearing!<END>
+
+<NL>
+Yewh! Filthy, filthy! These won't<NL>
+sell or me name's not [O'aka]!<END>
+
+<NL>
+Don't look like you<NL>
+got much money, either.<END>
+
+<NL>
+I've no business with ye.<NL>
+Outta me way!<END>
+
+[Tidus]<NL>
+Who do you think you are?<END>
+
+<NL>
+[O'aka] XXIII, merchant extraordinaire!<END>
+
+[Tidus]<NL>
+[O'aka] the who?<END>
+
+[O'aka]<NL>
+Don't know me?<NL>
+Well, not many do, not yet.<END>
+
+[O'aka]<NL>
+They ask a fortune for rags<NL>
+in Besaid. And Kilika, well...<END>
+
+[O'aka]<NL>
+Me business is in shambles!<NL>
+What's an [O'aka] to do, I ask ye!<END>
+
+[O'aka]<NL>
+Mind spotting me<NL>
+some Gil again, lad?<END>
+
+[O'aka]<NL>
+I'll make it up to ye,<NL>
+that I will!<END>
+
+[O'aka]<NL>
+Right. Figures.<END>
+
+[O'aka]<NL>
+Spare some change, lad?<END>
+
+[O'aka]<NL>
+I'll make it up to ye,<NL>
+that I will!<END>
+
+[O'aka]<NL>
+Should've expected as much.<END>
+
+[O'aka]<NL>
+But someday, the name [O'aka]<NL>
+will be spoken all over Spira!<END>
+
+[O'aka]<NL>
+Say, lad, you wouldn't<NL>
+have a bit o' Gil to lend?<END>
+
+[O'aka]<NL>
+Eh, it figures...<END>
+
+[O'aka]<NL>
+Thank ye!<END>
+
+<TEXT>
+Total: <VAR12 30> Gil<END>
+
+<TEXT>
+Total loan: <VAR12 31> Gil<END>
+
+<TEXT>
+[Direcional Cima][Direcional Baixo][Direcional Esquerda][Direcional Direita]: Select amount<NL>
+[Botão Círculo]: Confirm<END>
+
+<TEXT>
+How much do you want to lend?<NL>
+Lend <CHOICE???>G Gil to [O'aka].<END>
+
+[O'aka]<NL>
+Hey, lad. I appreciate yer offer,<NL>
+but ye ain't got nuff Gil.<END>
+
+[O'aka]<NL>
+Ye really gonna lend me <VAR12 32> Gil?<END>
+
+<TEXT>
+<CHOICE1>Wait a minute.<NL>
+<CHOICE2>No sweat.<NL>
+<CHOICE3>Cancel.<END>
+
+[O'aka]<NL>
+Oh yes, before I forget.<NL>
+Call me if ye need something, lad.<END>
+
+<TEXT>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+[O'aka]<NL>
+Ye be needin' something, lad?<END>
+
+<CHOICE1>What do you have?<NL>
+<CHOICE2>Lend Gil to [O'aka].<NL>
+<CHOICE3>No, thanks.<END>
+
+<TEXT>
+<NL>
+"Power Room."<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

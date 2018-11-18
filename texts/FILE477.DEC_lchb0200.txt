@@ -1,0 +1,309 @@
+<TEXT>
+Battle with Al Bhed Machina<NL>
+    <CHOICE1>Waiting for Command<NL>
+    <CHOICE2>Seamless Test<NL>
+    <CHOICE3>Retry Event<NL>
+    <CHOICE4>Unconditional Win<END>
+
+<NL>
+D-Did you beat them?<NL>
+I was so scared I couldn't move!<END>
+
+<NL>
+The ferry docked here is<NL>
+headed for <Cor 88>[Kilika Port]<Cor 41>.<END>
+
+<NL>
+<Cor 88>Dock number 3<Cor 41> lies straight ahead.<NL>
+<Cor 88>Dock number 1<Cor 41> lies in the opposite direction.<END>
+
+<NL>
+When you've sailed the seas of [Spira]<NL>
+long enough, little surprises you anymore.<END>
+
+<NL>
+I'm sorry, sir, but the ferry<NL>
+will remain at anchor for a while.<END>
+
+<NL>
+This ferry will take you to <Cor 88>[Kilika]<Cor 41>.<NL>
+Would you like to board?<END>
+
+<TEXT>
+<CHOICE1>Yeah, I'd like to board.<NL>
+<CHOICE2>No, thanks.<END>
+
+<NL>
+We can leave any time you're ready.<NL>
+You have everything you need?<END>
+
+<TEXT>
+<CHOICE1>Yes.<NL>
+<CHOICE2>Hold on.<END>
+
+<NL>
+Give me a holler when you're ready.<NL>
+Then we'll set sail for [Kilika].<END>
+
+<NL>
+Hey, hey, outta my way!<NL>
+I'm tryin' to work here!<END>
+
+<NL>
+Come on, move it!<NL>
+The ship's clearing out soon!<END>
+
+<NL>
+The [Al Bhed] machina don't scare me!<END>
+
+<NL>
+Can't survive the seas of [Spira]<NL>
+getting freaked out by that!<END>
+
+<NL>
+Move it! Outta my way!<NL>
+I'm busy sorting the cargo!<END>
+
+<NL>
+Whenever guard duty gets boring,<NL>
+I try to remember how much the<NL>
+[Crusader]s need me right now.<END>
+
+<NL>
+We're standing guard to keep any<NL>
+suspicious characters from boarding.<END>
+
+<NL>
+With the warrior monks gone, it's<NL>
+up to us [Crusader]s to defend [Luca].<END>
+
+<NL>
+Warrior monks are not tour guides!<NL>
+Don't bother us with your small talk.<END>
+
+<NL>
+Nothing out of the ordinary, sir!<END>
+
+<NL>
+I want to be a sailor and sail<NL>
+all over [Spira] when I grow up.<END>
+
+<NL>
+Big boats, small boats,<NL>
+gotta love 'em all!<END>
+
+<NL>
+Sis once got caught trying<NL>
+to sneak onto that ferry.<END>
+
+<NL>
+Take it easy, sis!<NL>
+You're too obsessed with ships.<END>
+
+<NL>
+I tell her how dangerous it is out<NL>
+on the ocean, but she never listens.<END>
+
+<NL>
+My granddaughter wants to be<NL>
+a sailor when she grows up.<NL>
+What a dreadful thought!<END>
+
+<TEXT>
+Map Debug Menu<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Update Map Data<NL>
+    <CHOICE3>The Other Dock 2<NL>
+    <CHOICE4>Control Map Line<NL>
+    <CHOICE5>Return to Saito<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

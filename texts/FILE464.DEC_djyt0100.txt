@@ -1,0 +1,399 @@
+[Tidus]<NL>
+Is that the [Djose] temple?<END>
+
+[Tidus]<NL>
+Awesome!<END>
+
+[Lulu]<NL>
+The Lightning Mushroom Rock. It only opens<NL>
+when a summoner is addressing the [fayth].<END>
+
+[Wakka]<NL>
+That means another summoner's<NL>
+already in there.<END>
+
+[Yuna]<NL>
+Another summoner?<END>
+
+[Tidus]<NL>
+What if it's [Dona]?<END>
+
+[Yuna]<NL>
+We have to hurry.<END>
+
+[Tidus]<NL>
+Right! In we go!<END>
+
+[Gatta]<NL>
+[Luzzu], he's...<END>
+
+[Wakka]<NL>
+Where is he?<END>
+
+[Gatta]<NL>
+I found him...but he was...<NL>
+torn in half. I...<END>
+
+[Wakka]<NL>
+That...idiot!<END>
+
+[Gatta]<NL>
+What...what do I do now?<END>
+
+[Gatta]<NL>
+I can't do this...<NL>
+I'm going back to [Besaid]!<END>
+
+[Luzzu]<NL>
+Hey.<END>
+
+[Luzzu]<NL>
+[Gatta], he's...he's dead.<END>
+
+[Luzzu]<NL>
+He was a good fighter.<NL>
+He just wasn't lucky enough.<END>
+
+[Wakka]<NL>
+[Luzzu]!<NL>
+Knock it off!<END>
+
+[Luzzu]<NL>
+You don't know what it's like!<END>
+
+[Wakka]<NL>
+I...do...know!<END>
+
+[Luzzu]<NL>
+I'm sorry.<END>
+
+[Wakka]<NL>
+Why don't you...<NL>
+go home now, to Besaid.<END>
+
+[Wakka]<NL>
+Take it easy a while.<NL>
+Rest, ya?<END>
+
+[Luzzu]<NL>
+Rest?<END>
+
+[Wakka]<NL>
+You need some R & R.<NL>
+You're hurt, ya?<END>
+
+[Luzzu]<NL>
+I...I guess so.<END>
+
+[Wakka]<NL>
+Get better.<END>
+
+[Wakka]<NL>
+I can't beat up on you when<NL>
+you're all depressed, ya?<END>
+
+[Luzzu]<NL>
+Right.<END>
+
+[Wakka]<NL>
+Yo! Sleepyhead!<END>
+
+[Yuna]<NL>
+Sorry!<NL>
+I'm so sorry!<END>
+
+[Yuna]<NL>
+Please forgive me.<END>
+
+[Lulu]<NL>
+Really, there's no rush...<NL>
+Here, your hair.<END>
+
+[Wakka]<NL>
+A summoner with bed hair!<NL>
+What's the world comin' to?<END>
+
+[Yuna]<NL>
+You could have woken me up!<END>
+
+[Lulu]<NL>
+We called to you, but<NL>
+with all that snoring...<END>
+
+[Yuna]<NL>
+You too, Sir [Auron]?<END>
+
+[Auron]<NL>
+Once Lady [Yuna]<NL>
+fixes her hair, we leave!<END>
+
+<NL>
+I hadn't really laughed<NL>
+like that in a long time.<END>
+
+<NL>
+It was only later that I realized...<END>
+
+<NL>
+The only one really<NL>
+laughing then...was me.<END>
+
+<NL>
+Laughing must have been the<NL>
+only thing keeping them going.<END>
+
+[Dona]<NL>
+Why, it's you again.<END>
+
+[Tidus]<NL>
+You still on the road?<END>
+
+[Dona]<NL>
+Yes, but we're not<NL>
+going to [Zanarkand].<END>
+
+[Dona]<NL>
+I've decided to go to<NL>
+[Barthello]'s homeland.<END>
+
+[Dona]<NL>
+We are going to let the other<NL>
+summoners deal with [Sin].<END>
+
+[Dona]<NL>
+I'm...I'm scared.<END>
+
+[Tidus]<NL>
+Hey, don't worry about it.<END>
+
+[Tidus]<NL>
+We'll put [Sin] in<NL>
+his place in no time.<END>
+
+[Dona]<NL>
+You mean...the Final Summoning?<END>
+
+[Tidus]<NL>
+No, we found another way<NL>
+where no one has to die.<END>
+
+[Dona]<NL>
+Well, whatever it is, good luck.<END>
+
+[Tidus]<NL>
+Cross your fingers.<END>
+
+[Dona]<NL>
+Do your best.<NL>
+[Barthello], time to go.<END>
+
+[Yuna]<NL>
+Mmm...what is it today?<NL>
+Everyone's picking on me!<END>
+
+[Luzzu]<NL>
+Ah, damn it! He was young!<NL>
+He pushed his luck!<END>
+
+[Luzzu]<NL>
+What was he thinking--going up there<NL>
+in the front lines like that?<END>
+
+[Luzzu]<NL>
+He should've stayed back with command!<END>
+
+[Luzzu]<NL>
+Damn it! Damn it all!<END>
+
+[Wakka]<NL>
+We're leavin' once [Yuna] gets here.<END>
+
+[Kimahri]<NL>
+[Dona] has left. [Isaaru], too.<END>
+
+[Lulu]<NL>
+No matter how dark the night,<NL>
+morning always comes.<END>
+
+[Lulu]<NL>
+And our journey begins anew.<END>
+
+[Auron]<NL>
+Get ready for the journey ahead.<END>
+
+[Lucil]<NL>
+Will [Yevon2] forgive us?<END>
+
+[Lucil]<NL>
+The monks of [Djose] have kindly<NL>
+offered to heal our wounded.<END>
+
+[Lucil]<NL>
+[Yevon2] still looks<NL>
+out for us... Even now.<END>
+
+[Lucil]<NL>
+I would pray for<NL>
+those fallen in battle...<END>
+
+[Lucil]<NL>
+But how? How can I enter the<NL>
+temple after what we have done?<END>
+
+[Elma]<NL>
+We won't defy [Yevon2].<NL>
+Never again.<END>
+
+[Elma]<NL>
+This little fella's finally calmed down.<END>
+
+[Elma]<NL>
+The monks said we could<NL>
+stay here for a while.<END>
+
+[Clasko]<NL>
+No matter what we do next...<END>
+
+[Clasko]<NL>
+we're going to do it for<NL>
+[Yevon2], that's for sure.<END>
+
+[Clasko]<NL>
+I've been thinking<NL>
+about the future.<END>
+
+[Luzzu]<NL>
+This is all punishment<NL>
+for turning from [Yevon2]...<END>
+
+<NL>
+Please leave the temple's safety to<NL>
+the warrior monks, and enjoy some rest.<END>
+
+<NL>
+I quit the Crusaders and became a<NL>
+warrior monk. So, what do you think?<END>
+
+<NL>
+Word is, those [Al Bhed] fools<NL>
+are plotting something.<NEWPAGE>
+<NL>
+They're not pulling anything.<NL>
+Not on our watch.<END>
+
+<NL>
+Lady [Yuna] is getting married!<NL>
+What auspicious news!<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

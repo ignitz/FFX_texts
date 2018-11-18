@@ -1,0 +1,237 @@
+[Lucil]<NL>
+What are you doing on this road?<END>
+
+[Tidus]<NL>
+Oh, you know...<END>
+
+[Lucil]<NL>
+I see.<END>
+
+[Lucil]<NL>
+The Highroad ends over there.<END>
+
+[Lucil]<NL>
+However, we have sealed off the<NL>
+area beyond for the duration<NL>
+of our operation here.<END>
+
+[Lucil]<NL>
+You may ask the gate captain up<NL>
+ahead if you need to pass through.<END>
+
+[Lucil]<NL>
+You must first go to the<NL>
+end of the Highroad in order<NL>
+to get back on the Newroad.<END>
+
+[Shelinda]<NL>
+Word has gotten around about me.<END>
+
+[Shelinda]<NL>
+Now all the [Crusader]s<NL>
+are ignoring me!<END>
+
+[O'aka]<NL>
+Coming down to the<NL>
+Oldroad was a mistake...<END>
+
+[O'aka]<NL>
+Ye can't run a business<NL>
+with no customers!<END>
+
+[O'aka]<NL>
+Say, can I interest<NL>
+you in something?<END>
+
+[O'aka]<NL>
+Sure are a lot of [Crusader]s about.<NL>
+Wonder what they're up to?<END>
+
+[O'aka]<NL>
+I'll make it up to ye,<NL>
+that I will!<END>
+
+[O'aka]<NL>
+Right. Figures.<END>
+
+[O'aka]<NL>
+Spare some change, lad?<END>
+
+[O'aka]<NL>
+Should've expected as much.<END>
+
+<NL>
+We trained here before the operation.<NL>
+Back then, we believed we would win.<END>
+
+<NL>
+We were green as grass.<END>
+
+<NL>
+My chocobo was killed, too.<NL>
+We'd fought so many battles together.<END>
+
+<TEXT>
+Total: <VAR12 30> Gil<END>
+
+<TEXT>
+Total loan: <VAR12 31> Gil<END>
+
+<TEXT>
+[Direcional Cima][Direcional Baixo][Direcional Esquerda][Direcional Direita]: Select amount<NL>
+[Botão Círculo]: Confirm<END>
+
+<TEXT>
+How much do you want to lend?<NL>
+Lend <CHOICE???>G Gil to [O'aka].<END>
+
+[O'aka]<NL>
+Hey, lad. I appreciate yer offer,<NL>
+but ye ain't got enough Gil.<END>
+
+[O'aka]<NL>
+Ye really gonna lend me <VAR12 32> Gil?<END>
+
+<TEXT>
+<CHOICE1>Wait a minute.<NL>
+<CHOICE2>No sweat.<NL>
+<CHOICE3>Cancel.<END>
+
+<TEXT>
+<CHOICE1>Whatcha got?<NL>
+<CHOICE2>Lend Gil to [O'aka].<NL>
+<CHOICE3>No, thanks.<END>
+
+<TEXT>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+[O'aka]<NL>
+Welcome to [O'aka]'s!<END>
+
+<NL>
+It was time for me to leave the<NL>
+temple and travel the world.<NEWPAGE>
+<NL>
+Along the way, I hope to spread the<NL>
+teachings to the people I meet.<END>
+
+<NL>
+Also, I plan to learn [Al Bhed].<NEWPAGE>
+<NL>
+Nothing will be solved unless<NL>
+we begin a dialogue.<END>
+
+<NL>
+I heard [Sin] isn't dead yet.<NL>
+Won't it ever give up?<NEWPAGE>
+<NL>
+If we still had the cannons from the<NL>
+operation, we could've shelled it good.<END>
+
+<NL>
+I'm gonna go to [Bevelle] and<NL>
+see if I can give them a hand.<END>
+
+<NL>
+We are receiving many refugees<NL>
+from [Bevelle].<NEWPAGE>
+<NL>
+They have suffered a trying journey<NL>
+here, and it is our duty to protect<NL>
+them from fiends.<END>
+
+<NL>
+The warrior monks were guarding<NL>
+the Highroad just recently.<NEWPAGE>
+<NL>
+Now they're gone.<NL>
+How irresponsible of them.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+Obtained [Jecht]'s sphere!<END>
+
+<TEXT>
+<CHOICE1>Take a look.<NL>
+<CHOICE2>Leave it alone.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

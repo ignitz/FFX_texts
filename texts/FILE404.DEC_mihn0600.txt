@@ -1,0 +1,619 @@
+[Dona]<NL>
+How many times do I have<NL>
+to tell you? I'm a summoner!<END>
+
+<NL>
+Sorry, ma'am!<NL>
+No exceptions!<END>
+
+[Dona]<NL>
+You dare impede a<NL>
+summoner's pilgrimage?<END>
+
+<NL>
+Sorry, ma'am!<NL>
+No exceptions!<END>
+
+[Dona]<NL>
+Useless!<END>
+
+<NL>
+I'm sorry, I can't let you pass.<END>
+
+<NL>
+I know it's a pain, but<NL>
+I can't let you pass, okay?<END>
+
+<NL>
+Come on! We're trying to<NL>
+rid the world of [Sin] here!<END>
+
+[Dona]<NL>
+Oh, it's you.<END>
+
+[Dona]<NL>
+As you can see, not<NL>
+even summoners can pass.<END>
+
+[Dona]<NL>
+But they'll call on us in<NL>
+the end. Just wait and see.<END>
+
+[Dona]<NL>
+In the meantime,<NL>
+I think I'll have a nap.<END>
+
+[Dona]<NL>
+Oh, [Barthello]?<END>
+
+<NL>
+The Mushroom Rock Road is off-limits to non-<NL>
+Crusader personnel until the end of the mission!<END>
+
+<NL>
+We apologize for the inconvenience,<NL>
+but this road is closed!<END>
+
+<NL>
+Any donation toward [Operation Mi'ihen]<NL>
+would be greatly appreciated!<END>
+
+<NL>
+Thank you for your generosity!<NL>
+Here, you should have this.<END>
+
+<NL>
+Many thanks! This is for you.<END>
+
+<NL>
+Thank you! Please accept this.<END>
+
+<TEXT>
+[Lucil]<NL>
+Sir!<END>
+
+[Lucil]<NL>
+Support units are in place.<NL>
+Mounted units have finished all exercises.<END>
+
+[Elma]<NL>
+Evacuation of civilians<NL>
+almost complete, sir!<END>
+
+[Lucil]<NL>
+Just a few stragglers--<NL>
+nothing to worry about, sir.<END>
+
+<NL>
+Good. Were there<NL>
+any problems?<END>
+
+[Lucil]<NL>
+No problems, sir.<END>
+
+<NL>
+Excellent! The first stage<NL>
+is complete, then!<END>
+
+<NL>
+Chocobo Knights--to your assigned<NL>
+positions for [Operation Mi'ihen]!<END>
+
+[Lucil]<NL>
+Sir!<END>
+
+[Elma]<NL>
+Sir!<END>
+
+<NL>
+Hey, you're a summoner and her guardians,<NL>
+right? Sorry for the inconvenience.<END>
+
+<NL>
+Thank you for your cooperation!<END>
+
+<NL>
+What, they didn't tell you?<END>
+
+<NL>
+We're bringing [sinspawn] from<NL>
+all over [Spira] here.<END>
+
+<NL>
+Sinspawn inevitably draw [Sin], right?<END>
+
+<NL>
+We're going to lure it into a trap!<END>
+
+<NL>
+This mission, [Operation Mi'ihen],<NL>
+is a Crusader-[Al Bhed] joint mission.<END>
+
+<NL>
+We [Crusader]s lure [Sin] in,<NL>
+and the [Al Bhed] strike it down.<END>
+
+<NL>
+You see, [Al Bhed] hate<NL>
+[Sin] as much as we do.<END>
+
+<NL>
+They managed to salvage ancient machina.<END>
+
+<NL>
+They say they're as powerful<NL>
+as the mighty aeons.<END>
+
+<NL>
+Well, you know machina<NL>
+are forbidden by [Yevon2].<END>
+
+<NL>
+Ah...on second thought, let's not<NL>
+go there. Better for you not to know.<END>
+
+<NL>
+The [Crusader]s in [Operation Mi'ihen]<NL>
+have all been excommunicated.<END>
+
+<NL>
+My own family won't<NL>
+even speak to me now.<END>
+
+<NL>
+We have to beat [Sin] today.<END>
+
+<NL>
+Otherwise, there's nowhere for us to go.<END>
+
+[Gatta]<NL>
+[Gatta] and [Luzzu]<NL>
+reporting, sir!<END>
+
+[Luzzu]<NL>
+This is the last of them.<END>
+
+<NL>
+Good to have you with us.<NL>
+Go on through!<END>
+
+[Gatta]<NL>
+Show me how to<NL>
+play blitz sometime!<END>
+
+[Luzzu]<NL>
+Wait around. We'll have<NL>
+[Sin] beaten in no time!<END>
+
+[Clasko]<NL>
+Captain [Lucil] and [Elma]<NL>
+should have been here by now.<END>
+
+[Clasko]<NL>
+What's taking [Elma] so long?<END>
+
+[Clasko]<NL>
+You have to leave your chocobos here.<END>
+
+[Clasko]<NL>
+Come on, everyone off!<END>
+
+[Seymor]<NL>
+So we meet again, Lady [Yuna].<END>
+
+[Yuna]<NL>
+Y-Yes?<END>
+
+[Seymor]<NL>
+You look troubled.<NL>
+Is there anything I can do?<END>
+
+[Yuna]<NL>
+Well...<END>
+
+[Seymor]<NL>
+I see.<END>
+
+<NL>
+Maester [Seymor]. Let me show<NL>
+you to the command center.<END>
+
+[Seymor]<NL>
+Hold. I have a request.<END>
+
+<NL>
+Yes, Your Grace?<END>
+
+[Seymor]<NL>
+I need to have Summoner [Yuna]<NL>
+and her guardians let through<NL>
+to the command center.<END>
+
+<NL>
+But, Maester [Seymor], sir.<END>
+
+[Seymor]<NL>
+Do not worry. I will<NL>
+take full responsibility.<END>
+
+<NL>
+Very well. They may pass.<END>
+
+[Seymor]<NL>
+It is done.<END>
+
+[Yuna]<NL>
+Thank you, Your Grace.<END>
+
+[Lulu]<NL>
+[Yuna], it's time to go.<END>
+
+[Yuna]<NL>
+Oh! Right!<END>
+
+[Tidus]<NL>
+Who does he think he is?<END>
+
+[Wakka]<NL>
+He's a maester.<NL>
+Better get used to it, ya?<END>
+
+<NL>
+Hello!<NL>
+No charge this time!<END>
+
+<NL>
+You get to ride a chocobo once for<NL>
+free, but I see you already have one.<NEWPAGE>
+<NL>
+You can rent one free next time, then.<END>
+
+<NL>
+Do you want to ride a chocobo?<END>
+
+<NL>
+Please be careful on your trip.<END>
+
+<NL>
+Do you want me to teach you<NL>
+how to ride a chocobo?<END>
+
+<NL>
+And I'm delivering food<NL>
+for the soldiers!<END>
+
+<NL>
+The operation's gonna start soon.<NL>
+All civilians must leave.<END>
+
+<NL>
+Then [Sin]'s gonna eat you!<NL>
+Mom said [Sin] eats bad people.<END>
+
+<NL>
+The operation's gonna start soon.<NL>
+All civilians must leave!<END>
+
+<NL>
+We're [Crusader]s, too.<NL>
+We have a lot of work to do.<NEWPAGE>
+<NL>
+My job is to clean up everyone's stuff!<END>
+
+<NL>
+Big job, huh?<END>
+
+<NL>
+What if you don't?<END>
+
+<NL>
+Yikes.<END>
+
+<NL>
+A great maester is here, too, so<NL>
+we're gonna work really hard!<END>
+
+<NL>
+We are securing the Highroad<NL>
+under [Maester Kinoc]'s orders.<END>
+
+<NL>
+Those [Al Bhed] have no shame. They came<NL>
+all the way down here to make money.<NEWPAGE>
+<NL>
+They have some nerve showin' up here.<NL>
+It's their fault the operation failed.<END>
+
+<NL>
+Sooner or later, we warrior monks<NL>
+will crush the [Al Bhed2].<END>
+
+<NL>
+All this stuff here,<NL>
+the [Crusader]s left behind.<NEWPAGE>
+<NL>
+They all ran away in a hurry.<END>
+
+<NL>
+They caged a [sinspawn]<NL>
+in this! Damn fools.<END>
+
+<TEXT>
+<CHOICE1>Help him look for them.<NL>
+<CHOICE2>I've got better things to do.<END>
+
+<NL>
+There aren't many guards<NL>
+beyond here, so watch it.<END>
+
+<NL>
+Ideally, we'd like to station men<NL>
+at the [Mushroom Rock Road], too.<NEWPAGE>
+<NL>
+But we're really shorthanded.<NL>
+Please understand.<END>
+
+<TEXT>
+Total: <VAR12 30> Gil<END>
+
+<TEXT>
+<CHOICE1>100 Gil should be plenty.<NL>
+<CHOICE2>I can afford 1,000 Gil.<NL>
+<CHOICE3>It's your lucky day! 10,000 Gil!<NL>
+<CHOICE4>I'd rather not.<END>
+
+<NL>
+Not enough Gil.<END>
+
+<NL>
+We've been so busy with guard duty,<NL>
+we've been using that cage as shelter.<NEWPAGE>
+<NL>
+Praise be to Yevon that nobody<NL>
+cleared it after the operation.<END>
+
+<NL>
+The [Al Bhed2] from the travel agency<NL>
+bring us food now and then.<NEWPAGE>
+<NL>
+I still don't understand them, but they're<NL>
+my friends so long as they feed us.<END>
+
+<NL>
+You may pass.<END>
+
+<NL>
+The warrior monks and the [Guado2]<NL>
+guarding this area have left.<NEWPAGE>
+<NL>
+Maybe they went after the traitors.<END>
+
+<NL>
+I guess the [Crusader]s are the<NL>
+only ones we can really count on.<END>
+
+<NL>
+When we saw the machina airship,<NL>
+we sang. That [Al Bhed] kid did, too.<NEWPAGE>
+<NL>
+It's strange how we can all sing<NL>
+the same song even though we don't<NL>
+speak the same language.<END>
+
+<NL>
+Maybe there is a way for the people of<NL>
+[Yevon2] and the [Al Bhed2] to get along.<END>
+
+<TEXT>
+<CHOICE1>Don't worry about it.<NL>
+<CHOICE2>Tell me about the operation.<END>
+
+<TEXT>
+<CHOICE1>I'm okay.<NL>
+<CHOICE2>Teach me.<END>
+
+<TEXT>
+<Cor 43>How to Ride a Chocobo<Cor 41><NL>
+<NL>
+<Cor 88>Movement:<Cor 41><NL>
+Move far:<VAR07 E4>[Direcional Cima]<VAR07 60>Move near:<VAR07 E4>[Direcional Baixo]<NL>
+Move left:<VAR07 E4>[Direcional Esquerda]<VAR07 60>Move right:<VAR07 E4>[Direcional Direita]<NL>
+<NL>
+<Cor 88>Getting on and off:<Cor 41><NL>
+Press <VAR07 E8>[Botão Círculo] while facing chocobo to mount.<NL>
+<NL>
+Press <VAR07 E8>[Botão Xis] to dismount.<NL>
+Chocobos can only be ridden along the [Mi'ihen Highroad].<NL>
+You cannot enter [Luca] or pass beyond<NL>
+the Highroad while riding a chocobo.<END>
+
+<TEXT>
+Your chocobo will wait for you where<NL>
+you leave it unless you leave the<NL>
+[Mi'ihen Highroad] on foot or you rent<NL>
+another chocobo.<END>
+
+<TEXT>
+<CHOICE1>Let me ride one!<NL>
+<CHOICE2>I'll walk.<NL>
+<CHOICE3>How do you ride a chocobo?<END>
+
+<TEXT>
+Fee: <VAR12 31> Gil<END>
+
+<TEXT>
+Total: <VAR12 31> Gil<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

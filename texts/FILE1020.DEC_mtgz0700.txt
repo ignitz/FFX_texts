@@ -1,0 +1,151 @@
+<TEXT>
+<Cor 43>The First Trial of [Gagazet]<Cor 41><NL>
+Aim for the center with [Wakka]'s ball!<END>
+
+<NL>
+<TEXT>
+[Botão Círculo]: Throw ball<NL>
+[Botão Xis]: Back<END>
+
+<TEXT>
+<Cor 43>The Second Trial of [Gagazet]<Cor 41><NL>
+Hit the three panels simultaneously.<NL>
+Check each size before deciding who to send.<END>
+
+<NL>
+<TEXT>
+[Direcional Esquerda][Direcional Cima][Direcional Baixo][Direcional Direita]: Select hole<NL>
+[Botão Círculo]: Confirm<NL>
+[Botão Xis]: Back<END>
+
+<TEXT>
+You did it!<END>
+
+<TEXT>
+Under Construction<END>
+
+<TEXT>
+<Cor 43>The Summoner's Trial<Cor 41><NL>
+If you would face me, you<NL>
+must first face my trial!<NL>
+<Cor 43>Use [Wakka]'s ball<NL>
+to hit the center!<Cor 41><END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

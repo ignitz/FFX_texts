@@ -1,0 +1,174 @@
+[O'aka]<NL>
+More than the [Guado], at least.<NL>
+What do ye say?<END>
+
+[O'aka]<NL>
+Ohhh!<END>
+
+<TEXT>
+<CHOICE1>Got anything?<NL>
+<CHOICE2>Let's chat!<NL>
+<CHOICE3>Forget it.<END>
+
+[O'aka]<NL>
+Thank ye!<END>
+
+<TEXT>
+<CHOICE1>Got any weapons?<NL>
+<CHOICE2>Got any items?<NL>
+<CHOICE3>Leave.<END>
+
+[O'aka]<NL>
+[O'aka], at yer service!<END>
+
+[O'aka]<NL>
+I tell ye, these [Guado]<NL>
+merchants are shrewd!<END>
+
+[O'aka]<NL>
+Rippin' off the pilgrims that<NL>
+come to visit the [Farplane]!<END>
+
+[O'aka]<NL>
+Listen, you watch that<NL>
+they don't get you, too!<END>
+
+[O'aka]<NL>
+Me, ye can trust!<END>
+
+<NL>
+My husband has long served as a guardian<NL>
+to the leaders of the [Guado].<NEWPAGE>
+<NL>
+These days he accompanies Lord [Seymor]<NL>
+all over [Spira].<END>
+
+<NL>
+We imagine Lord [Seymor] will rise to<NL>
+great glory in [Spira].<END>
+
+<NL>
+For countless years, we [Guado] shunned<NL>
+the teachings of [Yevon2].<NEWPAGE>
+<NL>
+But thanks to the late Lord [Jyscal],<NL>
+our bonds with the temple grew strong.<END>
+
+<NL>
+I heard that Lord [Seymor] studied<NL>
+the teachings in [Macalania].<END>
+
+<NL>
+I believe that Lord [Seymor]<NL>
+will return for us.<NEWPAGE>
+<NL>
+But whether he will save us<NL>
+or destroy us, I know not.<END>
+
+<NL>
+Ah, one of Lady [Yuna]'s guardians.<NL>
+How may I help you today?<END>
+
+<TEXT>
+<CHOICE1>Buy weapons.<NL>
+<CHOICE2>Buy items.<NL>
+<CHOICE3>Leave.<END>
+
+<NL>
+I have nothing special,<NL>
+but I hope I can be of aid.<END>
+
+<NL>
+Please return anytime.<END>
+
+<NL>
+If it please you, do come again.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

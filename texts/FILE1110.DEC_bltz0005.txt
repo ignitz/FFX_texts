@@ -1,0 +1,821 @@
+<TEXT>
+<NL>
+<VAR12 30><NL>
+<VAR12 31><NL>
+<VAR12 32><NL>
+<VAR12 33><NL>
+<VAR12 34><NL>
+<VAR12 35><END>
+
+<TEXT>
+<Cor 43>Blitzball Tutorial<Cor 41><NL>
+<CHOICE1>Moving<NL>
+<CHOICE2>Action Commands<NL>
+<CHOICE3>Passing<NL>
+<CHOICE4>Shooting<NL>
+<CHOICE5>Using HP<NL>
+<CHOICE6>Encounters<NL>
+<CHOICE7>Breakthroughs<NL>
+<CHOICE8>Techcopy<NL>
+<CHOICE9>Stats<NL>
+<CHOICE???>9Status Ailments<NL>
+<CHOICE???> Techniques<NL>
+<CHOICE???>!Game Modes<NL>
+<CHOICE???>"End Tutorial<END>
+
+<TEXT>
+Ten games are played during a <Cor 43>league<Cor 41><NL>
+season, with the winner determined<NL>
+by total points. 3 points are awarded<NL>
+for a win, and 1 point for a tie.<NL>
+You can press [Botão Triângulo] to forfeit a game,<NL>
+but only when your team is losing.<END>
+
+<TEXT>
+<Cor 43>Tournaments<Cor 41> span two to three matches.<NL>
+There are no draws, so a match ending<NL>
+with tied scores goes into overtime.<NL>
+You can press [Botão Triângulo] to forfeit a game,<NL>
+but only when your team is losing.<END>
+
+<TEXT>
+<Cor 43>Exhibition<Cor 41> games are for practice.<NL>
+No experience points are awarded for<NL>
+playing, but you can copy techniques.<NL>
+Press [Botão Triângulo] at any time to forfeit the game.<END>
+
+<TEXT>
+<Cor 43>Status Ailments<Cor 41><TEXT>
+<NL>
+<CHOICE1>Poison<NL>
+<CHOICE2>Sleep<NL>
+<CHOICE3>Wither<NL>
+<CHOICE4>Back<END>
+
+<TEXT>
+<Cor 43>Poison<Cor 41> accelerates the loss of HP<NL>
+while the player has the ball.<NL>
+Poisoned players do not recover<NL>
+HP even when rid of the ball.<NL>
+In time, poison runs its course.<END>
+
+<TEXT>
+Poison also <Cor 43>disables techniques<Cor 41>.<NL>
+Shooting techs are lost first,<NL>
+followed by tackling techs and<NL>
+passing techs if the poison effects<NL>
+are stacked with <Cor 43>Pile Venom<Cor 41>.<END>
+
+<TEXT>
+A player becomes <Cor 43>unable to act<Cor 41> when put to <Cor 43>sleep<Cor 41>.<NL>
+The player will wake after a while, or when he<NL>
+is hit by the ball.<END>
+
+<TEXT>
+<Cor 43>Wither<Cor 41> reduces a single stat by half.<NL>
+The effects wear off over time.<END>
+
+<TEXT>
+<Cor 43>Techniques<Cor 41><TEXT>
+<NL>
+You can learn blitzball techniques<NL>
+by <Cor 43>techcopying<Cor 41> them from opposing players,<NL>
+or by <Cor 43>using the prizes<Cor 41> given to the top teams of<NL>
+each season or tournament.<END>
+
+<TEXT>
+Initially, each player can only<NL>
+learn certain techniques.<END>
+
+<TEXT>
+But by learning certain <Cor 43>key techniques<Cor 41>,<NL>
+a player can increase the number of<NL>
+techniques available to him.<END>
+
+<TEXT>
+The required key techniques vary by<NL>
+player. Each time a player learns a key<NL>
+technique, he gains access to a broader<NL>
+range of techniques.<END>
+
+<TEXT>
+<Cor 43>HP<Cor 41><NL>
+  - Spent when carrying the ball.<NL>
+  - Spent when shooting and passing.<NL>
+  - Recovers when moving without the ball.<NL>
+  - PA and SH are halved when HP is too low.<END>
+
+<TEXT>
+<Cor 43>EN<Cor 41>  [']Endurance[/']<NL>
+  - Ability to withstand tackles.<NL>
+  - Opposing stat: AT.<END>
+
+<TEXT>
+<Cor 43>PA<Cor 41><NL>
+  - Passing accuracy.<NL>
+  - Higher PA enables longer passes.<NL>
+  - Opposing stat: BL.<END>
+
+<TEXT>
+<Cor 43>SH<Cor 41><NL>
+  - Shooting skill.<NL>
+  - Higher SH enables longer shots.<NL>
+  - Opposing stats: BL, CA.<END>
+
+<TEXT>
+<Cor 43>AT<Cor 41><NL>
+  - Attack strength of tackles.<NL>
+  - Opposing stat: EN.<END>
+
+<TEXT>
+<Cor 43>BL<Cor 41><NL>
+  - Skill at blocking shots & passes.<NL>
+  - Opposing stats: PA, SH.<END>
+
+<TEXT>
+<Cor 43>CA<Cor 41><NL>
+  - Goalie's skill at catching shots.<NL>
+  - Opposing stat: SH.<END>
+
+<TEXT>
+<END>
+
+<TEXT>
+In blitzball, players expend<NL>
+<Cor 43>HP<Cor 41> to perform actions.<END>
+
+<TEXT>
+Think of HP here as <Cor 43>stamina<Cor 41>,<NL>
+because players remain conscious<NL>
+even if their HP drops to 0.<END>
+
+<TEXT>
+The first thing to remember is that<NL>
+whoever has the ball steadily loses HP<NL>
+while carrying it through the water.<END>
+
+<TEXT>
+Watch how [Tidus]'s HP falls<NL>
+from <Cor 43><VAR12 30><Cor 41> as he carries the ball.<END>
+
+<TEXT>
+As you can see, HP decreases<NL>
+when the ball is carried.<END>
+
+<TEXT>
+Shooting and passing also<NL>
+consume HP. Let's take a look.<END>
+
+<TEXT>
+Select <Cor 43>Shoot<Cor 41>.<NL>
+Each shot consumes <Cor 43>10<Cor 41> HP.<NL>
+Watch closely as [Tidus]<NL>
+loses <Cor 43>10<Cor 41> HP.<END>
+
+<TEXT>
+As you can see, his HP<NL>
+decreased from <Cor 43><VAR12 31><Cor 41> to <Cor 43><VAR12 30><Cor 41>.<END>
+
+<TEXT>
+In blitzball, all actions require HP.<END>
+
+<TEXT>
+Now let's see what happens<NL>
+when HP runs low.<END>
+
+<TEXT>
+Players can still shoot even<NL>
+if their HP falls below <Cor 43>10<Cor 41>.<END>
+
+<TEXT>
+But when they do, their shots<NL>
+are only <Cor 43>half<Cor 41> as effective.<END>
+
+<TEXT>
+Whenever HP is too low, the commands<NL>
+are highlighted <Cor 88>blue<Cor 41>. Also, note that<NL>
+SH is reduced from <Cor 43>10<Cor 41> to <Cor 43>5<Cor 41>.<END>
+
+<TEXT>
+Each player slowly regains HP<NL>
+once he is rid of the ball.<END>
+
+<TEXT>
+<Cor B1>Summary 5:<Cor 41><NL>
+- Carrying the ball consumes HP.<NL>
+- Players regain HP once rid of the ball.<NL>
+- Passing and shooting require HP.<NL>
+- Insufficient HP reduces PA and SH by half.<END>
+
+<TEXT>
+Now let's look at how to <Cor 43>shoot<Cor 41>.<NL>
+Shooting is very similar to passing.<END>
+
+<TEXT>
+Select <Cor 43>Shoot<Cor 41>.<END>
+
+<TEXT>
+That is explained elsewhere.<NL>
+Please select <Cor 43>Shoot<Cor 41>.<END>
+
+<TEXT>
+A player's shooting accuracy is displayed as <Cor 43>SH<Cor 41>.<NL>
+Check [Tidus]'s SH, now at <Cor 43>10<Cor 41>.<END>
+
+<TEXT>
+A <Cor 43>goalkeeper<Cor 41> defends the goal<NL>
+from [Tidus]'s shots.<END>
+
+<TEXT>
+Let's do it.<NL>
+Open the command window<NL>
+by pressing [Botão Quadrado].<END>
+
+<TEXT>
+A shot loses SH as it travels through<NL>
+the water, just as a pass loses PA.<END>
+
+<TEXT>
+A shot that reaches the goal with<NL>
+SH of at least <Cor 43>1<Cor 41> will score.<NL>
+If a shot's SH is depleted, it will fail.<END>
+
+<TEXT>
+Once you select <Cor 43>Shoot<Cor 41>, the goalkeeper's<NL>
+stats appear beneath yours.<END>
+
+<TEXT>
+Your teammates' stats are displayed on<NL>
+a <Cor 88>blue<Cor 41> background. The opposing team's<NL>
+stats are displayed on a <Cor 94>red<Cor 41> background.<END>
+
+<TEXT>
+<Cor 43>CA<Cor 41> represents the<NL>
+goalkeeper's ability to<NL>
+catch incoming shots.<END>
+
+<TEXT>
+In this example, Raudy's goalkeeping<NL>
+ability is shown as <Cor 43>8<Cor 41>.<END>
+
+<TEXT>
+Let's resume.<NL>
+Keep an eye on the shot's<NL>
+<Cor 43>SH<Cor 41> as it decreases.<END>
+
+<TEXT>
+Check [Tidus]'s <Cor 43>SH<Cor 41> now.<END>
+
+<TEXT>
+Here, we take the shot's <Cor 43>SH<Cor 41> and<NL>
+subtract the goalkeeper's <Cor 43>CA<Cor 41>..<END>
+
+<TEXT>
+If no SH remains,<NL>
+then the shot fails.<END>
+
+<TEXT>
+Be aware that the actual CA applied<NL>
+here is randomized, ranging from 50 to<NL>
+150 percent of the goalie's current CA.<END>
+
+<TEXT>
+Here the goalkeeper has a CA of <Cor 43>8<Cor 41>,<NL>
+so the actual amount subtracted<NL>
+may vary from <Cor 43>4<Cor 41> to <Cor 43>12<Cor 41>.<END>
+
+<TEXT>
+So, let's see whether<NL>
+the shot's <Cor 43>SH<Cor 41> score will<NL>
+remain above <Cor 43>0<Cor 41>.<END>
+
+<TEXT>
+Since the shot lost some SH as<NL>
+it travelled through the water,<NL>
+it is currently at <Cor 43><VAR12 30><Cor 41>.<END>
+
+<TEXT>
+The shot was successful<NL>
+because SH is at <Cor 43><VAR12 30><Cor 41>.<END>
+
+<TEXT>
+Now let's see what happens when you miss a shot.<NL>
+Switch to <Cor 43>Manual<Cor 41> movement, swim far<NL>
+from the goal, and try shooting from there.<END>
+
+<TEXT>
+The shot failed because<NL>
+its SH hit <Cor 43>0<Cor 41>.<END>
+
+<TEXT>
+Now let's try scoring a goal.<NL>
+Switch to <Cor 43>Manual<Cor 41> movement, swim closer<NL>
+to the goal, and try shooting from there.<END>
+
+<TEXT>
+<Cor B1>Summary 4:<Cor 41><NL>
+- SH represents shooting accuracy.<NL>
+- Each shot loses SH the farther it travels.<NL>
+- The goalie's CA is subtracted from SH.<NL>
+- If final SH is less than or equal to <Cor 43>0<Cor 41>, the shot fails.<END>
+
+<TEXT>
+Now, let's take a look at <Cor 43>passing<Cor 41>.<END>
+
+<TEXT>
+Select <Cor 43>Pass<Cor 41>.<END>
+
+<TEXT>
+That is explained elsewhere.<NL>
+Please select <Cor 43>Pass<Cor 41>.<END>
+
+<TEXT>
+Select a receiver for your pass.<NL>
+His stats are shown at the top right.<END>
+
+<TEXT>
+Your pass is complete,<NL>
+and now <VAR12 30> has the ball.<END>
+
+<TEXT>
+Stats determine the outcome<NL>
+of each pass.<END>
+
+<TEXT>
+Take a look at the number<NL>
+shown next to <Cor 43>PA<Cor 41>.<END>
+
+<TEXT>
+That number, <Cor 43>10<Cor 41>, represents<NL>
+<VAR12 30>'s <Cor 43>passing accuracy<Cor 41>.<END>
+
+<TEXT>
+Let's pass the ball back to [Tidus].<NL>
+Open the command window by pressing [Botão Quadrado].<END>
+
+<TEXT>
+Keep an eye on the PA score, now at <Cor 43>10<Cor 41>,<NL>
+as the ball travels back to [Tidus].<END>
+
+<TEXT>
+Did you notice the gradual<NL>
+decrease in PA?<END>
+
+<TEXT>
+The friction of the water causes the<NL>
+pass's PA to gradually <Cor 43>decrease<Cor 41>.<END>
+
+<TEXT>
+If its PA reaches <Cor 43>0<Cor 41>, the pass<NL>
+becomes uncatchable.<END>
+
+<TEXT>
+Now let's watch [Tidus]<NL>
+throw a bad pass.<NL>
+We'll set his PA to <Cor 43>3<Cor 41>.<END>
+
+<TEXT>
+Press [Botão Quadrado] and pass the ball.<NL>
+Keep an eye on [Tidus]'s PA, now at <Cor 43>3<Cor 41>.<END>
+
+<TEXT>
+When a pass fails, the ball<NL>
+becomes <Cor 43>loose<Cor 41>. A loose ball<NL>
+can be claimed by anyone.<END>
+
+<TEXT>
+Therefore, a player with high PA can<NL>
+successfully throw longer passes.<END>
+
+<TEXT>
+Likewise, a player with low PA<NL>
+often throws bad passes, giving<NL>
+the other team a chance at the ball.<END>
+
+<TEXT>
+<Cor B1>Summary 3:<Cor 41><NL>
+- PA represents passing accuracy.<NL>
+- Each pass loses PA the farther it travels.<NL>
+- Once PA reaches <Cor 43>0<Cor 41>, the pass becomes uncatchable.<END>
+
+<TEXT>
+Now, let's practice passing for a while.<END>
+
+<TEXT>
+Please select [Tidus].<END>
+
+<TEXT>
+In order to make a player perform<NL>
+an action, you must choose an<NL>
+<Cor 43>action command<Cor 41>.<END>
+
+<TEXT>
+You can open the action command window<NL>
+by pressing the [Botão Quadrado] button.<END>
+
+<TEXT>
+Press [Botão Quadrado] now.<END>
+
+<TEXT>
+The game pauses while the action<NL>
+command window is open, so you have<NL>
+ample time to think about your next move.<END>
+
+<TEXT>
+That is explained elsewhere.<NL>
+Please select <Cor 43>Dribble<Cor 41>.<END>
+
+<TEXT>
+There are three available commands:<NL>
+<Cor 43>Pass<Cor 41>, <Cor 43>Shoot<Cor 41>, and <Cor 43>Dribble<Cor 41>.<END>
+
+<TEXT>
+<Cor 43>Dribble<Cor 41> simply makes the<NL>
+player resume movement.<END>
+
+<TEXT>
+<Cor 43>Pass<Cor 41> and <Cor 43>Shoot<Cor 41> are the<NL>
+most important commands.<END>
+
+<TEXT>
+<Cor B1>Summary 2:<Cor 41><NL>
+- [Botão Quadrado] opens the action command window.<NL>
+- The three commands are Pass, Shoot, and Dribble.<NL>
+- Dribble simply makes the player resume movement.<END>
+
+<TEXT>
+<Cor 43>Movement<Cor 41><NL>
+<CHOICE1>Auto<NL>
+<CHOICE2>Manual A<END>
+
+<TEXT>
+In blitzball, there are five players<NL>
+per team in the sphere pool.<END>
+
+<TEXT>
+The <Cor 43>Overhead Map<Cor 41> shows all players' current<NL>
+positions and the direction each is facing.<NL>
+Here, only one team is shown on the field.<END>
+
+<TEXT>
+[Tidus] is carrying the ball now.<END>
+
+<TEXT>
+The ball carrier is displayed as a<NL>
+<Cor 43>circled arrow<Cor 41> on the Map.<END>
+
+<TEXT>
+Now let's watch the players move.<END>
+
+<TEXT>
+It may seem confusing at first,<NL>
+but it's actually quite simple.<END>
+
+<TEXT>
+By default, player movement is set to <Cor 43>Auto<Cor 41>, so<NL>
+everyone moves around the pool automatically.<END>
+
+<TEXT>
+Use the <Cor 43>Overhead Map<Cor 41> to<NL>
+check the players' positions.<END>
+
+The triangular frame inside the <Cor 94>red<Cor 41><NL>
+circle is the opposing team's goal.<END>
+
+<TEXT>
+Here it is. This goal is always on the<NL>
+left-hand side of the <Cor 43>Overhead Map<Cor 41>.<END>
+
+<TEXT>
+Let's resume.<NL>
+Try to keep track of your<NL>
+position in relation to the goal.<END>
+
+<TEXT>
+Next, let's try moving<NL>
+the ball carrier manually.<END>
+
+<TEXT>
+Press [Botão Triângulo].<END>
+
+<TEXT>
+Now you've enabled <Cor 43>Manual<Cor 41> movement.<NL>
+Press [Direcional Cima][Direcional Baixo][Direcional Esquerda][Direcional Direita] to move the player manually.<END>
+
+<TEXT>
+Note that it becomes harder to manage your<NL>
+teammates while manually controlling the carrier.<NL>
+This mode is recommended for <Cor 43>veteran<Cor 41> blitzers.<END>
+
+<TEXT>
+Press [Botão Triângulo] again.<END>
+
+<TEXT>
+Now you're back to <Cor 43>Auto<Cor 41> movement.<END>
+
+<TEXT>
+<Cor B1>Summary 1:<Cor 41><NL>
+- Use the <Cor 43>Overhead Map<Cor 41> to keep track of play.<NL>
+- Change movement modes with [Botão Triângulo].<NL>
+- Players move automatically when on defense.<END>
+
+<TEXT>
+Only the ball carrier can be moved manually.<NL>
+All other players stay on Auto.<END>
+
+<TEXT>
+Try switching between Manual and<NL>
+Auto to get a feel for both modes.<END>
+
+<TEXT>
+In Manual A mode, the direction of<NL>
+movement corresponds to the Overhead Map.<END>
+
+<TEXT>
+[Direcional Esquerda] moves the player toward the opposing team's<NL>
+goal, and [Direcional Direita] toward your own team's goal.<END>
+
+<TEXT>
+In addition to Manual A, there is<NL>
+also a mode called Manual B. Stick<NL>
+with Auto movement for now.<END>
+
+<TEXT>
+Movement modes are only applicable when<NL>
+you're on <Cor 43>offense<Cor 41>. When you're on <Cor 43>defense<Cor 41>,<NL>
+your entire team moves on Auto.<END>
+
+<TEXT>
+Please select Auto.<END>
+
+<TEXT>
+Please select Manual.<END>
+
+<NL>
+<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 5E><VAR12 3A> HP<NL>
+<CHOICE3>Back<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 5E><VAR12 3A> HP<NL>
+<CHOICE3><VAR12 31><VAR07 5E><VAR12 3B> HP<NL>
+<CHOICE4>Back<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 5E><VAR12 3A> HP<NL>
+<CHOICE3><VAR12 31><VAR07 5E><VAR12 3B> HP<NL>
+<CHOICE4><VAR12 32><VAR07 5E><VAR12 3C> HP<NL>
+<CHOICE5>Back<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 5E><VAR12 3A> HP<NL>
+<CHOICE3><VAR12 31><VAR07 5E><VAR12 3B> HP<NL>
+<CHOICE4><VAR12 32><VAR07 5E><VAR12 3C> HP<NL>
+<CHOICE5><VAR12 33><VAR07 5E><VAR12 3D> HP<NL>
+<CHOICE6>Back<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 5E><VAR12 3A> HP<NL>
+<CHOICE3><VAR12 31><VAR07 5E><VAR12 3B> HP<NL>
+<CHOICE4><VAR12 32><VAR07 5E><VAR12 3C> HP<NL>
+<CHOICE5><VAR12 33><VAR07 5E><VAR12 3D> HP<NL>
+<CHOICE6><VAR12 34><VAR07 5E><VAR12 3E> HP<NL>
+<CHOICE7>Back <END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 5E><VAR12 3A> HP<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 5E><VAR12 3A> HP<NL>
+<CHOICE3><VAR12 31><VAR07 5E><VAR12 3B> HP<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 5E><VAR12 3A> HP<NL>
+<CHOICE3><VAR12 31><VAR07 5E><VAR12 3B> HP<NL>
+<CHOICE4><VAR12 32><VAR07 5E><VAR12 3C> HP<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 5E><VAR12 3A> HP<NL>
+<CHOICE3><VAR12 31><VAR07 5E><VAR12 3B> HP<NL>
+<CHOICE4><VAR12 32><VAR07 5E><VAR12 3C> HP<NL>
+<CHOICE5><VAR12 33><VAR07 5E><VAR12 3D> HP<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 5E><VAR12 3A> HP<NL>
+<CHOICE3><VAR12 31><VAR07 5E><VAR12 3B> HP<NL>
+<CHOICE4><VAR12 32><VAR07 5E><VAR12 3C> HP<NL>
+<CHOICE5><VAR12 33><VAR07 5E><VAR12 3D> HP<NL>
+<CHOICE6><VAR12 34><VAR07 5E><VAR12 3E> HP<END>
+
+<TEXT>
+<NL>
+<VAR12 30><VAR12 31><NL>
+<VAR12 32><VAR12 33><NL>
+<VAR12 34><VAR12 35><NL>
+<VAR12 36><VAR12 37><NL>
+<VAR12 38><VAR12 39><END>
+
+<TEXT>
+<Cor 43>Breakthrough<Cor 41><NL>
+<CHOICE1>No Break<NL>
+<CHOICE2>Break to <VAR12 31> <END>
+
+<TEXT>
+<Cor 43>Breakthrough<Cor 41><NL>
+<CHOICE1>No Break<NL>
+<CHOICE2>Break to <VAR12 31><NL>
+<CHOICE3>Break to <VAR12 32><END>
+
+<TEXT>
+<Cor 43>Breakthrough<Cor 41><NL>
+<CHOICE1>No Break<NL>
+<CHOICE2>Break to <VAR12 31><NL>
+<CHOICE3>Break to <VAR12 32><NL>
+<CHOICE4>Break to <VAR12 33><END>
+
+<TEXT>
+<Cor 43>Breakthrough<Cor 41><NL>
+<CHOICE1>No Break<NL>
+<CHOICE2>Break to <VAR12 31><NL>
+<CHOICE3>Break to <VAR12 32><NL>
+<CHOICE4>Break to <VAR12 33><NL>
+<CHOICE5>Break to <VAR12 34><END>
+
+<TEXT>
+<Cor 43>Breakthrough<Cor 41><NL>
+<CHOICE1>No Break<NL>
+<CHOICE2>Break to <VAR12 31> <NL>
+<CHOICE3>Break to <VAR12 32><NL>
+<CHOICE4>Break to <VAR12 33><NL>
+<CHOICE5>Break to <VAR12 34><NL>
+<CHOICE6>Break to <VAR12 35> <END>
+
+<TEXT>
+<Cor 43>Action Commands<Cor 41><NL>
+<CHOICE1>Pass<VAR07 4F><VAR12 30> HP<NL>
+<CHOICE2>Shoot<VAR07 4F><VAR12 31> HP<NL>
+<CHOICE3>Dribble<END>
+
+<TEXT>
+<Cor 43>Action Commands<Cor 41><NL>
+<CHOICE1><Cor 88>Pass<VAR07 4F><VAR12 30> HP<NL>
+<CHOICE2><Cor 41>Shoot<VAR07 4F><VAR12 31> HP<NL>
+<CHOICE3>Dribble<END>
+
+<TEXT>
+<Cor 43>Action Commands<Cor 41><NL>
+<CHOICE1>Pass<VAR07 4F><VAR12 30> HP<NL>
+<Cor 88><CHOICE2>Shoot<VAR07 4F><VAR12 31> HP<NL>
+<CHOICE3><Cor 41>Dribble<END>
+
+<TEXT>
+<Cor 43>Action Commands<Cor 41><NL>
+<CHOICE1><Cor 88>Pass<VAR07 4F><VAR12 30> HP<NL>
+<CHOICE2>Shoot<VAR07 4F><VAR12 31> HP<NL>
+<CHOICE3><Cor 41>Dribble<END>
+
+<TEXT>
+<Cor 43>Action Commands<Cor 41><NL>
+<CHOICE1>Pass<VAR07 4F><VAR12 30> HP<NL>
+<CHOICE2>Shoot<VAR07 4F><VAR12 31> HP<END>
+
+<TEXT>
+<Cor 43>Action Commands<Cor 41><NL>
+<CHOICE1><Cor 88>Pass<VAR07 4F><VAR12 30> HP<NL>
+<CHOICE2><Cor 41>Shoot<VAR07 4F><VAR12 31> HP<END>
+
+<TEXT>
+<Cor 43>Action Commands<Cor 41><NL>
+<CHOICE1>Pass<VAR07 4F><VAR12 30> HP<NL>
+<CHOICE2><Cor 88>Shoot<VAR07 4F><VAR12 31> HP<END>
+
+<TEXT>
+<Cor 43>Action Commands<Cor 41><NL>
+<CHOICE1><Cor 88>Pass<VAR07 4F><VAR12 30> HP<NL>
+<CHOICE2>Shoot<VAR07 4F><VAR12 31> HP<END>
+
+<TEXT>
+<VAR12 30>-Man Breakthrough<END>
+
+<TEXT>
+No Break<END>
+
+<TEXT>
+Action: Pass<END>
+
+<TEXT>
+Action: Shoot<END>
+
+<TEXT>
+Action: Dribble<END>
+
+<TEXT>
+Technique: <VAR12 30><END>
+
+<TEXT>
+<NL>
+<VAR07 40><VAR12 30><END>
+
+Aurochs Player 0<END>
+
+Aurochs Player 1<END>
+
+Aurochs Player 2<END>
+
+Aurochs Player 3<END>
+
+Aurochs Player 4<END>
+
+Aurochs Player 5<END>
+
+Goers Player 0<END>
+
+Goers Player 1<END>
+
+Goers Player 2<END>
+
+Goers Player 3<END>
+
+Goers Player 4<END>
+
+Goers Player 5<END>
+
+<TEXT>
+<Cor 43>Pass to:<Cor 41><NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><END>
+
+<NL>
+What a great play!<NL>
+The Goers score first!<END>
+
+<NL>
+The Aurochs are no match<NL>
+for the Goers, folks!<NL>
+They're just floundering out there!<END>
+
+<NL>
+And it's halftime!<NL>
+<VAR12 30> - <VAR12 31><END>
+
+<NL>
+The Goers are just playing great, Bobba.<NL>
+Really great.<END>
+
+<NL>
+The score's tied, but the Goers<NL>
+still have the momentum.<END>
+
+<NL>
+The crowd is cheering<NL>
+for the Aurochs!<NL>
+Isn't this exciting?<END>
+
+<NL>
+Goal! Goal! Goal!<NL>
+Unbelievable! What a<NL>
+miraculous comeback!<END>
+
+<NL>
+The crowd is going wild!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

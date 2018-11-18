@@ -1,0 +1,259 @@
+<TEXT>
+<CHOICE1>Not yet.<NL>
+<CHOICE2>I'm ready! Let me on!<END>
+
+<TEXT>
+<CHOICE1>Not yet.<NL>
+<CHOICE2>Let me on!<END>
+
+<NL>
+Need anything?<END>
+
+<TEXT>
+<CHOICE1>Got any armor?<NL>
+<CHOICE2>Got any items?<NL>
+<CHOICE3>Leave.<END>
+
+<NL>
+Feel free to stop by anytime.<END>
+
+<NL>
+Hey, there. If you don't buy anything<NL>
+from me, you'll regret it.<END>
+
+<NL>
+Thanks!<END>
+
+<NL>
+Dangerous when shoopuf's close.<NL>
+Wants to be shmooshed?<END>
+
+<NL>
+Don't touch shoopuf.<NL>
+Tailss will be shlapping!<END>
+
+<NL>
+Shing the Hymn?<NL>
+A very, very myshterious shong indeed.<END>
+
+<NL>
+Shoopuf happy now shince<NL>
+ebullibody shing shong.<END>
+
+<NL>
+There have been reports of<NL>
+[Al Bhed] sightings in this area.<NEWPAGE>
+<NL>
+Stay alert and keep<NL>
+your guard up at all times!<END>
+
+<NL>
+The [Al Bhed] have green eyes with a swirl<NL>
+pattern. Report any sightings immediately!<END>
+
+<NL>
+The [Al Bhed] are roaming this area,<NL>
+targeting summoners.<END>
+
+<NL>
+Please rest assured,<NL>
+the shoopuf is operating as usual.<END>
+
+<NL>
+With Yevon in chaos,<NL>
+the [Crusader]s must be vigilant.<END>
+
+<NL>
+The fight against [Sin] continues.<NL>
+Be careful when heading north.<END>
+
+<NL>
+Riding the shoopuf is free<NL>
+because the temple pays for it.<END>
+
+<NL>
+The temple provides for the people.<NL>
+We are truly blessed.<END>
+
+<NL>
+It seems that Maester [Seymor]<NL>
+will be marrying Lord [Braska]'s daughter.<END>
+
+<NL>
+With their combined strength,<NL>
+Yevon will prosper.<END>
+
+<NL>
+What are we to do now that the<NL>
+warrior monks are up and gone?<NEWPAGE>
+<NL>
+I'm sure the temple has a plan, but<NL>
+Yevon works in strange ways, it seems.<NL>
+<END>
+
+<NL>
+Me? I obey the temple, without question.<NL>
+Who would ever shun the sacred temple!<END>
+
+<NL>
+I tried singing the Hymn although I<NL>
+didn't know what significance it had.<NEWPAGE>
+<NL>
+There was nothing else to do.<NL>
+In times of need, people will try anything.<END>
+
+<NL>
+The high priests and the<NL>
+summoners will take care of us.<END>
+
+<NL>
+You say our machina violate<NL>
+the teachings, eh? Nonsense!<END>
+
+<NL>
+These machina have Yevon's approval. Don't<NL>
+mix them up with the forbidden ones, got it?<END>
+
+<NL>
+The maester's engagement is such a<NL>
+blessing. It lightens even my spirits.<END>
+
+<NL>
+Uh, what happened to Maester [Seymor]<NL>
+and Lady [Yuna]'s marriage?<NEWPAGE>
+<NL>
+I heard the maester disappeared from<NL>
+[Bevelle], and [Yuna] is now a traitor!<NL>
+Unbelievable!<END>
+
+<NL>
+Careful what you believe, especially<NL>
+when such nonsense is floatin' around.<END>
+
+<NL>
+I thought that flying ship was<NL>
+Yevon's secret weapon...<NEWPAGE>
+<NL>
+but now they're sayin' that<NL>
+[Al Bhed] are at the helm!<NEWPAGE>
+<NL>
+You tellin' me that the temple<NL>
+and the [Al Bhed] have joined forces?<NL>
+Rubbish!<END>
+
+<NL>
+Can't believe anything anymore!<NL>
+Just pray that [Sin] will go away.<END>
+
+[Auron]<NL>
+Ten years ago...<END>
+
+[Tidus]<NL>
+A history lesson?<END>
+
+[Auron]<NL>
+[Jecht] saw his first shoopuf here.<END>
+
+[Auron]<NL>
+Surprised, he drew<NL>
+his blade and struck it.<END>
+
+[Tidus]<NL>
+Why?<END>
+
+[Auron]<NL>
+He was drunk...<NL>
+Thought it was a fiend.<END>
+
+[Tidus]<NL>
+Oh, brother...<END>
+
+[Auron]<NL>
+We offered all the money<NL>
+we had as an apology.<END>
+
+[Auron]<NL>
+[Jecht] never drank again.<END>
+
+[Auron]<NL>
+But, it would seem<NL>
+that shoopuf still works here.<END>
+
+[Auron]<NL>
+Even after ten years,<NL>
+[Spira] hasn't changed.<END>
+
+[Auron]<NL>
+Truly...<END>
+
+[Auron]<NL>
+The place seems to resist change.<END>
+
+[Auron]<NL>
+It would take something unusual.<END>
+
+[Auron]<NL>
+Don't let the peaceful scenery fool you.<NL>
+Be on guard at all times.<END>
+
+Driver<NL>
+Ride ze shoopuf?<END>
+
+Driver<NL>
+Shoopuf's waiting!<END>
+
+Driver<NL>
+All aboards!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

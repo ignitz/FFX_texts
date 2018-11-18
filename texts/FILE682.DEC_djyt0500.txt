@@ -1,0 +1,161 @@
+[Tidus]<NL>
+Okay... I guess I'll just<NL>
+let her sleep for now, then.<END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+Morning!<END>
+
+[Yuna]<NL>
+What? Morning?<END>
+
+[Tidus]<NL>
+Don't worry!<END>
+
+[Yuna]<NL>
+But it's morning!<END>
+
+[Yuna]<NL>
+I'm so sorry!<END>
+
+[Yuna]<NL>
+I-I'll get ready right away!<NL>
+Just a moment!<END>
+
+[Tidus]<NL>
+Don't worry! It's okay!<END>
+
+<NL>
+[Yevon2]'s blessing has saved many<NL>
+[Crusader]s from [Sin]'s onslaught.<NEWPAGE>
+<NL>
+Yes, they have disobeyed the teachings,<NL>
+but we cannot turn our backs on them.<END>
+
+<NL>
+She was working until dawn.<END>
+
+<NL>
+Healing the wounded,<NL>
+sending the fallen.<END>
+
+<NL>
+Zzzz...<END>
+
+<NL>
+Despite hearing rumors about your rebellion,<NL>
+I always believed you were innocent.<NEWPAGE>
+<NL>
+After all, I saw how graciously you toiled<NL>
+to help the wounded [Crusader]s.<END>
+
+<NL>
+Not all who are associated with the temple are<NL>
+against you, my lady. Please believe me.<END>
+
+<NL>
+Congratulations, Lady [Yuna]. I'm sure Lord [Braska]<NL>
+is smiling from the Farplane right now.<END>
+
+<NL>
+Oh, my...<NEWPAGE>
+<NL>
+We are out of funeral shrouds.<END>
+
+<NL>
+All I have to offer are my prayers.<END>
+
+<NL>
+The captain saved my life and<NL>
+got hurt.<NEWPAGE>
+<NL>
+I'm so worthless.<END>
+
+<NL>
+My chocobo... Oh, chocobo...<END>
+
+<NL>
+Kweh... Kweh...<END>
+
+<NL>
+Sing again for me...<NL>
+Kweh... Kweh...<END>
+
+<NL>
+Kweh...<END>
+
+<NL>
+Rest in peace.<END>
+
+<NL>
+Busy busy.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

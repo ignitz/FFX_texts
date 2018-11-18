@@ -1,0 +1,290 @@
+<NL>
+          <END>
+
+[Biran]<NL>
+Summoner [Yuna]!<END>
+
+[Tidus]<NL>
+What is it this time?<END>
+
+[Lulu]<NL>
+These mark the graves of summoners<NL>
+and guardians who failed.<END>
+
+[Lulu]<NL>
+Summoners that die up here...<END>
+
+[Lulu]<NL>
+aren't sent to the Farplane.<END>
+
+[Tidus]<NL>
+Why not?<END>
+
+[Lulu]<NL>
+Who would send them?<NL>
+They die alone.<END>
+
+[Tidus]<NL>
+So that means...<END>
+
+[Lulu]<NL>
+Many have become fiends, and they<NL>
+may want [Yuna]'s company.<END>
+
+[Tidus]<NL>
+Well, [Yuna] will be fine.<END>
+
+[Lulu]<NL>
+You're right.<END>
+
+[Lulu]<NL>
+All this way, only to fail.<NL>
+It must have been tough.<END>
+
+[Wantz]<NL>
+Greetings, Lady [Yuna].<NL>
+My name is [Wantz].<END>
+
+<NL>
+          <END>
+
+[Yuna]<NL>
+We have met several<NL>
+times before, right?<END>
+
+[Tidus]<NL>
+Not running today?<END>
+
+<NL>
+          <END>
+
+[Wantz]<NL>
+I have to carry on my<NL>
+brother's business.<END>
+
+[Wantz]<NL>
+You've met him, I think.<NL>
+[O'aka] XXIII, merchant extraordinaire?<END>
+
+[Tidus]<NL>
+Wait, you're that guy's brother?<END>
+
+<NL>
+          <END>
+
+[Wantz]<NL>
+My brother wanted to<NL>
+come help Lady [Yuna].<END>
+
+[Wantz]<NL>
+But the temple imprisoned him<NL>
+for helping traitors.<END>
+
+[Tidus]<NL>
+They imprisoned him because of us?<END>
+
+[Wantz]<NL>
+He doesn't regret it, though.<NL>
+In fact, he told me before<NL>
+they took him...<END>
+
+[Wantz]<NL>
+"Don't worry about me,<NL>
+just go help Lady [Yuna]."<END>
+
+[Yuna]<NL>
+But, why would your brother<NL>
+do this for us?<END>
+
+[Wantz]<NL>
+Well...<END>
+
+[Wantz]<NL>
+Hey, this isn't the time for talking!<END>
+
+[Wantz]<NL>
+There's dealing to be done!<END>
+
+[Wantz]<NL>
+Welcome to [O'aka]'s!<END>
+
+[Yuna]<NL>
+I will be sure to keep<NL>
+your brother in my prayers.<END>
+
+[Wantz]<NL>
+He's doing the same<NL>
+for you, Lady [Yuna].<END>
+
+[Yuna]<NL>
+Thanks.<END>
+
+<TEXT>
+<CHOICE1>Got any weapons?<NL>
+<CHOICE2>Got any items?<NL>
+<CHOICE3>Leave.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+Warp Selection<END>
+
+<TEXT>
+<CHOICE1>Mt. Gagazet - Gate<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+Obtained [Braska]'s sphere!<END>
+
+<TEXT>
+<CHOICE1>Take a look.<NL>
+<CHOICE2>Leave it alone.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

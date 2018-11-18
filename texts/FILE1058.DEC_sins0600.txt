@@ -1,0 +1,316 @@
+[Yuna]<NL>
+But I...<END>
+
+[Jecht]<NL>
+You're late, [Auron].<END>
+
+[Auron]<NL>
+I know.<END>
+
+[Jecht]<NL>
+Hey.<END>
+
+[Tidus]<NL>
+Hi.<END>
+
+[Jecht]<NL>
+Hah! You got tall,<NL>
+but you're all bones!<END>
+
+[Jecht]<NL>
+You eating right, boy?<END>
+
+[Jecht]<NL>
+You've really grown.<END>
+
+[Tidus]<NL>
+Yeah, but you're still bigger.<END>
+
+<NL>
+          <END>
+
+[Jecht]<NL>
+Well, I am [Sin], you know.<END>
+
+[Tidus]<NL>
+That's not funny.<END>
+
+<NL>
+          <END>
+
+[Jecht]<NL>
+Well, then...<NL>
+I mean...you know.<END>
+
+[Jecht]<NL>
+Let's end this.<END>
+
+[Tidus]<NL>
+Dad?<END>
+
+[Jecht]<NL>
+Yeah?<END>
+
+[Tidus]<NL>
+I hate you.<END>
+
+<NL>
+          <END>
+
+[Jecht]<NL>
+I know, I know.<END>
+
+[Jecht]<NL>
+You know what you have to do.<END>
+
+[Tidus]<NL>
+Yeah.<END>
+
+[Jecht]<NL>
+I can't hear the<NL>
+Hymn so well anymore.<END>
+
+[Jecht]<NL>
+Pretty soon, I'm gonna be [Sin].<NL>
+Completely.<END>
+
+[Jecht]<NL>
+I'm glad you're here now.<END>
+
+[Jecht]<NL>
+One thing, though...<END>
+
+[Jecht]<NL>
+When it starts,<NL>
+I won't be myself anymore.<END>
+
+[Jecht]<NL>
+I won't be able to hold myself back.<END>
+
+[Jecht]<NL>
+I'm sorry.<END>
+
+[Tidus]<NL>
+That's enough.<END>
+
+[Tidus]<NL>
+Let's finish this, okay?<END>
+
+[Jecht]<NL>
+You're right.<END>
+
+[Jecht]<NL>
+Well, then...<NL>
+Let's go!<END>
+
+[Tidus]<NL>
+I promise this will be quick!<END>
+
+[Tidus]<NL>
+Hit me with all you got, Dad!<END>
+
+[Jecht]<NL>
+You'll cry. You're gonna cry.<NL>
+You always cry. See? You're cryin'.<END>
+
+[Tidus]<NL>
+I hate you, Dad.<END>
+
+[Jecht]<NL>
+Save it for later.<END>
+
+[Tidus]<NL>
+Right... We've got a job<NL>
+to do, don't we?<END>
+
+[Jecht]<NL>
+Good. That's right.<NL>
+You are my son, after all.<END>
+
+[Tidus]<NL>
+You know...for the first time,<NL>
+I'm glad...<END>
+
+[Tidus]<NL>
+to have you as my father.<END>
+
+<NL>
+          <END>
+
+[Yuna]<NL>
+Sir [Jecht]...<END>
+
+[Yuna]<NL>
+I should...<END>
+
+[Jecht]<NL>
+No, [Yuna], there's no time!<END>
+
+[Tidus]<NL>
+You stay away!<END>
+
+[Jecht]<NL>
+[Yuna], you know what to do.<END>
+
+[Jecht]<NL>
+The aeons...<END>
+
+Fayth<NL>
+We aeons...<END>
+
+[Jecht]<NL>
+Call them!<END>
+
+Fayth<NL>
+Call us!<END>
+
+[Yuna]<NL>
+Yes.  <END>
+
+[Lulu]<NL>
+Here it comes!<END>
+
+[Tidus]<NL>
+Everyone!<END>
+
+[Tidus]<NL>
+This is the last time<NL>
+we fight together, okay?<END>
+
+[Wakka]<NL>
+Huh?<END>
+
+[Tidus]<NL>
+What I'm trying to say is...<END>
+
+[Tidus]<NL>
+after we beat Yu Yevon,<NL>
+I'll disappear!<END>
+
+[Lulu]<NL>
+What are you talking about?<END>
+
+[Tidus]<NL>
+I'm saying goodbye!<END>
+
+[Rikku]<NL>
+Not now!<END>
+
+[Tidus]<NL>
+I know it's selfish...<END>
+
+[Tidus]<NL>
+but this is my story!<END>
+
+[Auron]<NL>
+Don't stop.<END>
+
+[Auron]<NL>
+It's all right.<END>
+
+[Auron]<NL>
+It's been long enough.<END>
+
+[Auron]<NL>
+This is your world now.<END>
+
+[Tidus]<NL>
+[Yuna], I have to go.<END>
+
+[Tidus]<NL>
+I'm sorry I couldn't<NL>
+show you [Zanarkand].<END>
+
+[Tidus]<NL>
+Goodbye!<END>
+
+[Wakka]<NL>
+Hey!<END>
+
+[Kimahri]<NL>
+[Yuna]!<END>
+
+[Rikku]<NL>
+We're gonna see you again...?<END>
+
+[Yuna]<NL>
+I love you.<END>
+
+[Lulu]<NL>
+[Yuna], it's time.<END>
+
+[Yuna]<NL>
+Everyone...everyone has<NL>
+lost something precious.<END>
+
+[Yuna]<NL>
+Everyone here has lost<NL>
+homes, dreams, and friends.<END>
+
+[Yuna]<NL>
+Everybody...<END>
+
+[Yuna]<NL>
+Now, [Sin] is finally dead.<END>
+
+[Yuna]<NL>
+Now, [Spira] is ours again.<END>
+
+[Yuna]<NL>
+Working together...<END>
+
+[Yuna]<NL>
+Now we can make new homes<NL>
+for ourselves, and new dreams.<END>
+
+[Yuna]<NL>
+Although I know the journey<NL>
+will be hard, we have lots of time.<END>
+
+[Yuna]<NL>
+Together, we will rebuild [Spira].<END>
+
+[Yuna]<NL>
+The road is ahead of us,<NL>
+so let's start out today.<END>
+
+[Yuna]<NL>
+Just, one more thing...<END>
+
+[Yuna]<NL>
+The people and the friends that we have<NL>
+lost, or the dreams that have faded...<END>
+
+[Yuna]<NL>
+Never forget them.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

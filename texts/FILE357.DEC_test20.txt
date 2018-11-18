@@ -1,0 +1,133 @@
+<TEXT>
+<CHOICE1>             <CHOICE???><$FF><NL>
+<CHOICE2>             <CHOICE???><$FF><NL>
+<CHOICE3>             <CHOICE???><$FF><END>
+
+<TEXT>
+<Cor 43>Sphere Grid Selection<END>
+
+<TEXT>
+[FINAL FANTASY X] INTERNATIONAL features<NL>
+a new and improved Sphere Grid.<NL>
+Character development is now more flexible<NL>
+than ever with the <Cor 43>Sphere Grid International<Cor 41>!<END>
+
+<TEXT>
+Choose which Grid version to use!<NL>
+[']You cannot switch Grids in-game![/']<NL>
+ <CHOICE1>Original Version<NL>
+ <CHOICE2>International Version<END>
+
+<TEXT>
+<Cor 88>Sphere Grid Original<Cor 41><NL>
+The original [FINAL FANTASY X] Sphere Grid<NL>
+with an expanded selection of abilities!<NL>
+Recommended for beginners.<END>
+
+<TEXT>
+You have selected the:<NL>
+<Cor 88>Sphere Grid Original<Cor 41>.<NL>
+Is this the one you want?<NL>
+ <CHOICE1>Yes<NL>
+ <CHOICE2>No<END>
+
+<TEXT>
+<Cor 88>Sphere Grid International<Cor 41><NL>
+The new [FINAL FANTASY X] INTERNATIONAL<NL>
+Sphere Grid! Experienced players will enjoy the<NL>
+new multi-track character advancement system.<END>
+
+<TEXT>
+You have selected the:<NL>
+<Cor 88>Sphere Grid International<Cor 41>.<NL>
+Is this the one you want?<NL>
+ <CHOICE1>Yes<NL>
+ <CHOICE2>No<END>
+
+<TEXT>
+<Cor 43>Select Display Language<END>
+
+<TEXT>
+Choose a language:<NL>
+  <CHOICE1>Japanese<NL>
+  <CHOICE2>English<END>
+
+<TEXT>
+<TEXT>
+Use hard disk drive?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+<CHOICE1>             <CHOICE???><$FF><NL>
+<CHOICE2>             <CHOICE???><$FF><NL>
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,134 @@
+[Yuna]<NL>
+You are Maester [Seymor]'s mother.<END>
+
+<NL>
+So you know.<NL>
+Yet still you seek my aid?<END>
+
+<NL>
+My son... Do you not hate him?<END>
+
+<NL>
+It is all right.<END>
+
+<NL>
+He is the one who sowed the<NL>
+seeds of hatred. He is to blame.<END>
+
+<NL>
+But I am at fault for letting<NL>
+him become what he was.<END>
+
+[Tidus]<NL>
+And he found [Sin].<END>
+
+<NL>
+Yes.<END>
+
+<NL>
+Come, summoner.<NL>
+I will bestow you with my power:<END>
+
+<NL>
+The Dark Aeon, [Anima].<END>
+
+<NL>
+Destroy [Sin],<NL>
+and my son's obsession with it.<END>
+
+<NL>
+Though it is small recompense<NL>
+for what I did to him.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

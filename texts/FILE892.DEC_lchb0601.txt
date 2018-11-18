@@ -1,0 +1,110 @@
+<TEXT>
+Save current game?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<NL>
+The [Aurochs] may have lost<NL>
+the game, but what a way to go!<END>
+
+<NL>
+Unbelievable!<NL>
+The [Aurochs] win, folks!<NL>
+This is one for the record books!<END>
+
+<NL>
+But who could have imagined...<NL>
+<END>
+
+<NL>
+A championship game<NL>
+between these two teams?<END>
+
+<NL>
+Our legendary [Luca Goers]<NL>
+going against...<END>
+
+<NL>
+the horrendously ill-fated<NL>
+[Besaid Aurochs]!<END>
+
+<NL>
+This looks like history<NL>
+in the making, Bobba.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

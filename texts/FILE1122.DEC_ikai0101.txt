@@ -1,0 +1,73 @@
+[Yuna]<NL>
+Thanks for waiting!<END>
+
+[Yuna]<NL>
+I'll go give my answer<NL>
+to Maester [Seymor].<END>
+
+<NL>
+Lord [Jyscal]!?<END>
+
+<NL>
+Lord [Jyscal]!<END>
+
+[Auron]<NL>
+He does not belong here.<END>
+
+[Yuna]<NL>
+Why?<END>
+
+[Auron]<NL>
+[Yuna], send him.<END>
+
+[Yuna]<NL>
+Lord [Jyscal]...<END>
+
+[Lulu]<NL>
+He is Lord [Jyscal] no more.<NL>
+Send him now!<END>
+
+[Auron]<NL>
+Talk later.<NL>
+We leave now.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

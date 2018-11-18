@@ -1,0 +1,176 @@
+[Cid]<NL>
+No time!<NL>
+Go, go, go!<END>
+
+[Brother]<NL>
+[Three minute] left!<END>
+
+[Cid]<NL>
+Hurry, hurry!<NL>
+You have [one minute]!<END>
+
+[Tidus]<NL>
+Where's [Yuna]?<END>
+
+[Cid]<NL>
+Everyone on board?<END>
+
+<NL>
+Everyone alive!<END>
+
+[Tidus]<NL>
+I said, where is she?<END>
+
+[Tidus]<NL>
+Answer me!<NL>
+Answer me, damn you!<END>
+
+[Cid]<NL>
+What'll you do when<NL>
+you find her, eh?<END>
+
+[Tidus]<NL>
+I didn't know anything about what<NL>
+a summoner is supposed to do.<END>
+
+[Tidus]<NL>
+And I told her all those things<NL>
+without even knowing.<END>
+
+[Tidus]<NL>
+I've got to tell her.<NL>
+I've got to tell her I'm sorry!<END>
+
+[Cid]<NL>
+That's it? You're gonna<NL>
+tell her you're sorry?<END>
+
+[Cid]<NL>
+And then you just drag her<NL>
+to [Zanarkand] and make her<NL>
+fight [Sin], huh?<END>
+
+[Cid]<NL>
+You're all the same--<NL>
+let the summoner die so<NL>
+we can live in peace!<END>
+
+[Tidus]<NL>
+No!<END>
+
+[Tidus]<NL>
+I'm not gonna let [Yuna] die!<END>
+
+[Cid]<NL>
+Hah! Words!<NL>
+Show me action!<END>
+
+[Tidus]<NL>
+I'm telling you,<NL>
+she won't die!<END>
+
+[Cid]<NL>
+Boy, don't forget those words,<NL>
+'cause if you do...<END>
+
+[Cid]<NL>
+I'm gonna make you regret it.<END>
+
+[Tidus]<NL>
+I won't.<END>
+
+[Tidus]<NL>
+So you know where she is?<END>
+
+[Cid]<NL>
+'Course not.<NL>
+That's why we're gonna look!<END>
+
+[Cid]<NL>
+Using this airship!<END>
+
+[Wakka]<NL>
+A-Airship?<END>
+
+[Brother]<NL>
+Father! Ready to go!<END>
+
+[Cid]<NL>
+Yeehaa! A flight [1000 years] overdue!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

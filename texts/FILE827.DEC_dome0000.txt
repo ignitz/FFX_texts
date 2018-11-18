@@ -1,0 +1,179 @@
+<NL>
+If it might benefit the future of<NL>
+[Spira], I will gladly give my life.<END>
+
+<NL>
+It is the highest honor for<NL>
+which a guardian might ask.<END>
+
+<NL>
+Use my life, Lady [Yocun],<NL>
+and rid [Spira] of [Sin].<END>
+
+[Rikku]<NL>
+What...what was that?<END>
+
+[Auron]<NL>
+Our predecessors.<END>
+
+[Lulu]<NL>
+She said "Lady [Yocun],"<NL>
+didn't she?<END>
+
+[Lulu]<NL>
+Wait! She guarded<NL>
+High Summoner [Yocun]?<END>
+
+[Auron]<NL>
+This dome is filled with pyreflies.<NL>
+It's like one gigantic sphere.<END>
+
+[Auron]<NL>
+People's thoughts remain here.<NL>
+Forever.<END>
+
+<NL>
+No! Mother, no! I don't<NL>
+want you to become a [fayth]!<END>
+
+<NL>
+There is no other way.<END>
+
+<NL>
+Use me and defeat [Sin].<END>
+
+<NL>
+Only then will the people accept you.<END>
+
+<NL>
+I don't care about them!<END>
+
+<NL>
+I need you, Mother!<NL>
+No one else!<END>
+
+<NL>
+I don't...have much time left.<END>
+
+[Wakka]<NL>
+Hey, wasn't that...?<END>
+
+[Rikku]<NL>
+[Seymor]?<END>
+
+<TEXT>
+[Tidus]<NL>
+Ah!<END>
+
+[Jecht]<NL>
+Hey, [Braska].<END>
+
+[Jecht]<NL>
+You don't have to do this.<END>
+
+[Braska]<NL>
+Thank you for your concern.<END>
+
+[Jecht]<NL>
+Fine. I said my piece.<END>
+
+[Auron]<NL>
+Well, I haven't!<END>
+
+[Auron]<NL>
+Lord [Braska], let us go back!<NL>
+I don't want to see you...die!<END>
+
+[Braska]<NL>
+You knew this was<NL>
+to happen, my friend.<END>
+
+[Auron]<NL>
+Yes, but I...<NL>
+I cannot accept it.<END>
+
+[Braska]<NL>
+[Auron], I am honored that<NL>
+you care for me so.<END>
+
+[Braska]<NL>
+But I have come to<NL>
+kill grief itself.<END>
+
+[Braska]<NL>
+I will defeat [Sin], and lift the<NL>
+veil of sorrow covering [Spira].<END>
+
+[Braska]<NL>
+Please understand, [Auron].<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

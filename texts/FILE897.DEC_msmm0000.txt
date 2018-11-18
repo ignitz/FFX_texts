@@ -1,0 +1,122 @@
+[Auron]<NL>
+Thanks for everything, [Kinoc].<END>
+
+[Kinoc]<NL>
+I know I don't need to tell you this,<NL>
+but guard Lord [Braska] well.<END>
+
+[Auron]<NL>
+That, I will.<END>
+
+[Auron]<NL>
+And you'll be busy, too.<END>
+
+[Auron]<NL>
+I heard they made you<NL>
+second-in-command.<END>
+
+[Kinoc]<NL>
+You know that promotion<NL>
+was meant for you.<END>
+
+Kinoc<NL>
+You were always the better one,<NL>
+even until the end.<END>
+
+[Auron]<NL>
+You make it sound as if<NL>
+I was going off to die or something.<END>
+
+[Auron]<NL>
+I will see you again.<END>
+
+[Kinoc]<NL>
+Yes.  <END>
+
+[Auron]<NL>
+Well, then...<END>
+
+[Kinoc]<NL>
+Going already?<END>
+
+[Kinoc]<NL>
+You will tell me about [Zanarkand]<NL>
+when you return, won't you?<END>
+
+[Auron]<NL>
+Farewell.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

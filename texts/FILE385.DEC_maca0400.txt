@@ -1,0 +1,602 @@
+<NL>
+"Praise be to [Yevon2]."<END>
+
+<NL>
+That's what I would have said,<NL>
+if I was a follower of [Yevon2].<END>
+
+<NL>
+We were all there,<NL>
+and in one piece.<END>
+
+<NL>
+Even if I had a headache<NL>
+from wondering what was<NL>
+in store for us next.<END>
+
+[Tidus]<NL>
+"What now?"<END>
+
+[Tidus]<NL>
+You act first and<NL>
+think later, don't you?<END>
+
+[Tidus]<NL>
+I mean, can't you be a little<NL>
+more responsible? We're all<NL>
+depending on you. You know?<END>
+
+[Tidus]<NL>
+No, no, no.<NL>
+Just a suggestion.<END>
+
+[Tidus]<NL>
+Is that a lecture?<END>
+
+[Tidus]<NL>
+Hey, [Wakka], would you cheer up?<NL>
+Look, we only did what we had to do.<END>
+
+[Wakka]<NL>
+It doesn't matter!<NL>
+Don't you see?<END>
+
+[Wakka]<NL>
+I've always walked the<NL>
+path of [Yevon2]...<END>
+
+[Wakka]<NL>
+but now, I'm a traitor.<END>
+
+[Wakka]<NL>
+How could this happen?<END>
+
+[Wakka]<NL>
+Damn.<END>
+
+[Tidus]<NL>
+It's not [Rikku]'s fault either.<END>
+
+[Wakka]<NL>
+You don't know how I feel.<END>
+
+[Rikku]<NL>
+I'm sure [Yunie]'s okay.<NL>
+She's breathing fine and all.<END>
+
+[Rikku]<NL>
+How are [Lulu] and [Wakka]?<END>
+
+[Tidus]<NL>
+Well, [Wakka]'s in shock.<NL>
+Can't blame him, either.<END>
+
+[Tidus]<NL>
+And [Lulu], well, she's<NL>
+just the same as always.<END>
+
+[Rikku]<NL>
+She's so together.<NL>
+All grown up, I guess.<END>
+
+[Tidus]<NL>
+I guess.<END>
+
+[Rikku]<NL>
+Well, just give me five or six more years.<END>
+
+[Tidus]<NL>
+So, [Kimahri], how<NL>
+do we get out of here?<END>
+
+[Rikku]<NL>
+Hey, don't change the subject!<END>
+
+[Kimahri]<NL>
+We climb.<END>
+
+[Rikku]<NL>
+Kimahri, too!<END>
+
+[Kimahri]<NL>
+Only those who try will become.<END>
+
+[Rikku]<NL>
+Huh?<END>
+
+[Tidus]<NL>
+I think he means you have to work<NL>
+hard if you want to be like [Lulu].<END>
+
+<TEXT>
+[Rikku]<NL>
+Oh! I will!<END>
+
+[Kimahri]<NL>
+[Kimahri] think [Rikku]<NL>
+should stay [Rikku].<END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+[Wakka]<NL>
+How can you laugh<NL>
+at a time like this!?<END>
+
+<NL>
+          <END>
+
+<TEXT>
+[Tidus]<NL>
+[Yuna]!<END>
+
+[Yuna]<NL>
+I wanted to confront Maester [Seymor]<NL>
+about his father, Lord [Jyscal].<END>
+
+[Yuna]<NL>
+I wanted to convince him to turn<NL>
+himself in to [Yevon2]'s judgement.<END>
+
+[Lulu]<NL>
+In exchange for marriage?<END>
+
+[Yuna]<NL>
+Yes, if that's what it took.<END>
+
+[Tidus]<NL>
+So, what did [Seymor] say?<END>
+
+[Yuna]<NL>
+He didn't say anything.<END>
+
+[Yuna]<NL>
+Now...now I don't even<NL>
+think it was worth it.<END>
+
+[Yuna]<NL>
+I should've told you<NL>
+what I was going to do.<END>
+
+[Auron]<NL>
+Enough.<END>
+
+[Auron]<NL>
+Dwelling in the past is futile.<END>
+
+[Rikku]<NL>
+Hey! You don't have<NL>
+to say it like that!<END>
+
+[Auron]<NL>
+You want to waste time<NL>
+listening to her regrets?<END>
+
+[Rikku]<NL>
+You don't have to say it like that.<END>
+
+[Auron]<NL>
+Our immediate concern<NL>
+is [Yuna]'s pilgrimage.<END>
+
+[Auron]<NL>
+Are you willing to go on?<END>
+
+[Yuna]<NL>
+Yes.<END>
+
+[Yuna]<NL>
+But then, do you think<NL>
+[Yevon2] will allow it?<END>
+
+[Auron]<NL>
+The [fayth] are the ones that<NL>
+give power to the summoners.<END>
+
+[Auron]<NL>
+Not the temples or the teachings.<END>
+
+[Auron]<NL>
+If the temples try to stop us...<END>
+
+[Auron]<NL>
+then we will defy [Yevon2] if we must.<END>
+
+<TEXT>
+[Rikku]<NL>
+I can't believe you said that!<END>
+
+<TEXT>
+[Tidus]<NL>
+Whoa!<END>
+
+[Lulu]<NL>
+Sir [Auron]!?<END>
+
+[Wakka]<NL>
+Count me out.<END>
+
+[Lulu]<NL>
+But still, we have transgressed<NL>
+and must face our punishment.<END>
+
+[Yuna]<NL>
+We must go to <Cor 88>[Bevelle]<Cor 41>.<END>
+
+[Yuna]<NL>
+We must speak with Maester Mika<NL>
+and explain what has happened.<END>
+
+[Yuna]<NL>
+There is no other way, I think.<END>
+
+[Wakka]<NL>
+I agree.<END>
+
+[Yuna]<NL>
+Sir [Auron]...<END>
+
+[Auron]<NL>
+So it is decided.<END>
+
+[Yuna]<NL>
+Will you come with us?<END>
+
+[Auron]<NL>
+I am the troublemaker, after all.<END>
+
+[Tidus]<NL>
+Yeah, that's right!<END>
+
+[Tidus]<NL>
+You can always count on<NL>
+[Auron] to complicate things!<END>
+
+[Rikku]<NL>
+Yeah!<END>
+
+[Rikku]<NL>
+[Kimahri] roars, and<NL>
+[Auron] runs off, and...<END>
+
+[Auron]<NL>
+I never asked you to follow me.<END>
+
+[Tidus]<NL>
+Hey, but that's<NL>
+what friends are for.<END>
+
+<TEXT>
+[Tidus]<NL>
+Right?<END>
+
+[Rikku]<NL>
+Yep!<END>
+
+[Yuna]<NL>
+Thank you.<END>
+
+<NL>
+          <END>
+
+[Rikku]<NL>
+Friends, huh?<END>
+
+<NL>
+          <END>
+
+[Wakka]<NL>
+Man... How can you all<NL>
+act like nothing's wrong?<END>
+
+[Wakka]<NL>
+Must got nerves of<NL>
+steel or something.<END>
+
+[Lulu]<NL>
+You're too edgy. Listen<NL>
+to the hymn and calm down.<END>
+
+[Tidus]<NL>
+Is that coming from the temple?<END>
+
+[Yuna]<NL>
+Yes, it is [Yevon2]'s gift.<NL>
+It soothes the hearts of the faithful.<END>
+
+[Tidus]<NL>
+Who is that singing?<END>
+
+[Tidus]<NL>
+The [fayth]?<NL>
+What? It can sing?<END>
+
+[Auron]<NL>
+[Jecht] used to sing this song...<END>
+
+[Tidus]<NL>
+Yeah, over and over.<END>
+
+[Tidus]<NL>
+But not this good, that's for sure.<END>
+
+[Auron]<NL>
+Another trait you share.<END>
+
+[Tidus]<NL>
+What, you were listening?<END>
+
+<TEXT>
+[Rikku]<NL>
+Hey!<END>
+
+[Rikku]<NL>
+Are you saying<NL>
+I'll never be like [Lulu]?<END>
+
+[Rikku]<NL>
+[Kimahri]!<END>
+
+[Wakka]<NL>
+We have to atone, to make up<NL>
+for the sins we have committed.<END>
+
+[Wakka]<NL>
+Of course...<END>
+
+[Wakka]<NL>
+it's not like I ever liked<NL>
+Maester [Seymor], ya?<END>
+
+[Wakka]<NL>
+No way I'll ever forgive him<NL>
+for killing Lord [Jyscal]...<END>
+
+[Wakka]<NL>
+and for trying to do us<NL>
+all in too, you know?<END>
+
+[Wakka]<NL>
+But still, the bunch of us<NL>
+going against [Yevon2]?<END>
+
+[Wakka]<NL>
+No way!<END>
+
+[Yuna]<NL>
+I'm sure that [Maester Mika]<NL>
+will listen to us.<END>
+
+[Wakka]<NL>
+Wonder what the<NL>
+[Aurochs] are doing now.<END>
+
+[Wakka]<NL>
+Say, you feel something<NL>
+weird in the air?<END>
+
+[Wakka]<NL>
+Some kind of bad vibes or something.<END>
+
+<TEXT>
+<CHOICE1>Yeah!<NL>
+<CHOICE2>Nope.<END>
+
+[Wakka]<NL>
+I thought so.<END>
+
+[Wakka]<NL>
+Oh? Maybe I'm coming<NL>
+down with something.<END>
+
+[Wakka]<NL>
+I really feel weird.<END>
+
+[Kimahri]<NL>
+No sign of enemy.<END>
+
+[Kimahri]<NL>
+[Yuna] will wake soon.<NL>
+[Kimahri] knows this.<END>
+
+[Kimahri]<NL>
+[Kimahri] feel no danger.<END>
+
+[Kimahri]<NL>
+This place smell different now.<END>
+
+[Kimahri]<NL>
+[Kimahri] not know<NL>
+if this good or bad.<END>
+
+[Auron]<NL>
+What now, I wonder.<END>
+
+[Auron]<NL>
+A lecture?<END>
+
+[Auron]<NL>
+You should place<NL>
+trust in your friends.<END>
+
+[Auron]<NL>
+But you can't expect someone<NL>
+to protect you all the time.<END>
+
+[Auron]<NL>
+You would do well<NL>
+to remember that.<END>
+
+[Auron]<NL>
+It's advice.<END>
+
+[Auron]<NL>
+The Hymn, hmm...<END>
+
+[Auron]<NL>
+Young summoners are<NL>
+magnets for trouble.<END>
+
+[Lulu]<NL>
+We're under the lake ice, aren't we?<END>
+
+<TEXT>
+<CHOICE1>Maybe.<NL>
+<CHOICE2>Who knows?<END>
+
+[Lulu]<NL>
+Look. That's the<NL>
+bottom of the temple.<END>
+
+[Lulu]<NL>
+We've fallen a long way.<END>
+
+[Lulu]<NL>
+So now we're the traitors<NL>
+that killed a maester.<END>
+
+[Lulu]<NL>
+The [fayth].<END>
+
+[Lulu]<NL>
+Of course it can.<NL>
+Don't be a fool.<END>
+
+[Lulu]<NL>
+Say, isn't the ground shaking?<END>
+
+<NL>
+          <END>
+
+[Rikku]<NL>
+Heh heh. Friends, huh?<END>
+
+[Rikku]<NL>
+First time a non-[Al Bhed]<NL>
+called me that.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,118 @@
+<TEXT>
+<NL>
+[Botão Círculo]: Search an area.<END>
+
+<TEXT>
+<NL>
+List: Select airship destination list.<END>
+
+<TEXT>
+<NL>
+Input: Password entry.<END>
+
+<TEXT>
+<NL>
+Free search: Explore Spira.<END>
+
+<TEXT>
+<NL>
+Select destination.<END>
+
+<TEXT>
+<NL>
+New location.<END>
+
+<TEXT>
+<NL>
+Proceed?<END>
+
+<TEXT>
+The Al Bhed have left riddles in 1000<NL>
+year old ruins, scattered across Spira.<NL>
+Decipher them to learn the passwords.<END>
+
+GODHAND<END>
+
+VICTORIOUS<END>
+
+MURASAME<END>
+
+<TEXT>
+Password decipher failed!<END>
+
+<TEXT>
+Password No. <VAR12 30>: Deciphered!<END>
+
+<TEXT>
+Already deciphered.<END>
+
+<TEXT>
+Located <Cor 43>Baaj Temple<Cor 41>!<NL>
+Added to airship destination list!<END>
+
+<TEXT>
+Located <Cor 43>Omega Ruins<Cor 41>!<NL>
+Added to airship destination list!<END>
+
+<TEXT>
+Located <Cor 43>Besaid Falls<Cor 41>!<NL>
+Added to airship destination list!<END>
+
+<TEXT>
+Located <Cor 43>Mi'ihen Ruins<Cor 41>!<NL>
+Added to airship destination list!<END>
+
+<TEXT>
+Located <Cor 43>Battle Site<Cor 41>!<NL>
+Added to airship destination list!<END>
+
+<TEXT>
+Located <Cor 43>Sanubia Sands<Cor 41>!<NL>
+Added to airship destination list!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

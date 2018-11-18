@@ -1,0 +1,209 @@
+<NL>
+Oh, what a great day!<NL>
+The breeze must feel wonderful.<END>
+
+<NL>
+Wanna man the helm?<NL>
+Yeah, right. Just kidding.<END>
+
+<NL>
+So you're with Lady [Yuna]?<NL>
+That means you're a guardian.<NEWPAGE>
+<NL>
+Hmm... I guess I shouldn't<NL>
+judge a book by its cover.<END>
+
+<NL>
+Maybe I'll go have chat with Lady [Yuna], too.<END>
+
+<NL>
+There was talk about warrior monks<NL>
+coming on board to guard the ship.<NEWPAGE>
+<NL>
+But the captain declined the offer.<NL>
+We can take care of ourselves, he said.<END>
+
+<NL>
+If [Sin] can't sink this ship, nothing can!<NL>
+We're guaranteed a safe voyage.<END>
+
+<NL>
+There's been turmoil on shore, but it's<NL>
+got nothing to do with us out here.<END>
+
+<NL>
+Even if [Sin] appears, I'll just do<NL>
+my best to follow the captain's orders.<END>
+
+<NL>
+Even if it's against [Yevon2]'s teachings,<NL>
+I want to sail that flying ship!<END>
+
+<NL>
+I wonder who's the captain of that<NL>
+flying ship? He's probably calm and<NL>
+cool like our captain.<END>
+
+<NL>
+We'll arrive in [Kilika] before nightfall.<NL>
+Go on, take a nap or something.<END>
+
+<NL>
+The [S.S. Liki] is funded<NL>
+by [Yevon2].<END>
+
+<NL>
+Ocean weather can be fickle, but<NL>
+I doubt we'll see any storms today.<NEWPAGE>
+<NL>
+Of course, there is one thing<NL>
+worse than any storm, and its<NL>
+coming cannot be foretold...<END>
+
+<NL>
+The cargo that the [Crusader]s loaded<NL>
+on board worries me. It better not<NL>
+be anything sacrilegious.<END>
+
+<NL>
+It's a miracle this ship can still sail,<NL>
+after the stomping [Sin] gave her.<NEWPAGE>
+<NL>
+But I fear some of my crew will<NL>
+never recover from the ordeal.<END>
+
+<NL>
+Let's hope that the great sea will<NL>
+ease the pain of a battered sailor.<END>
+
+<NL>
+The trouble in the temples has<NL>
+got me worried. [Yevon2]'s support is<NL>
+the only thing keeping this ship running.<NEWPAGE>
+<NL>
+These are troubled times, I tell you,<NL>
+what with [Yevon2] all shaken up.<END>
+
+<NL>
+Well, this ship's survived [Sin]!<NL>
+She'll weather this, too.<END>
+
+<NL>
+We can't rely on [Yevon2]'s support<NL>
+anymore. We plan to go on running<NL>
+the ship on our own.<END>
+
+<NL>
+We can't let a flying ship get<NL>
+away with all the glory! Our<NL>
+pride as seamen is on the line!<END>
+
+<TEXT>
+Obtained [Jecht]'s sphere!<END>
+
+<TEXT>
+<CHOICE1>Take a look.<NL>
+<CHOICE2>Leave it alone.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,94 @@
+<NL>
+Hey, did you hear?<NL>
+They're saying there was a riot in [Bevelle].<END>
+
+<NL>
+The warrior monks aren't letting<NL>
+pilgrims into [Bevelle] anymore.<END>
+
+<NL>
+And I came all the way out here<NL>
+to pray at St. [Bevelle].<NL>
+This is such a disappointment.<END>
+
+<NL>
+There are so many warrior monks<NL>
+passing by lately. Did something<NL>
+happen at the temple?<END>
+
+<NL>
+Townsfolk 1 dialogue 2 after airship<END>
+
+<NL>
+Townsfolk 1 dialogue 3 after airship<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,921 @@
+[Brother]<NL>
+Shoot!<NL>
+We're losing power!<END>
+
+[Cid]<NL>
+Hey!<END>
+
+[Cid]<NL>
+I see [Bevelle]!<END>
+
+[Brother]<NL>
+Where to now?<END>
+
+[Cid]<NL>
+Aren't we the happy lookin' bunch.<END>
+
+[Brother]<NL>
+Where? Where?<END>
+
+[Rikku]<NL>
+"Where, where?"<NL>
+That all you can say?<END>
+
+[Rikku]<NL>
+Why don't you think of something!?<END>
+
+[Auron]<NL>
+Well?<END>
+
+[Auron]<NL>
+Any good ideas?<END>
+
+[Tidus]<NL>
+Come on, help us!<END>
+
+[Auron]<NL>
+What do we know...<END>
+
+[Auron]<NL>
+[Sin] is [Jecht].<END>
+
+[Auron]<NL>
+Thus, you have a link...<NL>
+a bond with [Sin].<END>
+
+[Auron]<NL>
+That may be our key.<END>
+
+[Tidus]<NL>
+So what do we do?<END>
+
+[Auron]<NL>
+We think, and we wait.<END>
+
+[Tidus]<NL>
+Two things I'm bad at.<END>
+
+[Rikku]<NL>
+What's [Seymor] doing alive?<END>
+
+[Rikku]<NL>
+Didn't we take care<NL>
+of him in Macalania?<END>
+
+[Auron]<NL>
+He is dead.<NL>
+As dead as [Jyscal] was.<END>
+
+[Auron]<NL>
+His attachment to this world<NL>
+kept him from the next.<END>
+
+[Rikku]<NL>
+Whoa, scary!<END>
+
+[Auron]<NL>
+[Yuna] must be trying to send him.<END>
+
+[Rikku]<NL>
+Wonder if that will work.<END>
+
+[Auron]<NL>
+Perhaps he won't expect it.<END>
+
+[Wakka]<NL>
+Why didn't I just<NL>
+shut my big mouth?<END>
+
+[Wakka]<NL>
+I can't believe we're flying through<NL>
+the sky in this! A machina!<END>
+
+[Wakka]<NL>
+He called [Yuna] his<NL>
+uh, niece, right?<END>
+
+[Wakka]<NL>
+I mean, so that makes<NL>
+her [Al Bhed], right?<END>
+
+[Wakka]<NL>
+Don't say it!<END>
+
+[Wakka]<NL>
+[Yuna]'s [Yuna], right?<END>
+
+[Wakka]<NL>
+[Yuna]'s [Yuna], right?<END>
+
+[Wakka]<NL>
+I'm glad [Yuna]'s okay and all,<NL>
+but what's with those fancy clothes?<END>
+
+[Lulu]<NL>
+It's called a wedding dress.<END>
+
+[Wakka]<NL>
+What!?<END>
+
+[Wakka]<NL>
+Grrr...<NL>
+What's going on?<END>
+
+[Wakka]<NL>
+So much for the Final<NL>
+Aeon solving everything.<END>
+
+[Wakka]<NL>
+I got a good feeling 'bout this!<END>
+
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+[Rikku]<NL>
+I'm okay. I'm fine.<NL>
+Really.<END>
+
+[Rikku]<NL>
+Remember this ship?<NL>
+It's the one we found under the sea!<END>
+
+[Rikku]<NL>
+Can't [Yunie] end her pilgrimage?<END>
+
+[Rikku]<NL>
+Yeah! We're gonna save [Yunie],<NL>
+and nobody's gonna stop us!<END>
+
+[Rikku]<NL>
+Hmm...<NL>
+Still thinking.<END>
+
+[Rikku]<NL>
+It really was my idea,<NL>
+you know.<END>
+
+[Rikku]<NL>
+Figures.<END>
+
+[Auron]<NL>
+The price for protecting summoners.<END>
+
+[Auron]<NL>
+Whether [Yuna]'s safe or not,<NL>
+there's trouble brewing.<END>
+
+[Auron]<NL>
+Let him say what he wants.<END>
+
+[Auron]<NL>
+[Bevelle]...<NL>
+It's been ten years.<END>
+
+[Auron]<NL>
+Rush this and we'll lose everything.<NL>
+We need to plan carefully.<END>
+
+[Auron]<NL>
+Let's see what [Mika] does now.<END>
+
+[Lulu]<NL>
+This is tough on all of us.<END>
+
+[Lulu]<NL>
+We're powerless as long<NL>
+as we're on this ship.<END>
+
+[Lulu]<NL>
+No matter what happens,<NL>
+[Yuna] won't give up her pilgrimage.<END>
+
+[Lulu]<NL>
+The city of [Bevelle] is built<NL>
+on the water. There may<NL>
+be underwater fighting.<END>
+
+[Lulu]<NL>
+You or [Rikku] should study<NL>
+your magic, just in case.<END>
+
+[Lulu]<NL>
+[Seymor] is one<NL>
+of the dead now.<END>
+
+[Lulu]<NL>
+Odd. Why does [Maester Mika]<NL>
+allow the unsent to walk free?<END>
+
+[Lulu]<NL>
+We need to sit and think this through.<NL>
+There has to be a way!<END>
+
+[Lulu]<NL>
+Well, I guess it's all or nothing.<END>
+
+[Cid]<NL>
+Careful what you touch!<NL>
+Ship's not as stable as she looks!<END>
+
+[Cid]<NL>
+First, we rescue [Yuna]!<NL>
+Let's show 'em what we got!<END>
+
+[Cid]<NL>
+They grabbed [Yuna] back<NL>
+in the Sanubia Desert.<END>
+
+[Cid]<NL>
+One of the [Guado] squads<NL>
+that attacked [Home] found her.<END>
+
+[Cid]<NL>
+Hah! Wedding, my britches!<NL>
+Not while I'm around!<END>
+
+[Cid]<NL>
+Those [Yevon2] rockheads!<NL>
+I'll give 'em something to remember!<END>
+
+[Cid]<NL>
+Let 'em take their best shot!<END>
+
+[Cid]<NL>
+Eh, relax!<NL>
+This ship's still got some fight left in her!<END>
+
+[Cid]<NL>
+What are ya doin' loafing around?<NL>
+Get out there and get that dragon!<END>
+
+[Cid]<NL>
+We'll wait till you think of a plan.<NL>
+Get that noggin working!<END>
+
+[Cid]<NL>
+Well, that sounds<NL>
+like a plan to me!<END>
+
+[Cid]<NL>
+My baby here'll take<NL>
+us anywhere we want!<END>
+
+[Cid]<NL>
+We're counting on you, kid.<END>
+
+[Brother]<NL>
+Leave me be!<NL>
+I'm concentrating!<END>
+
+[Brother]<NL>
+Flying is really not my forte!<END>
+
+[Brother]<NL>
+Keep flying! Keep flying!<END>
+
+[Brother]<NL>
+Father! We found [Yuna]!<END>
+
+[Cid]<NL>
+Where!?<END>
+
+[Brother]<NL>
+I will show you!<END>
+
+[Tidus]<NL>
+[Yuna]?<END>
+
+[Brother]<NL>
+I have to warn you,<NL>
+thinking is not my forte.<END>
+
+[Brother]<NL>
+So if you want a plan,<NL>
+go to someone else.<END>
+
+[Brother]<NL>
+I have to fly the [airship] now.<NL>
+Goodbye.<END>
+
+[Brother]<NL>
+Will [Sin] truly return again?<END>
+
+[Brother]<NL>
+What will we do?<END>
+
+[Brother]<NL>
+The song! It is not working on [Sin]!<END>
+
+[Brother]<NL>
+You go into [Sin] once more, eh?<NL>
+Leave it to me!<END>
+
+[Brother]<NL>
+We will fly anywhere<NL>
+you want to go!<END>
+
+<NL>
+[Home] sleeps along with<NL>
+our fallen brothers.<END>
+
+<NL>
+If the [fiend] attack,<NL>
+the ship will surely sink!<END>
+
+[Brother]<NL>
+Whoa! It moves!<END>
+
+[Cid]<NL>
+Risk big, win big!<END>
+
+[Brother]<NL>
+Whoa! It flies!<END>
+
+[Cid]<NL>
+Next, we use that!<END>
+
+[Brother]<NL>
+Whatever you say.<END>
+
+[Wakka]<NL>
+What's goin' on?<END>
+
+[Rikku]<NL>
+We're...we're going<NL>
+to blow up our [Home].<END>
+
+[Lulu]<NL>
+How?<END>
+
+[Cid]<NL>
+With one of the forbidden machina!<END>
+
+[Cid]<NL>
+Ready? Fire!<END>
+
+[Cid]<NL>
+[Gah-hah-hah-hah]!<NL>
+Return to sand!<END>
+
+[Cid]<NL>
+No need for tears!<END>
+
+[Cid]<NL>
+What is good about [machina],<NL>
+is they can be built anew, you see?<END>
+
+[Wakka]<NL>
+Hey, look. <NL>
+Don't get so down.<END>
+
+[Wakka]<NL>
+Boom! Like happy<NL>
+festival fireworks, ya?<END>
+
+[Rikku]<NL>
+You can cram your happy<NL>
+festival, you big meanie!<END>
+
+[Tidus]<NL>
+Did you find out<NL>
+anything about [Yuna]?<END>
+
+[Cid]<NL>
+I'm lookin' into it, okay?<END>
+
+[Cid]<NL>
+Don't worry, I'm using a sphere<NL>
+oscillo-finder. If she's out there,<NL>
+we'll get her.<END>
+
+[Tidus]<NL>
+A sphere oscillo-finder?<END>
+
+[Cid]<NL>
+It's an ancient machina.<END>
+
+[Cid]<NL>
+I don't know how it works<NL>
+either, so don't ask me, okay?<END>
+
+[Lulu]<NL>
+And you still use it?<END>
+
+<NL>
+          <END>
+
+[Cid]<NL>
+I don't even rightly know<NL>
+how this rig flies, either!<END>
+
+[Cid]<NL>
+All because of the [Yevon2] taboo<NL>
+on machina, we're running around<NL>
+in the dark here!<END>
+
+[Cid]<NL>
+Ain't it a rush, kiddos?<END>
+
+[Auron]<NL>
+After rescuing [Yuna], then what?<END>
+
+[Auron]<NL>
+You want to keep her safe, correct?<END>
+
+[Auron]<NL>
+Would you seek<NL>
+to stop her pilgrimage?<END>
+
+[Cid]<NL>
+Of course!<END>
+
+[Cid]<NL>
+If she continues this<NL>
+fool pilgrimage, she will die!<END>
+
+[Cid]<NL>
+Sure as if you killed her yourself.<END>
+
+[Cid]<NL>
+No hare-brained law or teaching can<NL>
+send my little niece to her death!<END>
+
+[Cid]<NL>
+When I save her, I'll make her<NL>
+give up being a summoner quicker<NL>
+than a desert melts ice!<END>
+
+[Auron]<NL>
+Even against her will?<END>
+
+[Cid]<NL>
+Better than a dog's death!<END>
+
+[Cid]<NL>
+And I'll take down<NL>
+anyone who don't agree!<END>
+
+[Auron]<NL>
+You are the captain.<END>
+
+[Cid]<NL>
+Good! Then it's settled!<END>
+
+[Tidus]<NL>
+Where was that!?<END>
+
+[Lulu]<NL>
+The <Cor 88>Palace of St. [Bevelle]<Cor 41>.<NL>
+Heart of [Yevon2].<END>
+
+[Tidus]<NL>
+Gramps, let's move!<END>
+
+[Cid]<NL>
+Easy, kiddo.<END>
+
+[Cid]<NL>
+[Bevelle]'s defenses are top-notch.<END>
+
+[Tidus]<NL>
+What's the matter, gramps?<NL>
+You scared?<END>
+
+[Tidus]<NL>
+[Yuna]'s there,<NL>
+so we go and get her!<END>
+
+[Tidus]<NL>
+And that's all!<END>
+
+[Cid]<NL>
+You got guts.<END>
+
+[Cid]<NL>
+Set course to [Bevelle]!<NL>
+Full speed ahead!<END>
+
+[Brother]<NL>
+Roger!<END>
+
+[Cid]<NL>
+It'll take a while<NL>
+to get to [Bevelle].<END>
+
+[Cid]<NL>
+Meanwhile...<END>
+
+[Tidus]<NL>
+We prepare for battle!<END>
+
+<NL>
+          <END>
+
+[Rin]<NL>
+We're being attacked from within.<END>
+
+[Rin]<NL>
+Some of the [Guado] that attacked<NL>
+[Home] must have snuck on board.<END>
+
+[Cid]<NL>
+You're awfully calm about it!<END>
+
+[Rin]<NL>
+I am calm about most things.<END>
+
+[Cid]<NL>
+Fiends! There's nothin' to do but--<END>
+
+<TEXT>
+[Rikku]<NL>
+But destroy the ship and<NL>
+all go down together!<END>
+
+<NL>
+          <END>
+
+[Rikku]<NL>
+You gotta learn<NL>
+a little restraint, Pops.<END>
+
+[Rikku]<NL>
+If you crash the ship,<NL>
+we can't go rescue [Yunie]!<END>
+
+[Rikku]<NL>
+Leave the fiends<NL>
+to us professionals!<END>
+
+[Tidus]<NL>
+Yeah!<NL>
+Let's go!<END>
+
+[Rikku]<NL>
+Thanks.<END>
+
+[Rin]<NL>
+[Rikku], you've made some<NL>
+very good friends, I think.<END>
+
+[Rin]<NL>
+Good luck.<END>
+
+[Wakka]<NL>
+I hope everyone got the message.<END>
+
+[Brother]<NL>
+[Sin]!<END>
+
+[Lulu]<NL>
+Well? Let's go!<END>
+
+[Cid]<NL>
+Now that's what I call a plan!<END>
+
+[Brother]<NL>
+Father!<NL>
+I cannot believe what I see!<END>
+
+[Cid]<NL>
+Believe it, son!<NL>
+They've done it! It is happening!<END>
+
+[Brother]<NL>
+[Rikku], excellent!<END>
+
+[Yuna]<NL>
+It's going to come back, isn't it?<END>
+
+[Tidus]<NL>
+I know.<END>
+
+[Cid]<NL>
+What? You're kidding me!<END>
+
+[Tidus]<NL>
+No!<NL>
+We have to beat the guy inside [Sin].<END>
+
+[Wakka]<NL>
+The [Crusader]s would be<NL>
+out of a job if it was this easy.<END>
+
+[Lulu]<NL>
+But it has weakened.<NL>
+I'm sure of it.<END>
+
+[Rikku]<NL>
+Yeah! We're winning!<END>
+
+[Cid]<NL>
+All right, I'll do what<NL>
+I can with the main gun!<END>
+
+[Wakka]<NL>
+Hey, guys!<NL>
+I just had a great idea!<END>
+
+[Rikku]<NL>
+It was my idea.<NL>
+Let me tell them!<END>
+
+[Wakka]<NL>
+It's like this, ya?<END>
+
+[Rikku]<NL>
+I just thought!<END>
+
+[Lulu]<NL>
+The Hymn is the key.<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+The Hymn?<END>
+
+[Lulu]<NL>
+Sir [Jecht] likes the<NL>
+Hymn of the Fayth, correct?<END>
+
+[Tidus]<NL>
+Yeah.<END>
+
+[Rikku]<NL>
+That's why he was<NL>
+listening to it in Macalania!<END>
+
+[Lulu]<NL>
+[Sin]...violence incarnate,<NL>
+listening peacefully.<END>
+
+[Wakka]<NL>
+I know it's your old man, and<NL>
+I don't mean no disrespect, but...<END>
+
+[Tidus]<NL>
+No, it's fine.<END>
+
+[Tidus]<NL>
+I've gotten used to it.<END>
+
+[Lulu]<NL>
+Let me say it.<END>
+
+[Lulu]<NL>
+If we attack [Sin] head-on,<NL>
+we've little chance of winning.<END>
+
+[Lulu]<NL>
+However, if he hears the Hymn<NL>
+of the Fayth, he will become docile.<END>
+
+[Wakka]<NL>
+Yeah, and that's when<NL>
+we make our move!<END>
+
+[Wakka]<NL>
+Might be against the rules and all,<NL>
+but who's keeping track, ya?<END>
+
+[Wakka]<NL>
+Ya?<END>
+
+[Rikku]<NL>
+Yeah!<NL>
+It could really work!<END>
+
+[Tidus]<NL>
+Yeah...<NL>
+Yeah, it's worth a try!<END>
+
+<TEXT>
+Talk to [Cid] to open<NL>
+the <Cor 43>NavMap<Cor 41>.<NL>
+Pick a destination, and you're there!<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

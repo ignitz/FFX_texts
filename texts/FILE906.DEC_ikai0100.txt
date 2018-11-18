@@ -1,0 +1,192 @@
+[Tidus]<NL>
+Question!<END>
+
+[Tidus]<NL>
+About this [Farplane]...<END>
+
+[Tidus]<NL>
+When somebody dies, a summoner<NL>
+sends them to the [Farplane], right?<END>
+
+[Tidus]<NL>
+So their souls, or whatever they are,<NL>
+they go to the [Farplane], right?<END>
+
+[Tidus]<NL>
+But that's the [Farplane]<NL>
+we're going to, right?<END>
+
+[Tidus]<NL>
+And [Yuna]'s old man's there, too?<END>
+
+[Tidus]<NL>
+Do dead people live<NL>
+there or something?<END>
+
+[Wakka]<NL>
+You're thinking those<NL>
+funny thoughts again, ya?<END>
+
+<NL>
+          <END>
+
+[Wakka]<NL>
+You'll see once we get there.<END>
+
+[Tidus]<NL>
+Aren't you coming?<END>
+
+[Auron]<NL>
+I do not belong there.<END>
+
+[Tidus]<NL>
+You're scared!<END>
+
+[Auron]<NL>
+Searching the past<NL>
+to find the future...<END>
+
+[Auron]<NL>
+This is all that is there.<NL>
+I need it not.<END>
+
+[Auron]<NL>
+You'd better be going.<END>
+
+[Rikku]<NL>
+You're not really going to see the dead,<NL>
+more like your memories of them.<END>
+
+[Rikku]<NL>
+People think of their relatives,<NL>
+and the pyreflies react to them.<END>
+
+[Rikku]<NL>
+They take on the form of the dead<NL>
+person--an illusion, nothing else.<END>
+
+[Tidus]<NL>
+Hmm...<END>
+
+[Rikku]<NL>
+Well, have fun!<END>
+
+[Tidus]<NL>
+What, you're not going either, [Rikku]?<END>
+
+[Rikku]<NL>
+I keep my memories inside.<END>
+
+[Tidus]<NL>
+Huh?<END>
+
+[Rikku]<NL>
+Memories are nice,<NL>
+but that's all they are.<END>
+
+[Auron]<NL>
+You're still here?<END>
+
+[Rikku]<NL>
+See you later!<END>
+
+[Tromell]<NL>
+Come to kill the old man?<NL>
+I welcome it!<END>
+
+[Tromell]<NL>
+Or are you here to laugh?<NL>
+Laugh at the fallen [Guado]?<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

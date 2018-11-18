@@ -1,0 +1,627 @@
+Datto<NL>
+Victory! Victory! We're taking home<NL>
+that cup, no matter what it takes, ya?<END>
+
+Datto<NL>
+Yaaah!<END>
+
+Datto<NL>
+Haaah!<END>
+
+Datto<NL>
+Arrrgh!<END>
+
+Datto<NL>
+Victory will be ours!<END>
+
+Letty<NL>
+Should I practice kick passes too?<END>
+
+<TEXT>
+<CHOICE1>Yeah.<NL>
+<CHOICE2>No, you're fine.<END>
+
+Letty<NL>
+Okay, I'll pretend I'm<NL>
+kicking with my hands!<END>
+
+Letty<NL>
+Right on!<END>
+
+Letty<NL>
+I'm gonna sharpen my hand skills!<END>
+
+Jassu<NL>
+I'm so tired of practicing passes.<NL>
+I wanna do some shooting, too!<END>
+
+Jassu<NL>
+He's really bad at kicking.<NEWPAGE>
+Jassu<NL>
+And I always end up having<NL>
+to practice with him.<NEWPAGE>
+Jassu<NL>
+But what can you do, ya?<END>
+
+<NL>
+Huh? You want to<NL>
+use the binoculars?<END>
+
+<TEXT>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No, not really.<END>
+
+<NL>
+No way. Remember what<NL>
+you did last time?<END>
+
+<NL>
+I see.<END>
+
+<NL>
+For both father and daughter<NL>
+to become summoners--it must<NL>
+have been [Yevon2]'s will.<END>
+
+<NL>
+If anyone can defeat [Sin]<NL>
+the daughter of Lord [Braska] can!<END>
+
+<NL>
+Please take good care of yourself.<NL>
+Just remember that your well-being<NL>
+means a lot to us.<END>
+
+Letty<NL>
+Man, I wish we were<NL>
+half as popular as [Yuna].<END>
+
+Jassu<NL>
+Hey, don't let it get to you.<NL>
+It's the same as always, ya?<END>
+
+<NL>
+Can I have a sphere taken with you?<NL>
+Or maybe just an autograph?<END>
+
+Datto<NL>
+Someday we'll earn some<NL>
+respect, just like [Yuna].<END>
+
+<NL>
+A summoner's confident smile is<NL>
+always a great encouragement to us.<END>
+
+<NL>
+Yay!<END>
+
+<NL>
+Yahoo! A flying ship!!<END>
+
+<NL>
+Yippee!<END>
+
+<NL>
+Hey! Stop that!<END>
+
+<NL>
+Just watch what your big<NL>
+sis is doing and learn!<END>
+
+<NL>
+How long do you think you've been<NL>
+doing that? Stop it right now!<END>
+
+<NL>
+Okay, okay. I see it, so can you<NL>
+just calm down for a change?<END>
+
+<NL>
+Hey, come down here.<END>
+
+<NL>
+What are you so happy about?<END>
+
+<NL>
+Oh, all right, all right.<NL>
+Happy, happy! Goody, goody!<END>
+
+<NL>
+Why are we so quiet,<NL>
+all of a sudden?<END>
+
+<NL>
+Since that strange shadow<NL>
+swept across the sky, my little<NL>
+pet won't come down anymore.<END>
+
+<NL>
+Come on down!<NL>
+We don't bite!<END>
+
+<NL>
+Wow! I just saw a real flying ship!<NL>
+I thought I was dreaming again!<END>
+
+<NL>
+Hey, how long are you gonna be<NL>
+up there? There aren't going to be<NL>
+any more ships flying by!<END>
+
+<NL>
+The [S.S. Liki] is funded<NL>
+by [Yevon2].<NEWPAGE>
+<NL>
+It doesn't cost a single Gil, even when<NL>
+I take my dogs on board with me.<END>
+
+<NL>
+Do you like dogs?<NEWPAGE>
+<NL>
+I just adore them.<NEWPAGE>
+<NL>
+Good boy. Good boy.<END>
+
+<NL>
+It's been so nice travelling with<NL>
+my dog... I wish we could go<NL>
+on forever.<END>
+
+<NL>
+I pray that the elders of [Yevon2]<NL>
+can keep peace in [Spira].<END>
+
+<NL>
+That flying ship's bad news!<END>
+
+<NL>
+Ships aren't supposed to fly!<NL>
+It's frightened my precious dogs!<END>
+
+<NL>
+Hey, you. You were on the ship<NL>
+when [Sin] attacked us, right?<END>
+
+<NL>
+I've been afraid of the<NL>
+sea ever since then.<NEWPAGE>
+<NL>
+I'm so afraid it'll come back<NL>
+I can't even concentrate on my work!<END>
+
+<NL>
+I should probably find a<NL>
+new job on land somewhere.<END>
+
+<NL>
+They put me on watch duty, since<NL>
+I can't handle my old post anymore.<END>
+
+<NL>
+Whenever I'm on watch, I keep<NL>
+thinking that [Sin]'s gonna come<NL>
+back for us.<NEWPAGE>
+<NL>
+I-I can't stop shaking.<NL>
+Oh, I'm so pathetic.<END>
+
+<NL>
+I thought the sea breeze would help<NL>
+cure [Sin]'s toxin, but no luck so far.<NEWPAGE>
+<NL>
+I keep seeing [Sin] attacking us again.<NEWPAGE>
+<NL>
+I...I just can't seem to get<NL>
+[Sin] out of my head! Arrgh!<END>
+
+<NL>
+I can't call myself a sailor like this.<NL>
+Maybe I should leave the ship and go<NL>
+on a pilgrimage.<END>
+
+<NL>
+Once [Sin] is defeated, I won't have<NL>
+to be afraid of the sea anymore.<NEWPAGE>
+<NL>
+I can return to my old seadog self again.<END>
+
+<NL>
+If I pray for anything, it's<NL>
+going to be for those guys on<NL>
+the flying ship to defeat [Sin]!<END>
+
+<NL>
+When I die, I want to have a grand<NL>
+sending to the [Farplane].<NEWPAGE>
+<NL>
+Hmm. I'll ask them to reserve the<NL>
+[Luca Stadium] for the ceremony.<END>
+
+<NL>
+I wouldn't mind having a bevy of<NL>
+young maidens crying their hearts<NL>
+out for me, either.<END>
+
+<NL>
+Well, it'll probably be a long time<NL>
+before I'm sent to the [Farplane], though.<END>
+
+<NL>
+Whatever came of that rumor about<NL>
+the high summoner's daughter<NL>
+marrying the lord maester?<NEWPAGE>
+<NL>
+Hmm, so it was called off, huh?<NL>
+Too bad.<END>
+
+<NL>
+Every story you hear<NL>
+lately is so depressing.<END>
+
+<NL>
+When the [Calm] comes, we'll be<NL>
+able to truly enjoy blitzball.<NEWPAGE>
+<NL>
+Dangit. Maybe I retired too soon.<END>
+
+<NL>
+Even the greatest champions<NL>
+must retire sometime. The same<NL>
+must be true of [Sin].<END>
+
+<NL>
+I brought these children along<NL>
+to teach them how to become<NL>
+merchants, but all they do is play!<END>
+
+<NL>
+Once little kids learn something fun,<NL>
+they just repeat it over and over.<END>
+
+<NL>
+The kids found a new way to play.<NL>
+They'll never be merchants now!<END>
+
+<NL>
+I think so too.<END>
+
+<NL>
+Don't give me such nonsense.<END>
+
+<NL>
+Just watching those two<NL>
+made me a little envious.<END>
+
+<NL>
+Did you know that the<NL>
+warrior monks raided [Besaid Island]?<NEWPAGE>
+<NL>
+They said they were<NL>
+searching for traitors.<END>
+
+<NL>
+The people of [Besaid] refused<NL>
+to tell them anything.<END>
+
+<NL>
+I sang at the top of my lungs<NL>
+when I saw the flying ship...<NEWPAGE>
+<NL>
+But I wonder if singing in the<NL>
+middle of the ocean did any good?<END>
+
+<NL>
+All we can do now is<NL>
+pray for [Sin] to go away.<END>
+
+<NL>
+My husband used to be a pro<NL>
+blitzer, and I was his goalie.<END>
+
+<NL>
+Whether in a tournament or in<NL>
+life, we're the best partners.<END>
+
+<NL>
+My husband was the best<NL>
+blitzer in the league.<NEWPAGE>
+<NL>
+Even Bickson of the [Luca Goers] wouldn't<NL>
+have stood a chance against him.<END>
+
+<NL>
+Seems like there was trouble<NL>
+in [Bevelle]. Oh dear,<NL>
+I wonder what has happened?<END>
+
+<NL>
+My husband used to be a blitzer.<NL>
+He kept playing right into his golden years!<NEWPAGE>
+<NL>
+But he could take down blitzers<NL>
+only half his age. It's true!<END>
+
+<NL>
+I was one of those young blitzers once...<NL>
+I'll leave the rest up to your imagination!<END>
+
+<NL>
+Ever since [Sin] got to him, my partner<NL>
+has turned into a gutless wonder.<NEWPAGE>
+<NL>
+He used to be so dependable, but now he just<NL>
+stares into the sea with terror in his eyes.<END>
+
+<NL>
+[Sin]'s toxin probably got to him.<NEWPAGE>
+<NL>
+I hope the cool sea breeze<NL>
+cures him soon...<END>
+
+<NL>
+Ever since [Sin] attacked us, my<NL>
+shipmate has been terrified of the sea.<NEWPAGE>
+<NL>
+I can't believe it. I mean, he's lived<NL>
+by the sea since he was a kid...<END>
+
+<NL>
+[Sin]'s toxin turned<NL>
+him into a coward.<END>
+
+<NL>
+He's perked up a little seeing<NL>
+that flying ship battling [Sin].<NEWPAGE>
+<NL>
+Once [Sin] is gone, he'll<NL>
+probably get back to normal.<NL>
+<END>
+
+<NL>
+Thank god for that flying ship.<NL>
+Now that's the blessing of [Yevon2]!<END>
+
+<NL>
+Go ahead and rest down below.<NL>
+We'll be there by the time you wake up.<END>
+
+<NL>
+Word is that summoner's<NL>
+got noble blood!<END>
+
+<NL>
+I heard she's Lord [Braska]'s daughter!<END>
+
+<NL>
+Ya don't say?<END>
+
+[Tidus]<NL>
+Lord [Braska]'s...daughter?<END>
+
+<NL>
+Lord [Braska]'s daughter?<NL>
+She just might have a chance!<END>
+
+<NL>
+We'll get her to [Kilika], we will!<END>
+
+[Tidus]<NL>
+She does have a name,<NL>
+you know... [Yuna].<END>
+
+<NL>
+Hmm? Lady [Yuna]?<END>
+
+<NL>
+Well then, we pray for<NL>
+Lady [Yuna]'s safe passage!<END>
+
+[Wakka]<NL>
+Come to think of it, I haven't<NL>
+told you where we're going!<END>
+
+[Wakka]<NL>
+First to <Cor 88>[Kilika]<Cor 41> Island, then we<NL>
+change boats and head for Luca.<END>
+
+[Wakka]<NL>
+'Fore that, though, [Yuna]'s gotta<NL>
+pray at the temple. I'll be guarding.<END>
+
+[Wakka]<NL>
+We'll be praying for the [Aurochs]'<NL>
+victory, too, so you come along, ya?<END>
+
+[Lulu]<NL>
+Great plan.<END>
+
+[Wakka]<NL>
+Hey, it is a great plan!<END>
+
+[Tidus]<NL>
+Don't look at me!<END>
+
+[Tidus]<NL>
+So, is [Yuna]'s father<NL>
+famous or something?<END>
+
+[Wakka]<NL>
+She's the daughter of<NL>
+[High Summoner Braska]!<NL>
+You saw his statue at the temple.<END>
+
+[Wakka]<NL>
+Lord [Braska] defeated [Sin] ten years ago.<END>
+
+[Wakka]<NL>
+[Yuna]'s the heir to a great legacy!<END>
+
+[Tidus]<NL>
+It's tough when<NL>
+your father's famous.<END>
+
+[Lulu]<NL>
+[Wakka]'s...a bit lacking<NL>
+in the imagination department.<END>
+
+[Tidus]<NL>
+Thanks, [Lulu],<NL>
+I'll keep that in mind.<END>
+
+[Wakka]<NL>
+Oh yeah, you talk to [Yuna] yet?<NL>
+She had some questions for you.<END>
+
+[Lulu]<NL>
+I don't know who you are,<NL>
+or where you came from.<END>
+
+[Lulu]<NL>
+If you interfere with [Yuna]'s<NL>
+pilgrimage, we won't take it lightly.<END>
+
+[Clasko]<NL>
+Nice to see you again!<END>
+
+[Tidus]<NL>
+You! You really<NL>
+quit the knights?<END>
+
+[Clasko]<NL>
+Yeah, I did.<END>
+
+[Clasko]<NL>
+[Elma] was upset with me,<NL>
+but Captain [Lucil] understood.<END>
+
+[Clasko]<NL>
+Now, I'm working as a<NL>
+chocobo breeder on this ship.<END>
+
+[Clasko]<NL>
+I really, really love<NL>
+taking care of chocobos!<END>
+
+[Clasko]<NL>
+Being with chocobos all the time...<NL>
+I think I've found my calling!<END>
+
+[Clasko]<NL>
+And it's all thanks<NL>
+to you! Thank you!<END>
+
+[Tidus]<NL>
+Well, I'm happy for you.<END>
+
+[Clasko]<NL>
+Oh, yeah!<END>
+
+[Clasko]<NL>
+I found this in one of the<NL>
+chocobo nests the other day.<END>
+
+[Clasko]<NL>
+It's no use to me, so<NL>
+I want you to have it.<END>
+
+[Clasko]<NL>
+Ah, I have to go now.<NL>
+It's time for lunch.<END>
+
+[Tidus]<NL>
+Hey, I want to talk to you some more.<NL>
+Can't your stomach wait?<END>
+
+[Clasko]<NL>
+I meant I have to feed the chocobos.<END>
+
+[Clasko]<NL>
+They get really upset<NL>
+if they're not fed!<END>
+
+[Clasko]<NL>
+See you!<END>
+
+<NL>
+Hey, can you believe this!?<END>
+
+<TEXT>
+<CHOICE1>What?<NL>
+<CHOICE2>No, bye.<END>
+
+<NL>
+I just saw this merchant guy<NL>
+inside the ship, and guess<NL>
+what he said to me?<NEWPAGE>
+<NL>
+He walked up to me and said,<NL>
+"You're no good!" Just like that!<NEWPAGE>
+<NL>
+Isn't that awful?<NL>
+I've still got style! I'll show him!<END>
+
+<NL>
+Don't you think so, too?<END>
+
+<TEXT>
+<CHOICE1>Yeah.<NL>
+<CHOICE2>Well...<END>
+
+<NL>
+That's right. I knew I was right.<NL>
+He doesn't know what he's talking about!<END>
+
+<NL>
+You men are all alike!<NL>
+Get away from me!<END>
+
+<NL>
+You could at least<NL>
+pretend to listen!<END>
+
+<NL>
+It makes me so mad.<NL>
+I'm not going inside anymore!<END>
+
+<NL>
+I wonder if they're related?<END>
+
+<TEXT>
+<CHOICE1>I'd say they're related.<NL>
+<CHOICE2>Looks like they're married.<END>
+
+<NL>
+Going to rest now?<END>
+
+<TEXT>
+<CHOICE1>Not yet.<NL>
+<CHOICE2>Yes.<END>
+
+<ÁREA><NL>
+Besaid<END>
+
+<ÁREA><NL>
+Kilika Port<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

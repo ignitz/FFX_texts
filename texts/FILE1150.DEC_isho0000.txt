@@ -1,0 +1,390 @@
+[Yuna]<NL>
+Sir [Auron].<END>
+
+[Yuna]<NL>
+[Kimahri] told me...<END>
+
+[Yuna]<NL>
+when my father wanted me taken<NL>
+from [Bevelle] to [Besaid]...<END>
+
+[Yuna]<NL>
+It was you who told [Kimahri], right?<END>
+
+[Yuna]<NL>
+I had always wanted<NL>
+to meet you someday.<END>
+
+[Yuna]<NL>
+I am truly glad that<NL>
+I had that chance.<END>
+
+[Yuna]<NL>
+Having you as a guardian was<NL>
+so great an honor I don't know<NL>
+how to thank you.<END>
+
+[Yuna]<NL>
+Perhaps if I defeat [Sin],<NL>
+that will be my thanks to you.<END>
+
+[Yuna]<NL>
+That's what I'll do.<END>
+
+[Yuna]<NL>
+Yes. I will challenge [Sin].<NL>
+I will defeat [Sin].<END>
+
+[Yuna]<NL>
+If you are all there watching this,<NL>
+then I guess [Sin] is already gone.<END>
+
+[Yuna]<NL>
+And so am I, I suppose.<END>
+
+[Yuna]<NL>
+Anyway, I just wanted to say:<END>
+
+[Yuna]<NL>
+Sir [Auron], I thank you.<END>
+
+[Yuna]<NL>
+[Kimahri]...<END>
+
+[Yuna]<NL>
+Do you remember<NL>
+the first day we met?<END>
+
+[Yuna]<NL>
+I was only seven.<END>
+
+[Yuna]<NL>
+My father had defeated [Sin],<NL>
+and all [Bevelle] was celebrating.<END>
+
+[Yuna]<NL>
+Everyone was saying what a hero<NL>
+my father was. I was so happy.<END>
+
+[Yuna]<NL>
+But when night came,<NL>
+it occurred to me.<END>
+
+[Yuna]<NL>
+My father had defeated [Sin]<NL>
+and now he was dead.<END>
+
+[Yuna]<NL>
+Now, I was all alone.<END>
+
+[Yuna]<NL>
+I couldn't sleep, so I wandered<NL>
+into the town, away from the<NL>
+celebrating crowds.<END>
+
+[Yuna]<NL>
+I stood on the bridge in [Bevelle]<NL>
+where my father and I had parted.<END>
+
+[Yuna]<NL>
+Standing there, alone, I could see<NL>
+the fields where he had fought [Sin].<END>
+
+[Yuna]<NL>
+Then, you appeared, [Kimahri].<END>
+
+[Yuna]<NL>
+You said you were looking for<NL>
+the daughter of [Braska], remember?<END>
+
+[Yuna]<NL>
+At first, I was so scared.<END>
+
+[Yuna]<NL>
+Until I realized what<NL>
+a gentle person you are.<END>
+
+[Yuna]<NL>
+You weren't used to<NL>
+talking to children.<END>
+
+[Yuna]<NL>
+When I told you that<NL>
+I was [Braska]'s daughter...<END>
+
+[Yuna]<NL>
+you said you would take me as<NL>
+far from [Bevelle] as you could.<END>
+
+[Yuna]<NL>
+That it was the wish<NL>
+of a man facing death.<END>
+
+[Yuna]<NL>
+I think...I cried then.<END>
+
+[Yuna]<NL>
+Because that...that was when<NL>
+I knew my father was dead...<END>
+
+[Yuna]<NL>
+and I would never see him again.<END>
+
+[Yuna]<NL>
+You just held me,<NL>
+without saying a word.<END>
+
+[Yuna]<NL>
+I cried after we got<NL>
+to [Besaid], too.<END>
+
+[Yuna]<NL>
+When you tried to go after leaving<NL>
+me in the care of the temple...<END>
+
+[Yuna]<NL>
+I held on to you, crying,<NL>
+"Don't go, don't go!"<END>
+
+[Yuna]<NL>
+And you listened, [Kimahri].<NL>
+You stayed.<END>
+
+[Yuna]<NL>
+[Kimahri], thank you.<NL>
+Thank you so much.<END>
+
+[Yuna]<NL>
+And I've always liked<NL>
+your broken horn.<END>
+
+[Yuna]<NL>
+[Wakka], [Lulu]:<END>
+
+[Yuna]<NL>
+I'll never forget my days spent<NL>
+with you, growing up in [Besaid].<END>
+
+[Yuna]<NL>
+We always played together,<NL>
+us and [Chappu].<END>
+
+[Yuna]<NL>
+That's why I was always<NL>
+so happy, I think.<END>
+
+[Yuna]<NL>
+And when you refused to let me<NL>
+become a summoner and I did it anyway...<END>
+
+[Yuna]<NL>
+I'm sorry.<END>
+
+[Yuna]<NL>
+I've always wanted to apologize.<END>
+
+[Yuna]<NL>
+You know, when you tried to stop<NL>
+me then--really, I was happy.<END>
+
+[Yuna]<NL>
+I could tell you<NL>
+really cared about me.<END>
+
+[Yuna]<NL>
+You were like my<NL>
+big brother and sister.<END>
+
+[Yuna]<NL>
+No...<END>
+
+[Yuna]<NL>
+I think you really were<NL>
+my big brother and sister.<END>
+
+[Yuna]<NL>
+What else...<END>
+
+[Yuna]<NL>
+I love watching you<NL>
+play [blitzball], [Wakka].<END>
+
+[Yuna]<NL>
+I even love it when you<NL>
+scold me, [Lulu]! Really!<END>
+
+[Yuna]<NL>
+We haven't even known each<NL>
+other that long, but...<END>
+
+[Yuna]<NL>
+It's funny.<END>
+
+[Yuna]<NL>
+So this is what it feels like.<END>
+
+[Yuna]<NL>
+It's a much more wonderful feeling<NL>
+than anything I had ever imagined.<END>
+
+[Yuna]<NL>
+Wonderful...but it hurts, sometimes.<END>
+
+[Yuna]<NL>
+I wonder.<END>
+
+[Yuna]<NL>
+No, I shouldn't say that.<END>
+
+[Yuna]<NL>
+I'll do that part over.<END>
+
+[Yuna]<NL>
+Um...<END>
+
+[Tidus]<NL>
+Whatcha up to?<END>
+
+[Yuna]<NL>
+I guess that leaves...<END>
+
+[Yuna]<NL>
+the newest guardian.<END>
+
+[Yuna]<NL>
+Star player of the [Zanarkand Abes]!<END>
+
+[Yuna]<NL>
+You are...<END>
+
+[Yuna]<NL>
+I am...<END>
+
+[Yuna]<NL>
+Well, um...<END>
+
+[Yuna]<NL>
+I'm glad...I'm glad that we met.<END>
+
+[Yuna]<NL>
+I...I just want to say,<NL>
+thank you for everything.<END>
+
+[Yuna]<NL>
+Maybe...maybe that's why it hurts.<END>
+
+[Yuna]<NL>
+When I... When I think about us<NL>
+never being together again at all...<END>
+
+[Yuna]<NL>
+I'm afraid.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

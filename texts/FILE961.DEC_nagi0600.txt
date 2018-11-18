@@ -1,0 +1,112 @@
+<TEXT>
+<CHOICE1>To train as a summoner.<NL>
+<CHOICE2>To gain the power to destroy fiends.<NL>
+<CHOICE3>To defeat the most powerful of enemies.<END>
+
+<TEXT>
+Asking price<NL>
+<VAR12 30> Gil<END>
+
+<NL>
+Make your offer.<END>
+
+<TEXT>
+Total: <VAR12 31> Gil<END>
+
+<TEXT>
+[Direcional Cima][Direcional Baixo][Direcional Esquerda][Direcional Direita]: Select amount<NL>
+[Botão Círculo]: Confirm<END>
+
+<TEXT>
+How much will you pay?<NL>
+<CHOICE???>G Gil<END>
+
+<TEXT>
+<NL>
+Not enough Gil.<END>
+
+<TEXT>
+Hire for <VAR12 31> Gil.<NL>
+<CHOICE1>Make offer.<NL>
+<CHOICE2>Change amount.<END>
+
+<NL>
+Do we have a deal?<END>
+
+<NL>
+You are a fading dream,<NL>
+but one touched by reality.<END>
+
+<NL>
+[Spira] will not forget its reality,<NL>
+nor the one who saved it.<END>
+
+<NL>
+Run, dream; run on.<NL>
+Pass beyond the waking,<NL>
+and walk into the daylight.<END>
+
+<NL>
+I am the blade of vengeance.<NL>
+They dare only whisper my name: <NL>
+[Yojimbo].<END>
+
+<NL>
+Summoner, I ask you.<NL>
+What do you want of me?<END>
+
+<NL>
+If you desire my strength,<NL>
+you must pay my price.<END>
+
+<NL>
+You expect a phoenix,<NL>
+yet you offer chicken feed!<END>
+
+<NL>
+Adequate...<NL>
+You are my client henceforth.<END>
+
+<NL>
+You alone realize my true value.<NL>
+You are a master worth serving.<END>
+
+<NL>
+My sword shall guard you<NL>
+on your journey, summoner.<END>
+
+<NL>
+No deal. Maybe next time.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

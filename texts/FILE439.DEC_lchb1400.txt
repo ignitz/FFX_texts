@@ -1,0 +1,207 @@
+[Yuna]<NL>
+Let's go now!<END>
+
+<NL>
+This is the [Luca Goers]' locker room.<NL>
+No unauthorized entry.<END>
+
+<NL>
+What are you doing out here?<NL>
+The tournament's already under way!<END>
+
+<NL>
+Hey, the [Aurochs]' locker room is on the<NL>
+other side. Or are you just here to scout?<END>
+
+<NL>
+You sure are taking it easy.<NL>
+The opening match is about to start, you know.<END>
+
+<NL>
+[Aurochs]...<NL>
+Don't underestimate [Ronso] skill.<END>
+
+<NL>
+Yes! The season opener is finally here!<NL>
+Can you feel the excitement in the air?<NEWPAGE>
+<NL>
+It's like the calm before the storm. In just<NL>
+a few minutes, this place is gonna go crazy!<END>
+
+<NL>
+It's like I'm feeding off the<NL>
+energy of the players!<END>
+
+<NL>
+I hope Sir Graav's not hurt...<END>
+
+<NL>
+This guard is so mean!<NEWPAGE>
+<NL>
+He won't let me in to see Sir Graav!<END>
+
+<NL>
+I don't care if I have to wait for hours!<NL>
+I'm not moving until I see Sir Graav!<END>
+
+<NL>
+I'm gonna practice blitz real hard<NL>
+and be just like Bickson!<END>
+
+<NL>
+Guess what, guess what?<NL>
+I shook Bickson's hand!<END>
+
+<NL>
+The Goers didn't win, but a true fan will<NL>
+stand behind them through thick and thin.<END>
+
+<NL>
+The Goers' victory parade was cancelled<NL>
+because of all the chaos with the fiends.<END>
+
+<NL>
+I just want to wish the Goers luck,<NL>
+but security won't let me in.<END>
+
+<NL>
+You guys just got lucky!<NL>
+The Goers will take the cup next year!<END>
+
+<NL>
+You guys made the Goers look good<NL>
+by putting up a good fight.<END>
+
+<NL>
+I've been a huge Goers fan<NL>
+since I was a little girl.<NEWPAGE>
+<NL>
+I can still cheer as loud as<NL>
+the young'uns!<END>
+
+<NL>
+The players should be<NL>
+coming out soon.<END>
+
+<TEXT>
+Debug Map Menu<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Update Map Data<NL>
+    <CHOICE3>Change Model<NL>
+    <CHOICE4>Control Map Line<NL>
+    <CHOICE5>Return to Saito<END>
+
+<TEXT>
+Model  :  <CHOICE???>B<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. VI!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>V<Cor 41> [RIGHT] <Cor 97>F<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

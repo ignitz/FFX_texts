@@ -1,0 +1,172 @@
+[Jecht]<NL>
+Hey, [Auron]!<NL>
+Did you get that last match?<END>
+
+[Auron]<NL>
+Yeah.<END>
+
+[Auron]<NL>
+But I don't understand<NL>
+why you wanted me to.<END>
+
+[Auron]<NL>
+Didn't you say you have<NL>
+[blitzball] in your [Zanarkand]?<END>
+
+[Jecht]<NL>
+Not a sportsman, are ya?<END>
+
+[Braska]<NL>
+Working on your form?<END>
+
+[Jecht]<NL>
+My form don't need no work.<NL>
+I'm the great [Jecht]. It's for my kid.<END>
+
+[Braska]<NL>
+Your son plays [blitzball]?<END>
+
+[Jecht]<NL>
+Yeah, and he wants<NL>
+to beat his old man bad.<END>
+
+[Jecht]<NL>
+Once, I told him to give it up.<NL>
+He didn't speak to me for a week.<END>
+
+[Jecht]<NL>
+Wonder what he's doing now.<END>
+
+[Jecht]<NL>
+I hope he got bigger<NL>
+and put on some muscle.<END>
+
+[Jecht]<NL>
+Hey, what's the big idea!<NL>
+Stop shooting!<END>
+
+<NL>
+          <END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

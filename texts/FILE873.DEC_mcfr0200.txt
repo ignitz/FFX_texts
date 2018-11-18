@@ -1,0 +1,18 @@
+<NL>
+<TEXT>
+<Cor 88>Time: <VAR12 32>:<VAR12 31>.<VAR12 30><Cor 41><END>
+
+<NL>
+<TEXT>
+<Cor 94>Time: <VAR12 32>:<VAR12 31>.<VAR12 30><Cor 41><END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,272 @@
+[Auron]<NL>
+It comes!<END>
+
+[Rikku]<NL>
+Hey! Can't we<NL>
+rest a little?<END>
+
+[Auron]<NL>
+No need. We reach<NL>
+the summit soon.<END>
+
+[Rikku]<NL>
+I know, that's why I<NL>
+want to stop for a bit.<END>
+
+[Rikku]<NL>
+Soon means that...<NL>
+there's not much time left.<END>
+
+[Yuna]<NL>
+[Rikku]...<END>
+
+[Rikku]<NL>
+Fine.<NL>
+I'll think on the way.<END>
+
+[Wakka]<NL>
+Hey, come on, let's go.<END>
+
+[Tidus]<NL>
+We are almost there, aren't we?<END>
+
+[Wakka]<NL>
+We've come a long way.<END>
+
+[Tidus]<NL>
+What's so funny?<END>
+
+[Auron]<NL>
+You remind me of myself.<END>
+
+[Auron]<NL>
+Before, the closer I came to<NL>
+[Zanarkand], the more I wondered...<END>
+
+[Auron]<NL>
+when we arrive, [Braska]<NL>
+will call the Final Aeon...<END>
+
+[Auron]<NL>
+He will fight [Sin], then die.<END>
+
+[Auron]<NL>
+I thought my mind was<NL>
+made up long before.<END>
+
+[Auron]<NL>
+But when I stood here,<NL>
+my resolve wavered.<END>
+
+[Wakka]<NL>
+Huh, never would've figured.<END>
+
+[Wakka]<NL>
+Legendary guardians<NL>
+choke sometimes, too, ya?<END>
+
+[Auron]<NL>
+Legendary guardian?<NL>
+I was just a boy.<END>
+
+[Auron]<NL>
+A boy about your age, actually.<END>
+
+[Auron]<NL>
+I wanted to change the world, too.<END>
+
+[Auron]<NL>
+But I changed nothing.<END>
+
+[Auron]<NL>
+That is my story.<END>
+
+<NL>
+A city dead for a thousand years.<END>
+
+<NL>
+A city I had to see<NL>
+with my own eyes.<END>
+
+<NL>
+The end of [Yuna]'s journey.<END>
+
+<NL>
+The last chapter in my story.<END>
+
+<NL>
+My thoughts, they kept floating up,<NL>
+and then slipping through my fingers.<END>
+
+<NL>
+Slipping away before I could<NL>
+pin them down with words.<END>
+
+[Yuna]<NL>
+All my life, I knew<NL>
+this moment would come.<END>
+
+[Rikku]<NL>
+[Yunie]...<END>
+
+[Yuna]<NL>
+Thank you, [Rikku].<NL>
+Thank you for everything.<END>
+
+[Rikku]<NL>
+Don't say that, [Yunie]!<NL>
+It's not over yet!<END>
+
+[Yuna]<NL>
+Tell [Cid] thank you.<END>
+
+[Rikku]<NL>
+No...<NL>
+You can tell him yourself.<END>
+
+[Yuna]<NL>
+Please...<END>
+
+[Yuna]<NL>
+[Kimahri], let's go.<END>
+
+[Rikku]<NL>
+[Yuna], I say no!<END>
+
+[Rikku]<NL>
+If we go down there, then you'll...<END>
+
+[Yuna]<NL>
+You're a true friend,<NL>
+and I thank you, but...<END>
+
+[Yuna]<NL>
+I must go...<END>
+
+[Yuna]<NL>
+down, to [Zanarkand].<END>
+
+[Rikku]<NL>
+I'm not saying we shouldn't go.<END>
+
+[Rikku]<NL>
+But shouldn't we think<NL>
+about it some more?<END>
+
+[Rikku]<NL>
+There's gotta be some kind<NL>
+of way we can save you, [Yuna]!<END>
+
+[Rikku]<NL>
+[Yunie], don't say that because...<END>
+
+[Rikku]<NL>
+we're gonna see each<NL>
+other again, okay?<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,248 @@
+[Auron]<NL>
+Is she all right?<END>
+
+[Tidus]<NL>
+Why should you care?<END>
+
+[Auron]<NL>
+If she dies,<NL>
+I wouldn't know what to do.<END>
+
+[Tidus]<NL>
+Don't say Mom is gonna die!<END>
+
+[Auron]<NL>
+I apologize.<END>
+
+[Jecht]<NL>
+See? So I told him what I<NL>
+thought of him, right there!<END>
+
+<NL>
+Really?<END>
+
+[Jecht]<NL>
+'Course!<END>
+
+<NL>
+I suppose, but...<END>
+
+[Tidus]<NL>
+Mommy...<END>
+
+<NL>
+Just a sec, dear.<END>
+
+[Jecht]<NL>
+Ah, go to him.<NL>
+He'll cry if you don't.<END>
+
+[Tidus]<NL>
+Whenever my old man was around,<NL>
+my mother wouldn't even look at me.<END>
+
+[Tidus]<NL>
+Maybe that's...<END>
+
+[Tidus]<NL>
+Maybe that's when I started<NL>
+to resent him, even hate him.<END>
+
+[Tidus]<NL>
+When he left us...<END>
+
+[Tidus]<NL>
+Mom just lost her energy.<END>
+
+[Tidus]<NL>
+The old lady next door told me...<END>
+
+[Tidus]<NL>
+when a lovebird dies,<NL>
+the one left behind...<END>
+
+[Tidus]<NL>
+It just gives up living<NL>
+so it can join its mate.<END>
+
+[Tidus]<NL>
+It was just like that.<END>
+
+[Tidus]<NL>
+I hated my old man even more.<END>
+
+[Tidus]<NL>
+But really, my old man...<END>
+
+[Jecht]<NL>
+What?<END>
+
+[Tidus]<NL>
+They say you don't practice<NL>
+anymore, that you're gonna retire.<END>
+
+[Jecht]<NL>
+Let them talk.<END>
+
+[Jecht]<NL>
+I'm still the best.<END>
+
+[Tidus]<NL>
+They say you're no good<NL>
+'cause you drink all the time.<END>
+
+[Jecht]<NL>
+I can quit drinkin' whenever I want!<END>
+
+[Tidus]<NL>
+Then do it now.<END>
+
+[Jecht]<NL>
+What did you say?<END>
+
+[Tidus]<NL>
+You just said you can!<END>
+
+[Jecht]<NL>
+Heh.<NL>
+Tomorrow, maybe.<END>
+
+[Tidus]<NL>
+Why not today?<END>
+
+[Jecht]<NL>
+Why do today what<NL>
+you can leave for tomorrow?<END>
+
+[Jecht]<NL>
+There he goes again...crying!<END>
+
+[Tidus]<NL>
+[Zanarkand]...<END>
+
+[Tidus]<NL>
+You homesick, too?<END>
+
+[Tidus]<NL>
+That's not your world anymore.<NL>
+You're [Sin] now.<END>
+
+[Tidus]<NL>
+Hey,<NL>
+I'm older now, you know?<END>
+
+[Tidus]<NL>
+I know.<END>
+
+[Tidus]<NL>
+You want this to end.<END>
+
+[Tidus]<NL>
+I'll find a way, promise.<END>
+
+[Tidus]<NL>
+Eh?<END>
+
+Fayth<NL>
+Long ago, there was a war.<END>
+
+[Tidus]<NL>
+Yeah, with machina, right?<END>
+
+Fayth<NL>
+Yes. A war between<NL>
+[Zanarkand] and [Bevelle].<END>
+
+Fayth<NL>
+[Bevelle]'s machina assured their<NL>
+victory from the start.<NL>
+Spira had never seen such power.<END>
+
+Fayth<NL>
+The summoners of [Zanarkand]<NL>
+didn't stand a chance.<END>
+
+Fayth<NL>
+[Zanarkand] was<NL>
+doomed to oblivion.<END>
+
+Fayth<NL>
+That's why we tried to save<NL>
+it--if only in a memory.<END>
+
+[Tidus]<NL>
+What did you do?<END>
+
+Fayth<NL>
+The remaining summoners and the<NL>
+townspeople that survived the war...<END>
+
+Fayth<NL>
+They all became [fayth]--<NL>
+[fayth] for the summoning.<END>
+
+[Tidus]<NL>
+The summoning...<NL>
+You mean [Sin]?<END>
+
+Fayth<NL>
+No. I mean this place.<END>
+
+Fayth<NL>
+A [Zanarkand] that never sleeps.<END>
+
+[Tidus]<NL>
+What?<END>
+
+Fayth<NL>
+The dreams of the [fayth]<NL>
+summoned the memories of the city.<END>
+
+Fayth<NL>
+They summoned all the buildings,<NL>
+all the people who lived there.<END>
+
+[Tidus]<NL>
+The people...<NL>
+What, they're all dreams?<END>
+
+[Tidus]<NL>
+Me, too?<END>
+
+Fayth<NL>
+Yes, you're a<NL>
+dream of the [fayth].<END>
+
+Fayth<NL>
+You, your father, your<NL>
+mother, everyone. All dreams.<END>
+
+Fayth<NL>
+And if the [fayth] stop dreaming...<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

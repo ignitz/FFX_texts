@@ -1,0 +1,275 @@
+[Tidus]<NL>
+[Seymor]!<END>
+
+[Seymor]<NL>
+Please be silent.<NL>
+Lady [Yuna] prays to the [fayth].<END>
+
+[Tidus]<NL>
+Make me.<END>
+
+[Tidus]<NL>
+[Yuna]!<END>
+
+[Yuna]<NL>
+But why...?<END>
+
+[Tidus]<NL>
+We saw [Jyscal]'s sphere.<END>
+
+[Auron]<NL>
+You killed him.<END>
+
+[Seymor]<NL>
+What of it?<END>
+
+[Seymor]<NL>
+Lady [Yuna], certainly you knew<NL>
+of these things, did you not?<END>
+
+[Seymor]<NL>
+Well then, why<NL>
+have you come here?<END>
+
+[Yuna]<NL>
+I came...<END>
+
+[Yuna]<NL>
+I came to stop you!<END>
+
+[Seymor]<NL>
+I see.<END>
+
+[Seymor]<NL>
+You came to punish me, then.<END>
+
+[Seymor]<NL>
+What a pity.<END>
+
+[Seymor]<NL>
+Ah, of course.<END>
+
+[Tidus]<NL>
+All right!<END>
+
+[Wakka]<NL>
+Maester [Seymor]!<END>
+
+[Seymor]<NL>
+So be it.<END>
+
+[Seymor]<NL>
+[Yuna]...you would pity me now?<END>
+
+[Tromell]<NL>
+Lord [Seymor]!<END>
+
+[Tromell]<NL>
+What happened here?<END>
+
+[Wakka]<NL>
+What...what have I done?<END>
+
+[Tidus]<NL>
+Wait a minute!<NL>
+It's not our fault at all!<END>
+
+[Tidus]<NL>
+[Seymor] struck first!<NL>
+He's the bad guy!<END>
+
+[Tromell]<NL>
+You did this?<END>
+
+[Auron]<NL>
+[Yuna]. Send him.<END>
+
+[Tromell]<NL>
+No, stop!<END>
+
+[Tromell]<NL>
+Stay away from him, traitors!<END>
+
+[Yuna]<NL>
+Traitors?<END>
+
+[Wakka]<NL>
+We're finished.<END>
+
+[Auron]<NL>
+It won't be that easy...<END>
+
+[Auron]<NL>
+Let's get out of here.<END>
+
+[Seymor]<NL>
+"Protect the summoner even at<NL>
+the cost of one's life."<NL>
+The Code of the Guardian.<END>
+
+[Seymor]<NL>
+How admirable.<END>
+
+[Seymor]<NL>
+Well, if you're offering your lives,<NL>
+I will have to take them.<END>
+
+[Yuna]<NL>
+Maester [Seymor].<END>
+
+[Yuna]<NL>
+I trust my guardians with my life.<NL>
+But they are also my friends.<END>
+
+[Yuna]<NL>
+I will not stand by and watch them<NL>
+be hurt. I will fight you, too!<END>
+
+[Tidus]<NL>
+Now hold on just a minute!<END>
+
+[Tidus]<NL>
+[Seymor]'s the bad guy, right?<END>
+
+[Tidus]<NL>
+We'll just explain<NL>
+to everyone what happened!<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

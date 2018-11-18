@@ -1,0 +1,181 @@
+[Jecht]<NL>
+Who are you?<END>
+
+[Braska]<NL>
+You are the one they call [Jecht],<NL>
+the man from [Zanarkand], are you not?<END>
+
+[Jecht]<NL>
+What of it?<END>
+
+[Auron]<NL>
+Watch your tongue, knave!<END>
+
+[Braska]<NL>
+My apologies.<NL>
+I am [Braska], a summoner.<END>
+
+[Braska]<NL>
+I've come to take you from this place.<END>
+
+[Jecht]<NL>
+Sounds sweet.<NL>
+What's the catch?<END>
+
+[Braska]<NL>
+Ahhaha...<NL>
+That easy to see, was it?<END>
+
+[Braska]<NL>
+I soon leave on a pilgrimage...<NL>
+to [Zanarkand].<END>
+
+[Jecht]<NL>
+Seriously?<END>
+
+[Braska]<NL>
+I would like you to join us.<NL>
+It will be a dangerous trip.<END>
+
+[Braska]<NL>
+Yet, if we do reach [Zanarkand]...<END>
+
+[Braska]<NL>
+my prayers will be answered, and<NL>
+you will be able to go home, we think.<END>
+
+[Braska]<NL>
+What say you?<END>
+
+[Jecht]<NL>
+Great, let's go!<END>
+
+[Braska]<NL>
+So quick?<END>
+
+[Jecht]<NL>
+Anything to get outta here!<END>
+
+[Braska]<NL>
+Then it's settled.<END>
+
+[Braska]<NL>
+[Auron], tell the jailer<NL>
+to let this man free.<END>
+
+[Auron]<NL>
+Sir.<END>
+
+[Auron]<NL>
+But I must protest...<NL>
+This drunkard a guardian?<END>
+
+[Jecht]<NL>
+Hey!<END>
+
+[Jecht]<NL>
+You want to step<NL>
+in here and say that?<END>
+
+[Braska]<NL>
+What does it matter?<END>
+
+[Braska]<NL>
+No one truly believes that I, a fallen<NL>
+summoner wed to an [Al Bhed2]...<END>
+
+[Braska]<NL>
+could possibly defeat [Sin].<NL>
+This is what they say.<END>
+
+[Braska]<NL>
+No one expects us to succeed.<END>
+
+[Auron]<NL>
+[Braska], sir...<END>
+
+[Braska]<NL>
+Let's show them they're wrong.<END>
+
+[Braska]<NL>
+A fallen summoner,<NL>
+a man from [Zanarkand]...<END>
+
+[Braska]<NL>
+and a warrior monk, doomed to<NL>
+obscurity for refusing the hand<NL>
+of the priest's daughter.<END>
+
+[Braska]<NL>
+What delightful irony it would<NL>
+be if we defeated [Sin]!<END>
+
+[Jecht]<NL>
+Stop gabbin' and get me outta here!<END>
+
+[Jecht]<NL>
+Ahh... Free at last!<END>
+
+[Braska]<NL>
+Now, [Jecht]...<END>
+
+[Braska]<NL>
+I am in your hands<NL>
+until we reach [Zanarkand].<END>
+
+[Jecht]<NL>
+Right, right.<END>
+
+[Jecht]<NL>
+So, what's a summer-ner, anyway?<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

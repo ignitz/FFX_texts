@@ -1,0 +1,259 @@
+[Wakka]<NL>
+This is where I was born.<NL>
+I started blitz when I was five.<END>
+
+[Wakka]<NL>
+I joined the [Aurochs]<NL>
+at thirteen...ten years ago.<END>
+
+[Wakka]<NL>
+Ten years...and we never won a game.<END>
+
+[Wakka]<NL>
+Well, after last year's tournament,<NL>
+I quit. Time seemed right.<END>
+
+[Wakka]<NL>
+It's an ancient custom.<NL>
+People leaving the island<NL>
+pray here for a safe trip.<END>
+
+[Wakka]<NL>
+They say it works pretty good.<END>
+
+[Lulu]<NL>
+Take your time.<END>
+
+[Tidus]<NL>
+Let's get going, man!<END>
+
+[Wakka]<NL>
+We're gonna wait.<END>
+
+<NL>
+<END>
+
+[Wakka]<NL>
+Are you ready?<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+What's going on?<END>
+
+[Wakka]<NL>
+[Chappu] didn't pray that day.<NL>
+Said he'd miss his boat.<END>
+
+[Wakka]<NL>
+That should do it!<END>
+
+[Tidus]<NL>
+This isn't the way to the pier.<END>
+
+[Tidus]<NL>
+What are you up to out here?<END>
+
+[Luzzu]<NL>
+Watching for fiends!<END>
+
+[Luzzu]<NL>
+We [Crusader]s must protect the village.<END>
+
+[Luzzu]<NL>
+Even if we cannot defeat [Sin],<NL>
+we do what we can.<END>
+
+[Tidus]<NL>
+Leave [Sin] to us.<NL>
+We'll think of something.<END>
+
+[Luzzu]<NL>
+Then you should pray before you go.<END>
+
+[Luzzu]<NL>
+All who leave the island pray<NL>
+for safe passage over there.<END>
+
+[Luzzu]<NL>
+[Gatta] always refused, though.<END>
+
+[Tidus]<NL>
+Well then, I will too.<END>
+
+[Tidus]<NL>
+Who needs hokey old superstitions?<END>
+
+[Tidus]<NL>
+I won't pray, and I'll<NL>
+beat [Sin] all the same!<END>
+
+[Luzzu]<NL>
+Well, I guess you have the spirit.<END>
+
+[Luzzu]<NL>
+Good luck.<END>
+
+[Luzzu]<NL>
+Even should the temple<NL>
+forsake us, we will do our duty.<END>
+
+[Luzzu]<NL>
+We are the shield that guards this land.<END>
+
+[Luzzu]<NL>
+I can't believe they're<NL>
+calling Lady [Yuna] a traitor.<END>
+
+[Luzzu]<NL>
+Calling Lady [Yuna] a traitor...<NL>
+there must be some mistake.<END>
+
+[Luzzu]<NL>
+Everyone in [Besaid] thinks so.<END>
+
+[Luzzu]<NL>
+As long as [Sin] remains,<NL>
+so does our duty.<END>
+
+[Luzzu]<NL>
+They say a flying ship<NL>
+gave [Sin] a good chase.<END>
+
+[Luzzu]<NL>
+Never let your guard down!<NL>
+[Sin] is the most evil of foes.<END>
+
+[Luzzu]<NL>
+All we can do is pray that this<NL>
+ship of the skies can defeat [Sin].<END>
+
+<TEXT>
+<CHOICE1>Pray.<NL>
+<CHOICE2>Just watch.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

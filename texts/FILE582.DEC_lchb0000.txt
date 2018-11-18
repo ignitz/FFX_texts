@@ -1,0 +1,502 @@
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+<NL>
+The hymn we all sang at the stadium<NL>
+is still echoing in my ears.<END>
+
+<NL>
+The people of Luca will always<NL>
+stand behind a blitzer--<NL>
+even one condemned as a traitor.<END>
+
+<NL>
+The stadium is now open.<NL>
+You may enter freely.<END>
+
+<NL>
+The first match has already begun.<NL>
+Please hurry to your seat.<END>
+
+<NL>
+We are currently assessing the damage<NL>
+from the fiends. No admittance.<END>
+
+<NL>
+Access is no longer restricted.<NL>
+Feel free to enter.<END>
+
+<NL>
+I wonder who the next grand maester will be...<NL>
+I need to book someone for next year's<NL>
+opening speech.<END>
+
+<NL>
+Most of the warrior monks have withdrawn to<NL>
+Bevelle, but some have taken a liking to Luca<NL>
+and remained here.<END>
+
+<NL>
+Even now that the tournament's over,<NL>
+the stadium is always jam-packed.<NL>
+That's Luca for you.<END>
+
+<NL>
+I'm right by the stadium, but I can't<NL>
+watch the game. What a bummer...<END>
+
+<NL>
+Did you forget something inside?<NL>
+Give it up. I doubt you'll find it.<END>
+
+<NL>
+It took forever to fix the<NL>
+stands inside the stadium.<END>
+
+<NL>
+The stadium is surrounded by numerous<NL>
+ports laid out in a circular fashion.<NEWPAGE>
+<NL>
+So it's impossible to get lost.<NL>
+Turn here to get to <Cor 88>dock number <VAR12 30><Cor 41>.<END>
+
+<NL>
+Even through all the hardship, the people of Luca<NL>
+enjoy blitzball and carry on with their lives.<NL>
+Oh, how I admire their strength.<END>
+
+<NL>
+We are protecting Luca under Maester Kinoc's<NL>
+orders. You should all be grateful!<END>
+
+<NL>
+I hope the operation succeeds.<NL>
+I want to come back here next year...<END>
+
+<NL>
+Once the tournament is over, the<NL>
+operation will commence. Better<NL>
+enjoy blitzball while I still can.<END>
+
+<NL>
+The merchants of Luca have raised<NL>
+money to support the Crusaders.<END>
+
+<NL>
+So many Crusaders have died and yet people<NL>
+are watching blitzball? This city is heartless.<END>
+
+<NL>
+I am relieved the grand maester is safe.<NL>
+We owe it all to [Master Seymor].<END>
+
+<NL>
+The Crusaders were in charge of guarding<NL>
+the stadium up until last year.<END>
+
+<NL>
+But they're all busy preparing for<NL>
+the operation now. So this year, the<NL>
+citizens have taken up security posts.<END>
+
+<NL>
+I heard Sin has fallen in Bevelle!<NL>
+Could it be that the Calm is almost here?<END>
+
+<NL>
+I've decided to join the Crusaders.<NL>
+No sense hiding behind their back all the time.<END>
+
+<NL>
+Looks like that last machina attack sent<NL>
+Sin back to sea for now. Let's hope we<NL>
+get some peace and quiet for awhile.<END>
+
+<NL>
+Ending the tournament with the fiend<NL>
+attack left a bad taste in my mouth.<END>
+
+<NL>
+The Goers are definitely gonna win.<NL>
+Everyone else is goin' down!<END>
+
+<NL>
+The Crusaders will help us with security.<NL>
+We will support them all the way!<END>
+
+<NL>
+The warrior monks are helping us out,<NL>
+so guard duty's not as bad as before.<END>
+
+<NL>
+Please report any suspicious activity.<END>
+
+<NL>
+I hope the Calm will last at least a year.<NL>
+Would three be asking for too much?<END>
+
+<NL>
+I think the Crusaders are more suited<NL>
+to Luca than the warrior monks are.<END>
+
+<NL>
+The warrior monks are planning to guard the<NL>
+ferries. I'm not sure if that's good or bad.<END>
+
+<NL>
+[Maester Mika2] returned to [Bevelle]<NL>
+soon after the tournament.<END>
+
+<NL>
+Tickets were so hard to come by this year.<NL>
+Oh, well... Guess I'll watch the game over<NL>
+at the cafe.<END>
+
+<NL>
+Once Sin is gone for good, I hope you play<NL>
+every day! I'll be there to cheer you on!<END>
+
+<NL>
+Hey, when are you playin' next?<NL>
+I really want to see you again.<END>
+
+<NL>
+I really enjoyed your awesome moves!<NL>
+I hope I get to see you play more often.<END>
+
+<NL>
+Nice work out there.<NL>
+Now I know you're not all talk.<END>
+
+<NL>
+I saw your rallying cry on the sphere.<NL>
+Heheh, best of luck to you.<END>
+
+<NL>
+Did you know that you're more popular than<NL>
+ever, now that you're branded as a traitor?<END>
+
+<NL>
+No one knows who unleashed the<NL>
+fiends into the stadium.<END>
+
+<NL>
+I'm afraid to imagine what would've<NL>
+happened if [Master Seymor] hadn't been here.<END>
+
+<NL>
+Players must return to their locker<NL>
+room for the opening ceremony.<END>
+
+<NL>
+I will fight as a Crusader until<NL>
+Spira is rid of all fiends.<END>
+
+<NL>
+I quit the Crusaders after the operation,<NL>
+but I'm back in again. I think I have Crusader<NL>
+blood running through my veins.<END>
+
+<NL>
+The captain's making me work<NL>
+so that he can go see the game!<END>
+
+<NL>
+I will be heading for the operation soon.<NL>
+I must bid adieu to the city of [Luca].<END>
+
+<NL>
+I'm rooting for the Al Bhed Psyches this year.<NL>
+They're helping out the Crusaders, you know.<END>
+
+<NL>
+The flying ship at dock 1<NL>
+is the legendary airship!<NL>
+So the tales are true!<END>
+
+<NL>
+We have resumed ferry operation.<NL>
+We're as busy as ever.<END>
+
+<NL>
+Sin is lurking in the waters nearby.<NL>
+Ferry service has been postponed indefinitely.<END>
+
+<NL>
+Even the ships don't leave the port during<NL>
+the tournament. Just kick back and relax, man.<END>
+
+<NL>
+Once the Crusaders regroup in Luca, they<NL>
+will charge through the Mi'ihen Highroad<NL>
+and lay waste to all the fiends!<END>
+
+<NL>
+Please report any suspicious<NL>
+activity to me immediately!<END>
+
+<NL>
+The [Crusader]s have planned a grand<NL>
+operation to smash the fiends.<END>
+
+<NL>
+I should be reporting to the base by now,<NL>
+but I just want to catch one glimpse of the<NL>
+opening ceremony.<END>
+
+<NL>
+Once the Calm arrives, we must have a<NL>
+commemorative tournament! Actually,<NL>
+we're already in the planning stages.<END>
+
+<NL>
+The warrior monks have left, but the<NL>
+Crusaders have returned to serve as guards.<NL>
+A blessing from Yevon indeed!<END>
+
+<NL>
+The temple has dispatched their warrior monks<NL>
+to guard the stadium. I am thankful, indeed.<END>
+
+<NL>
+We were supposed to get some time off after<NL>
+the tournament, but with the sudden fiend<NL>
+incident and all, we're busy with the investigation.<END>
+
+<NL>
+Aren't you a blitzer?<NL>
+Better check the rules while you still can.<END>
+
+<NL>
+The opening ceremony is about to begin.<NL>
+All players must wait in their locker rooms.<END>
+
+<NL>
+You're not a blitzer, are you?<NL>
+Nah, couldn't be. The game's already started.<END>
+
+<NL>
+We're still investigating how<NL>
+the fiends managed to get in.<NEWPAGE>
+<NL>
+I'm sorry, but please wait for an<NL>
+official statement regarding this matter.<END>
+
+<NL>
+Hi! Welcome to the blitzball reception.<END>
+
+<TEXT>
+<CHOICE1>Register to play.<NL>
+<CHOICE2>Leave.<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<NL>
+Hello! Welcome to the<NL>
+Luca Item Shop.<END>
+
+<TEXT>
+<CHOICE1>What have you got?<NL>
+<CHOICE2>Leave.<END>
+
+<NL>
+Welcome to the<NL>
+Luca Equipment Shop!<END>
+
+<TEXT>
+<CHOICE1>What have you got?<NL>
+<CHOICE2>Leave.<END>
+
+<NL>
+No admittance!<END>
+
+<NL>
+We are sorry, but not even blitzball<NL>
+players are allowed to pass.<END>
+
+<NL>
+Please come again!<END>
+
+<TEXT>
+Map Debug Menu<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Update Map Data<NL>
+    <CHOICE3>Change Crowd Model<NL>
+    <CHOICE4>Control Map Line<NL>
+    <CHOICE5>Return to Saito<END>
+
+<TEXT>
+Crowd  :  <CHOICE???>A<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,441 @@
+[Rikku]<NL>
+[Zanarkand] is on the<NL>
+other side, you know?<END>
+
+[Tidus]<NL>
+I know.<END>
+
+[Rikku]<NL>
+[Yunie] is gonna get the<NL>
+Final Aeon, you know?<END>
+
+[Tidus]<NL>
+I know.<END>
+
+[Rikku]<NL>
+I still haven't thought of anything.<END>
+
+[Tidus]<NL>
+Me neither.<END>
+
+[Rikku]<NL>
+What are we gonna do?<END>
+
+[Tidus]<NL>
+We'll do something!<END>
+
+[Tidus]<NL>
+We just don't know enough yet.<END>
+
+[Tidus]<NL>
+Until we do, we<NL>
+really can't help [Yuna].<END>
+
+[Tidus]<NL>
+Let's go to [Zanarkand].<NL>
+We'll find something there.<END>
+
+[Tidus]<NL>
+It'll all come together.<NL>
+I know it!<END>
+
+[Rikku]<NL>
+Hey...<END>
+
+<NL>
+          <END>
+
+[Rikku]<NL>
+Just now, you sounded<NL>
+like a leader, you know?<END>
+
+[Tidus]<NL>
+Star of the [Zanarkand Abes]!<NL>
+Didn't anyone tell you?<END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+[Seymor]<NL>
+Ah, the son of [Jecht].<END>
+
+[Tidus]<NL>
+[Rikku], run ahead and tell [Auron]!<END>
+
+[Rikku]<NL>
+You are not fighting him alone!<END>
+
+[Tidus]<NL>
+Just go! Go!<END>
+
+[Seymor]<NL>
+Now is your time to die.<NL>
+Prepare yourself, son of [Jecht].<END>
+
+[Tidus]<NL>
+Not if I can help it!<END>
+
+[Kimahri]<NL>
+Save some for [Kimahri]!<END>
+
+[Seymor]<NL>
+Lady [Yuna], it is a pleasure.<END>
+
+[Lulu]<NL>
+[Yuna]!<END>
+
+[Seymor]<NL>
+A sending, so soon?<END>
+
+[Seymor]<NL>
+Allow me to say something to<NL>
+the last [Ronso] before I leave.<END>
+
+[Seymor]<NL>
+Yours was...truly a gallant race.<END>
+
+[Seymor]<NL>
+They threw themselves<NL>
+at me to bar my path.<END>
+
+[Seymor]<NL>
+One...after another...<END>
+
+[Kimahri]<NL>
+No...<END>
+
+[Yuna]<NL>
+[Kimahri]...<END>
+
+[Seymor]<NL>
+You could end the suffering<NL>
+of this poor [Ronso].<END>
+
+[Yuna]<NL>
+I don't understand you!<END>
+
+[Seymor]<NL>
+Allow [Kimahri] to die, and<NL>
+release him from his pain.<END>
+
+[Seymor]<NL>
+[Spira]...<END>
+
+[Seymor]<NL>
+is a land of suffering and sorrow<NL>
+caught in a spiral of death.<END>
+
+[Seymor]<NL>
+To destroy--to heal--[Spira],<NL>
+I will become [Sin].<END>
+
+[Seymor]<NL>
+Yes, with your help.<END>
+
+[Seymor]<NL>
+Come with me, [Yuna].<END>
+
+[Seymor]<NL>
+Once I have become the next [Sin],<NL>
+your father will be freed again.<END>
+
+[Tidus]<NL>
+What do you know?<END>
+
+[Seymor]<NL>
+Pitiful mortal.<END>
+
+[Seymor]<NL>
+Your hope ends here.<END>
+
+[Seymor]<NL>
+And your meaningless<NL>
+existence with it.<END>
+
+[Tidus]<NL>
+And stay up there!<END>
+
+[Yuna]<NL>
+He will become [Sin]...<NL>
+with my help.<END>
+
+[Auron]<NL>
+Lies. Forget them.<END>
+
+[Yuna]<NL>
+If he becomes [Sin],<NL>
+Sir [Jecht] will be saved.<END>
+
+[Auron]<NL>
+We're leaving.<END>
+
+[Yuna]<NL>
+You know something!<NL>
+Tell me!<END>
+
+[Yuna]<NL>
+Tell me!<END>
+
+[Tidus]<NL>
+[Sin]'s...my old man.<END>
+
+[Wakka]<NL>
+You hit your head?<END>
+
+[Tidus]<NL>
+[Sin] is my old man.<NL>
+My old man became [Sin]!<END>
+
+[Tidus]<NL>
+I don't know how or why he did it.<END>
+
+[Tidus]<NL>
+I felt him, inside.<NL>
+And when I did, I knew it was true.<END>
+
+[Tidus]<NL>
+My old man is [Spira]'s suffering.<END>
+
+[Tidus]<NL>
+Sorry.<END>
+
+[Yuna]<NL>
+Even...<END>
+
+[Yuna]<NL>
+knowing that [Sin] is your father...<END>
+
+[Yuna]<NL>
+Still, you know, I must...<END>
+
+[Tidus]<NL>
+I know.<NL>
+Let's get him.<END>
+
+[Tidus]<NL>
+I think my old man would want that.<END>
+
+[Lulu]<NL>
+You'd fight your own father?<END>
+
+[Tidus]<NL>
+Yeah.<NL>
+No problem there.<END>
+
+[Wakka]<NL>
+Uh... 'Bout your old man...<END>
+
+[Wakka]<NL>
+You sure this ain't some kinda<NL>
+bad toxin dream or something?<END>
+
+<NL>
+          <END>
+
+[Wakka]<NL>
+Then, [Chappu]...<END>
+
+[Wakka]<NL>
+I, uh... I think I'll just<NL>
+pretend I didn't hear nothing.<END>
+
+[Wakka]<NL>
+I'm getting a little confused, ya?<END>
+
+[Wakka]<NL>
+Why... Why'd all<NL>
+this have to happen?<END>
+
+[Auron]<NL>
+We'll learn when<NL>
+we arrive. Soon.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

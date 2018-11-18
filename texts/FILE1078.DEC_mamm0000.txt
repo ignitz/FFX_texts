@@ -1,0 +1,89 @@
+[Braska]<NL>
+[Auron], could you<NL>
+stand closer to him?<END>
+
+[Jecht]<NL>
+What's the matter?<NL>
+Afraid I might bite?<END>
+
+[Auron]<NL>
+[Jecht]...<END>
+
+[Braska]<NL>
+Good. That should do it.<END>
+
+[Jecht]<NL>
+[Braska]! You should take one, too.<NL>
+It'd make a great gift for little [Yuna]!<END>
+
+[Braska]<NL>
+I suppose.<END>
+
+[Auron]<NL>
+Lord [Braska]...<END>
+
+[Auron]<NL>
+We shouldn't be<NL>
+wasting our time like this!<END>
+
+[Jecht]<NL>
+What's the hurry, man?<END>
+
+[Auron]<NL>
+Let me tell you what the hurry is!<END>
+
+[Braska]<NL>
+[Auron]!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,213 @@
+[Tidus]<NL>
+Anybody there?<END>
+
+[Tidus]<NL>
+[Auron]!<END>
+
+[Tidus]<NL>
+Heeey!<END>
+
+[Tidus]<NL>
+What do we have here?<NL>
+Nope, can't read it.<END>
+
+<TEXT>
+<NL>
+In the land where bolts of light<NL>
+illuminate the blackest night<NEWPAGE>
+<NL>
+With [Macalania] behind<NL>
+the fourth pillar you sight<NEWPAGE>
+<NL>
+look not on the left<NL>
+but on the right.<END>
+
+<TEXT>
+<NL>
+Something is written here.<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+<Cor 43>[Al Bhed] Compilation Sphere<Cor 41><END>
+
+<TEXT>
+Scans memory cards [']8MB[/'] [']for PlayStation[REG]2[/']<NL>
+for [Al Bhed] primers and adds them to your<NL>
+collection. Use these spheres to expand your<NL>
+[Al Bhed] vocabulary.<END>
+
+<TEXT>
+Select a slot:<NL>
+<CHOICE1>MEMORY CARD slot 1<NL>
+<CHOICE2>MEMORY CARD slot 2<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+MEMORY CARD slot 1<END>
+
+<TEXT>
+Do not remove/insert memory cards [']8MB[/']<NL>
+[']for PlayStation[REG]2[/'] or controllers.<NL>
+Do not open disc tray.<END>
+
+<TEXT>
+No memory card [']8MB[/'] [']for PlayStation[REG]2[/']<NL>
+found in MEMORY CARD slot 1!<END>
+
+<TEXT>
+No [FINAL FANTASY X] INTERNATIONAL<NL>
+saved game data found!<END>
+
+<TEXT>
+Error loading [Al Bhed] dictionary!<END>
+
+<TEXT>
+No [Al Bhed] dictionary data found!<END>
+
+<TEXT>
+[Al Bhed] dictionary successfully loaded!<END>
+
+<TEXT>
+Compile [Al Bhed] dictionary?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<TEXT>
+MEMORY CARD slot 2<END>
+
+<TEXT>
+No memory card [']8MB[/'] [']for PlayStation[REG]2[/']<NL>
+found in MEMORY CARD slot 2!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

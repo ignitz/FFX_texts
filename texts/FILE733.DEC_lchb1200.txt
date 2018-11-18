@@ -1,0 +1,845 @@
+<TEXT>
+<CHOICE1>Set Music Sphere.<NL>
+<CHOICE2>Set Movie Sphere.<NL>
+<CHOICE3>Return to the <Cor 88>reception desk<Cor 41>.<END>
+
+<TEXT>
+Currently owned: <VAR12 31>/<VAR12 32><END>
+
+<TEXT>
+You don't have a Music Sphere.<END>
+
+<TEXT>
+Now playing: M--<END>
+
+<TEXT>
+Now playing: M<VAR12 34><END>
+
+<TEXT>
+Now playing: M0<VAR12 34><END>
+
+Next Page        Page: <VAR12 39><END>
+
+#M01 : Zanarkand<END>
+
+<Cor 52>#M01<Cor 41><END>
+
+#M02 : Prelude<END>
+
+<Cor 52>#M02<Cor 41><END>
+
+#M03 : Tidus's Theme<END>
+
+<Cor 52>#M03<Cor 41><END>
+
+#M04 : Run!!<END>
+
+<Cor 52>#M04<Cor 41><END>
+
+#M05 : Creep<END>
+
+<Cor 52>#M05<Cor 41><END>
+
+#M06 : Battle Theme<END>
+
+<Cor 52>#M06<Cor 41><END>
+
+#M07 : Enemy Attack<END>
+
+<Cor 52>#M07<Cor 41><END>
+
+Last Page<END>
+
+<Cor 88>Main Menu<Cor 41><END>
+
+#M08 : Game Over<END>
+
+<Cor 52>#M08<Cor 41><END>
+
+#M09 : Out Of The Frying Pan<END>
+
+<Cor 52>#M09<Cor 41><END>
+
+#M10 : Victory Fanfare<END>
+
+<Cor 52>#M10<Cor 41><END>
+
+#M11 : Leap In The Dark<END>
+
+<Cor 52>#M11<Cor 41><END>
+
+#M12 : Underwater Ruins<END>
+
+<Cor 52>#M12<Cor 41><END>
+
+#M13 : The Blitzers<END>
+
+<Cor 52>#M13<Cor 41><END>
+
+#M14 : Wandering<END>
+
+<Cor 52>#M14<Cor 41><END>
+
+Previous Page<END>
+
+#M15 : Besaid<END>
+
+<Cor 52>#M15<Cor 41><END>
+
+#M16 : Spira Unplugged<END>
+
+<Cor 52>#M16<Cor 41><END>
+
+#M17 : Phantoms<END>
+
+<Cor 52>#M17<Cor 41><END>
+
+#M18 : The Trials<END>
+
+<Cor 52>#M18<Cor 41><END>
+
+#M19 : The Summoning<END>
+
+<Cor 52>#M19<Cor 41><END>
+
+#M20 : Braska's Daughter<END>
+
+<Cor 52>#M20<Cor 41><END>
+
+#M21 : Yuna's Theme<END>
+
+<Cor 52>#M21<Cor 41><END>
+
+#M22 : Good Night<END>
+
+<Cor 52>#M22<Cor 41><END>
+
+#M23 : Decision On The Dock<END>
+
+<Cor 52>#M23<Cor 41><END>
+
+#M24 : Movement In Green<END>
+
+<Cor 52>#M24<Cor 41><END>
+
+#M25 : A Fleeting Dream<END>
+
+<Cor 52>#M25<Cor 41><END>
+
+#M26 : Calm Before The Storm<END>
+
+<Cor 52>#M26<Cor 41><END>
+
+#M27 : Face Off<END>
+
+<Cor 52>#M27<Cor 41><END>
+
+#M28 : Grand Maester Mika<END>
+
+<Cor 52>#M28<Cor 41><END>
+
+#M29 : Luca<END>
+
+<Cor 52>#M29<Cor 41><END>
+
+#M30 : The Splendid Performance<END>
+
+<Cor 52>#M30<Cor 41><END>
+
+#M31 : Auron's Theme<END>
+
+<Cor 52>#M31<Cor 41><END>
+
+#M32 : Blitz Off!<END>
+
+<Cor 52>#M32<Cor 41><END>
+
+#M33 : Mi'ihen Highroad<END>
+
+<Cor 52>#M33<Cor 41><END>
+
+#M34 : Chocobo Jam<END>
+
+<Cor 52>#M34<Cor 41><END>
+
+#M35 : The Travel Agency<END>
+
+<Cor 52>#M35<Cor 41><END>
+
+#M36 : Seymour's Theme<END>
+
+<Cor 52>#M36<Cor 41><END>
+
+#M37 : Moment of Truth<END>
+
+<Cor 52>#M37<Cor 41><END>
+
+#M38 : Djose Temple<END>
+
+<Cor 52>#M38<Cor 41><END>
+
+#M39 : Ridess The Shoopuf?<END>
+
+<Cor 52>#M39<Cor 41><END>
+
+#M40 : Rikku's Theme<END>
+
+<Cor 52>#M40<Cor 41><END>
+
+#M41 : Oui Are Al Bhed<END>
+
+<Cor 52>#M41<Cor 41><END>
+
+#M42 : Guadosalam<END>
+
+<Cor 52>#M42<Cor 41><END>
+
+#M43 : Thunder Plains<END>
+
+<Cor 52>#M43<Cor 41><END>
+
+#M44 : Jecht's Theme<END>
+
+<Cor 52>#M44<Cor 41><END>
+
+#M45 : The Burning Sands<END>
+
+<Cor 52>#M45<Cor 41><END>
+
+#M46 : The Wedding<END>
+
+<Cor 52>#M46<Cor 41><END>
+
+#M47 : Assault<END>
+
+<Cor 52>#M47<Cor 41><END>
+
+#M48 : Tragedy<END>
+
+<Cor 52>#M48<Cor 41><END>
+
+#M49 : Believe<END>
+
+<Cor 52>#M49<Cor 41><END>
+
+#M50 : Servants of the Mountain<END>
+
+<Cor 52>#M50<Cor 41><END>
+
+#M51 : Macalania Woods<END>
+
+<Cor 52>#M51<Cor 41><END>
+
+#M52 : Via Purifico<END>
+
+<Cor 52>#M52<Cor 41><END>
+
+#M53 : Bravely Forward<END>
+
+<Cor 52>#M53<Cor 41><END>
+
+#M54 : The Unsent Laugh<END>
+
+<Cor 52>#M54<Cor 41><END>
+
+#M55 : Seymour's Ambition<END>
+
+<Cor 52>#M55<Cor 41><END>
+
+#M56 : Illusion<END>
+
+<Cor 52>#M56<Cor 41><END>
+
+#M57 : Yuna's Decision<END>
+
+<Cor 52>#M57<Cor 41><END>
+
+#M58 : Nostalgia<END>
+
+<Cor 52>#M58<Cor 41><END>
+
+#M59 : Peril<END>
+
+<Cor 52>#M59<Cor 41><END>
+
+#M60 : Launch<END>
+
+<Cor 52>#M60<Cor 41><END>
+
+#M61 : Challenge<END>
+
+<Cor 52>#M61<Cor 41><END>
+
+#M62 : Beyond The Darkness<END>
+
+<Cor 52>#M62<Cor 41><END>
+
+#M63 : The Void<END>
+
+<Cor 52>#M63<Cor 41><END>
+
+Top Page      Page: <VAR12 39><END>
+
+#M64 : The Truth Revealed<END>
+
+<Cor 52>#M64<Cor 41><END>
+
+#M65 : Pursuit<END>
+
+<Cor 52>#M65<Cor 41><END>
+
+#M66 : Gloom<END>
+
+<Cor 52>#M66<Cor 41><END>
+
+#M67 : Patricide<END>
+
+<Cor 52>#M67<Cor 41><END>
+
+#M68 : The Temple Players<END>
+
+<Cor 52>#M68<Cor 41><END>
+
+<Cor 43>#M69 : Hum Of The Fayth<Cor 41><END>
+
+<Cor 52>------<Cor 41><END>
+
+<Cor 43>#M70 : Lulu's Theme<Cor 41><END>
+
+<Cor 43>#M71 : Wakka's Theme<Cor 41><END>
+
+<Cor 52>#M71<Cor 41><END>
+
+<Cor 43>#M72 : Hum Of The Fayth [']Yuna[/']<Cor 41><END>
+
+<Cor 52>#M72<Cor 41><END>
+
+<Cor 43>#M73<Cor 41><END>
+
+<Cor 52>#M73<Cor 41><END>
+
+<Cor 43>#M74<Cor 41> : Fight With Seymour<END>
+
+<Cor 52>#M74<Cor 41><END>
+
+<Cor 43>#M75<Cor 41> : Otherworld<END>
+
+<Cor 52>#M75<Cor 41><END>
+
+<Cor 43>#M76<Cor 41> : A Contest Of Aeons<END>
+
+<Cor 52>#M76<Cor 41><END>
+
+<Cor 43>#M77<Cor 41> : Final Battle<END>
+
+<Cor 52>#M77<Cor 41><END>
+
+<Cor 43>#M78<Cor 41><END>
+
+<Cor 52>#M78<Cor 41><END>
+
+<Cor 43>#M79<Cor 41><END>
+
+<Cor 52>#M79<Cor 41><END>
+
+<Cor 43>#M80 : Hymn -- Anima<Cor 41><END>
+
+<Cor 52>#M80<Cor 41><END>
+
+<Cor 43>#M81 : Hymn -- Ixion<Cor 41><END>
+
+<Cor 52>#M81<Cor 41><END>
+
+<Cor 43>#M82 : Hymn -- Yojimbo<Cor 41><END>
+
+<Cor 52>#M82<Cor 41><END>
+
+<Cor 43>#M83 : Hymn -- Ifrit<Cor 41><END>
+
+<Cor 52>#M83<Cor 41><END>
+
+<Cor 43>#M84 : Hymn -- Shiva<Cor 41><END>
+
+<Cor 52>#M84<Cor 41><END>
+
+<Cor 43>#M85 : Hymn - Valefor<Cor 41><END>
+
+<Cor 52>#M85<Cor 41><END>
+
+<Cor 43>#M86<Cor 41><END>
+
+<Cor 52>#M86<Cor 41><END>
+
+<Cor 43>#M87<Cor 41><END>
+
+<Cor 52>#M87<Cor 41><END>
+
+<Cor 43>#M88<Cor 41><END>
+
+<Cor 52>#M88<Cor 41><END>
+
+<Cor 43>#M89<Cor 41><END>
+
+<Cor 52>#M89<Cor 41><END>
+
+<Cor 43>#M90<Cor 41><END>
+
+<Cor 52>#M90<Cor 41><END>
+
+<Cor 43>#M91<Cor 41><END>
+
+<Cor 52>#M91<Cor 41><END>
+
+<Cor 43>#M92<Cor 41><END>
+
+<Cor 52>#M92<Cor 41><END>
+
+<Cor 52>File not found.<Cor 41><END>
+
+Top Page      Page: 11<END>
+
+<TEXT>
+Currently owned: <VAR12 33>/<VAR12 34><END>
+
+<TEXT>
+You don't have a Movie Sphere.<END>
+
+<TEXT>
+[Botão Círculo]: Play<NL>
+[Botão START]: Cancel<END>
+
+[Tidus]<NL>
+[Auron]!<END>
+
+[Tidus]<NL>
+[Auron]!<END>
+
+[Auron]<NL>
+You are sure?<END>
+
+[Auron]<NL>
+This is it.<END>
+
+[Auron]<NL>
+This is your story.<END>
+
+[Auron]<NL>
+It all begins here.<END>
+
+<NL>
+Whoa-ho!<END>
+
+<NL>
+I've done it.<NL>
+I have become a summoner!<END>
+
+[Lulu]<NL>
+He does look a lot like [Chappu].<NL>
+I was surprised, too,<NL>
+the first time I saw him.<END>
+
+[Lulu]<NL>
+But no matter what he<NL>
+looks like, he isn't [Chappu].<END>
+
+[Lulu]<NL>
+You shouldn't have brought<NL>
+him here in the first place!<END>
+
+[Wakka]<NL>
+Yeah, but...he needed our help!<END>
+
+[Lulu]<NL>
+Excuses again?<END>
+
+[Wakka]<NL>
+Yeah, but... <END>
+
+[Lulu]<NL>
+That's it. No more.<NL>
+Enough, [Wakka]!<END>
+
+<NL>
+Ladies and gentlemen, the day<NL>
+we've all been waiting for!<END>
+
+<NL>
+The opening tournament<NL>
+of the season!<END>
+
+<NL>
+This event is sponsored by [Yevon2].<END>
+
+<NL>
+And this year we celebrate<NL>
+[Maester Mika]'s 50th year in office.<END>
+
+<TEXT>
+[Lucil]<NL>
+Let's go!<END>
+
+<TEXT>
+<NL>
+Fire!<END>
+
+<TEXT>
+[Lucil]<NL>
+Charge!<END>
+
+<NL>
+Thought I was done for, back there.<END>
+
+[Seymor]<NL>
+This sphere is a reconstruction<NL>
+created from the thoughts of the<NL>
+dead that wander the [Farplane].<END>
+
+[Tidus]<NL>
+[Zanarkand]!<END>
+
+[Seymor]<NL>
+Correct. [Zanarkand]...<NL>
+as it looked one thousand years ago.<END>
+
+[Seymor]<NL>
+The great and wondrous<NL>
+machina city, [Zanarkand].<END>
+
+[Seymor]<NL>
+She once lived in this metropolis.<END>
+
+[Yuna]<NL>
+She, who?<END>
+
+[Kinoc]<NL>
+Fire!<END>
+
+[Seymor]<NL>
+Come.<END>
+
+[Seymor]<NL>
+Kill them.<END>
+
+<TEXT>
+[Tidus]<NL>
+[Yuna].<END>
+
+<NL>
+A city dead for a thousand years.<END>
+
+<NL>
+A city I had<NL>
+to see with my own eyes.<END>
+
+<NL>
+The end of [Yuna]'s journey.<END>
+
+<NL>
+The last chapter in my story.<END>
+
+[Tidus]<NL>
+[Yuna], I have to go.<END>
+
+[Tidus]<NL>
+I'm sorry I couldn't<NL>
+show you [Zanarkand].<END>
+
+[Tidus]<NL>
+Goodbye!<END>
+
+[Wakka]<NL>
+Hey!<END>
+
+[Rikku]<NL>
+We're gonna see you again...?<END>
+
+[Kimahri]<NL>
+[Yuna]!<END>
+
+[Yuna]<NL>
+I love you.<END>
+
+[Lulu]<NL>
+[Yuna], it's time.<END>
+
+[Yuna]<NL>
+Everyone...everyone has<NL>
+lost something precious.<END>
+
+[Yuna]<NL>
+Everyone here has lost<NL>
+homes, dreams, and friends.<END>
+
+[Yuna]<NL>
+Everybody...<END>
+
+[Yuna]<NL>
+Now, [Sin] is finally dead.<END>
+
+[Yuna]<NL>
+Now, [Spira] is ours again.<END>
+
+[Yuna]<NL>
+Working together...<END>
+
+[Yuna]<NL>
+Now we can make new homes<NL>
+for ourselves, and new dreams.<END>
+
+[Yuna]<NL>
+Although I know the journey<NL>
+will be hard, we have lots of time.<END>
+
+[Yuna]<NL>
+Together, we will rebuild [Spira].<END>
+
+[Yuna]<NL>
+The road is ahead of us,<NL>
+so let's start out today.<END>
+
+[Yuna]<NL>
+Just, one more thing...<END>
+
+[Yuna]<NL>
+The people and the friends we have lost,<NL>
+or the dreams that have faded...<END>
+
+[Yuna]<NL>
+Never forget them.<END>
+
+#01 : Zanarkand<END>
+
+<Cor 52>#01 : --------<Cor 41><END>
+
+#02 : We Called It "Sin"<END>
+
+<Cor 52>#02 : --------<Cor 41><END>
+
+#03 : Sinspawn<END>
+
+<Cor 52>#03 : --------<Cor 41><END>
+
+#04 : This Is It!<END>
+
+<Cor 52>#04 : --------<Cor 41><END>
+
+#05 : Blitzball!<END>
+
+<Cor 52>#05 : --------<Cor 41><END>
+
+#06 : A Summoner Is Born<END>
+
+<Cor 52>#06 : --------<Cor 41><END>
+
+#07 : Lulu's Contempt<END>
+
+<Cor 52>#07 : --------<Cor 41><END>
+
+#08 : Kimahri's Challenge<END>
+
+<Cor 52>#08 : --------<Cor 41><END>
+
+#09 : Fear On The Sea<END>
+
+<Cor 52>#09 : --------<Cor 41><END>
+
+#10 : Sin Arises<END>
+
+<Cor 52>#10 : --------<Cor 41><END>
+
+#11 : Sin's Threat<END>
+
+<Cor 52>#11 : --------<Cor 41><END>
+
+#12 : Futile Resistance<END>
+
+<Cor 52>#12 : --------<Cor 41><END>
+
+#13 : Failure<END>
+
+<Cor 52>#13 : --------<Cor 41><END>
+
+#14 : Kilika Dusk<END>
+
+<Cor 52>#14 : --------<Cor 41><END>
+
+#15 : The Dance<END>
+
+<Cor 52>#15 : --------<Cor 41><END>
+
+#16 : Luca Harbor<END>
+
+<Cor 52>#16 : --------<Cor 41><END>
+
+#17 : Let The Games Begin!<END>
+
+<Cor 52>#17 : --------<Cor 41><END>
+
+#18 : The Legend Lives<END>
+
+<Cor 52>#18 : --------<Cor 41><END>
+
+#19 : The Dark Aeon<END>
+
+<Cor 52>#19 : --------<Cor 41><END>
+
+#20 : No Better Plan<END>
+
+<Cor 52>#20 : --------<Cor 41><END>
+
+#21 : Judgment<END>
+
+<Cor 52>#21 : --------<Cor 41><END>
+
+#22 : Ex Machina<END>
+
+<Cor 52>#22 : --------<Cor 41><END>
+
+#23 : Sin's Wake<END>
+
+<Cor 52>#23 : --------<Cor 41><END>
+
+#24 : Reunion<END>
+
+<Cor 52>#24 : --------<Cor 41><END>
+
+#25 : Metropolis<END>
+
+<Cor 52>#25 : --------<Cor 41><END>
+
+#26 : Otherworld<END>
+
+<Cor 52>#26 : --------<Cor 41><END>
+
+#27 : Sin Sleeps<END>
+
+<Cor 52>#27 : --------<Cor 41><END>
+
+#28 : Homecoming<END>
+
+<Cor 52>#28 : --------<Cor 41><END>
+
+#29 : Dry Dock<END>
+
+<Cor 52>#29 : --------<Cor 41><END>
+
+#30 : Nayto Du Ku!<END>
+
+<Cor 52>#30 : --------<Cor 41><END>
+
+#31 : Leaving Home<END>
+
+<Cor 52>#31 : --------<Cor 41><END>
+
+#32 : The Glory Of Yevon<END>
+
+<Cor 52>#32 : --------<Cor 41><END>
+
+#33 : The Red Carpet<END>
+
+<Cor 52>#33 : --------<Cor 41><END>
+
+#34 : False Vows<END>
+
+<Cor 52>#34 : --------<Cor 41><END>
+
+#35 : Believe<END>
+
+<Cor 52>#35 : --------<Cor 41><END>
+
+#36 : The Spring<END>
+
+<Cor 52>#36 : --------<Cor 41><END>
+
+#37 : The Summit<END>
+
+<Cor 52>#37 : --------<Cor 41><END>
+
+#38 : The Last Chapter<END>
+
+<Cor 52>#38 : --------<Cor 41><END>
+
+#39 : Sinrise<END>
+
+<Cor 52>#39 : --------<Cor 41><END>
+
+#40 : Departure<END>
+
+<Cor 52>#40 : --------<Cor 41><END>
+
+#41 : The Approach<END>
+
+<Cor 52>#41 : --------<Cor 41><END>
+
+#42 : Terra Graviton<END>
+
+<Cor 52>#42 : --------<Cor 41><END>
+
+#43 : Gravity Sucks<END>
+
+<Cor 52>#43 : --------<Cor 41><END>
+
+#44 : Heaven's Fall<END>
+
+<Cor 52>#44 : --------<Cor 41><END>
+
+#45 : Vena!<END>
+
+<Cor 52>#45 : --------<Cor 41><END>
+
+#46 : Machina Redux<END>
+
+<Cor 52>#46 : --------<Cor 41><END>
+
+#47 : Sinfall<END>
+
+<Cor 52>#47 : --------<Cor 41><END>
+
+#48 : Evenfall<END>
+
+<Cor 52>#48 : --------<Cor 41><END>
+
+#49 : Face Off<END>
+
+<Cor 52>#49 : --------<Cor 41><END>
+
+#50 : Breaking Through<END>
+
+<Cor 52>#50 : --------<Cor 41><END>
+
+<Cor 43>#51 : Crybaby<Cor 41><END>
+
+<Cor 52>#51 : --------<Cor 41><END>
+
+<Cor 43>#52 : Never Forget<Cor 41><END>
+
+<Cor 52>#52 : --------<Cor 41><END>
+
+<Cor 43>#53 : Reentry<Cor 41><END>
+
+<Cor 52>#53 : --------<Cor 41><END>
+
+<NL>
+          <END>
+
+<TEXT>
+Init theater variables.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,186 @@
+[Tidus]<NL>
+What do you want?<END>
+
+[Auron]<NL>
+It was a bad call.<END>
+
+[Auron]<NL>
+Your team lost because of you.<END>
+
+[Tidus]<NL>
+You came to say THAT?<END>
+
+[Auron]<NL>
+It's been...ten years.<END>
+
+<NL>
+          <END>
+
+[Auron]<NL>
+I thought you'd be crying.<END>
+
+[Tidus]<NL>
+Who, me?<END>
+
+<NL>
+You cried.<END>
+
+Fayth<NL>
+Welcome home.<END>
+
+[Tidus]<NL>
+You...<END>
+
+Fayth<NL>
+Remember me?<NL>
+We met in [Bevelle].<END>
+
+[Tidus]<NL>
+Yeah.<END>
+
+Fayth<NL>
+But that wasn't the first time we met.<END>
+
+Fayth<NL>
+I've known about you for a long time.<NL>
+A long, long time.<END>
+
+[Tidus]<NL>
+I...I feel like I know you, too.<END>
+
+[Tidus]<NL>
+Where are we?<END>
+
+Fayth<NL>
+Silly, don't recognize<NL>
+your own home?<END>
+
+[Tidus]<NL>
+Huh? Wait a sec.<END>
+
+[Wakka]<NL>
+What's gotten into you? Hey!<END>
+
+[Rikku]<NL>
+Wake up! Wake up!<END>
+
+[Tidus]<NL>
+Wait...this is a dream.<END>
+
+Fayth<NL>
+Precisely.<END>
+
+[Tidus]<NL>
+A dream?<END>
+
+[Tidus]<NL>
+Are you crazy?<END>
+
+[Tidus]<NL>
+I don't have time to be<NL>
+dreaming now!<END>
+
+Fayth<NL>
+You're wrong.<END>
+
+Fayth<NL>
+It's not that you're dreaming.<NL>
+You are a dream.<END>
+
+<NL>
+          <END>
+
+Fayth<NL>
+You really don't remember?<NL>
+Does this ring any bells?<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

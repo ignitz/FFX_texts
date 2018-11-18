@@ -1,0 +1,346 @@
+[Tidus]<NL>
+Something up there?<END>
+
+[Lulu]<NL>
+Let's go!<END>
+
+<TEXT>
+<Cor 43>Lightning and Shadows<Cor 41><NL>
+Strike the final blow upon<NL>
+the summoner that appears<NL>
+with the thunder's roar!<END>
+
+[Yuna]<NL>
+Everyone...wait.<END>
+
+[Wakka]<NL>
+What's up?<END>
+
+[Yuna]<NL>
+I have something to tell you.<END>
+
+[Lulu]<NL>
+Here?<END>
+
+[Rikku]<NL>
+We're almost out of here! Let's go!<END>
+
+[Yuna]<NL>
+I have to say it now!<END>
+
+[Auron]<NL>
+Over there.<END>
+
+<NL>
+Somehow, my bad feelings<NL>
+always come true.<END>
+
+[Yuna]<NL>
+I've decided to marry.<END>
+
+[Lulu]<NL>
+I thought so.<END>
+
+<NL>
+<END>
+
+[Wakka]<NL>
+B-But why?<NL>
+Why'd you change your mind?<END>
+
+[Yuna]<NL>
+For [Spira]'s future...<NL>
+and [Yevon2]'s unity.<END>
+
+[Yuna]<NL>
+I thought it would<NL>
+be the best thing to do.<END>
+
+[Auron]<NL>
+That's not good enough.<END>
+
+[Lulu]<NL>
+Wait, is it...<END>
+
+[Lulu]<NL>
+Is it because of Lord [Jyscal]?<END>
+
+[Tidus]<NL>
+Hey! That sphere!<END>
+
+[Auron]<NL>
+Show me.<END>
+
+[Wakka]<NL>
+You're kidding, ya?<END>
+
+[Auron]<NL>
+As you wish.<END>
+
+[Tidus]<NL>
+Wait a minute, [Auron]!<END>
+
+[Auron]<NL>
+No, I'm not.<END>
+
+[Tidus]<NL>
+But that's...<END>
+
+[Wakka]<NL>
+[Yuna], just one question.<END>
+
+[Wakka]<NL>
+Can't you just talk<NL>
+to Maester [Seymor]?<END>
+
+[Wakka]<NL>
+You've got to marry him?<END>
+
+[Yuna]<NL>
+I don't know.<END>
+
+[Yuna]<NL>
+But I think it is the right thing to do.<END>
+
+[Wakka]<NL>
+Okay, I guess.<END>
+
+[Rikku]<NL>
+[Yunie]...<END>
+
+[Rikku]<NL>
+Quiet!<END>
+
+[Rikku]<NL>
+I wish we could help somehow, some way!<END>
+
+[Yuna]<NL>
+It's okay...<NL>
+I'll be fine.<END>
+
+<NL>
+She says, "I'm sorry."<NL>
+He says, "It's fine."<END>
+
+<NL>
+She's "willing" to face [Sin].<NL>
+She's "privileged."<END>
+
+<NL>
+I didn't understand.<END>
+
+<NL>
+But somehow,<NL>
+I felt like I didn't belong.<END>
+
+<NL>
+But if I didn't belong with them,<NL>
+I'd be stuck in [Spira], alone.<END>
+
+<NL>
+And being alone in that place, well,<NL>
+I didn't want to think about it.<END>
+
+[Auron]<NL>
+Next, we're going<NL>
+to <Cor 88>[Macalania Temple]<Cor 41>.<END>
+
+[Auron]<NL>
+[Yuna] can talk with<NL>
+[Seymor] there.<END>
+
+[Auron]<NL>
+We guardians will wait until they're<NL>
+done, and plan our next move.<END>
+
+[Auron]<NL>
+Understood?<END>
+
+[Yuna]<NL>
+I can't.<END>
+
+[Yuna]<NL>
+I must speak to<NL>
+Maester [Seymor] first.<END>
+
+[Yuna]<NL>
+I truly am sorry,<NL>
+but this is...<END>
+
+[Yuna]<NL>
+It is a personal matter.<END>
+
+[Yuna]<NL>
+I'm sorry.<END>
+
+[Auron]<NL>
+Just one thing.<END>
+
+[Yuna]<NL>
+I won't quit my pilgrimage.<END>
+
+[Auron]<NL>
+Then it is...fine.<END>
+
+[Tidus]<NL>
+You don't care? I mean,<NL>
+you're not going to stop her?<END>
+
+[Auron]<NL>
+As long as she is<NL>
+willing to face [Sin]...<END>
+
+[Auron]<NL>
+all else is her concern.<END>
+
+[Auron]<NL>
+That is a summoner's privilege.<NL>
+As long as she journeys.<END>
+
+<TEXT>
+<NL>
+You heathen!<END>
+
+<NL>
+A strange stone.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<NL>
+The password is...<NEWPAGE>
+<NL>
+MURASAME<END>
+
+<TEXT>
+<NL>
+Something is written here.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

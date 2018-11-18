@@ -1,0 +1,478 @@
+<NL>
+<END>
+
+<NL>
+I turned away for a second,<NL>
+and look what happened!<END>
+
+<NL>
+Sorry for the inconvenience.<NL>
+You'll have to go around the other<NL>
+way while I get this under control.<END>
+
+<NL>
+The [Al Bhed] must be behind this!<NL>
+How dare they!<END>
+
+<NL>
+I'll have these crates moved<NL>
+in no time, sir!<END>
+
+<NL>
+This is <Cor 88>dock number 5<Cor 41>.<NL>
+<Cor 88>Dock number 4<Cor 41> lies straight ahead.<END>
+
+<NL>
+If you're looking for the <Cor 88>entrance<Cor 41>,<NL>
+please go back the other way.<END>
+
+<NL>
+If guard duty's taught me anything,<NL>
+it's the importance of checking every<NL>
+nook and cranny. Trust me, it pays off.<END>
+
+<NL>
+Cargo is scattered all over the place!<NL>
+I can't bear to look at this mess!<END>
+
+<NL>
+This dock is so quiet compared<NL>
+to the others.<END>
+
+<NL>
+I can finally do business in other locales,<NL>
+now that the ferries are operating.<END>
+
+<NL>
+I was lost when I left the temple,<NL>
+not knowing what to believe anymore.<END>
+
+<NL>
+If you ever need assistance,<NL>
+just ask us.<END>
+
+<NL>
+There's a flying ship at dock number 1!<NL>
+Why don't you go check it out?<END>
+
+<NL>
+With so many warrior monks here, I don't<NL>
+know whether to feel safe or threatened.<END>
+
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+<NL>
+Warrior monks run away to [Bevelle].<NL>
+They abandon the people.<NL>
+Should hide their faces in shame.<END>
+
+<NL>
+[Al Bhed] ship leave [Luca].<NL>
+No one knows where they go.<END>
+
+<NL>
+[Luca] too hot for [Ronso].<END>
+
+<NL>
+Cannot pass.<END>
+
+[Tidus]<NL>
+What is this!?<END>
+
+[Lulu]<NL>
+Must be the [Al Bhed]'s doing.<NL>
+Let's go the other way.<END>
+
+[Tidus]<NL>
+Damn it!<END>
+
+[Tidus]<NL>
+Hey, you!<NL>
+Don't just stand there!<NL>
+All of this is your fault!<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+I'm telling you,<NL>
+it's all your fault!<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+Who are you, anyway?<END>
+
+[Tidus]<NL>
+You knew my old man,<NL>
+didn't you?<END>
+
+[Auron]<NL>
+Yeah.<END>
+
+[Tidus]<NL>
+And you also knew<NL>
+[Yuna]'s father?<END>
+
+[Auron]<NL>
+That's correct.<END>
+
+<NL>
+<END>
+
+[Auron]<NL>
+[Jecht], [Braska], and I... Together<NL>
+we defeated [Sin] ten years ago.<END>
+
+<NL>
+<END>
+
+[Auron]<NL>
+So that one day I could<NL>
+bring you to [Spira].<END>
+
+[Tidus]<NL>
+Why did it have to be me?<END>
+
+[Auron]<NL>
+[Jecht] asked me to.<END>
+
+[Tidus]<NL>
+Is he alive?<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+[Auron]<NL>
+I felt something of [Jecht] there<NL>
+in that shell, couldn't you?<END>
+
+[Auron]<NL>
+You must have felt him when<NL>
+you came in contact with [Sin].<END>
+
+<NL>
+<END>
+
+[Auron]<NL>
+It is.<NL>
+[Sin] is [Jecht].<END>
+
+<NL>
+<END>
+
+[Auron]<NL>
+But it is the truth.<END>
+
+[Auron]<NL>
+You'll see for yourself.<END>
+
+<NL>
+<END>
+
+[Auron]<NL>
+Every story must have an ending.<END>
+
+[Tidus]<NL>
+I don't care about your stories!<END>
+
+[Auron]<NL>
+I see. Sorry you<NL>
+feel that way.<END>
+
+[Auron]<NL>
+Fine, then.<NL>
+Come or don't come.<NL>
+It's your decision.<END>
+
+<NL>
+<END>
+
+[Auron]<NL>
+Irritating, I know.<NL>
+Or are you afraid?<END>
+
+<NL>
+<END>
+
+[Auron]<NL>
+It's all right.<END>
+
+[Tidus]<NL>
+[Auron]?<END>
+
+[Tidus]<NL>
+Will I ever go home?<NL>
+Back to [Zanarkand]?<END>
+
+[Auron]<NL>
+That's up to [Jecht].<END>
+
+[Auron]<NL>
+I'm going to offer my<NL>
+services to [Yuna]. Come.<END>
+
+[Tidus]<NL>
+Gettin' swallowed by [Sin]!<NL>
+Ending up here in [Spira]!<END>
+
+[Tidus]<NL>
+Not being able to go back to<NL>
+[Zanarkand]--everything,<NL>
+everything!<END>
+
+[Tidus]<NL>
+Hey, man, there's no way.<NL>
+That's just impossible.<END>
+
+[Auron]<NL>
+Nothing impossible about it.<END>
+
+[Auron]<NL>
+Then I went to [Zanarkand]...<END>
+
+[Auron]<NL>
+where I watched over you.<END>
+
+[Auron]<NL>
+It depends on what<NL>
+you mean by "alive."<END>
+
+[Auron]<NL>
+He is no longer human.<END>
+
+[Auron]<NL>
+But then...<END>
+
+[Tidus]<NL>
+It can't be...<END>
+
+[Tidus]<NL>
+No! That's ridiculous!<NL>
+No way!<END>
+
+[Tidus]<NL>
+I don't believe you!<END>
+
+[Auron]<NL>
+Come with me.<END>
+
+[Tidus]<NL>
+If I say no?<END>
+
+[Tidus]<NL>
+What am I supposed to say?<END>
+
+[Tidus]<NL>
+You tell me it's my decision...<END>
+
+[Tidus]<NL>
+But I don't have a choice, do I?<END>
+
+[Tidus]<NL>
+You're the only one who can tell<NL>
+me what's going on, anyways!<END>
+
+[Tidus]<NL>
+I have to go with you!<NL>
+I have to!<END>
+
+<TEXT>
+Map Debug Menu<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Update Map Data<NL>
+    <CHOICE3>Wait Count<NL>
+    <CHOICE4>Motion Frame<NL>
+    <CHOICE5>Playback Capture<NL>
+    <CHOICE6>Control Object<NL>
+    <CHOICE7>Invisible<NL>
+    <CHOICE8>Control Map Line<NL>
+    <CHOICE9>Return to Saito<END>
+
+<TEXT>
+Capture Menu<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>For Work<NL>
+    <CHOICE3>From Beginning<END>
+
+<TEXT>
+Frame  :  <CHOICE???>D<END>
+
+<TEXT>
+Wait Count<NL>
+    <CHOICE1>End Settings<NL>
+    <CHOICE2>01      <CHOICE7>06<NL>
+    <CHOICE3>02      <CHOICE8>07<NL>
+    <CHOICE4>03      <CHOICE9>08<NL>
+    <CHOICE5>04      <CHOICE???>909<NL>
+    <CHOICE6>05      <CHOICE???> 10<END>
+
+<TEXT>
+Wait<VAR12 30>  :  <CHOICE???>D<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

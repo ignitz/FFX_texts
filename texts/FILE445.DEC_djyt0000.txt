@@ -1,0 +1,429 @@
+[Tidus]<NL>
+Is that the [Djose] temple?<END>
+
+[Lucil]<NL>
+[Yuna], it is good to see you<NL>
+and your companions are well.<END>
+
+[Yuna]<NL>
+Yourselves as well, Captain.<NL>
+We were worried. Praise be to [Yevon2]!<END>
+
+[Lucil]<NL>
+We escaped with our lives, but<NL>
+our troops were decimated.<END>
+
+[Elma]<NL>
+Of all our chocobos,<NL>
+only this one made it.<END>
+
+[Clasko]<NL>
+We make pretty poor Chocobo Mounted<NL>
+Forces without chocobos.<NL>
+<END>
+
+[Lucil]<NL>
+We turned our backs on the teachings<NL>
+and cast away our faith.<END>
+
+[Lucil]<NL>
+This...this is our just reward.<END>
+
+[Lucil]<NL>
+Off so early?<END>
+
+[Lucil]<NL>
+Lady [Yuna], you must be exhausted<NL>
+after working so hard last night.<NL>
+Will you be okay?<END>
+
+[Yuna]<NL>
+I feel that I have rested enough.<NL>
+But, thank you for your kindness!<END>
+
+[Yuna]<NL>
+Will you be leaving, too?<END>
+
+[Lucil]<NL>
+Yes, first we cross the [Moonflow],<NL>
+and then we head north in search of<NL>
+chocobos to replace those we have lost.<END>
+
+[Elma]<NL>
+Once we find chocobos, our<NL>
+Mounted Forces will ride again!<END>
+
+[Tidus]<NL>
+Huh?<NL>
+Aren't you missing someone?<END>
+
+[Clasko]<NL>
+Captain!<NL>
+Waaaaait for meee!<END>
+
+[Elma]<NL>
+What took you so long?<NL>
+We're leaving!<END>
+
+[Clasko]<NL>
+You expect me to keep<NL>
+up with a chocobo!?<END>
+
+[Lucil]<NL>
+Lady [Yuna], I wish you good fortune.<NL>
+[Elma]! [Clasko]! Let's go!<END>
+
+[Elma]<NL>
+Ma'am!<END>
+
+[Clasko]<NL>
+Eh!? C-Can't I just rest a sec...?<END>
+
+[Elma]<NL>
+No complaints!<END>
+
+<NL>
+No traitors allowed!<END>
+
+<NL>
+Stay away from the temple!<NL>
+Leave at once!<END>
+
+<NL>
+Try to understand our position.<NL>
+We'd rather not do this, believe me.<END>
+
+<NL>
+Traitors! Just kidding.<NL>
+Sorry about all that fuss.<END>
+
+<NL>
+Hey, it's been a long time!<NL>
+How's it going?<END>
+
+<NL>
+We're behind you all the way!<NL>
+Good luck!<END>
+
+<NL>
+Good luck.<NL>
+Destroy [Sin] for us all, all right?<END>
+
+<NL>
+Come back anytime!<END>
+
+<NL>
+Take care!<NL>
+Damn, I wish we could go with you!<END>
+
+[Lucil]<NL>
+So many died in vain...<NL>
+It was a mistake.<END>
+
+[Elma]<NL>
+It's just you, now. But don't worry,<NL>
+we're here for you!<NL>
+<END>
+
+[Clasko]<NL>
+We should never have<NL>
+ignored the teachings.<END>
+
+<NL>
+You can't defeat [Sin] with machina.<NL>
+The summoners are our only hope.<NEWPAGE>
+<NL>
+[Yevon2]'s teachings are the way.<NL>
+The [Crusader]s were fools for defying them.<END>
+
+<NL>
+Here, take this.<NL>
+I don't need it anymore.<END>
+
+<NL>
+We should live according to the teachings.<NL>
+I learned that the hard way.<END>
+
+<NL>
+The [Crusader]s have fallen apart, so<NL>
+I'm going to help out with guard duty<NL>
+here at the temple for a while.<NEWPAGE>
+<NL>
+It's the least I can do to repay them<NL>
+for taking us in.<END>
+
+<NL>
+Maybe I should quit the [Crusader]s<NL>
+and become a warrior monk.<END>
+
+<NL>
+The temple's security is pretty tight.<NEWPAGE>
+<NL>
+This place is guarded so well, ain't<NL>
+no way any fiends or traitors will get in.<END>
+
+<NL>
+I hear Lady [Yuna]'s getting married.<NL>
+Shucks, I'm her biggest fan.<NEWPAGE>
+<NL>
+I'll be on duty at the wedding, to make<NL>
+sure nothing happens there.<END>
+
+<NL>
+We're facing tough times. The monks<NL>
+all seem dejected, and hardly anyone<NL>
+visits the temple anymore.<NEWPAGE>
+<NL>
+I'm okay, though. I'll live by the<NL>
+teachings no matter what.<END>
+
+<NL>
+The warrior monks left for [Bevelle],<NL>
+so it's our job to protect this temple.<END>
+
+<NL>
+I beat myself up all night for taking<NL>
+part in that disastrous operation.<NEWPAGE>
+<NL>
+Then a monk told me that if I had time<NL>
+for remorse, I should spend it praying.<NEWPAGE>
+<NL>
+He's right. It's my duty to pray<NL>
+for my departed men.<END>
+
+<NL>
+The monk gave me this, but<NL>
+I think you should have it.<END>
+
+<NL>
+I will pray for all my lost comrades.<END>
+
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+<NL>
+Guarding the temple is my duty.<NL>
+I'm trying to stay focused and<NL>
+not worry about anything else.<END>
+
+<NL>
+Frankly, this isn't half as exciting<NL>
+as devising strategies against [Sin].<NEWPAGE>
+<NL>
+I wouldn't mind leading my old<NL>
+troops into battle right now.<END>
+
+<NL>
+More and more people question<NL>
+the teachings these days.<NEWPAGE>
+<NL>
+I only hope it doesn't lead to another<NL>
+tragedy like [Operation Mi'ihen].<END>
+
+<NL>
+The [Crusader]s defied the teachings, and<NL>
+look at what happened to them! Once you're<NL>
+on the [Farplane], there's no turning back!<END>
+
+<NL>
+The [Crusader]s deeply regret<NL>
+their actions.<NEWPAGE>
+<NL>
+I believe it's time to put the past<NL>
+behind us and forgive them.<NEWPAGE>
+<NL>
+Yevon shall forgive those who<NL>
+seek redemption.<END>
+
+<NL>
+Should you need a place to recuperate,<NL>
+please return. You are always welcome here.<END>
+
+<NL>
+I believe the wounded soldiers<NL>
+will find solace in our prayers.<END>
+
+<NL>
+This is [Djose] Temple, located at the<NL>
+heart of the [Djose Continent].<NEWPAGE>
+<NL>
+Please feel free to rest here.<END>
+
+<NL>
+There is nothing I can do but pray.<NL>
+My faith in [Yevon2] will never die.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

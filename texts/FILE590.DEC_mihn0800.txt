@@ -1,0 +1,461 @@
+[Gatta]<NL>
+Hey!<END>
+
+[Gatta]<NL>
+Hey, we saw the game!<NL>
+You guys were great!<END>
+
+[Luzzu]<NL>
+Congratulations, [Wakka]!<END>
+
+[Luzzu]<NL>
+It was close, [Wakka].<END>
+
+[Elma]<NL>
+Hey! Stop loafing around!<END>
+
+[Gatta]<NL>
+Uh... The lady summoner<NL>
+and her guardians...<END>
+
+[Lucil]<NL>
+This mission requires our full attention.<NL>
+We've no time to waste!<END>
+
+[Lucil]<NL>
+Understood?<END>
+
+[Luzzu]<NL>
+Yes, ma'am!<NL>
+Apologies, ma'am!<END>
+
+[Lucil]<NL>
+Carry on.<END>
+
+[Luzzu]<NL>
+See? Keep your head down,<NL>
+say "sir" a lot, and you'll do fine.<END>
+
+[Gatta]<NL>
+Right...sir.<END>
+
+[Luzzu]<NL>
+Hey, [Yuna].<END>
+
+[Luzzu]<NL>
+Even though [Yevon2] rejected us...<END>
+
+[Luzzu]<NL>
+we still believe in you.<NL>
+That won't ever change.<END>
+
+[Yuna]<NL>
+Thank you, Sir [Luzzu], Sir [Gatta].<END>
+
+[Yuna]<NL>
+But, you know... It's not too late<NL>
+for you to go back to [Besaid], and...<END>
+
+[Gatta]<NL>
+We should be going, sir!<END>
+
+<NL>
+We'll defeat [Sin] any way we can!<END>
+
+<NL>
+But [Yevon2]'s teachings say...<END>
+
+<NL>
+Enough!<END>
+
+<NL>
+I-I only meant to...<END>
+
+[Yuna]<NL>
+Are you all right?<END>
+
+<NL>
+Lady Summoner...?<END>
+
+[Yuna]<NL>
+Yes, I am [Yuna].<END>
+
+<NL>
+It is an honor, my lady.<END>
+
+<NL>
+My name is [Shelinda].<NL>
+I am a disciple of [Yevon2].<END>
+
+[Wakka]<NL>
+What was all that about?<NL>
+The [Crusader]s' operation?<END>
+
+[Tidus]<NL>
+You mean the one [Gatta] and<NL>
+[Luzzu] were talking about?<END>
+
+[Shelinda]<NL>
+I heard they were to use forbidden<NL>
+machina! I had to stop them.<END>
+
+[Tidus]<NL>
+Huh? Why?<END>
+
+[Lulu]<NL>
+The use of machina is strictly<NL>
+forbidden by the [Yevon2] priesthood.<END>
+
+[Wakka]<NL>
+That's bad, ya?<END>
+
+[Auron]<NL>
+Let them use whatever they want.<END>
+
+[Auron]<NL>
+They still won't defeat [Sin].<END>
+
+[Shelinda]<NL>
+But, it's not about defeating [Sin]!<END>
+
+[Shelinda]<NL>
+The teachings of Yevon must be upheld!<END>
+
+[Wakka]<NL>
+Yeah! Right!<END>
+
+[Shelinda]<NL>
+But you don't understand!<NL>
+The [Crusader]s won't even listen to me.<END>
+
+[Shelinda]<NL>
+And it's all because<NL>
+I'm just a lowly acolyte.<END>
+
+[Yuna]<NL>
+Don't say that.<END>
+
+[Yuna]<NL>
+Well, I haven't been a summoner<NL>
+for very long myself, you see.<END>
+
+[Yuna]<NL>
+Still, I can't put myself<NL>
+down every time I fail.<END>
+
+[Yuna]<NL>
+People are depending on me.<NL>
+They're depending on both of us!<END>
+
+[Shelinda]<NL>
+Yes! Yes, you're right,<NL>
+my lady. Absolutely right!<END>
+
+[Shelinda]<NL>
+Thank you so much, Lady [Yuna]!<END>
+
+[Shelinda]<NL>
+Now I feel I have the courage<NL>
+to finish my training.<END>
+
+[Shelinda]<NL>
+I will do my best to get myself<NL>
+appointed to a temple, as a nun.<END>
+
+<NL>
+Here, take this. Just don't tell<NL>
+anybody that I was trembling.<END>
+
+<NL>
+There are lots of fiends, so stay sharp.<NL>
+Use this when the going gets tough.<END>
+
+<NL>
+Providing is preventing.<NL>
+Need I say more? This'll help.<END>
+
+<NL>
+Here's a little something to<NL>
+cheer you up before the big fight.<END>
+
+<NL>
+I stocked up on too many.<NL>
+Please take one, if you like.<END>
+
+<NL>
+I join the [Crusader]s and get thrown<NL>
+into a major operation right off the bat.<NEWPAGE>
+<NL>
+I mean, you can't blame me for<NL>
+getting the shakes.<END>
+
+<NL>
+I'm not scared. Don't get me wrong.<NL>
+I'm just trembling with fury!<END>
+
+<NL>
+Do you see that sign?<NEWPAGE>
+<NL>
+What a gaudy ad.<NL>
+They're way out of line.<END>
+
+<NL>
+It's not good once those guys get going.<END>
+
+<NL>
+The young guns believe everything<NL>
+will go as planned.<NEWPAGE>
+<NL>
+We veterans know otherwise;<NL>
+it's not going to be easy.<END>
+
+<NL>
+Of course when the time comes,<NL>
+we'll march in full force to victory.<NEWPAGE>
+<NL>
+Victory must be the goal<NL>
+to win any battle.<END>
+
+<NL>
+They say luck decides the<NL>
+battle, but we can't afford to lose.<END>
+
+<NL>
+I'm gonna vanquish [Sin] and<NL>
+return home a hero.<END>
+
+<NL>
+Us [Crusader]s... We're gonna make<NL>
+history with this operation.<NEWPAGE>
+<NL>
+For the first time, people other<NL>
+than summoners will defeat [Sin].<END>
+
+<NL>
+No doubt we're gonna win. And just in<NL>
+case, we have an ace up our sleeves, too.<END>
+
+<NL>
+Once the order is given,<NL>
+I'll be fighting on the front line.<NEWPAGE>
+<NL>
+That's everything we've trained for.<END>
+
+<NL>
+[High Summoner Yocun], who slew [Sin],<NL>
+started as a [Crusader].<END>
+
+<NL>
+If I fight as valiantly as Lady [Yocun]<NL>
+will I, too, receive [Yevon2]'s blessing?<END>
+
+<NL>
+Just the other day the [Crusader]s<NL>
+marched through here.<NEWPAGE>
+<NL>
+Sure is quiet now.<END>
+
+<NL>
+I suppose only a summoner can defeat [Sin].<NL>
+The teachings are right after all.<END>
+
+<NL>
+A quiet, beautiful day, eh?<END>
+
+<NL>
+I don't scare much anymore.<NL>
+Must be my age.<NEWPAGE>
+<NL>
+If [Sin] happens to show up, so be it.<NEWPAGE>
+<NL>
+I'll just pray as the teachings tell me,<NL>
+and go straight to the [Farplane].<END>
+
+<NL>
+A quiet, beautiful day, eh?<END>
+
+<NL>
+A bunch of wounded [Crusader]s<NL>
+passed by moments ago.<NEWPAGE>
+<NL>
+They were all hanging their heads,<NL>
+crestfallen. It was too painful to watch.<END>
+
+<NL>
+Cruel punishment for defying the<NL>
+teachings... Too cruel, I'd say.<END>
+
+<NL>
+I thought about joining the [Crusader]s, but<NL>
+maybe I should join the warrior monks instead.<END>
+
+<NL>
+The collapse of the [Crusader]s,<NL>
+the conflict in [Bevelle]...<NEWPAGE>
+<NL>
+I fear for [Spira]'s future.<END>
+
+<NL>
+All we can do is trust the summoners.<NL>
+I feel so helpless.<END>
+
+<NL>
+Our [Home] was blown to smithreens.<NL>
+I am trying not to think about it.<END>
+
+<NL>
+It is good to take a walk like this.<NEWPAGE>
+<NL>
+Sometimes I catch the rascal who<NL>
+scribbles graffiti in [Al Bhed3].<END>
+
+<NL>
+You probably do not know what<NL>
+I am saying.<NEWPAGE>
+<NL>
+I am sorry to waste your time.<END>
+
+<NL>
+You look awful depressed,<NL>
+and it's such a beautiful day.<END>
+
+<NL>
+When I'm feeling down, I come<NL>
+here and take a walk.<NEWPAGE>
+<NL>
+Nothing like a breath of fresh<NL>
+air to clear your mind.<END>
+
+<NL>
+There are some things that can't be helped.<END>
+
+<NL>
+There are more and more [Al Bhed2]s coming<NL>
+here. I don't know if it's good or bad.<NL>
+<END>
+
+<NL>
+I'm still not comfortable being<NL>
+around [Al Bhed].<NEWPAGE>
+<NL>
+Maybe I should get to know them,<NL>
+but I don't speak the language.<END>
+
+<NL>
+Sorry. I don' feel like talking anymore.<NL>
+<END>
+
+<NL>
+Just leave me alone.<END>
+
+<NL>
+I took a bad hit fighting [Sin].<NL>
+I couldn't walk for a while.<NEWPAGE>
+<NL>
+I'm all good now, and back to<NL>
+guarding the Highroad.<END>
+
+<NL>
+We couldn't defeat [Sin].<NEWPAGE>
+<NL>
+But at least we can protect<NL>
+the people from fiends.<END>
+
+<NL>
+We should focus on what we can do<NL>
+and not dwell on what we couldn't do.<END>
+
+<NL>
+Everybody looks calm, but they are<NL>
+still afraid of [Sin].<NEWPAGE>
+<NL>
+They will always be afraid.<END>
+
+<NL>
+I sang aloud to release all of my anxiety.<NEWPAGE>
+<NL>
+I was so desperate at the time.<END>
+
+<NL>
+I'm gonna sing whenever I see the<NL>
+flying ship; I can't help but sing.<END>
+
+<NL>
+That flying ship will bring about the Calm.<END>
+
+<NL>
+Even for a moment, a fleeting Calm,<NL>
+I want to feel peace from my heart.<END>
+
+<NL>
+I'm going to live to see the day<NL>
+the Calm dawns on us.<END>
+
+<NL>
+Fiends often appear here, but<NL>
+people pass through here, regardless.<END>
+
+<NL>
+[Sin]'s terrible attacks continue, and<NL>
+the fiends' threats persist...<NEWPAGE>
+<NL>
+Yet people continue to move on.<END>
+
+<NL>
+Still, fiends are frightening as always.<END>
+
+<NL>
+I wush walking and ended up here.<NL>
+Where am I? What plashe ish thish?<END>
+
+<NL>
+There ish a shtatue ober there.<NL>
+Shtatue of shumone big?<NEWPAGE>
+<NL>
+Shtatue like it I've sheen shomewhere elshe.<NL>
+Have you sheen it? Or have you not?<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

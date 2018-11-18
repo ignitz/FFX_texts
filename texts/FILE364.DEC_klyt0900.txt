@@ -1,0 +1,202 @@
+<TEXT>
+<CHOICE1>Go inside.<NL>
+<CHOICE2>Wait here.<END>
+
+[Wakka]<NL>
+The [fayth] is below. Let's do it!<END>
+
+[Tidus]<NL>
+The "[fayth]"?<END>
+
+[Lulu]<NL>
+But first, the Cloister of Trials.<NL>
+[Kimahri]? [Wakka]? Ready?<END>
+
+[Yuna]<NL>
+Strength, everyone!<END>
+
+[Tidus]<NL>
+Hey, what gives?<END>
+
+[Lulu]<NL>
+You're not a guardian yet.<END>
+
+[Yuna]<NL>
+We'll be back as soon as we can, okay?<END>
+
+[Tidus]<NL>
+Oh, sure!<NL>
+Soon like "tomorrow" soon, I bet!<END>
+
+[Dona]<NL>
+Where's [Yuna]?<END>
+
+[Dona]<NL>
+Then why are you here?<END>
+
+[Tidus]<NL>
+Hey, I'm not a guardian,<NL>
+so I'm not supposed to go in, right?<END>
+
+[Dona]<NL>
+Not a guardian, you say?<END>
+
+[Tidus]<NL>
+Hey! Wait!<END>
+
+[Tidus]<NL>
+Ah! Lemme go!<END>
+
+[Tidus]<NL>
+Hey! What's the big idea?<END>
+
+[Dona]<NL>
+Just a little game.<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+This is bad, really bad.<END>
+
+[Tidus]<NL>
+Only guardians allowed,<NL>
+and I'm sure no guardian.<END>
+
+[Tidus]<NL>
+Come on, go up! Go up!<END>
+
+[Tidus]<NL>
+Well, I guess it's too late now.<END>
+
+<NL>
+An intruder got into the<NL>
+Cloister of Trials.<END>
+
+<NL>
+Keep an eye out for anyone suspicious!<END>
+
+<TEXT>
+<NL>
+[Botão Círculo]: Down<END>
+
+<TEXT>
+<NL>
+[Botão Círculo]: Up<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

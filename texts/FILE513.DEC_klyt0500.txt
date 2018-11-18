@@ -1,0 +1,347 @@
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+<TEXT>
+<CHOICE1>Pray.<NL>
+<CHOICE2>Stand and watch.<END>
+
+[Wakka]<NL>
+Lord [Ohalland],<NL>
+guide our feet.<END>
+
+[Yuna]<NL>
+Please, let [Wakka]'s<NL>
+prayers be heard.<END>
+
+[Lulu]<NL>
+I think [Wakka] needs to<NL>
+do a little more praying.<END>
+
+<NL>
+A summoner, are you?<END>
+
+[Yuna]<NL>
+My name is [Yuna]--<NL>
+from the Isle of [Besaid].<END>
+
+<NL>
+[Dona].<END>
+
+[Dona]<NL>
+So, you're [High Summoner Braska]'s<NL>
+daughter. That's quite a name<NL>
+to live up to.<END>
+
+[Dona]<NL>
+My, my, my...<END>
+
+[Dona]<NL>
+And all these people are your<NL>
+guardians? My, what a rabble!<END>
+
+[Dona]<NL>
+As I recall, Lord [Braska]<NL>
+had only two guardians.<END>
+
+[Dona]<NL>
+Quality over quantity, my dear.<NL>
+Whatever were you thinking?<END>
+
+[Dona]<NL>
+I have need of only one guardian.<NL>
+Right, [Barthello]?<END>
+
+[Yuna]<NL>
+I only have as many guardians<NL>
+as there are people I can trust.<END>
+
+[Yuna]<NL>
+I trust them all with my life!<END>
+
+[Yuna]<NL>
+To have so many guardians<NL>
+is a joy, and an honor!<END>
+
+[Yuna]<NL>
+Even more so than<NL>
+being my father's daughter.<END>
+
+[Yuna]<NL>
+Of course, I would never think<NL>
+of questioning your ways, either.<END>
+
+[Yuna]<NL>
+So, Lady [Dona], I ask of you:<NL>
+please leave us in peace.<END>
+
+[Dona]<NL>
+You do what you want.<NL>
+[Barthello], we're leaving.<END>
+
+<NL>
+          <END>
+
+<NL>
+A guardian is someone a summoner can rely on.<NL>
+Someone she can trust with her life.<END>
+
+<NL>
+I wondered, did [Yuna]<NL>
+feel that way about me?<END>
+
+<NL>
+What's she smiling about?<END>
+
+<NL>
+Yeah! Once we win the tournament,<NL>
+this will be my victory pose!<END>
+
+<NL>
+Yeah! Teamwork and trust are key elements<NL>
+for both guardians and blitzers!<END>
+
+<NL>
+Yeah! Once we win the tournament<NL>
+next year, this will be my victory pose!<END>
+
+<NL>
+Yeah! When the ship comes flying by,<NL>
+I'm going to cheer it on like this!<END>
+
+<NL>
+Yeah! When the Calm comes,<NL>
+this is how I'm going to celebrate!<END>
+
+<NL>
+I envy your happy-go-lucky attitude.<END>
+
+<NL>
+Are you a blitzer? Or a guardian?<NL>
+Don't tell me you're both!<END>
+
+<NL>
+He should stop wasting his time with all those<NL>
+poses, and devote more time to praying.<END>
+
+<NL>
+There's a strange rumor going around<NL>
+about singing the Hymn of the Fayth<NL>
+when a ship flies by.<END>
+
+<NL>
+I wonder what the summoners<NL>
+fighting [Sin] are like?<END>
+
+<NL>
+The [Kilika Beasts] may have lost<NL>
+the tournament,<NEWPAGE>
+<NL>
+but I believe their fighting spirit has<NL>
+given courage to the people of Spira.<END>
+
+<NL>
+The [Besaid Aurochs] have done<NL>
+well this year.<NEWPAGE>
+<NL>
+Lord [Ohalland] must have been<NL>
+watching over them.<END>
+
+<NL>
+I must reluctantly admit that the people<NL>
+are distancing themselves from the temple.<NEWPAGE>
+<NL>
+What would Lord [Ohalland] think if<NL>
+he were here...<END>
+
+<NL>
+The responsibility lies with the monks.<NL>
+We could not ease the people's anxieties.<END>
+
+<NL>
+I hear [Bevelle] was devastated by [Sin].<NEWPAGE>
+<NL>
+How ironic that they suffer the<NL>
+same retribution as other men.<END>
+
+<NL>
+If the temples cannot provide the people<NL>
+with hope, then what purpose do they serve?<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

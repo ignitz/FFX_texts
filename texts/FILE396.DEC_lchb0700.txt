@@ -1,0 +1,172 @@
+<NL>
+<END>
+
+<TEXT>
+Auron Fights Alone<NL>
+    <CHOICE1>Waiting for Command<NL>
+    <CHOICE2>Seamless Test<NL>
+    <CHOICE3>Retry Event<NL>
+    <CHOICE4>Unconditional Win<END>
+
+<TEXT>
+Final Stadium Battle<NL>
+    <CHOICE1>Waiting for Command<NL>
+    <CHOICE2>Seamless Test<NL>
+    <CHOICE3>Retry Event<NL>
+    <CHOICE4>Unconditional Win<END>
+
+[Mika]<NL>
+All of these fine teams,<NL>
+equally renowned,<NL>
+deserve to win the cup today.<END>
+
+[Mika]<NL>
+Such is the nature of this contest.<NL>
+Let us, the spectators,<NL>
+play our role accordingly:<END>
+
+[Mika]<NL>
+Let us sing to the glory of the<NL>
+winners, and applaud equally<NL>
+the valor of the defeated.<END>
+
+[Mika]<NL>
+Contestants,<NL>
+may [Yevon2] be with you.<END>
+
+[Lulu]<NL>
+What's happening?<END>
+
+[Tidus]<NL>
+So, you do know him.<END>
+
+[Wakka]<NL>
+Yeah.<NL>
+Best guardian there ever was.<END>
+
+[Tidus]<NL>
+Hey, gimme a break!<END>
+
+[Tidus]<NL>
+[Auron]!<END>
+
+[Wakka]<NL>
+Sir [Auron]!<END>
+
+<TEXT>
+Map Debug Menu<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Update Map Data<NL>
+    <CHOICE3>Select Event<NL>
+    <CHOICE4>Change Model<NL>
+    <CHOICE5>Invisible<NL>
+    <CHOICE6>Return to Saito<END>
+
+<TEXT>
+Model  :  <CHOICE???>B<END>
+
+<TEXT>
+Select Event<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Seymour Dark Summon<Cor 52><NL>
+    <CHOICE3>Hushed Stadium<Cor 41><NL>
+    <CHOICE4>Send to VIP Seats<NL>
+    <CHOICE5>Control Anima Display<NL>
+    <CHOICE6>Adjust Frame<NL>
+    <CHOICE7>Clear Scenario Flag<END>
+
+<TEXT>
+Frames  :  <CHOICE???>C<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

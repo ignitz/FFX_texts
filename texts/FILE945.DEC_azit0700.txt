@@ -1,0 +1,153 @@
+[Rikku]<NL>
+No, not that way!<END>
+
+<NL>
+[Al Bhed] verification!<END>
+
+<NL>
+Are you [Al Bhed]?<END>
+
+<TEXT>
+<CHOICE1>Sey<NL>
+<CHOICE2>No<NL>
+<CHOICE3>Yes<NL>
+<CHOICE4>On<END>
+
+<NL>
+Name the son of the [Al Bhed] leader.<END>
+
+<TEXT>
+<CHOICE1>[Al Bhed Psyches]<NL>
+<CHOICE2>[Cid]<NL>
+<CHOICE3>[Rin Travel Agency]<NL>
+<CHOICE4>[Brother]<END>
+
+<NL>
+On what island do the [Al Bhed] live?<END>
+
+<TEXT>
+<CHOICE1>[Yevon2]<NL>
+<CHOICE2>[Bikanel Island]<NL>
+<CHOICE3>[O'aka XXIII]<NL>
+<CHOICE4>[Home]<END>
+
+<NL>
+What is [Al Bhed] in [Al Bhed3]?<END>
+
+<TEXT>
+<CHOICE1>Al Bhed<NL>
+<CHOICE2>Ab Lhed<NL>
+<CHOICE3>El Bhad<NL>
+<CHOICE4>Al Dheb<END>
+
+<TEXT>
+<NL>
+The first digit is 4 plus 1.<NL>
+The second digit is 7 minus 1.<NL>
+The third digit is 3 times 1.<NL>
+The fourth digit is 2 plus 1.<END>
+
+<TEXT>
+Password: <CHOICE???>D<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+<Cor 43>[Al Bhed] Compilation Sphere<Cor 41><END>
+
+<TEXT>
+Scans memory cards [']8MB[/'] [']for PlayStation[REG]2[/']<NL>
+for [Al Bhed] primers and adds them to your<NL>
+collection. Use these spheres to expand your<NL>
+[Al Bhed] vocabulary.<END>
+
+<TEXT>
+Select a slot:<NL>
+<CHOICE1>MEMORY CARD slot 1<NL>
+<CHOICE2>MEMORY CARD slot 2<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+MEMORY CARD slot 1<END>
+
+<TEXT>
+Do not remove/insert memory cards [']8MB[/']<NL>
+[']for PlayStation[REG]2[/'] or controllers.<NL>
+Do not open disc tray.<END>
+
+<TEXT>
+No memory card [']8MB[/'] [']for PlayStation[REG]2[/']<NL>
+found in MEMORY CARD slot 1!<END>
+
+<TEXT>
+No [FINAL FANTASY X] INTERNATIONAL<NL>
+saved game data found!<END>
+
+<TEXT>
+Error loading [Al Bhed] dictionary!<END>
+
+<TEXT>
+No [Al Bhed] dictionary data found!<END>
+
+<TEXT>
+[Al Bhed] dictionary successfully loaded!<END>
+
+<TEXT>
+Compile [Al Bhed] dictionary?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<TEXT>
+MEMORY CARD slot 2<END>
+
+<TEXT>
+No memory card [']8MB[/'] [']for PlayStation[REG]2[/']<NL>
+found in MEMORY CARD slot 2!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

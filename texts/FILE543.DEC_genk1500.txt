@@ -1,0 +1,210 @@
+<NL>
+Thought I was done for, back there.<END>
+
+<NL>
+Wait up, you big meanie!<END>
+
+[Tidus]<NL>
+You're...not dead?<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+[Rikku]! You're [Rikku]!<END>
+
+[Tidus]<NL>
+Hey! You're okay!<NL>
+How you been?<END>
+
+[Rikku]<NL>
+Terrible!<END>
+
+[Tidus]<NL>
+Yeah, you don't look so good.<NL>
+What happened?<END>
+
+[Rikku]<NL>
+You beat me up, remember?<END>
+
+[Tidus]<NL>
+Oh! That machina...<NL>
+That was you?<END>
+
+[Rikku]<NL>
+That really hurt, you know.<NL>
+You big meanie!<END>
+
+[Tidus]<NL>
+W-Wait!<NL>
+But you attacked us!<END>
+
+[Rikku]<NL>
+Nuh-uh.<NL>
+It's not exactly what you think.<END>
+
+[Wakka]<NL>
+Yo!<END>
+
+[Wakka]<NL>
+Friend of yours?<END>
+
+[Tidus]<NL>
+Uh, you could say that.<END>
+
+[Rikku]<NL>
+Pleased to meet you!<NL>
+I'm [Rikku]!<END>
+
+[Tidus]<NL>
+[Yuna], [Lulu]...<NL>
+I told you about her, remember?<END>
+
+[Tidus]<NL>
+She was the one who helped me<NL>
+before I was washed up on [Besaid]!<NL>
+She's an Al Bhe...beh...<END>
+
+<NL>
+          <END>
+
+<NL>
+<END>
+
+[Wakka]<NL>
+Wow, so you, like, owe her your life!<NL>
+What luck meeting here, ya?<END>
+
+[Wakka]<NL>
+Praise be to [Yevon2]!<END>
+
+[Wakka]<NL>
+So, uh... [Rikku]...<END>
+
+[Wakka]<NL>
+You look a little beat up!<NL>
+You okay?<END>
+
+[Lulu]<NL>
+Uh, [Wakka]...<END>
+
+[Wakka]<NL>
+Huh? What?<END>
+
+[Yuna]<NL>
+There's something<NL>
+we need to discuss.<END>
+
+[Wakka]<NL>
+Oh, go ahead.<END>
+
+[Rikku]<NL>
+Girls only!<NL>
+Boys please wait over there!<END>
+
+[Lulu]<NL>
+Right.<NL>
+Sorry, [Wakka].<END>
+
+<NL>
+          <END>
+
+[Yuna]<NL>
+Sir [Auron]...<END>
+
+[Yuna]<NL>
+I would like [Rikku]<NL>
+to be my guardian.<END>
+
+[Auron]<NL>
+Show me your face.<END>
+
+<NL>
+          <END>
+
+[Auron]<NL>
+Look at me.<END>
+
+[Rikku]<NL>
+Oh, okay.<END>
+
+[Auron]<NL>
+Open your eyes.<END>
+
+[Auron]<NL>
+As I thought.<END>
+
+[Rikku]<NL>
+Um... No good?<END>
+
+[Auron]<NL>
+Are you certain?<END>
+
+[Rikku]<NL>
+A hundred percent!<END>
+
+[Rikku]<NL>
+So, anyway...<END>
+
+[Rikku]<NL>
+Can I?<END>
+
+[Auron]<NL>
+If [Yuna] wishes it.<END>
+
+[Yuna]<NL>
+Yes, I do.<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+[Rikku]'s a good girl.<NL>
+She helped me a bunch!<END>
+
+[Wakka]<NL>
+Well, I'm for it!<NL>
+The more, the merrier!<END>
+
+[Rikku]<NL>
+Then I'll just have<NL>
+to be the merriest!<END>
+
+<NL>
+It was strange.<END>
+
+<NL>
+Even though [Wakka]<NL>
+had always hated the [Al Bhed]...<END>
+
+[Rikku]<NL>
+[Rikku], at your service!<END>
+
+<NL>
+He never realized<NL>
+[Rikku] was one of them.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

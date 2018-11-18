@@ -1,0 +1,285 @@
+[Auron]<NL>
+Stand back.<END>
+
+[Tromell]<NL>
+Thank you!<END>
+
+[Tromell]<NL>
+Lady [Yuna]!<END>
+
+<NL>
+[Rikku]!<END>
+
+<NL>
+Don't interfere<NL>
+or you get this!<END>
+
+<NL>
+Your precious [magic]<NL>
+and [aeons] are sealed!<END>
+
+<TEXT>
+[Rikku]<NL>
+Oh, no!<END>
+
+<TEXT>
+[Tidus]<NL>
+Translation?<END>
+
+[Rikku]<NL>
+He's gonna use an<NL>
+anti-magic field on us!<END>
+
+<NL>
+Get them!<END>
+
+[Tromell]<NL>
+My lady!<END>
+
+<NL>
+I will tell Father!<END>
+
+[Rikku]<NL>
+I am the [guardian]<NL>
+of [Yuna], you see?<END>
+
+[Rikku]<NL>
+[Yuna] is safe! We will<NL>
+guard her! She is safe!<END>
+
+<NL>
+You do this alone, sister!<END>
+
+<NL>
+          <END>
+
+[Rikku]<NL>
+I told him I was a guardian.<END>
+
+[Rikku]<NL>
+Well, guess I had to, really.<END>
+
+[Wakka]<NL>
+How come you speak [Al Bhed]?<END>
+
+<TEXT>
+[Wakka]<NL>
+Why?<END>
+
+[Rikku]<NL>
+Because I'm [Al Bhed].<NL>
+And that...was my brother.<END>
+
+[Wakka]<NL>
+You knew?<END>
+
+[Wakka]<NL>
+Why didn't you tell me?<END>
+
+[Lulu]<NL>
+We knew you'd be upset.<END>
+
+[Wakka]<NL>
+This is great.<END>
+
+[Wakka]<NL>
+I can't believe I've been travelling<NL>
+with an [Al Bhed]! A heathen!<END>
+
+[Rikku]<NL>
+You're wrong! We have<NL>
+nothing against [Yevon2].<END>
+
+[Wakka]<NL>
+But you [Al Bhed] use<NL>
+the forbidden machina!<END>
+
+[Wakka]<NL>
+You know what that means?<END>
+
+[Wakka]<NL>
+[Sin] was born because<NL>
+people used machina!<END>
+
+[Rikku]<NL>
+You got proof?<NL>
+Show me proof!<END>
+
+[Wakka]<NL>
+It's in [Yevon2]'s teachings!<NL>
+Not that you'd know!<END>
+
+[Rikku]<NL>
+That's not good enough!<END>
+
+[Rikku]<NL>
+[Yevon2] says this,<NL>
+[Yevon2] says that.<END>
+
+[Rikku]<NL>
+Can't you think for yourself?<END>
+
+[Wakka]<NL>
+Well, then you tell me!<END>
+
+[Wakka]<NL>
+Where did [Sin] come from, huh?<END>
+
+[Rikku]<NL>
+I...I don't know!<END>
+
+<NL>
+          <END>
+
+[Wakka]<NL>
+You bad-mouth [Yevon2] and that's<NL>
+all you can come up with?<END>
+
+<TEXT>
+[Rikku]<NL>
+But...<END>
+
+[Rikku]<NL>
+that doesn't mean you should do<NL>
+whatever they say without thinking!<END>
+
+[Rikku]<NL>
+Nothing will ever change that way!<END>
+
+[Wakka]<NL>
+Nothing has to change!<END>
+
+[Rikku]<NL>
+You want [Sin]<NL>
+to keep coming back?<END>
+
+[Rikku]<NL>
+There might be a way<NL>
+to stop it, you know!<END>
+
+[Wakka]<NL>
+[Sin] will be gone once we<NL>
+atone for our past mistakes!<END>
+
+[Rikku]<NL>
+When? How?<END>
+
+[Wakka]<NL>
+If we keep faith in [Yevon2]'s<NL>
+teachings it will be gone one day!<END>
+
+[Rikku]<NL>
+Why do I even bother?<END>
+
+<TEXT>
+[Auron]<NL>
+[Rikku]!<END>
+
+[Auron]<NL>
+Will this move?<END>
+
+[Wakka]<NL>
+We're not using that, are we?<END>
+
+[Wakka]<NL>
+Wait... Sir [Auron] isn't<NL>
+[Al Bhed] too, is he?<END>
+
+[Tidus]<NL>
+Come on, [Wakka]...<END>
+
+<TEXT>
+[Wakka]<NL>
+What?<END>
+
+[Tidus]<NL>
+I mean, getting angry just 'cause<NL>
+you found out [Rikku]'s an [Al Bhed]...<END>
+
+[Tidus]<NL>
+You guys got along fine<NL>
+till now, didn't you?<END>
+
+[Wakka]<NL>
+That's different. I mean...<END>
+
+[Tidus]<NL>
+Well, I don't claim to<NL>
+know that much about [Spira].<END>
+
+[Tidus]<NL>
+And I probably know even less<NL>
+about the [Al Bhed], but...<END>
+
+[Tidus]<NL>
+I know [Rikku]'s a good person.<END>
+
+[Tidus]<NL>
+She's just [Rikku]!<END>
+
+<TEXT>
+[Wakka]<NL>
+Lu?<END>
+
+[Lulu]<NL>
+Just think of this as an opportunity<NL>
+to learn more about the [Al Bhed].<END>
+
+<TEXT>
+[Wakka]<NL>
+Ha!<END>
+
+[Auron]<NL>
+Let him go.<END>
+
+[Auron]<NL>
+Give him time to think.<END>
+
+[Rikku]<NL>
+I'm sorry.<END>
+
+[Lulu]<NL>
+You've done nothing to apologize for.<END>
+
+[Tidus]<NL>
+All right! Let's ride!<END>
+
+[Rikku]<NL>
+You sure you<NL>
+know how to drive this?<END>
+
+[Tidus]<NL>
+Better than [Kimahri] does!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

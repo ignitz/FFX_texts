@@ -1,0 +1,78 @@
+<NL>
+<END>
+
+[Lulu]<NL>
+This is the [Moonflow].<END>
+
+<NL>
+<END>
+
+[Yuna]<NL>
+These are moonlilies!<END>
+
+[Yuna]<NL>
+They say that clouds of pyreflies<NL>
+gather here when night falls.<END>
+
+[Lulu]<NL>
+The entire river glows,<NL>
+like a sea of stars.<END>
+
+[Tidus]<NL>
+Really?<END>
+
+[Tidus]<NL>
+Hey, I got an idea!<END>
+
+[Auron]<NL>
+We're not waiting till nightfall.<END>
+
+[Tidus]<NL>
+Then, once we beat [Sin],<NL>
+we're coming back!<END>
+
+[Wakka]<NL>
+Hey, we better hurry or<NL>
+we'll miss the shoopuf!<END>
+
+[Tidus]<NL>
+Shoopuf?<NL>
+That some kind of boat?<END>
+
+[Tidus]<NL>
+Whoa, what the...whoa!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

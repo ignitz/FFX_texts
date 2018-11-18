@@ -1,0 +1,392 @@
+<NL>
+<END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<TEXT>
+Tournament games go into<NL>
+overtime if the score is tied.<END>
+
+<TEXT>
+<Cor 43>Movement<Cor 41><NL>
+<CHOICE1>Auto<NL>
+<CHOICE2>Manual A<NL>
+<CHOICE3>Manual B<END>
+
+<TEXT>
+<Cor 43>Movement<Cor 41><NL>
+<CHOICE1>Auto<NL>
+<CHOICE2>Manual A<NL>
+<CHOICE3>Manual B<NL>
+<CHOICE4>Forfeit<END>
+
+<TEXT>
+Forfeit game?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+<Cor 43>Movement<Cor 41><NL>
+<CHOICE1>Auto<NL>
+<CHOICE2>Manual A<NL>
+<CHOICE3>Manual B<NL>
+<CHOICE4>Forfeit<NL>
+<CHOICE5><Cor B1>Enemy all asleep [']DEBUG[/']<NL>
+<CHOICE6>All enemies beside keeper asleep[']DEBUG[/']<NL>
+<CHOICE7>All asleep [']DEBUG[/']<Cor 41><END>
+
+<TEXT>
+<Cor 43>Formation<Cor 41><NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><END>
+
+<TEXT>
+<Cor 43>Formation<Cor 41><NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><END>
+
+<TEXT>
+<Cor 43>Formation<Cor 41><NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><END>
+
+<TEXT>
+<Cor 43>Formation<Cor 41><NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><END>
+
+<TEXT>
+<Cor 43>Formation<Cor 41><NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><END>
+
+<TEXT>
+<Cor 43>Formation<Cor 41><NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><END>
+
+<TEXT>
+<Cor 43>Formation<Cor 41><NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+<Cor 43>Formation<Cor 41><NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><NL>
+<CHOICE9><VAR12 38><END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 62><VAR12 3A> HP<NL>
+<CHOICE3>Back<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 62><VAR12 3A> HP<NL>
+<CHOICE3><VAR12 31><VAR07 62><VAR12 3B> HP<NL>
+<CHOICE4>Back<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 62><VAR12 3A> HP<NL>
+<CHOICE3><VAR12 31><VAR07 62><VAR12 3B> HP<NL>
+<CHOICE4><VAR12 32><VAR07 62><VAR12 3C> HP<NL>
+<CHOICE5>Back<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 62><VAR12 3A> HP<NL>
+<CHOICE3><VAR12 31><VAR07 62><VAR12 3B> HP<NL>
+<CHOICE4><VAR12 32><VAR07 62><VAR12 3C> HP<NL>
+<CHOICE5><VAR12 33><VAR07 62><VAR12 3D> HP<NL>
+<CHOICE6>Back<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 62><VAR12 3A> HP<NL>
+<CHOICE3><VAR12 31><VAR07 62><VAR12 3B> HP<NL>
+<CHOICE4><VAR12 32><VAR07 62><VAR12 3C> HP<NL>
+<CHOICE5><VAR12 33><VAR07 62><VAR12 3D> HP<NL>
+<CHOICE6><VAR12 34><VAR07 62><VAR12 3E> HP<NL>
+<CHOICE7>Back<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 62><VAR12 3A> HP<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 62><VAR12 3A> HP<NL>
+<CHOICE3><VAR12 31><VAR07 62><VAR12 3B> HP<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 62><VAR12 3A> HP<NL>
+<CHOICE3><VAR12 31><VAR07 62><VAR12 3B> HP<NL>
+<CHOICE4><VAR12 32><VAR07 62><VAR12 3C> HP<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 62><VAR12 3A> HP<NL>
+<CHOICE3><VAR12 31><VAR07 62><VAR12 3B> HP<NL>
+<CHOICE4><VAR12 32><VAR07 62><VAR12 3C> HP<NL>
+<CHOICE5><VAR12 33><VAR07 62><VAR12 3D> HP<END>
+
+<TEXT>
+<CHOICE1>Normal<NL>
+<CHOICE2><VAR12 30><VAR07 62><VAR12 3A> HP<NL>
+<CHOICE3><VAR12 31><VAR07 62><VAR12 3B> HP<NL>
+<CHOICE4><VAR12 32><VAR07 62><VAR12 3C> HP<NL>
+<CHOICE5><VAR12 33><VAR07 62><VAR12 3D> HP<NL>
+<CHOICE6><VAR12 34><VAR07 62><VAR12 3E> HP<END>
+
+<TEXT>
+<NL>
+<VAR12 30><VAR12 31><NL>
+<VAR12 32><VAR12 33><NL>
+<VAR12 34><VAR12 35><NL>
+<VAR12 36><VAR12 37><NL>
+<VAR12 38><VAR12 39><END>
+
+<TEXT>
+<Cor 43>Breakthrough<Cor 41><NL>
+<CHOICE1>No Break<NL>
+<CHOICE2>Break to <VAR12 31><END>
+
+<TEXT>
+<Cor 43>Breakthrough<Cor 41><NL>
+<CHOICE1>No Break<NL>
+<CHOICE2>Break to <VAR12 31><NL>
+<CHOICE3>Break to <VAR12 32><END>
+
+<TEXT>
+<Cor 43>Breakthrough<Cor 41><NL>
+<CHOICE1>No Break<NL>
+<CHOICE2>Break to <VAR12 31><NL>
+<CHOICE3>Break to <VAR12 32><NL>
+<CHOICE4>Break to <VAR12 33><END>
+
+<TEXT>
+<Cor 43>Breakthrough<Cor 41><NL>
+<CHOICE1>No Break<NL>
+<CHOICE2>Break to <VAR12 31><NL>
+<CHOICE3>Break to <VAR12 32><NL>
+<CHOICE4>Break to <VAR12 33><NL>
+<CHOICE5>Break to <VAR12 34><END>
+
+<TEXT>
+<Cor 43>Breakthrough<Cor 41><NL>
+<CHOICE1>No Break<NL>
+<CHOICE2>Break to <VAR12 31><NL>
+<CHOICE3>Break to <VAR12 32><NL>
+<CHOICE4>Break to <VAR12 33><NL>
+<CHOICE5>Break to <VAR12 34><NL>
+<CHOICE6>Break to <VAR12 35><END>
+
+<TEXT>
+<Cor 43>Action Commands<Cor 41><NL>
+<CHOICE1>Pass<VAR07 53><VAR12 30> HP<NL>
+<CHOICE2>Shoot<VAR07 53><VAR12 31> HP<NL>
+<CHOICE3>Dribble<END>
+
+<TEXT>
+<Cor 43>Action Commands<Cor 41><NL>
+<CHOICE1><Cor 88>Pass<VAR07 53><VAR12 30> HP<NL>
+<CHOICE2><Cor 41>Shoot<VAR07 53><VAR12 31> HP<NL>
+<CHOICE3>Dribble<END>
+
+<TEXT>
+<Cor 43>Action Commands<Cor 41><NL>
+<CHOICE1>Pass<VAR07 53><VAR12 30> HP<NL>
+<Cor 88><CHOICE2>Shoot<VAR07 53><VAR12 31> HP<NL>
+<CHOICE3><Cor 41>Dribble<END>
+
+<TEXT>
+<Cor 43>Action Commands<Cor 41><NL>
+<CHOICE1><Cor 88>Pass<VAR07 53><VAR12 30> HP<NL>
+<CHOICE2>Shoot<VAR07 53><VAR12 31> HP<NL>
+<CHOICE3><Cor 41>Dribble<END>
+
+<TEXT>
+<Cor 43>Action Commands<Cor 41><NL>
+<CHOICE1>Pass<VAR07 53><VAR12 30> HP<NL>
+<CHOICE2>Shoot<VAR07 53><VAR12 31> HP<END>
+
+<TEXT>
+<Cor 43>Action Commands<Cor 41><NL>
+<CHOICE1><Cor 88>Pass<VAR07 53><VAR12 30> HP<NL>
+<CHOICE2><Cor 41>Shoot<VAR07 53><VAR12 31> HP<END>
+
+<TEXT>
+<Cor 43>Action Commands<Cor 41><NL>
+<CHOICE1>Pass<VAR07 53><VAR12 30> HP<NL>
+<CHOICE2><Cor 88>Shoot<VAR07 53><VAR12 31> HP<END>
+
+<TEXT>
+<Cor 43>Action Commands<Cor 41><NL>
+<CHOICE1><Cor 88>Pass<VAR07 53><VAR12 30> HP<NL>
+<CHOICE2>Shoot<VAR07 53><VAR12 31> HP<END>
+
+<TEXT>
+<VAR12 30>-Man Breakthrough<END>
+
+<TEXT>
+No Break<END>
+
+<TEXT>
+Action: Pass<END>
+
+<TEXT>
+Action: Shoot<END>
+
+<TEXT>
+Action: Dribble<END>
+
+<TEXT>
+Technique: <VAR12 30><END>
+
+<TEXT>
+<NL>
+<VAR07 40><VAR12 30><END>
+
+Aurochs Player 0<END>
+
+Aurochs Player 1<END>
+
+Aurochs Player 2<END>
+
+Aurochs Player 3<END>
+
+Aurochs Player 4<END>
+
+Aurochs Player 5<END>
+
+Goers Player 0<END>
+
+Goers Player 1<END>
+
+Goers Player 2<END>
+
+Goers Player 3<END>
+
+Goers Player 4<END>
+
+Goers Player 5<END>
+
+<TEXT>
+<Cor 43>Pass to:<Cor 41><NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><END>
+
+<NL>
+What a great play!<NL>
+The Goers score first!<END>
+
+<NL>
+The Aurochs are no match<NL>
+for the Goers, folks!<NL>
+They're just floundering out there!<END>
+
+<NL>
+And it's halftime!<END>
+
+<NL>
+The Goers are just playing great, Bobba.<NL>
+Really great.<END>
+
+<NL>
+The crowd is cheering<NL>
+for the Aurochs!<NL>
+Isn't this exciting?<END>
+
+<NL>
+Goal! Goal! Goal!<NL>
+Unbelievable! What a<NL>
+miraculous comeback!<END>
+
+<NL>
+The crowd is going wild!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

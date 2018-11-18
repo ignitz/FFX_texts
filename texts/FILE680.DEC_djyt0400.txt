@@ -1,0 +1,80 @@
+<NL>
+This is the [Temple of Yevon-Djose].<NL>
+It is famous for its association with<NL>
+Lord [Mi'ihen], founder of the [Crusader]s.<NEWPAGE>
+<NL>
+Had he witnessed this dreadful sight...<NL>
+Oh, I could just imagine his grief.<END>
+
+<NL>
+It is a quiet morning.<NEWPAGE>
+<NL>
+Many [Crusader]s departed<NL>
+for the [Farplane] last night.<END>
+
+<NL>
+Maester [Mika] carried [Spira]<NL>
+on his shoulders for fifty years.<NEWPAGE>
+<NL>
+I'm sure he is resting peacefully<NL>
+on the [Farplane] now.<END>
+
+<NL>
+I wonder who the next grand maester will be.<END>
+
+<NL>
+In my youth, I trained with Maester [Jyscal].<NEWPAGE>
+<NL>
+We rose above our differences and<NL>
+became friends, human and [Guado].<END>
+
+<NL>
+We're all out of healing potions.<NEWPAGE>
+<NL>
+Even so, more wounded men<NL>
+are being brought here.<END>
+
+<TEXT>
+<Cor 43>Blitz Fan Lv. 1<Cor 41><NL>
+Name: Sonio<NL>
+Favorite team: [Kilika Beasts]<NL>
+He appears to be just an ordinary fan.<NL>
+You cannot sign him to a contract.<END>
+
+<NL>
+I solemnly pray Lady [Yuna] will become a<NL>
+wonderful summoner. Please take care of her.<END>
+
+<NL>
+Lady [Yuna] performed the sending all night.<NEWPAGE>
+<NL>
+I imagine it must have been quite<NL>
+hard on such a young summoner.<END>
+
+<NL>
+My fellow monks have left the temple.<NEWPAGE>
+<NL>
+They said that nothing will change so long<NL>
+as we remain within these confines.<END>
+
+<NL>
+I cannot say they are right or wrong.<END>
+
+<NL>
+We plan to station warrior monks in<NL>
+various locales to prepare for a<NL>
+possible raid by fiends and [Al Bhed].<END>
+
+<NL>
+Captain, please! Wake up!<END>
+
+<NL>
+You were the best, Captain!<NL>
+We'll never forget you!<END>
+
+<END>
+
+<END>
+
+<END>
+

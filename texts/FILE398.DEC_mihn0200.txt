@@ -1,0 +1,379 @@
+[Auron]<NL>
+We rest here.<END>
+
+[Wakka]<NL>
+But, this is an [Al Bhed] shop!<END>
+
+[Auron]<NL>
+Is that a problem?<END>
+
+[Wakka]<NL>
+They don't believe in [Yevon2],<NL>
+and in Luca they... <END>
+
+[Wakka]<NL>
+They kidnapped [Yuna]!<END>
+
+[Auron]<NL>
+Where were her guardians?<END>
+
+[Yuna]<NL>
+Sir [Auron]'s just concerned<NL>
+about your health.<END>
+
+[Wakka]<NL>
+I'm not tired one bit!<END>
+
+[Auron]<NL>
+Well I am.<END>
+
+[Lulu]<NL>
+To the chocobo corral!<END>
+
+[Auron]<NL>
+Now I know I can count on you.<END>
+
+[Tidus]<NL>
+Gimme a break. I just woke up.<END>
+
+[Tidus]<NL>
+Like you did much!<END>
+
+[Auron]<NL>
+It was your idea to fight that thing.<END>
+
+[Auron]<NL>
+If you're always so groggy,<NL>
+just stay awake.<END>
+
+[Tidus]<NL>
+Yeah right, thanks for the tip.<END>
+
+[Rin]<NL>
+Have you an interest in<NL>
+renting some chocobos?<END>
+
+[Rin]<NL>
+As a token of our gratitude,<NL>
+the first time is free of charge.<END>
+
+[Rin]<NL>
+Please ask the attendant,<NL>
+if you wish to rent.<END>
+
+<NL>
+Thank you so much<NL>
+for saving the chocobos!<END>
+
+<NL>
+Hello!<NL>
+No charge this time!<END>
+
+<NL>
+You get to ride a chocobo once for<NL>
+free, but I see you already have one.<NEWPAGE>
+<NL>
+You can rent one free next time, then.<END>
+
+<NL>
+Do you want to ride a chocobo?<END>
+
+<NL>
+Do you want me to teach you<NL>
+how to ride a chocobo?<END>
+
+<NL>
+Please be careful on your trip.<END>
+
+[Elma]<NL>
+Summoners and guardians!<NL>
+I saw the fight. I was impressed!<END>
+
+[Elma]<NL>
+Right now we're charged with<NL>
+getting people off the Highroad.<END>
+
+[Elma]<NL>
+But you... Well, you have a<NL>
+have a summoner, so you can stay.<END>
+
+[Elma]<NL>
+Don't tell anyone,<NL>
+but this is a really boring job.<END>
+
+[Elma]<NL>
+Oh, I took care of<NL>
+that fiend for you.<END>
+
+<NL>
+Some harsh words have been<NL>
+directed at us [Al Bhed] lately.<NEWPAGE>
+<NL>
+They say it is our fault that the<NL>
+operation failed.<END>
+
+<NL>
+I am used to being hated, but now<NL>
+I do not feel like working anymore.<END>
+
+<NL>
+I am fed up of working with morons.<END>
+
+<NL>
+We're keeping an eye on the [Al Bhed2]<NL>
+so they don't take advantage of the people.<END>
+
+<NL>
+We got off the ship with the children<NL>
+under the orders of Elder [Cid].<NEWPAGE>
+<NL>
+The elder probably senses it will be<NL>
+a tough battle.<END>
+
+<NL>
+I pray for your safety. I do not wish<NL>
+harm on any more people.<END>
+
+<NL>
+The children are happy.<NL>
+Everything is so new to them.<END>
+
+<NL>
+I must watch over the children. It is<NL>
+dangerous here. They could fall off the cliff.<END>
+
+<NL>
+I will be angry if those [Yevon2] monks<NL>
+hurt the children.<NEWPAGE>
+<NL>
+I do not think they will, but<NL>
+I cannot trust them.<END>
+
+<NL>
+When I hear the word [Yevon2], I think of<NL>
+the [fiend] attack on our [Home].<END>
+
+<NL>
+I guess all children are innocent,<NL>
+whether they are ours or [Al Bhed].<END>
+
+<NL>
+As a [Yevon2] monk, I have denounced the<NL>
+[Al Bhed2] for defying the teachings.<NEWPAGE>
+<NL>
+By doing so, I have only stirred senseless<NL>
+conflicts throughout [Spira].<NEWPAGE>
+<NL>
+I deeply regret my folly.<END>
+
+<TEXT>
+<CHOICE1>I'm okay.<NL>
+<CHOICE2>Teach me.<END>
+
+<TEXT>
+<Cor 43>How to Ride a Chocobo<Cor 41><NL>
+<NL>
+<Cor 88>Movement:<Cor 41><NL>
+Move far:<VAR07 E4>[Direcional Cima]<VAR07 60>Move near:<VAR07 E4>[Direcional Baixo]<NL>
+Move left:<VAR07 E4>[Direcional Esquerda]<VAR07 60>Move right:<VAR07 E4>[Direcional Direita]<NL>
+<NL>
+<Cor 88>Getting on and off:<Cor 41><NL>
+Press <VAR07 E8>[Botão Círculo] while facing chocobo to mount.<NL>
+<NL>
+Press <VAR07 E8>[Botão Xis] to dismount.<NL>
+Chocobos can only be ridden along the [Mi'ihen Highroad].<NL>
+You cannot enter [Luca] or pass beyond<NL>
+the Highroad while riding a chocobo.<END>
+
+<TEXT>
+Your chocobo will wait for you where<NL>
+you leave it unless you leave the<NL>
+[Mi'ihen Highroad] on foot or you rent<NL>
+another chocobo.<END>
+
+<TEXT>
+<CHOICE1>Let me ride one!<NL>
+<CHOICE2>I'll walk.<NL>
+<CHOICE3>How do you ride a chocobo?<END>
+
+<TEXT>
+Fee: <VAR12 31> Gil<END>
+
+<TEXT>
+Total: <VAR12 31> Gil<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<NL>
+Henceforth, I will work to engender harmony<NL>
+between the [Al Bhed2] and our people.<END>
+
+<NL>
+A [fiend] tried to attack us, but<NL>
+Mom blew it away with [machina].<NEWPAGE>
+<NL>
+Don't make her angry. You don't want<NL>
+to see her when she is angry.<END>
+
+<NL>
+Is this our new [Home]?<END>
+
+<NL>
+I wanted to ride on the ship, too.<NL>
+It was a great battle, right?<END>
+
+<NL>
+Huh? The battle is not over?<NL>
+Then maybe we should sing again.<END>
+
+<NL>
+That is the biggest puddle<NL>
+I have ever seen!<END>
+
+<NL>
+There are many unusual plants.<NL>
+I wonder how they taste.<END>
+
+<NL>
+I am taking care of the chocobos.<NEWPAGE>
+<NL>
+Take good care of them when you<NL>
+ride them, okay?<END>
+
+<NL>
+The sunlight is gentle here<NL>
+compared to [Bikanel].<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

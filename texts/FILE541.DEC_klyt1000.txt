@@ -1,0 +1,206 @@
+<NL>
+<TEXT>
+You see a sphere-shaped recess.<END>
+
+<NL>
+<TEXT>
+You are holding a <Cor 43>Kilika Sphere<Cor 41>.<END>
+
+<TEXT>
+<CHOICE1>Insert sphere.<NL>
+<TEXT>
+<CHOICE2>Cancel.<END>
+
+<NL>
+<TEXT>
+Inserted <Cor 43>Kilika Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+You are holding a <Cor 43>Glyph Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+Inserted <Cor 43>Glyph Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+You are holding a <Cor 43>Destruction Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+Inserted <Cor 43>Destruction Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+A <Cor 43>Kilika Sphere<Cor 41> is set here.<END>
+
+<TEXT>
+<CHOICE1>Take sphere.<NL>
+<TEXT>
+<CHOICE2>Cancel.<END>
+
+<NL>
+<TEXT>
+Removed <Cor 43>Kilika Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+You can only hold one sphere at a time.<END>
+
+<NL>
+<TEXT>
+A <Cor 43>Glyph Sphere<Cor 41> is set here.<END>
+
+<NL>
+<TEXT>
+Removed <Cor 43>Glyph Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+A <Cor 43>Destruction Sphere<Cor 41> is set here.<END>
+
+<NL>
+<TEXT>
+Removed <Cor 43>Destruction Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+A <Cor 43>glyph<Cor 41> appears.<END>
+
+<NL>
+<TEXT>
+A <Cor 43>glyph<Cor 41> glows on the wall.<END>
+
+<TEXT>
+<CHOICE1>Touch glyph.<NL>
+<TEXT>
+<CHOICE2>Cancel.<END>
+
+<NL>
+The glyph repels you!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,199 @@
+[Rikku]<NL>
+No, not that way!<END>
+
+<NL>
+Enter the password<NL>
+in proper [Al Bhed3]!<END>
+
+<NL>
+Sorry<END>
+
+<TEXT>
+<CHOICE1>Tally<CHOICE???><$FF><VAR07 54><CHOICE2>Tarry<CHOICE???><$FF><VAR07 68><CHOICE3>Lorry<CHOICE???><$FF><NL>
+<CHOICE4>Rally<CHOICE???><$FF><VAR07 54><CHOICE5>Worry<CHOICE???><$FF><VAR07 68><CHOICE6>Lilly<CHOICE???><$FF><NL>
+<CHOICE7>Carry<CHOICE???><$FF><VAR07 54><CHOICE8>Sorry<CHOICE???><$FF><VAR07 68><CHOICE9>Filly<CHOICE???><$FF><END>
+
+<NL>
+Wait<END>
+
+<TEXT>
+<CHOICE1>Howl<CHOICE???><$FF><VAR07 54><CHOICE2>Bear<CHOICE???><$FF><VAR07 68><CHOICE3>Caul<NL>
+<CHOICE4>Meat<CHOICE???><$FF><VAR07 54><CHOICE5>Peat<CHOICE???><$FF><VAR07 68><CHOICE6>Wait<NL>
+<CHOICE7>Seat<CHOICE???><$FF><VAR07 54><CHOICE8>Heat<CHOICE???><$FF><VAR07 68><CHOICE9>Bait<END>
+
+<NL>
+Pardon<END>
+
+<TEXT>
+<CHOICE1>Warden<CHOICE???><$FF><VAR07 54><CHOICE2>Silver<CHOICE???><$FF><VAR07 68><CHOICE3>Harder<NL>
+<CHOICE4>Burton<CHOICE???><$FF><VAR07 54><CHOICE5>Pardon<CHOICE???><$FF><VAR07 68><CHOICE6>Larder<NL>
+<CHOICE7>Martin<CHOICE???><$FF><VAR07 54><CHOICE8>Kelvin<CHOICE???><$FF><VAR07 68><CHOICE9>Melvin<END>
+
+<NL>
+The treasure chest of dreams asks:<NL>
+What do I contain?<END>
+
+<TEXT>
+<CHOICE1>Bomb<CHOICE???><$FF><VAR07 5B><CHOICE2>Elixir<CHOICE???><$FF><VAR07 76><CHOICE3>Hi-Potion<NL>
+<CHOICE4>Mega-Potion<CHOICE???><$FF><VAR07 5B><CHOICE5>Soft<CHOICE???><$FF><VAR07 76><CHOICE6>Chimera<NL>
+<CHOICE7>Potion<CHOICE???><$FF><VAR07 5B><CHOICE8>Remedy<CHOICE???><$FF><VAR07 76><CHOICE9>Evil Eye<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. XX!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>D<Cor 41> [RIGHT] <Cor 97>T<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

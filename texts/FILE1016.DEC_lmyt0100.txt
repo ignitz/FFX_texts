@@ -1,0 +1,268 @@
+<NL>
+Summoner [Yuna], welcome.<END>
+
+[Yuna]<NL>
+Who are you?<END>
+
+<NL>
+[Belgemine], keeper of Remiem.<END>
+
+[Yuna]<NL>
+You, too, are a summoner?<END>
+
+[Belgemine]<NL>
+I was once.<END>
+
+[Auron]<NL>
+You're dead.<END>
+
+[Belgemine]<NL>
+I died trying to defeat [Sin].<NL>
+But I couldn't let go.<END>
+
+[Belgemine]<NL>
+I remain here to help others<NL>
+accomplish what I could not.<END>
+
+[Belgemine]<NL>
+I challenge you: If you cannot<NL>
+beat me, you'll never beat [Sin].<END>
+
+<TEXT>
+<CHOICE1>I'll do my best.<NL>
+<CHOICE2>Perhaps later.<END>
+
+[Belgemine]<NL>
+Welcome, [Yuna].<END>
+
+[Yuna]<NL>
+What is this place?<END>
+
+[Belgemine]<NL>
+Remiem Temple.<END>
+
+[Belgemine]<NL>
+Once a great religious center<NL>
+in the [Calm Lands], lost after<NL>
+the battle with [Sin].<END>
+
+[Tidus]<NL>
+And this is your home? What?<NL>
+You got something against company?<END>
+
+[Belgemine]<NL>
+It's a long story.<NL>
+Easier perhaps to show you.<END>
+
+[Tidus]<NL>
+You're dead, too?<END>
+
+[Belgemine]<NL>
+Don't send me just yet.<END>
+
+[Belgemine]<NL>
+There is still one thing<NL>
+left for me to do here.<END>
+
+[Belgemine]<NL>
+With the help I can give,<NL>
+a young summoner might just<NL>
+be able to defeat [Sin].<END>
+
+[Belgemine]<NL>
+Well, [Yuna]?<END>
+
+[Belgemine]<NL>
+I challenge you: if you cannot<NL>
+beat me, you'll never beat [Sin].<END>
+
+[Belgemine]<NL>
+Well, [Yuna], shall we see how<NL>
+well your training serves you?<END>
+
+[Belgemine]<NL>
+I will be the judge of your<NL>
+aeons' strength. Are you<NL>
+good enough, I wonder?<END>
+
+[Belgemine]<NL>
+You've got quite a name to<NL>
+live up to, daughter of [Braska]. <END>
+
+[Belgemine]<NL>
+If you've got what it takes to beat<NL>
+[Sin], I should be no more than a<NL>
+bump in your path, right?<END>
+
+<TEXT>
+<CHOICE1>Valefor<NL>
+<CHOICE2>Quit<END>
+
+<TEXT>
+<CHOICE1>Valefor<NL>
+<CHOICE2>Ifrit<NL>
+<CHOICE3>Quit<END>
+
+<TEXT>
+<CHOICE1>Valefor<NL>
+<CHOICE2>Ifrit<NL>
+<CHOICE3>Ixion<NL>
+<CHOICE4>Quit<END>
+
+<TEXT>
+<CHOICE1>Valefor<NL>
+<CHOICE2>Ifrit<NL>
+<CHOICE3>Ixion<NL>
+<CHOICE4>Shiva<NL>
+<CHOICE5>Quit<END>
+
+<TEXT>
+<CHOICE1>Valefor<NL>
+<CHOICE2>Ifrit<NL>
+<CHOICE3>Ixion<NL>
+<CHOICE4>Shiva<NL>
+<CHOICE5>Bahamut<NL>
+<CHOICE6>Quit<END>
+
+<TEXT>
+<CHOICE1>Valefor<NL>
+<CHOICE2>Ifrit<NL>
+<CHOICE3>Ixion<NL>
+<CHOICE4>Shiva<NL>
+<CHOICE5>Bahamut<NL>
+<CHOICE6>Yojimbo<NL>
+<CHOICE7>Quit<END>
+
+<TEXT>
+<CHOICE1>Valefor<NL>
+<CHOICE2>Ifrit<NL>
+<CHOICE3>Ixion<NL>
+<CHOICE4>Shiva<NL>
+<CHOICE5>Bahamut<NL>
+<CHOICE6>Yojimbo<NL>
+<CHOICE7>Anima<NL>
+<CHOICE8>Quit<END>
+
+<TEXT>
+<CHOICE1>Valefor<NL>
+<CHOICE2>Ifrit<NL>
+<CHOICE3>Ixion<NL>
+<CHOICE4>Shiva<NL>
+<CHOICE5>Bahamut<NL>
+<CHOICE6>Yojimbo<NL>
+<CHOICE7>Anima<NL>
+<CHOICE8>Magus Sisters<NL>
+<CHOICE9>Quit<END>
+
+[Belgemine]<NL>
+Hmm... I see.<END>
+
+[Belgemine]<NL>
+Very well.<NL>
+Before we begin...<END>
+
+[Belgemine]<NL>
+Now, are you ready?<END>
+
+[Belgemine]<NL>
+You have made some progress,<NL>
+and for that I am glad.<END>
+
+[Belgemine]<NL>
+Take this.<NL>
+It may come in handy.<END>
+
+[Yuna]<NL>
+Thank you! Perhaps you'll<NL>
+teach me again someday?<END>
+
+[Belgemine]<NL>
+That's not possible.<END>
+
+[Belgemine]<NL>
+You have already surpassed<NL>
+your father. There is nothing<NL>
+more I can teach you.<END>
+
+[Belgemine]<NL>
+My work here on [Spira] is done.<NL>
+Time for me to go.<END>
+
+<NL>
+<END>
+
+[Auron]<NL>
+Send her.<END>
+
+<TEXT>
+<CHOICE1>Perform sending.<NL>
+<CHOICE2>Do nothing.<END>
+
+[Yuna]<NL>
+Yes.<END>
+
+[Belgemine]<NL>
+It is in your hands.<END>
+
+[Belgemine]<NL>
+Destroy [Sin] and save [Spira].<END>
+
+<NL>
+The doors are sealed by a strange power.<END>
+
+<NL>
+Try using [Blossom Crown]?<END>
+
+<TEXT>
+<CHOICE1>Use.<NL>
+<CHOICE2>Do nothing.<END>
+
+<NL>
+Try using [Flower Scepter]?<END>
+
+<NL>
+You've broken the seal...<END>
+
+<NL>
+but not completely.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

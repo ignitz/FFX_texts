@@ -1,0 +1,332 @@
+[Tidus]<NL>
+Wh-What's that?<END>
+
+[Auron]<NL>
+A [fayth].<END>
+
+[Auron]<NL>
+They join with the summoner,<NL>
+and together receive the aeon.<END>
+
+[Auron]<NL>
+They are human souls, imprisoned<NL>
+in stone by ancient [Yevon2] rites.<END>
+
+[Auron]<NL>
+The dead should be allowed to rest.<END>
+
+[Tidus]<NL>
+[Yuna]!<END>
+
+[Rikku]<NL>
+Wait, don't come out!<END>
+
+Fayth<NL>
+Hello.<END>
+
+[Yuna]<NL>
+I must thank you for the aeon.<END>
+
+[Tidus]<NL>
+So, what's up?<END>
+
+Fayth<NL>
+So, have you found a<NL>
+way to truly defeat [Sin]?<END>
+
+[Tidus]<NL>
+Well...<END>
+
+Fayth<NL>
+Well?<END>
+
+Fayth<NL>
+Well, come see me when you do.<NL>
+We'll talk then.<END>
+
+[Tidus]<NL>
+We think the Hymn of the Fayth<NL>
+might slow [Sin] down.<END>
+
+Fayth<NL>
+Hmm...<NL>
+Perhaps.<END>
+
+[Yuna]<NL>
+You mean, it won't work?<END>
+
+Fayth<NL>
+A very long time has passed<NL>
+since your father became [Sin].<END>
+
+Fayth<NL>
+He may not be able to<NL>
+hear the hymn anymore.<END>
+
+[Tidus]<NL>
+I know it's a long shot...<END>
+
+[Tidus]<NL>
+But we gotta try<NL>
+it if there's a chance.<END>
+
+Fayth<NL>
+Yes, you must.<END>
+
+Fayth<NL>
+I'm glad you're doing this.<END>
+
+Fayth<NL>
+You have a good spirit, truly.<END>
+
+[Tidus]<NL>
+I'm not just a dream, right?<END>
+
+[Yuna]<NL>
+A dream?<END>
+
+[Tidus]<NL>
+Uh... It's a long story.<END>
+
+Fayth<NL>
+If it works, what'll you do then?<NL>
+You need more than the hymn.<END>
+
+Fayth<NL>
+Well?<END>
+
+Fayth<NL>
+You'll need more than that.<END>
+
+[Tidus]<NL>
+We fight Yu Yevon.<END>
+
+Fayth<NL>
+Yes...<END>
+
+Fayth<NL>
+If you defeat Yu Yevon, it will end.<END>
+
+Fayth<NL>
+Tell me, what do you<NL>
+know about Yu Yevon?<END>
+
+[Tidus]<NL>
+He's what makes [Sin] come back!<END>
+
+[Yuna]<NL>
+[Sin] is his armor.<NL>
+It protects him.<END>
+
+Fayth<NL>
+Yu Yevon was once<NL>
+a summoner, long ago.<END>
+
+Fayth<NL>
+He was peerless.<END>
+
+Fayth<NL>
+Yet now he lives for<NL>
+one purpose: only to summon.<END>
+
+Fayth<NL>
+He is neither good, nor evil.<NL>
+He is awake, yet he dreams.<END>
+
+Fayth<NL>
+But...maybe not forever.<END>
+
+[Tidus]<NL>
+Yeah, that's right.<NL>
+Because we're ending it.<END>
+
+Fayth<NL>
+Yes.<END>
+
+Fayth<NL>
+Even if you defeat [Sin] with the<NL>
+Final Summoning, Yu Yevon will live.<END>
+
+Fayth<NL>
+Yu Yevon will join<NL>
+with the Final Aeon.<END>
+
+Fayth<NL>
+He will transform it<NL>
+into a new [Sin].<END>
+
+[Yuna]<NL>
+Yu Yevon merges with the aeon...<END>
+
+Fayth<NL>
+Then, protected by this new<NL>
+[Sin] he has created,<NL>
+Yu Yevon continues the summoning.<END>
+
+[Tidus]<NL>
+For eternity...huh?<END>
+
+Fayth<NL>
+But you know, there is<NL>
+no such thing as eternity<NL>
+if you end it, is there?<END>
+
+[Tidus]<NL>
+Uh-huh.<END>
+
+Fayth<NL>
+Yu Yevon lives inside [Sin].<END>
+
+Fayth<NL>
+[Yuna], listen.<END>
+
+Fayth<NL>
+When you fight Yu Yevon,<NL>
+we will help you.<END>
+
+Fayth<NL>
+Promise me you'll summon us.<END>
+
+Fayth<NL>
+I'm afraid your swords and<NL>
+magic won't be enough.<END>
+
+Fayth<NL>
+Please, call us.<END>
+
+Fayth<NL>
+Promise?<END>
+
+[Yuna]<NL>
+Yes.<END>
+
+Fayth<NL>
+But, you know...<END>
+
+Fayth<NL>
+When it is all over...<END>
+
+Fayth<NL>
+we will wake,<NL>
+and our dream will end.<END>
+
+Fayth<NL>
+Our dream will vanish.<END>
+
+[Tidus]<NL>
+Yeah.<END>
+
+[Tidus]<NL>
+You've been dreaming<NL>
+a long time, haven't you?<END>
+
+Fayth<NL>
+I'm sorry.<END>
+
+[Tidus]<NL>
+I'm grateful.<END>
+
+[Yuna]<NL>
+About what?<END>
+
+[Tidus]<NL>
+Oh, nothing.<END>
+
+[Tidus]<NL>
+Hey, don't make that face!<END>
+
+[Tidus]<NL>
+Come on! We're going to beat [Sin]!<NL>
+Let's see some cheer, okay?<END>
+
+[Yuna]<NL>
+You're hiding something.<END>
+
+[Tidus]<NL>
+I'm not!<END>
+
+[Yuna]<NL>
+Really?<END>
+
+[Yuna]<NL>
+You're a bad liar, you know?<END>
+
+<TEXT>
+<CHOICE1>I think so.<NL>
+<CHOICE2>Not yet.<END>
+
+<TEXT>
+<CHOICE1>The Hymn of the Fayth!<NL>
+<CHOICE2>Defeat Yu Yevon!<NL>
+<CHOICE3>No idea...<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

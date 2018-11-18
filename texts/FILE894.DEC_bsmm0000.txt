@@ -1,0 +1,155 @@
+[Tidus]<NL>
+Where's that boat?<END>
+
+[Yuna]<NL>
+Everyone will find us<NL>
+if it doesn't come soon.<END>
+
+[Tidus]<NL>
+You really sure this is okay?<END>
+
+[Yuna]<NL>
+Would you take me<NL>
+to [Zanarkand]?<END>
+
+[Rikku]<NL>
+Hey!<END>
+
+[Rikku]<NL>
+You said you'd go with me!<END>
+
+[Tidus]<NL>
+Oh, hey...<NL>
+I, uh... <END>
+
+[Rikku]<NL>
+I thought [Wakka] told you<NL>
+not to get any ideas?<END>
+
+[Yuna]<NL>
+He did?<END>
+
+[Rikku]<NL>
+Yeah, so you're coming with me!<END>
+
+<NL>
+          <END>
+
+[Jecht]<NL>
+Hey! Stop dreaming!<END>
+
+[Jecht]<NL>
+You, with a woman?<NL>
+You can't even catch a ball!<END>
+
+[Tidus]<NL>
+Owwww!<END>
+
+[Jecht]<NL>
+Oh, what's the matter?<END>
+
+[Jecht]<NL>
+Gonna cry again? Cry, cry.<NL>
+That's the only thing you're good for!<END>
+
+[Tidus]<NL>
+I hate you.<END>
+
+[Jecht]<NL>
+Huh? What'd you say?<END>
+
+[Yuna]<NL>
+You have to speak loudly.<END>
+
+[Tidus]<NL>
+I hate you!<END>
+
+[Jecht]<NL>
+Eh?<END>
+
+[Rikku]<NL>
+That's the spirit!<END>
+
+[Yuna]<NL>
+You can do it!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,260 @@
+<NL>
+Gathering data for travellers is an important<NL>
+part of a Crusader's duties, too.<END>
+
+<NL>
+I admire that young Crusader's dedication.<NL>
+I must recruit him into the warrior monks.<END>
+
+<NL>
+The operation will commence soon.<NL>
+I must hurry.<END>
+
+<NL>
+I've configured this monitor to display<NL>
+information on fiends roaming around the<NL>
+[Luca] area.<END>
+
+<NL>
+Once you leave Luca, you'll have to travel<NL>
+the long and winding <Cor 88>[Mi'ihen Highroad]<Cor 41>.<NL>
+Watch out for fiends along the way!<END>
+
+<NL>
+You should check the sphere monitor before you<NL>
+set out. You'll find useful information in there.<END>
+
+<NL>
+Travellers check this monitor for fiend<NL>
+information before setting out on their journey.<NEWPAGE>
+<NL>
+It's our duty as [Crusader]s to collect<NL>
+this kind of information.<END>
+
+<NL>
+The Hymn of the Fayth is one of our<NL>
+favorites! We all sang really loud!<END>
+
+<NL>
+Enjoy the beautiful music!<NL>
+Immerse yourself in the stunning visuals!<END>
+
+<NL>
+I believe the Calm is right around the corner.<NL>
+Shall we celebrate early?<END>
+
+<NL>
+I suggest you proceed to the rear<NL>
+for a thorough explanation.<END>
+
+<NL>
+When Sin and the ship come flying through,<NL>
+listen to my drum and sing in tune!<END>
+
+<NL>
+If it's our music you want to hear,<NL>
+then go to the back and buy a sphere!<END>
+
+<NL>
+That drummer lookss like ush...<NL>
+Maybe he'sh a big relative of Hypello?<END>
+
+<NL>
+Thish ishn't the shtadium...?<NL>
+I shink I'm losht.<END>
+
+[O'aka]<NL>
+Hello, there!<END>
+
+[Tidus]<NL>
+Hey, weren't you in prison?<END>
+
+[O'aka]<NL>
+Nah, those monks<NL>
+are pushovers, I tell ye!<END>
+
+[O'aka]<NL>
+I'll fleece any priest,<NL>
+or my name's not [O'aka]!<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+Sorry.<NL>
+It was our fault they locked you up.<END>
+
+[O'aka]<NL>
+No problem!<NL>
+Anything for a customer, eh?<END>
+
+[O'aka]<NL>
+You know...<END>
+
+[O'aka]<NL>
+I had a sister.<NL>
+[Wantz]'s older sister, you see.<END>
+
+[O'aka]<NL>
+A summoner, she was.<NL>
+Went on pilgrimage at a young age.<END>
+
+[O'aka]<NL>
+And that was it.<END>
+
+<NL>
+<END>
+
+[O'aka]<NL>
+Me and [Wantz], well, neither of us<NL>
+were fighters enough to be guardians.<END>
+
+[O'aka]<NL>
+I think about it every day, I do.<NL>
+If we could've helped her.<END>
+
+[O'aka]<NL>
+Least I can do is try to<NL>
+help another summoner, I figure.<END>
+
+[O'aka]<NL>
+And Lady [Yuna],<NL>
+she looks so much like...<END>
+
+[Tidus]<NL>
+Eh?<END>
+
+[O'aka]<NL>
+It's nothing.<END>
+
+[Tidus]<NL>
+Say, thanks.<END>
+
+<NL>
+          <END>
+
+[O'aka]<NL>
+[Wantz] has got all the good stuff.<NL>
+[O'aka] XXIII's retiring!<END>
+
+<TEXT>
+Map Debug Menu<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Update Map Data<NL>
+    <CHOICE3>Change Model<NL>
+    <CHOICE4>Control Map Line<NL>
+    <CHOICE5>Return to Saito<END>
+
+<TEXT>
+Model  :  <CHOICE???>B<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

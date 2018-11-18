@@ -1,0 +1,452 @@
+<NL>
+Was she there before?<END>
+
+<NL>
+Don't look at me!<END>
+
+<NL>
+My child is lost in<NL>
+the ruins of [Home].<END>
+
+<NL>
+Please, help me<NL>
+to find my child! <END>
+
+<NL>
+You check by the cliff.<END>
+
+[Auron]<NL>
+Hmph! Let's go.<END>
+
+<NL>
+I will check over here.<END>
+
+<NL>
+          <END>
+
+<NL>
+Where has she gone?<END>
+
+<TEXT>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<NL>
+There's nothing over there...<NL>
+now that [Home] is gone.<END>
+
+<NL>
+But then, we still<NL>
+have [blitz], you see?<END>
+
+<NL>
+The ball...<NL>
+I think we forgot something.<END>
+
+[Rikku]<NL>
+Uhh...which way was it again?<END>
+
+[Rikku]<NL>
+Umm...this way!<END>
+
+[Rikku]<NL>
+Over here!<END>
+
+[Rikku]<NL>
+That way!<END>
+
+[Rikku]<NL>
+Aaaaaaa!<END>
+
+[Tidus]<NL>
+Rikku!<END>
+
+[Wakka]<NL>
+What? [Yuna]'s down there?<END>
+
+[Lulu]<NL>
+Of all the places...<NL>
+Let's go!<END>
+
+<TEXT>
+3!<END>
+
+<TEXT>
+2!<END>
+
+<TEXT>
+1!<END>
+
+<TEXT>
+= 1st TRIAL =<END>
+
+<TEXT>
+= 2nd TRIAL =<END>
+
+<TEXT>
+= 3rd TRIAL =<END>
+
+<TEXT>
+GO!<END>
+
+<TEXT>
+YOU LOSE!<END>
+
+<TEXT>
+TIME'S UP!!!<END>
+
+<TEXT>
+Needletime!<END>
+
+<TEXT>
+Needles!<END>
+
+<TEXT>
+Whoopsie!<END>
+
+<TEXT>
+Prickle!<END>
+
+<TEXT>
+20!<END>
+
+<TEXT>
+<NL>
+Something's written here.<END>
+
+<TEXT>
+<NL>
+[Home] is near.<END>
+
+<TEXT>
+<NL>
+Danger!<NL>
+Beware of Sandstorms!<END>
+
+<TEXT>
+<NL>
+Danger!<NL>
+Strong [fiend] in vicinity!<END>
+
+<TEXT>
+<NL>
+The writing below is faded.<END>
+
+<TEXT>
+<NL>
+20% Off All Travel Agency Goods!<END>
+
+<TEXT>
+<NL>
+Looks like an old advertisement.<END>
+
+<TEXT>
+<NL>
+There's writing on the stone.<END>
+
+<TEXT>
+The sandstorm blocks your path!<END>
+
+<TEXT>
+<NL>
+There's a valley beyond<NL>
+the sandstorm.<END>
+
+<TEXT>
+<NL>
+There's a picture of a<NL>
+fiend on the stone here.<END>
+
+<TEXT>
+<NL>
+Tomay's gone.<NL>
+Gone to fetch the water.<END>
+
+<TEXT>
+<NL>
+Rovivea's gone walkabout.<END>
+
+<TEXT>
+<NL>
+Little Chava likes big numbers.<END>
+
+<TEXT>
+<NL>
+Alek and Aloja play tag<NL>
+in the ruins of men.<END>
+
+<TEXT>
+<NL>
+Vachella seeks the<NL>
+shining blue.<END>
+
+<TEXT>
+<NL>
+O, Robeya's stuck inside.<END>
+
+<TEXT>
+<NL>
+A fiery inscription--The lord<NL>
+of the hole is gone. Isrra thinks.<END>
+
+<TEXT>
+<NL>
+Much-curious Elio has left on a journey.<END>
+
+<TEXT>
+<NL>
+Flaile is always behind.<END>
+
+<TEXT>
+<NL>
+= Song of the Gatekeeper =<END>
+
+<TEXT>
+<NL>
+10 little gatekeepers<NL>
+play in the sand.<END>
+
+<TEXT>
+<NL>
+9 little gatekeepers<NL>
+play in the sand.<END>
+
+<TEXT>
+<NL>
+8 little gatekeepers<NL>
+play in the sand.<END>
+
+<TEXT>
+<NL>
+7 little gatekeepers<NL>
+play in the sand.<END>
+
+<TEXT>
+<NL>
+6 little gatekeepers<NL>
+play in the sand.<END>
+
+<TEXT>
+<NL>
+5 little gatekeepers<NL>
+play in the sand.<END>
+
+<TEXT>
+<NL>
+4 little gatekeepers<NL>
+play in the sand.<END>
+
+<TEXT>
+<NL>
+3 little gatekeepers<NL>
+play in the sand.<END>
+
+<TEXT>
+<NL>
+2 little gatekeepers<NL>
+play in the sand.<END>
+
+<TEXT>
+<NL>
+1 little gatekeeper<NL>
+plays in the sand.<END>
+
+<TEXT>
+<NL>
+Be back soon.<END>
+
+<TEXT>
+<NL>
+Gone for good.<END>
+
+<TEXT>
+<NL>
+Nobody's here.<NL>
+The sand is gone.<END>
+
+<TEXT>
+<Cor 43>Tomay<Cor 41><NL>
+- Duties: Fetching water.<NL>
+  Takes his time and, as a<NL>
+  result, is often left<NL>
+  behind.<NL>
+- A little dim.<END>
+
+<TEXT>
+<Cor 43>Rovivea<Cor 41><NL>
+- Has no patience for<NL>
+  certain dim-witted friends.<NL>
+- Not a progressive thinker.<END>
+
+<TEXT>
+<Cor 43>Chava<Cor 41><NL>
+- Recently learned to<NL>
+  count to 50.<NL>
+- A little needy.<NL>
+- Attention deficit.<END>
+
+<TEXT>
+<Cor 43>Alek & Aloja<Cor 41><NL>
+- Two brothers, rarely separated.<NL>
+- They move as one, their closeness<NL>
+  a paragon of brotherhood.<END>
+
+<TEXT>
+<Cor 43>Vachella<Cor 41><NL>
+- Loves new things.<NL>
+- Hard on others, easy on self.<NL>
+- Stingy.<END>
+
+<TEXT>
+<Cor 43>Robeya<Cor 41><NL>
+- A real needle brain.<NL>
+- Likes cramped spaces.<NL>
+- Check out his great collection!<END>
+
+<TEXT>
+<Cor 43>Isrra<Cor 41><NL>
+- The philosopher about town.<NL>
+  Today, he digs holes. Again.<NL>
+- A cautious sort.<END>
+
+<TEXT>
+<Cor 43>Elio<Cor 41><NL>
+- To see what lies beyond the sands,<NL>
+  he travels far to distant lands.<NL>
+- Hyper-reactive and a bad poet.<END>
+
+<TEXT>
+<Cor 43>Flaile<Cor 41><NL>
+- The guy you never invite<NL>
+  but he always shows up anyway.<NL>
+- Cheeky.<END>
+
+<TEXT>
+<Cor 43>Village of the Cactuars<Cor 41><NL>
+- Using spheres to control the sands,<NL>
+  the Cactuars defend their village.<NL>
+  They are the Gatekeepers.<NL>
+- Present all 10 of the spheres they<NL>
+  bear to the stone altar,<NL>
+  and the way to the village will open.<END>
+
+<TEXT>
+<Cor 43>Way of the Gatekeepers I<Cor 41><NL>
+- It may look like fun and games, but the<NL>
+  Gatekeepers are a proud race of warriors.<NL>
+- While they dislike combat, they will turn<NL>
+  and face any enemy that takes their back.<END>
+
+<TEXT>
+<Cor 43>Way of the Gatekeepers II<Cor 41><NL>
+- Should you fail to sneak up on them<NL>
+  they will realize they have over-estimated<NL>
+  their enemy and depart in disgust.<END>
+
+<TEXT>
+<Cor 43>Way of the Gatekeepers III<Cor 41><NL>
+- Sneak up on the cactuars when their<NL>
+  backs are turned to confront them.<NL>
+  It's better that way, believe me.<END>
+
+<TEXT>
+<Cor 43>Spheres<Cor 41><NL>
+- Fail to catch the gatekeeper<NL>
+  unaware, and you'll obtain the<NL>
+  Sphere del Perdedor!<NL>
+- Best the gatekeeper and obtain<NL>
+  his personalized sphere!<NL>
+- Collect lots of spheres to<NL>
+  receive an award at the village.<END>
+
+<TEXT>
+<NL>
+Writing appears when the sphere<NL>
+is set into the stone!<END>
+
+<TEXT>
+Obtained Tomay's Sphere!<END>
+
+<TEXT>
+Obtained Rovivea's Sphere!<END>
+
+<TEXT>
+Obtained Chava's Sphere!<END>
+
+<TEXT>
+Obtained Alek and Aloja's Sphere!<END>
+
+<TEXT>
+Obtained Vachella's Sphere!<END>
+
+<TEXT>
+Obtained Robeya's Sphere!<END>
+
+<TEXT>
+Obtained Isrra's Sphere!<END>
+
+<TEXT>
+Obtained Elio's Sphere!<END>
+
+<TEXT>
+Obtained Flaile's Sphere!<END>
+
+<TEXT>
+Obtained the Sphere del Perdedor!<END>
+
+<NL>
+<TEXT>
+<Cor 88>Time: <VAR12 32>:<VAR12 31>.<VAR12 30><Cor 41><END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,275 @@
+[Tromell]<NL>
+I will go inform Lord [Seymor].<NL>
+Please wait here.<END>
+
+[Yuna]<NL>
+What could it be?<END>
+
+[Yuna]<NL>
+I haven't done anything<NL>
+to make him mad.<END>
+
+[Wakka]<NL>
+I get the feeling he called us up<NL>
+here for more than just dinner.<END>
+
+[Wakka]<NL>
+Nothing 'gainst the maester,<NL>
+but I hope we get this over with quick.<END>
+
+[Lulu]<NL>
+There's no temple here<NL>
+in [Guadosalam], see?<END>
+
+[Lulu]<NL>
+Summoners usually just pass<NL>
+through on their way elsewhere.<END>
+
+<NL>
+<END>
+
+[Lulu]<NL>
+What?<END>
+
+[Tidus]<NL>
+I didn't even ask a question and<NL>
+you're explaining things.<END>
+
+[Lulu]<NL>
+You'd rather I say nothing, then?<END>
+
+[Tidus]<NL>
+No, no!<END>
+
+[Tidus]<NL>
+Maybe you finally believe I<NL>
+don't know anything about [Spira].<END>
+
+[Tidus]<NL>
+And maybe that means you<NL>
+believe me about [Zanarkand], too?<END>
+
+[Lulu]<NL>
+Well...<END>
+
+[Lulu]<NL>
+There are many things I do not know.<END>
+
+[Lulu]<NL>
+Your [Zanarkand] is<NL>
+one of those things.<END>
+
+[Lulu]<NL>
+I suppose I can't say<NL>
+what I think either way.<END>
+
+[Lulu]<NL>
+Still, be careful.<END>
+
+[Lulu]<NL>
+You shouldn't tell other people.<END>
+
+[Tidus]<NL>
+Yeah, I know.<END>
+
+[Lulu]<NL>
+Why don't you eat something?<END>
+
+[Kimahri]<NL>
+[Kimahri] not like<NL>
+Maester [Seymor].<END>
+
+<TEXT>
+[Yuna]<NL>
+Aa! Shhh!<END>
+
+[Kimahri]<NL>
+[Kimahri] speak no more.<END>
+
+[Rikku]<NL>
+Mmmm! This is good!<END>
+
+[Rikku]<NL>
+[Guado] sure know how to eat!<END>
+
+[Rikku]<NL>
+Gee, I wonder what all this is for.<NL>
+It's exciting!<END>
+
+[Auron]<NL>
+Stay on your guard.<END>
+
+[Tidus]<NL>
+Why?<NL>
+This guy's just a priest, right?<END>
+
+[Auron]<NL>
+Those with power use that power.<END>
+
+[Auron]<NL>
+Maesters have power.<END>
+
+<TEXT>
+[Tidus]<NL>
+Wait...<END>
+
+[Tidus]<NL>
+You sure you don't have<NL>
+something against [Yevon2]?<END>
+
+<TEXT>
+<NL>
+<END>
+
+[Auron]<NL>
+I lived a long time in [Zanarkand].<END>
+
+<NL>
+<END>
+
+[Auron]<NL>
+What is taking them so long?<END>
+
+<NL>
+<END>
+
+[Tromell]<NL>
+Truly, it is good to have guests again.<END>
+
+[Tromell]<NL>
+Since Lord [Jyscal] passed away,<NL>
+these halls have been too quiet.<END>
+
+[Yuna]<NL>
+The death of Lord [Jyscal] was<NL>
+a great loss for all of [Spira].<END>
+
+[Tidus]<NL>
+Was this Maester [Jyscal]<NL>
+really such a great guy?<END>
+
+[Wakka]<NL>
+He brought the teachings<NL>
+of [Yevon2] to the [Guado].<END>
+
+[Wakka]<NL>
+He was truly a great man.<END>
+
+[Tromell]<NL>
+Truly, a loss for us all.<END>
+
+[Tromell]<NL>
+But now a new leader, Lord<NL>
+[Seymor], has come before us.<END>
+
+[Tromell]<NL>
+Lord [Seymor] is the child<NL>
+of a [Guado] and a human.<END>
+
+[Tromell]<NL>
+He will be the tie that<NL>
+binds our two races together.<END>
+
+[Tromell]<NL>
+But that is not all, I think.<END>
+
+[Tromell]<NL>
+Lord [Seymor]...<END>
+
+[Tromell]<NL>
+He will surely become the shining<NL>
+star that lights the way for all<NL>
+the peoples of [Spira].<END>
+
+[Seymor]<NL>
+That is enough, [Tromell].<END>
+
+[Seymor]<NL>
+Must I always endure such praise?<END>
+
+[Seymor]<NL>
+Welcome!<END>
+
+[Yuna]<NL>
+You...wanted to see me?<END>
+
+[Seymor]<NL>
+Please, make yourselves at home.<NL>
+There's no rush.<END>
+
+[Auron]<NL>
+Please, keep this short.<NL>
+[Yuna] must rush.<END>
+
+[Seymor]<NL>
+Pardon me.<END>
+
+[Seymor]<NL>
+It has been a long time<NL>
+since I had guests.<END>
+
+[Seymor]<NL>
+Lady [Yuna], this way.<END>
+
+[Seymor]<NL>
+This sphere is a reconstruction<NL>
+created from the thoughts of the<NL>
+dead that wander the [Farplane].<END>
+
+[Tidus]<NL>
+[Zanarkand]!<END>
+
+[Seymor]<NL>
+Correct. [Zanarkand]...<NL>
+as it looked one thousand years ago.<END>
+
+[Seymor]<NL>
+The great and wondrous<NL>
+machina city, [Zanarkand].<END>
+
+[Seymor]<NL>
+She once lived in this metropolis.<END>
+
+[Yuna]<NL>
+She, who?<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,404 @@
+<TEXT>
+Obtained [Jecht]'s sphere!<END>
+
+<TEXT>
+<CHOICE1>Take a look.<NL>
+<CHOICE2>Leave it alone.<END>
+
+[Maechen]<NL>
+Would you like to hear a bit<NL>
+about the wondrous shoopuf?<END>
+
+<TEXT>
+<CHOICE1>No stories, please!<NL>
+<CHOICE2>Absolutely!<END>
+
+[Maechen]<NL>
+Perhaps you'd like to hear<NL>
+a bit about the Hypello, hmm?<END>
+
+<TEXT>
+<CHOICE1>Got any weapons?<NL>
+<CHOICE2>Got any items?<NL>
+<CHOICE3>Leave.<END>
+
+<NL>
+Thanks!<END>
+
+<NL>
+Aww, leaving already?<NL>
+Well, come back again, you hear?<END>
+
+<NL>
+There's a long wait to ride the<NL>
+shoopuf since space is limited.<NEWPAGE>
+<NL>
+But summoners get priority since they<NL>
+need to get on their way to [Zanarkand].<END>
+
+<NL>
+Careful where you shop.<NL>
+This area is full of cunning merchants.<END>
+
+<NL>
+The merchants are ecstatic about<NL>
+the maester's marriage plans.<NEWPAGE>
+<NL>
+They're boosting profits by taking<NL>
+advantage of the people's festive mood.<END>
+
+<NL>
+Until recently, these merchants<NL>
+only sold to [Crusader]s.<NEWPAGE>
+<NL>
+They claimed to be giving the [Crusader]s<NL>
+a deal because of [Operation Mi'ihen], but<NL>
+they were really just ripping them off.<END>
+
+<NL>
+With all the traitors and [Al Bhed] around,<NL>
+not many travellers pass through here anymore.<NL>
+<END>
+
+<NL>
+The merchants are suffering<NL>
+with so few customers.<END>
+
+<NL>
+They say [Sin] landed in [Bevelle].<NL>
+It's better to stay away from the north.<END>
+
+<NL>
+Seems the [Guado] won't<NL>
+come out of [Guadosalam].<END>
+
+<NL>
+I was going to return to [Bevelle]<NL>
+after the tournament in [Luca]...<NEWPAGE>
+<NL>
+but the [Crusader]s blocked the<NL>
+roads and I couldn't get through. <END>
+
+<NL>
+My plans are ruined.<NL>
+Now what am I supposed to do?<END>
+
+<NL>
+The [Guado] can't stop<NL>
+talking about the marriage.<NEWPAGE>
+<NL>
+Well, I guess it's not every<NL>
+day they hear good news.<END>
+
+<NL>
+I want to quit the [Crusader]s<NL>
+and settle down in the country.<END>
+
+<NL>
+So Lady [Yuna]'s getting married, huh?<NL>
+That's great news.<NEWPAGE>
+<NL>
+I wish the [Crusader]s had defeated<NL>
+[Sin]... That would've been perfect.<END>
+
+<NL>
+By the time we get home, they'll<NL>
+be celebrating their marriage.<END>
+
+<NL>
+Welcome! You seem to<NL>
+have fine taste, sir!<END>
+
+<NL>
+Listen, buy from me and you won't<NL>
+have any problems down the line.<END>
+
+<NL>
+Well, hello there.<NL>
+Are you in luck today!<END>
+
+<NL>
+If you buy something now, I'll give you<NL>
+a big discount! Well, what do you say?<END>
+
+Driver<NL>
+Noo, I don shink sho.<NL>
+Ish bad idea, yesh.<END>
+
+[Lucil]<NL>
+Please, we beg of you!<END>
+
+Driver<NL>
+Imposhibibble! Imposhibibble!<END>
+
+[Tidus]<NL>
+What's wrong?<END>
+
+[Elma]<NL>
+This guy won't let<NL>
+our chocobo on the shoopuf!<END>
+
+[Tidus]<NL>
+It is kinda big.<END>
+
+[Elma]<NL>
+It's just not fair!<END>
+
+[Clasko]<NL>
+He does have a point, though.<END>
+
+[Elma]<NL>
+So, what?<NL>
+We just leave him behind?<END>
+
+[Clasko]<NL>
+Hey, I didn't say that. Just...<END>
+
+[Lucil]<NL>
+It is no good.<NL>
+We will have to find another way.<END>
+
+[Lucil]<NL>
+We will find a ford<NL>
+where we can cross on foot.<END>
+
+[Elma]<NL>
+Yes, Captain, sir!<END>
+
+[Clasko]<NL>
+But...that'll take days!<END>
+
+[Lucil]<NL>
+Where there's a will, there's a way.<END>
+
+[Clasko]<NL>
+Oh, boy...<END>
+
+[Elma]<NL>
+That's our captain!<END>
+
+<NL>
+Where there's a will, there's a way.<END>
+
+<NL>
+Those words stayed with me.<END>
+
+<NL>
+I wonder how Captain<NL>
+[Lucil] is doing.<END>
+
+[Wakka]<NL>
+Let the driver know<NL>
+when you're ready.<END>
+
+[Lulu]<NL>
+Riding a shoopuf<NL>
+isn't THAT much fun.<END>
+
+[Wakka]<NL>
+How little you know!<END>
+
+[Wakka]<NL>
+Some things little boys<NL>
+never grow out of!<END>
+
+[Wakka] & [Tidus]<NL>
+Right?<END>
+
+[Lulu]<NL>
+The merchants here are wily.<NL>
+Pick your shop well.<END>
+
+[Maechen]<NL>
+Pity.<END>
+
+[Maechen]<NL>
+There are many things<NL>
+we do not know about the shoopuf.<END>
+
+[Maechen]<NL>
+For example, what does it eat?<NL>
+It eats nothing!<END>
+
+[Maechen]<NL>
+The water it sucks through its shnoz<NL>
+somehow supports its considerable size.<END>
+
+[Maechen]<NL>
+Some theorize it eats teeny-weeny<NL>
+waterborne organisms.<END>
+
+[Maechen]<NL>
+And that, as they say, is that.<END>
+
+[Maechen]<NL>
+These shoopuf handlers belong to a race<NL>
+of water-dwellers known as the Hypello.<END>
+
+[Maechen]<NL>
+They may be slow on land, but in<NL>
+the water they're quick as silvery fish!<END>
+
+[Maechen]<NL>
+You'd think they'd make<NL>
+admirable players of [blitzball].<END>
+
+[Maechen]<NL>
+But their lackadaisical disposition<NL>
+draws them to less strenuous pastimes.<END>
+
+[Maechen]<NL>
+And that, as they say, is that.<END>
+
+[Maechen]<NL>
+I believe I've said<NL>
+all there is to say.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

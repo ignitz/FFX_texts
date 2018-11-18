@@ -1,0 +1,93 @@
+[Jecht]<NL>
+After you get that<NL>
+aeon from [Besaid]...<END>
+
+[Jecht]<NL>
+Where're we going?<END>
+
+[Auron]<NL>
+Back the way we came.<END>
+
+[Auron]<NL>
+Then we go north from<NL>
+[Bevelle] and climb [Mt. Gagazet].<END>
+
+[Braska]<NL>
+Beyond it lies...[Zanarkand].<END>
+
+[Jecht]<NL>
+[Zanarkand], huh?<END>
+
+[Jecht]<NL>
+It's been in ruins for<NL>
+a thousand years, right?<END>
+
+[Auron]<NL>
+So the legends say.<NL>
+No one knows for sure.<END>
+
+[Auron]<NL>
+It still could be your [Zanarkand].<END>
+
+[Jecht]<NL>
+Thanks for trying, [Auron].<END>
+
+<NL>
+          <END>
+
+[Jecht]<NL>
+I thought if I went with you guys<NL>
+I might find a way to go back.<END>
+
+[Jecht]<NL>
+But it's not that easy.<END>
+
+[Braska]<NL>
+I'm sorry.<END>
+
+[Jecht]<NL>
+No need to apologize, [Braska].<NL>
+It's not your fault.<END>
+
+[Jecht]<NL>
+I should be thinking about<NL>
+fighting [Sin] now, anyway.<END>
+
+[Jecht]<NL>
+[Zanarkand] can wait.<END>
+
+[Jecht]<NL>
+But I will find my way back!<END>
+
+[Braska]<NL>
+Be careful, [Jecht].<END>
+
+[Jecht]<NL>
+Hey, I'll be all right.<END>
+
+[Jecht]<NL>
+You're the one that should be careful.<NL>
+Wouldn't want your little girl to cry.<END>
+
+[Braska]<NL>
+She'll be all right.<NL>
+She's strong, like her mother was.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,360 @@
+<NL>
+I beg your pardon,<NL>
+but may I ask your name?<END>
+
+[Yuna]<NL>
+I am Summoner [Yuna],<NL>
+from the isle of [Besaid].<END>
+
+<NL>
+As I thought!<END>
+
+<NL>
+The daughter of Lord [Braska].<NL>
+You have the look of your father.<END>
+
+[Yuna]<NL>
+My father?<NL>
+You knew him?<END>
+
+<NL>
+No, I have never met the man.<END>
+
+<NL>
+Ah, my apologies.<NL>
+I am [Isaaru].<END>
+
+[Isaaru]<NL>
+I am a summoner, like you.<END>
+
+<NL>
+I'm [Pacce].<NL>
+Pleased to meet you.<END>
+
+<NL>
+And I'm [Maroda].<END>
+
+[Maroda]<NL>
+I'm guarding my big brother here.<END>
+
+[Isaaru]<NL>
+Since I was a child, I've always<NL>
+looked up to Lord [Braska].<END>
+
+[Isaaru]<NL>
+I wished I would someday become<NL>
+a high summoner like he was.<END>
+
+[Isaaru]<NL>
+You must have some of your<NL>
+father's talent in you!<END>
+
+[Isaaru]<NL>
+I believe you might<NL>
+someday defeat [Sin].<END>
+
+[Yuna]<NL>
+I...I'm not really...<NL>
+I've only just become a summoner.<END>
+
+[Isaaru]<NL>
+Of course, I've no intention<NL>
+of losing, either.<END>
+
+[Isaaru]<NL>
+So perhaps we should race to see<NL>
+who can defeat [Sin] first, no?<END>
+
+[Yuna]<NL>
+Very well, then.<NL>
+I accept your challenge.<END>
+
+[Maroda]<NL>
+[Isaaru]!<END>
+
+[Isaaru]<NL>
+[Yuna], I beg your leave.<NL>
+Good luck, to both of us!<END>
+
+<TEXT>
+[Yuna]<NL>
+Yes.<END>
+
+[Isaaru]<NL>
+Hey, you.<END>
+
+[Tidus]<NL>
+Me?<END>
+
+[Isaaru]<NL>
+You are [Yuna]'s guardian, no?<END>
+
+[Isaaru]<NL>
+[Maroda]'s heard a curious rumor.<NL>
+I thought you should know.<END>
+
+[Maroda]<NL>
+I heard it from those [Crusader]s.<END>
+
+[Maroda]<NL>
+Seems that summoners have been going<NL>
+out on pilgrimage and just...disappearing.<END>
+
+[Isaaru]<NL>
+It could just be the fiends got them...<NL>
+but not so many so quickly.<END>
+
+[Maroda]<NL>
+Sorry I don't know more,<NL>
+but...watch your back.<END>
+
+[Maroda]<NL>
+Ain't much future for a guardian<NL>
+without a summoner, eh?<END>
+
+[Pacce]<NL>
+What? What?<NL>
+Whatcha all talkin' 'bout?<END>
+
+[Maroda]<NL>
+We're talking about doing<NL>
+your job as a guardian!<END>
+
+[Pacce]<NL>
+Hey, I'm doing good!<NL>
+Right, big brother?<END>
+
+[Isaaru]<NL>
+Please, be careful.<END>
+
+[Tidus]<NL>
+Will do!<END>
+
+[Isaaru]<NL>
+[Pacce]!<END>
+
+[Pacce]<NL>
+Oh... What?<END>
+
+[Isaaru]<NL>
+We're leaving!<END>
+
+[Pacce]<NL>
+Be right there!<END>
+
+[Pacce]<NL>
+See ya!<END>
+
+[Auron]<NL>
+So you're a champion of<NL>
+[Yevon2] now, [Braska]?<END>
+
+[Isaaru]<NL>
+We summoners must do our part, before<NL>
+another fool plan wastes more lives.<END>
+
+[Isaaru]<NL>
+I hear [Operation Mi'ihen]<NL>
+did not go well...<END>
+
+[Isaaru]<NL>
+Now, we go to [Kilika].<END>
+
+[Isaaru]<NL>
+From there we take the ferry,<NL>
+perhaps as far as [Besaid].<END>
+
+[Maroda]<NL>
+I keep telling 'im, the more time<NL>
+we waste, the farther we'll fall behind<NL>
+the other summoners.<END>
+
+[Maroda]<NL>
+Our itinerary just keeps slipping.<END>
+
+[Maroda]<NL>
+We should be climbing the slopes<NL>
+of [Mt. Gagazet] by now.<END>
+
+[Pacce]<NL>
+It's so pretty...<END>
+
+<NL>
+The Cloister of Trials lies within.<NL>
+Are you prepared?<END>
+
+<TEXT>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<NL>
+The fayth has retired for the evening.<NL>
+The Cloister of Trials has been sealed.<END>
+
+<NL>
+The path to the Trials has been sealed.<NL>
+Please proceed to the next temple.<END>
+
+[Luzzu]<NL>
+You're leaving, I hear.<NL>
+Farewell, I hope we meet again.<END>
+
+[Luzzu]<NL>
+I suppose this is farewell, then.<END>
+
+[Tidus]<NL>
+Huh?<END>
+
+[Luzzu]<NL>
+I'm leaving...back to [Besaid].<END>
+
+[Luzzu]<NL>
+I can't stay here eating<NL>
+the temple's bread forever.<END>
+
+[Luzzu]<NL>
+I'm one of the only [Crusader]s still here.<END>
+
+<NL>
+Once, travellers of the Highroad would<NL>
+customarily stop over at this temple<NL>
+and pray for a safe journey.<NEWPAGE>
+<NL>
+Nowadays, they just pass by<NL>
+without stopping.<NEWPAGE>
+<NL>
+How dare they neglect the precepts that have<NL>
+sustained [Spira] for a thousand years?<END>
+
+<NL>
+We must lead errant souls<NL>
+back to the way; otherwise,<NL>
+[Yevon2]'s teachings will perish.<END>
+
+<NL>
+Is Maester [Seymor] really getting married?<NEWPAGE>
+<NL>
+A [Guado] maester marrying a daughter<NL>
+of a high summoner. It's unprecedented.<END>
+
+[Gatta]<NL>
+I heard you're leaving, too.<NL>
+Good luck. I hope we meet again someday.<END>
+
+[Gatta]<NL>
+I'm going back to [Besaid].<NL>
+With [Luzzu] gone...<END>
+
+[Tidus]<NL>
+Yeah. It'd be hard<NL>
+fighting alone, wouldn't it?<END>
+
+[Gatta]<NL>
+Most of the other [Crusader]s<NL>
+have already left.<END>
+
+[Gatta]<NL>
+I'll go soon.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

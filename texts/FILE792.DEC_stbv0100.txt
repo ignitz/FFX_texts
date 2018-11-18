@@ -1,0 +1,576 @@
+[Rikku]<NL>
+[Yunie]!<END>
+
+[Rikku]<NL>
+You're all right?<END>
+
+[Rikku]<NL>
+We were so worried!<NL>
+It's good to have you back!<END>
+
+[Yuna]<NL>
+Thank you.<END>
+
+[Tidus]<NL>
+Um...<NL>
+I...uh...<END>
+
+[Auron]<NL>
+[Kinoc]!<END>
+
+[Tidus]<NL>
+Why, you!<END>
+
+[Seymor]<NL>
+I have saved him.<END>
+
+[Seymor]<NL>
+He was a man who craved power.<END>
+
+[Seymor]<NL>
+And great power he had,<NL>
+but he feared losing it.<END>
+
+[Seymor]<NL>
+Trembling at unseen enemies,<NL>
+he spent his days scheming<NL>
+petty schemes.<END>
+
+[Seymor]<NL>
+Chased by his fears,<NL>
+never knowing rest.<END>
+
+[Seymor]<NL>
+You see...<END>
+
+[Seymor]<NL>
+Now, he has no worries.<NL>
+He has been granted sleep eternal.<END>
+
+[Seymor]<NL>
+Death is a sweet slumber.<END>
+
+[Seymor]<NL>
+All the pain of life is gently<NL>
+swept away... Ah, yes.<END>
+
+[Seymor]<NL>
+So you see...<END>
+
+[Seymor]<NL>
+if all life were to end<NL>
+in [Spira], all suffering<NL>
+would end. Don't you see?<END>
+
+[Seymor]<NL>
+Do you not agree?<END>
+
+[Seymor]<NL>
+That, [Yuna], is why I need you.<END>
+
+[Seymor]<NL>
+Come, Lady [Yuna].<END>
+
+[Seymor]<NL>
+Come with me to [Zanarkand],<NL>
+the lost city of the dead.<END>
+
+[Seymor]<NL>
+With death on our side,<NL>
+we will save [Spira],<NL>
+and for this...<END>
+
+[Seymor]<NL>
+I will take from you your<NL>
+strength, [Yuna], your life,<NL>
+and become the next [Sin].<END>
+
+[Seymor]<NL>
+I will destroy [Spira]!<NL>
+I will save it!<END>
+
+[Tidus]<NL>
+You're totally nuts!<END>
+
+[Seymor]<NL>
+Unpleasant...<END>
+
+[Seymor]<NL>
+Very well.<END>
+
+[Seymor]<NL>
+I will give you your death.<NL>
+You seem to want it so.<END>
+
+[Kimahri]<NL>
+Run! Protect [Yuna]!<END>
+
+[Auron]<NL>
+Go!<END>
+
+[Tidus]<NL>
+No way!<NL>
+I'm fighting!<END>
+
+[Auron]<NL>
+I said go!<END>
+
+<NL>
+          <END>
+
+[Yuna]<NL>
+I won't leave [Kimahri] behind!<END>
+
+[Auron]<NL>
+He is a guardian.<NL>
+Protecting you is everything.<END>
+
+[Yuna]<NL>
+[Auron]!<END>
+
+[Tidus]<NL>
+That's right!<NL>
+We're all guardians!<END>
+
+[Tidus]<NL>
+Yeah, and you know what that means?<END>
+
+[Tidus]<NL>
+[Yuna]...<NL>
+Anywhere you go, I'll follow!<END>
+
+[Yuna]<NL>
+Anywhere I go?<END>
+
+[Tidus]<NL>
+Yeah, anywhere!<END>
+
+[Yuna]<NL>
+Well, then!<END>
+
+[Tidus] & [Yuna]<NL>
+Let's go!<END>
+
+[Tidus]<NL>
+Hey, [Kimahri]!<NL>
+Leave some for us!<END>
+
+[Wakka]<NL>
+Hey! Wait for me!<END>
+
+[Rikku]<NL>
+Me, too!<END>
+
+[Lulu]<NL>
+I'll go, too!<END>
+
+[Tidus]<NL>
+Run!<END>
+
+[Wakka]<NL>
+Man, don't these guys ever give up?<END>
+
+<NL>
+Infidel!<END>
+
+<NL>
+You'll regret showing your<NL>
+face here! We'll strike you<NL>
+down in the name of [Yevon2]!<END>
+
+[Tidus]<NL>
+Blah, blah, blah.<NL>
+Yeah, so? Guys?<END>
+
+[Rikku]<NL>
+If they want a fight,<NL>
+let's give 'em one!<END>
+
+<NL>
+Prepare to charge!<END>
+
+[Shelinda]<NL>
+Stop!<END>
+
+<NL>
+Captain?<END>
+
+[Shelinda]<NL>
+Lady [Yuna] is not to be harmed!<END>
+
+[Shelinda]<NL>
+She's no traitor!<NL>
+That is an evil rumor<NL>
+spread by the [Al Bhed]!<END>
+
+[Rikku]<NL>
+What?<END>
+
+[Shelinda]<NL>
+Maester [Mika] himself told me.<END>
+
+<NL>
+Then...what are we to do?<END>
+
+[Rikku]<NL>
+Stand down!<END>
+
+[Shelinda]<NL>
+As she says!<END>
+
+[Rikku]<NL>
+What was that<NL>
+about evil [Al Bhed]?<END>
+
+[Shelinda]<NL>
+I... Truly, I do not<NL>
+understand it myself.<END>
+
+[Shelinda]<NL>
+All [Yevon2] seems to be<NL>
+in a state of confusion.<END>
+
+[Shelinda]<NL>
+Why, yesterday they called me<NL>
+out of the blue and made me<NL>
+captain of the guard!<END>
+
+[Auron]<NL>
+Short on believers?<END>
+
+[Shelinda]<NL>
+Yes, the chaos in the temples<NL>
+is worse than I'd imagined.<END>
+
+[Shelinda]<NL>
+It's horrible!<END>
+
+[Shelinda]<NL>
+And all the priests do<NL>
+is blame each other.<END>
+
+[Shelinda]<NL>
+I worry what will become of [Yevon2].<END>
+
+[Shelinda]<NL>
+But no!<END>
+
+[Shelinda]<NL>
+I must be the rock that stands<NL>
+against the swirling tides, right?<END>
+
+[Shelinda]<NL>
+Lady [Yuna], I must tell you,<NL>
+your courage has been a great<NL>
+inspiration to me.<END>
+
+[Tidus]<NL>
+Yeah, that's great, but we<NL>
+came here to see [Maester Mika].<NL>
+Is he here?<END>
+
+[Shelinda]<NL>
+Yes, I shall<NL>
+arrange an audience.<END>
+
+[Shelinda]<NL>
+Please wait in the courtroom.<END>
+
+[Rikku]<NL>
+Hey, hey, wait!<NL>
+What was all that about<NL>
+the [Al Bhed] lying and stuff?<END>
+
+[Auron]<NL>
+Simple.<END>
+
+[Auron]<NL>
+[Yuna] has become<NL>
+[Mika]'s only hope.<END>
+
+[Rikku]<NL>
+Oh... Okay.<END>
+
+[Lulu]<NL>
+Just what does he think<NL>
+he can get away with?<END>
+
+[Tidus]<NL>
+Time to teach him some manners!<END>
+
+[Yuna]<NL>
+Yes, let's.<END>
+
+[Maroda]<NL>
+Hold there!<NL>
+This bridge is closed.<END>
+
+[Maroda]<NL>
+[Bevelle] is off limits by the<NL>
+temple's decree. No one may enter.<END>
+
+<NL>
+          <END>
+
+[Pacce]<NL>
+Everyone's in mourning<NL>
+since [Maester Mika] died...<END>
+
+[Pacce]<NL>
+And it's been morning for days now!<END>
+
+[Maroda]<NL>
+[Pacce]...<END>
+
+[Maroda]<NL>
+At least, that's what they say.<END>
+
+[Maroda]<NL>
+The temple's falling apart<NL>
+with all four maesters gone.<END>
+
+[Maroda]<NL>
+They're afraid of riots,<NL>
+so they're turning everyone away.<NL>
+With our brother in the middle...<END>
+
+[Tidus]<NL>
+What's up with [Isaaru]?<END>
+
+[Maroda]<NL>
+They came crying to him to<NL>
+stay in [Bevelle], to protect<NL>
+the temple and all that.<END>
+
+[Maroda]<NL>
+And you know our brother.<NL>
+It's not in him to refuse.<END>
+
+[Pacce]<NL>
+Oh, I guess our pilgrimage<NL>
+is done, then, huh?<END>
+
+[Maroda]<NL>
+Of course not! Geez...<END>
+
+[Maroda]<NL>
+Long story short...<END>
+
+[Maroda]<NL>
+You'll only find trouble in [Bevelle].<NL>
+I'd stay out for your own safety.<END>
+
+[Maroda]<NL>
+That whole bit about [Yuna] being<NL>
+a traitor's just some [Al Bhed]<NL>
+rumor, I hear.<END>
+
+[Maroda]<NL>
+I just can't believe it.<NL>
+I mean, the [Al Bhed] helped us out!<END>
+
+[Maroda]<NL>
+Wait all you want.<NL>
+[Bevelle]'s gates are closed.<END>
+
+[Pacce]<NL>
+[Isaaru] sends his<NL>
+regards to Lady [Yuna].<END>
+
+[Pacce]<NL>
+And...he says he's sorry, too.<END>
+
+[Pacce]<NL>
+I heard something funny the other day.<END>
+
+[Pacce]<NL>
+If a flying ship sings,<NL>
+we're supposed to sing along!<END>
+
+[Pacce]<NL>
+And they say that will beat [Sin]!<END>
+
+[Tidus]<NL>
+Better not go near the temple.<END>
+
+[Tidus]<NL>
+No use praying now anyway.<END>
+
+[O'aka]<NL>
+You're quite popular these days, eh?<END>
+
+[O'aka]<NL>
+Anything you want, I've got it!<END>
+
+[O'aka]<NL>
+Traitor or no, Lady [Yuna]'s<NL>
+always been a friend to [O'aka].<END>
+
+[O'aka]<NL>
+Now's the time to<NL>
+make good your escape!<END>
+
+<TEXT>
+<CHOICE1>All right.<NL>
+<CHOICE2>No, thanks.<END>
+
+<TEXT>
+<CHOICE1>Ask again.<NL>
+<CHOICE2>No, thanks.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,194 @@
+[Yuna]<NL>
+I want my journey to<NL>
+be full of laughter.<END>
+
+[Yuna]<NL>
+Hey, watch!<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+Hey, you got pretty good.<END>
+
+[Yuna]<NL>
+You sound sad.<END>
+
+[Tidus]<NL>
+Yeah, maybe.<END>
+
+[Yuna]<NL>
+Wanna scream?<END>
+
+[Tidus]<NL>
+I really don't think<NL>
+that's gonna help this time.<END>
+
+[Yuna]<NL>
+You know what?<END>
+
+[Yuna]<NL>
+It's embarrassing to say this myself...<END>
+
+[Yuna]<NL>
+But summoners and their guardians<NL>
+are kind of like Spira's ray of light.<END>
+
+[Yuna]<NL>
+A lot of people in<NL>
+Spira depend on us.<END>
+
+[Yuna]<NL>
+I learned to practice smiling<NL>
+when I'm feeling sad, you know?<END>
+
+[Yuna]<NL>
+I know it's hard.<END>
+
+[Tidus]<NL>
+Yeah...<NL>
+I understand, I think.<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+[Yuna]<NL>
+Come on!<END>
+
+<NL>
+<END>
+
+[Yuna]<NL>
+Right. Now, let's see what you can do!<END>
+
+[Tidus]<NL>
+This is weird!<END>
+
+[Yuna]<NL>
+Next, try laughing out loud!<END>
+
+[Tidus]<NL>
+What!?<END>
+
+[Yuna]<NL>
+Come on, show me!<END>
+
+[Yuna]<NL>
+Too funny!<END>
+
+[Tidus]<NL>
+It was your idea!<END>
+
+[Yuna]<NL>
+Um...thank you.<END>
+
+[Wakka]<NL>
+We were just worried<NL>
+you guys might've gone crazy!<END>
+
+[Yuna]<NL>
+Sorry!<END>
+
+[Yuna]<NL>
+Well then, alright.<END>
+
+[Yuna]<NL>
+Now, we will go to<NL>
+the temple at <Cor 88>Djose<Cor 41>.<END>
+
+[Yuna]<NL>
+And guardians?<NL>
+Don't forget to smile!<END>
+
+[Lulu]<NL>
+Not really.<END>
+
+[Lulu]<NL>
+We don't know where<NL>
+the fiends came from.<END>
+
+[Lulu]<NL>
+[Maester Mika] is safe and sound,<NL>
+thanks to Maester [Seymor].<END>
+
+[Lulu]<NL>
+That's about it.<END>
+
+<ÁREA><NL>
+Besaid<END>
+
+<ÁREA><NL>
+Kilika Port<END>
+
+<ÁREA><NL>
+Luca<END>
+
+<ÁREA><NL>
+Temple of Yevon-Djose<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

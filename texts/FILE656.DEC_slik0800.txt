@@ -1,0 +1,111 @@
+[Tidus]<NL>
+Wh-What the heck is that!?<END>
+
+<NL>
+Wh-What the heck is what?<END>
+
+[Tidus]<NL>
+What is this place?<END>
+
+<NL>
+The power room,<NL>
+like it says on the door!<END>
+
+[Tidus]<NL>
+Yeah, but why the big birds?<END>
+
+<NL>
+What's so strange<NL>
+about chocobo power?<END>
+
+[Tidus]<NL>
+Chocobos?<NL>
+Those are chocobos?<END>
+
+<NL>
+What?<NL>
+You've never seen a chocobo?<END>
+
+<NL>
+What kind of backwater island<NL>
+did you come from, anyway?<END>
+
+<NL>
+          <END>
+
+<NL>
+Miracles and oddities were starting<NL>
+to become daily routine on this trip.<END>
+
+<NL>
+          <END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. III!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>L<Cor 41> [RIGHT] <Cor 97>C<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

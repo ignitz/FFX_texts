@@ -1,0 +1,83 @@
+[Yuna]<NL>
+Wow!<END>
+
+[Wakka]<NL>
+Wh-What are those?<END>
+
+[Yuna]<NL>
+Those are [fayth].<END>
+
+[Yuna]<NL>
+A summoning!<END>
+
+[Yuna]<NL>
+Someone is using these [fayth]!<END>
+
+[Yuna]<NL>
+Someone is drawing<NL>
+energy from all of them!<END>
+
+[Rikku]<NL>
+This many?<END>
+
+[Lulu]<NL>
+Who wields power on this scale,<NL>
+and what could they be calling?<END>
+
+[Rikku]<NL>
+Hey, you know something, don't you?<NL>
+Spill the beans!<END>
+
+[Auron]<NL>
+Look not to others for knowledge.<NL>
+This is your journey, too.<END>
+
+[Rikku]<NL>
+[Yunie] might die, you know?<END>
+
+[Tidus]<NL>
+No... [Auron]'s right.<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+This is our...<NL>
+This is my story.<END>
+
+<NL>
+          <END>
+
+[Yuna]<NL>
+Are you all right?<END>
+
+<NL>
+          <END>
+
+[Rikku]<NL>
+Hey!<NL>
+We were so worried about you!<END>
+
+[Lulu]<NL>
+You okay?<END>
+
+[Tidus]<NL>
+I...I'm okay.<END>
+
+[Yuna]<NL>
+What happened?<END>
+
+[Tidus]<NL>
+Nothing...<NL>
+I blacked out. I was dreaming.<END>
+
+[Tidus]<NL>
+You called me...<NL>
+and I woke up.<END>
+
+[Tidus]<NL>
+Nothing like a good nap!<NL>
+Well, I'm ready. Let's go!<END>
+
+<END>
+

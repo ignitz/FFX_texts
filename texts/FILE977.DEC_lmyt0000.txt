@@ -1,0 +1,386 @@
+<NL>
+<TEXT>
+<Cor 88>Time: <VAR12 32>:<VAR12 31>.<VAR12 30><Cor 41><END>
+
+<TEXT>
+This item opens ancient seals<NL>
+hidden throughout [Spira].<NL>
+It seems to have lost its power, but<NL>
+there might be a way to restore it.<END>
+
+<TEXT>
+<NL>
+Chocobos come to this forgotten temple<NL>
+to test each other's speed and skill.<NEWPAGE>
+<NL>
+You, who are listening to this, you<NL>
+have been accepted as a true rider.<NEWPAGE>
+<NL>
+<NL>
+It is chocobo custom that one<NL>
+must have a rider to challenge the<NEWPAGE>
+<NL>
+champion chocobo that stands<NL>
+near this sphere.<END>
+
+<TEXT>
+<NL>
+Mount the bridled chocobo waiting on<NL>
+the opposite side of the temple.<NEWPAGE>
+<NL>
+Once you are astride the challenger,<NL>
+the race will begin!<END>
+
+<TEXT>
+<NL>
+A bridled chocobo is waiting for you<NL>
+on the other side of the temple.<NEWPAGE>
+<NL>
+Ride it in a race, a test of skill,<NL>
+against the champion chocobo.<NEWPAGE>
+<NL>
+Once you are astride the challenger,<NL>
+the race will begin!<END>
+
+<TEXT>
+<NL>
+It seems to be telling you to ride it.<END>
+
+<TEXT>
+<Cor 43>The Chocobo Race<Cor 41><NL>
+- Take shortcuts by opening the chests<NL>
+  scattered throughout the course.<NL>
+- If you finish the race ahead of the<NL>
+  champion chocobo, you get a prize.<NL>
+- Hitting poles on the race course<NL>
+  lowers your prize rank.<NL>
+- Opening chests also raises your prize<NL>
+  rank, so open as many as you can!<END>
+
+<TEXT>
+GO!<END>
+
+<TEXT>
+<Cor 94>YOU LOSE<Cor 41><END>
+
+<TEXT>
+<Cor 43>YOU WIN!<Cor 41><END>
+
+<TEXT>
+Poles hit: 0!<END>
+
+<TEXT>
+Poles hit: 1<END>
+
+<TEXT>
+Poles hit: 2<END>
+
+<TEXT>
+Poles hit: 3<END>
+
+<TEXT>
+Poles hit: 4<END>
+
+<TEXT>
+Poles hit: 5<END>
+
+<TEXT>
+Poles hit: 6<END>
+
+<TEXT>
+Poles hit: 7<END>
+
+<TEXT>
+Poles hit: 8<END>
+
+<TEXT>
+Poles hit: 9<END>
+
+<TEXT>
+Poles hit: 10<END>
+
+<TEXT>
+Poles hit: 11<END>
+
+<TEXT>
+Poles hit: 12<END>
+
+<TEXT>
+Poles hit: 13<END>
+
+<TEXT>
+Poles hit: 14<END>
+
+<TEXT>
+Poles hit: 15<END>
+
+<TEXT>
+Poles hit: 16<END>
+
+<TEXT>
+Poles hit: 17<END>
+
+<TEXT>
+Poles hit: 18<END>
+
+<TEXT>
+Poles hit: 19<END>
+
+<TEXT>
+Poles hit: 20<END>
+
+<TEXT>
+No chests opened<END>
+
+<TEXT>
+1 chest opened<END>
+
+<TEXT>
+2 chests opened<END>
+
+<TEXT>
+3 chests opened<END>
+
+<TEXT>
+4 chests opened!<END>
+
+<TEXT>
+5 chests opened!<END>
+
+<TEXT>
+6 chests opened!<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Ride!<NL>
+<CHOICE2>Don't ride.<NL>
+<CHOICE3>How do I race?<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. XXIV!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>Q<Cor 41> [RIGHT] <Cor 97>X<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

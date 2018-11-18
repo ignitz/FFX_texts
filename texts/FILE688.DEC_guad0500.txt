@@ -1,0 +1,87 @@
+[Yuna]<NL>
+Why does he want to see me?<END>
+
+[Wakka]<NL>
+I don't like the smell<NL>
+of this one, eh?<END>
+
+[Kimahri]<NL>
+[Kimahri] not like<NL>
+[Master Seymor].<END>
+
+<TEXT>
+[Yuna]<NL>
+<TEXT>
+Aa! Shhh!<END>
+
+[Kimahri]<NL>
+[Kimahri] speak no more.<END>
+
+[Rikku]<NL>
+I wonder what smells so nice!<END>
+
+[Auron]<NL>
+Stay close to [Yuna].<END>
+
+[Lulu]<NL>
+These are the past<NL>
+leaders of the [Guado].<END>
+
+[Tidus]<NL>
+They all look the same!<END>
+
+[Wakka]<NL>
+Maester [Seymor]<NL>
+doesn't look like them, though.<END>
+
+[Lulu]<NL>
+Don't you know?<END>
+
+[Lulu]<NL>
+The last leader...<END>
+
+[Lulu]<NL>
+Maester [Jyscal] wed a human woman.<NL>
+She was [Seymor]'s mother.<END>
+
+[Tromell]<NL>
+This way, please.<END>
+
+[Tromell]<NL>
+This way, please!<END>
+
+<NL>
+[Tromell] will be back shortly.<NL>
+Please be patient.<END>
+
+<NL>
+These are Lord [Seymor]'s private<NL>
+chambers. You may not enter.<END>
+
+[Yuna]<NL>
+Lord [Jyscal], please tell me.<NL>
+What can I do to help?<END>
+
+[Rikku]<NL>
+[Yuna], let's go!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

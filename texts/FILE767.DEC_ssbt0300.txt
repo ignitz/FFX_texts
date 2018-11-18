@@ -1,0 +1,286 @@
+[Cid]<NL>
+Here we go!<END>
+
+[Tidus]<NL>
+Yeah!<END>
+
+[Tidus]<NL>
+I'm coming for you, Dad!<END>
+
+[Yuna]<NL>
+I wonder if Sir [Jecht] is in pain.<END>
+
+[Tidus]<NL>
+Let's just end this...quickly.<END>
+
+[Tidus]<NL>
+The [fayth] said they<NL>
+would help us, right?<END>
+
+[Yuna]<NL>
+It bothers me,<NL>
+the way they said that.<END>
+
+[Tidus]<NL>
+Huh?<END>
+
+[Yuna]<NL>
+I mean, they've been fighting<NL>
+alongside us this whole time,<NL>
+but now they say they'll help?<END>
+
+[Tidus]<NL>
+I guess so...<END>
+
+[Yuna]<NL>
+Wait!<END>
+
+[Yuna]<NL>
+[Sin] is reborn when Yu Yevon<NL>
+merges with an aeon, isn't<NL>
+that right?<END>
+
+[Yuna]<NL>
+If I summon an aeon,<NL>
+Yu Yevon will join with it.<END>
+
+[Yuna]<NL>
+But at first, it'll<NL>
+be small, won't it?<END>
+
+[Tidus]<NL>
+Yeah...<END>
+
+[Tidus]<NL>
+Then, we might be able to beat<NL>
+it without the Final Summoning.<END>
+
+[Yuna]<NL>
+I don't know. What if<NL>
+Yu Yevon jumps again?<END>
+
+[Tidus]<NL>
+Then we'll take it down again!<END>
+
+[Tidus]<NL>
+We'll fight him until<NL>
+there's no place left to run!<END>
+
+<NL>
+          <END>
+
+[Yuna]<NL>
+I never thought it<NL>
+would come down to this.<END>
+
+[Tidus]<NL>
+Yeah, I know.<END>
+
+[Tidus]<NL>
+Hey, the [fayth], they're<NL>
+tired of this whole thing, too.<END>
+
+[Tidus]<NL>
+Let's let them rest.<END>
+
+[Yuna]<NL>
+The [fayth] said it's<NL>
+pointless to keep dreaming.<END>
+
+[Yuna]<NL>
+The dream will disappear, he said.<END>
+
+[Yuna]<NL>
+What did he mean?<END>
+
+[Yuna]<NL>
+And what is it that Yu Yevon<NL>
+is summoning from within [Sin]?<END>
+
+[Tidus]<NL>
+The dream of the [fayth].<END>
+
+[Yuna]<NL>
+You won't...go away, will you?<END>
+
+[Rikku]<NL>
+[Yunie]! Guys! Come look!<NL>
+Something's happening to [Sin]!<END>
+
+<NL>
+<TEXT>
+<Cor 88>Time: <VAR12 32>:<VAR12 31>.<VAR12 30><Cor 41><END>
+
+<TEXT>
+3!<END>
+
+<TEXT>
+2!<END>
+
+<TEXT>
+1!<END>
+
+<TEXT>
+GO!<END>
+
+<TEXT>
+YOU LOSE!<END>
+
+<TEXT>
+TIME'S UP!!!<END>
+
+<TEXT>
+= 1st TRIAL =<END>
+
+<TEXT>
+= 2nd TRIAL =<END>
+
+<TEXT>
+= 3rd TRIAL =<END>
+
+<TEXT>
+Needletime!<END>
+
+<TEXT>
+Needles!<END>
+
+<TEXT>
+Whoopsie!<END>
+
+<TEXT>
+Prickle!<END>
+
+<TEXT>
+<NL>
+Destination Undetermined<NL>
+= Under Construction =<END>
+
+<TEXT>
+<Cor 43>Tomay<Cor 41><NL>
+- Duties: Fetching water.<NL>
+  Takes his time and, as a<NL>
+  result, is often left<NL>
+  behind.<NL>
+- A little dim.<END>
+
+<TEXT>
+<Cor 43>Rovivea<Cor 41><NL>
+- Has no patience for<NL>
+  certain dim-witted friends.<NL>
+- Not a progressive thinker.<END>
+
+<TEXT>
+<Cor 43>Chava<Cor 41><NL>
+- Recently learned to<NL>
+  count to 50.<NL>
+- A little needy.<NL>
+- Attention deficit.<END>
+
+<TEXT>
+<Cor 43>Alek & Aloja<Cor 41><NL>
+- Two brothers, rarely separated.<NL>
+- They move as one, their closeness<NL>
+  a paragon of brotherhood.<END>
+
+<TEXT>
+<Cor 43>Vachella<Cor 41><NL>
+- Loves new things.<NL>
+- Hard on others, easy on self.<NL>
+- Stingy.<END>
+
+<TEXT>
+<Cor 43>Robeya<Cor 41><NL>
+- A real needle brain.<NL>
+- Likes cramped spaces.<NL>
+- Check out his great collection!<END>
+
+<TEXT>
+<Cor 43>Isrra<Cor 41><NL>
+- The philosopher about town.<NL>
+  Today, he digs holes. Again.<NL>
+- A cautious sort.<END>
+
+<TEXT>
+<Cor 43>Elio<Cor 41><NL>
+- To see what lies beyond the sands,<NL>
+  he travels far to distant lands.<NL>
+- Hyper-reactive and a bad poet.<END>
+
+<TEXT>
+<Cor 43>Flaile<Cor 41><NL>
+- The guy you never invite<NL>
+  but he always shows up anyway.<NL>
+- Cheeky.<END>
+
+<TEXT>
+Obtained Tomay's Sphere!<END>
+
+<TEXT>
+Obtained Rovivea's Sphere!<END>
+
+<TEXT>
+Obtained Chava's Sphere!<END>
+
+<TEXT>
+Obtained Alek and Aloja's Sphere!<END>
+
+<TEXT>
+Obtained Vachella's Sphere!<END>
+
+<TEXT>
+Obtained Robeya's Sphere!<END>
+
+<TEXT>
+Obtained Isrra's Sphere!<END>
+
+<TEXT>
+Obtained Elio's Sphere!<END>
+
+<TEXT>
+Obtained Flaile's Sphere!<END>
+
+<TEXT>
+Obtained the Sphere del Perdedor!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

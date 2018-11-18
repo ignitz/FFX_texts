@@ -1,0 +1,773 @@
+<NL>
+<END>
+
+<TEXT>
+Save current game?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<NL>
+The warrior monk? She's not around<NL>
+anymore. I missed my chance at her.<END>
+
+<NL>
+I asked a warrior monk out to the cafe,<NL>
+but she called me a spoony bard!<NL>
+Unbelievable!<END>
+
+<NL>
+Is it true that Maester<NL>
+[Seymor] isn't a normal [Guado]?<END>
+
+<NL>
+I'm certain that the [Al Bhed Psyches]<NL>
+are gonna win this year.<END>
+
+<NL>
+Maester Mika seemed well at the<NL>
+tournament, but I guess there's<NL>
+no winning against old age.<END>
+
+<NL>
+[Maester Kinoc] was always concerned<NL>
+for the safety of the people.<NL>
+It's a shame to have lost him.<END>
+
+<NL>
+They say there are lots of<NL>
+guys who quit the [Crusader]s and<NL>
+try to become [blitzball] players.<END>
+
+<NL>
+If anything had happened to [Maester Mika],<NL>
+the guards would've been toast.<END>
+
+<NL>
+The opening ceremony's going to start soon!<NL>
+All players must proceed to their locker rooms.<END>
+
+<NL>
+Where have the [Crusader]s been hiding?<NL>
+After that battle they just disappeared...<END>
+
+<NL>
+I saw the [Luca Goers] were at dock number 3.<NL>
+Man, those guys were something else!<END>
+
+<NL>
+The [Kilika Beasts] aren't advancing?<NL>
+Well, there's always next year...<END>
+
+<NL>
+With me cheering for them, the<NL>
+[Kilika Beasts] will win hands down!<END>
+
+<NL>
+It's going to be busy from now on!<NL>
+Once the [Calm] arrives,<NL>
+we're having a huge sale!<END>
+
+<NL>
+I can't do business with the<NL>
+temple the way it is. I hope<NL>
+they get their act together soon.<END>
+
+<NL>
+I'm thinking of a new business<NL>
+that'll cater to warrior monks.<NL>
+I wonder what they like?<END>
+
+<NL>
+The [Crusader]s are buying up everything.<NL>
+Better stock up while you can.<END>
+
+<NL>
+Tournaments are when we earn our cash!<NL>
+There's no time to waste now!<END>
+
+<NL>
+The defeated [Al Bhed] are now staying<NL>
+at different travel agencies. <END>
+
+<NL>
+I'm all for the [Crusader]s and the [Al Bhed].<NL>
+Heck, even the stadium uses machina!<END>
+
+<NL>
+The fans always celebrate after the game,<NL>
+but with the fiend scare, I doubt it.<END>
+
+<NL>
+The opening ceremony is about to begin<NL>
+and you're taking a walk? Now that's bold.<END>
+
+<NL>
+Whoever thought of destroying [Sin]<NL>
+with a song was a genius!<END>
+
+<NL>
+I wonder how the wedding was?<NL>
+Haven't heard anything from the temple yet.<END>
+
+<NL>
+With all these warrior monks,<NL>
+it feels more like they're<NL>
+occupying Luca than defending it.<END>
+
+<NL>
+This guy in a red robe took down<NL>
+a fiend in one blow! Is that cool or what?<END>
+
+<NL>
+Hmmm... A guy in a red coat, huh?<NL>
+Yeah, I saw someone like that.<NL>
+Wait, maybe I didn't.<END>
+
+<NL>
+We're having a commemorative [blitzball]<NL>
+tournament when the [Calm] arrives.<NL>
+We want you to show up, okay? <END>
+
+<NL>
+The warrior monks left Luca without a word.<NL>
+Who do they think they are?<END>
+
+<NL>
+The warrior monks seem stronger<NL>
+than the [Crusader]s. I hope they'll<NL>
+protect us from now on.<END>
+
+<NL>
+Cleaning up after the fiends<NL>
+will be a nightmare. We'll be up<NL>
+all night again repairing the stadium.<END>
+
+<NL>
+We've been up all night preparing<NL>
+for the tournament, so I'm exhausted.<END>
+
+<NL>
+Hurray! With the [Crusader]s back I feel<NL>
+like we could take on two [Sin]s!<END>
+
+<NL>
+Only a few have returned alive.<NL>
+It's the worst defeat in [Crusader] history.<END>
+
+<NL>
+The [Crusader]s are all taking off.<NL>
+I hope they'll come back safe.<END>
+
+<NL>
+Auron? Yeah, I know him!<NL>
+He was a guardian for Lord [Braska], right?<END>
+
+<NL>
+Singing together was embarrassing<NL>
+at first, but once we started,<NL>
+we couldn't stop.<END>
+
+<NL>
+I don't know much about religion, but<NL>
+there's something weird about the temple.<END>
+
+<NL>
+With only the [Crusader]s and the<NL>
+[Al Bhed] helping, no wonder we lost.<NL>
+Where were the [Ronso], or the [Guado]?<END>
+
+<NL>
+[Seymor]'s aeon may<NL>
+be able to destroy [Sin].<END>
+
+<NL>
+There must be a hundred people<NL>
+in red out there. How am I<NL>
+supposed to remember them all?<END>
+
+<NL>
+Welcome!<END>
+
+<NL>
+I've got official [blitzball] merchandise<NL>
+as well as other rare items!<END>
+
+<TEXT>
+<CHOICE1>Got any weapons?<NL>
+<CHOICE2>Got any items?<NL>
+<CHOICE3>Leave.<END>
+
+<NL>
+Come back anytime!<END>
+
+<NL>
+To tell you the truth, I doubt you can destroy<NL>
+Sin with the Hymn, but you might as well try.<END>
+
+<NL>
+Not all of the [Crusader]s are armed well.<NL>
+They seem inferior to the warrior monks.<END>
+
+<NL>
+The ship at dock number 3<NL>
+brought lots of warrior monks<NL>
+to Luca. I feel much safer now.<END>
+
+<NL>
+The [Crusader]s may use machina<NL>
+in their operation. If so, they're<NL>
+no different from the [Al Bhed].<END>
+
+<NL>
+I'm so worried. What if the fiends<NL>
+that appeared in the stadium find<NL>
+their way into the city?<END>
+
+<NL>
+Give them a balloon and they're<NL>
+happy campers. Kids are so<NL>
+innocent and easy to please.<END>
+
+<NL>
+It's that child who helps me to<NL>
+forget about [Sin]'s existence.<NL>
+Even if it's only for a moment.<END>
+
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+<NL>
+I hope the Calm arrives<NL>
+soon so that this child can<NL>
+live in a peaceful Spira.<END>
+
+<NL>
+My husband likes the warrior monks,<NL>
+but I simply can't bear them.<END>
+
+<NL>
+What if the Crusaders just angered<NL>
+Sin? What will we do then?<END>
+
+<NL>
+Most of the [Crusader]s that guard our<NL>
+city have gone off to that "operation."<NEWPAGE>
+<NL>
+[Luca] is defenseless!<NL>
+Whatever will we do if fiends appear?<END>
+
+<NL>
+I never believed that the fiends<NL>
+would attack this city. This is horrible.<END>
+
+<NL>
+You'll have to excuse my child;<NL>
+I've never seen her quite so lively.<NEWPAGE>
+<NL>
+Kids will be kids, I suppose.<END>
+
+<NL>
+With [Maester Mika2] also in attendance,<NL>
+this tournament will go down in history.<END>
+
+<NL>
+Is Sin really going to go away?<NL>
+You'd better not be lying to me.<END>
+
+<NL>
+There's a flying ship at the port!<NL>
+That's a forbidden machina, isn't it?<END>
+
+<NL>
+I feel sorry for the Crusaders.<NL>
+Everyone is so gloomy.<END>
+
+<NL>
+You know what? They said that the Crusaders<NL>
+are bad people disobeying the teachings!<END>
+
+<NL>
+Mommy and daddy aren't very happy.<NL>
+Do you know why? Hmmm?<END>
+
+<NL>
+I got a red balloon!<NL>
+Bet you want one, too!<END>
+
+<NL>
+The flying ship's got everyone in<NL>
+high spirits, but that's no excuse<NL>
+to neglect our guard duties!<END>
+
+<NL>
+Luca is a free city. The fiends<NL>
+could have snuck in from anywhere.<END>
+
+<NL>
+Luca men aren't my type.<NL>
+They have to be more manly.<END>
+
+<NL>
+We're going to be closed for awhile.<NL>
+The manager was badly bit by a fiend.<NEWPAGE>
+<NL>
+Serves him right for leaving me<NL>
+here while he enjoys the game.<END>
+
+<NL>
+I would've gladly been attacked<NL>
+by fiends just to see the game live.<END>
+
+<NL>
+The manager said he's going to the game,<NL>
+so I got stuck looking after the place.<NEWPAGE>
+<NL>
+It's not fair at all. I wanted to watch <NL>
+the game and cheer on the Goers.<END>
+
+<NL>
+Hey, why don't you go<NL>
+cheer them on for me!<END>
+
+<NL>
+Even the temple makes mistakes.<NL>
+The monks are only human, after all.<END>
+
+<NL>
+Luca's so quiet now with all<NL>
+the blitz fans gone home.<END>
+
+<NL>
+When the fiends first appeared in<NL>
+the stadium, I thought it was the<NL>
+halftime show or something.<NEWPAGE>
+<NL>
+So I just sat and watched--when<NL>
+suddenly they started rampaging.<NL>
+I was shocked!<END>
+
+<NL>
+I like a good riot once in a while,<NL>
+but I never want to do that again.<END>
+
+<NL>
+I hate it when this<NL>
+cafe is so packed.<END>
+
+<NL>
+Every place in town is packed during<NL>
+the tournament. It's a nightmare<NL>
+trying to find a place to eat.<END>
+
+<NL>
+What's wrong with the temple these days?<NL>
+They're hopeless when we need them most!<END>
+
+<NL>
+It's a pity about the [Crusader]s.<NL>
+They were all such devoted fighters.<END>
+
+<NL>
+It's all such a big mess, and<NL>
+I don't know what's going on anymore.<END>
+
+<NL>
+You were on the sphere, right?<NL>
+Good luck in the game.<NEWPAGE>
+<NL>
+But I still think an [Aurochs]<NL>
+victory is next to impossible.<END>
+
+<NL>
+You understand that those who<NL>
+belittle [Yevon2]'s teachings will<NL>
+be excommunicated, don't you?<END>
+
+<NL>
+I wonder if my brother heard<NL>
+my hymn up on the [Farplane]?<END>
+
+<NL>
+I don't want to go back to [Guadosalam]<NL>
+because it reminds me of my brother.<END>
+
+<NL>
+I just don't understand why Maester<NL>
+[Seymor] would choose that woman<NL>
+when he could have someone like me.<END>
+
+<NL>
+My brother is very strong. That's why<NL>
+Maester [Seymor] depends on him.<END>
+
+<NL>
+It's Maester [Seymor] that<NL>
+protected [Maester Mika2], right?<NEWPAGE>
+<NL>
+And now, it's my brother that's<NL>
+guarding Maester [Seymor]!<END>
+
+<NL>
+My brother said that he'd do absolutely<NL>
+anything for Maester [Seymor].<END>
+
+<NL>
+Have you seen Maester [Seymor]?<NL>
+What do you think?<NL>
+He's an absolute dream, isn't he?<END>
+
+<NL>
+The [Guado] team is worked up<NL>
+because Maester [Seymor] is<NL>
+watching, you know!<END>
+
+[Tidus]<NL>
+Whoa!<NL>
+This is a pretty big town!<END>
+
+[Yuna]<NL>
+Luca is the second<NL>
+largest city in [Spira].<END>
+
+[Tidus]<NL>
+I thought every town was little--<NL>
+you know, like [Besaid] and [Kilika].<END>
+
+[Yuna]<NL>
+Towns don't usually<NL>
+get bigger than that.<END>
+
+[Yuna]<NL>
+Because when a lot of<NL>
+people start to gather...<END>
+
+[Tidus]<NL>
+[Sin]...?<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+What about [Luca]?<NL>
+It's safe here?<END>
+
+[Yuna]<NL>
+It's not any different,<NL>
+but the stadium is here.<END>
+
+[Yuna]<NL>
+The [Crusader]s fight to protect it<NL>
+with all their strength.<END>
+
+[Tidus]<NL>
+They protect the stadium?<END>
+
+[Yuna]<NL>
+Blitzball is really the only<NL>
+entertainment that we have.<END>
+
+[Yuna]<NL>
+[Spira]'s a little short<NL>
+on fun these days.<END>
+
+[Tidus]<NL>
+Whoa!<NL>
+Talk about pressure!<END>
+
+[Yuna]<NL>
+That's right!<END>
+
+[Yuna]<NL>
+Is [Zanarkand] like this, too?<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+Well, there are more buildings.<NL>
+All tall ones and cramped together.<END>
+
+<NL>
+<END>
+
+[Yuna]<NL>
+They must be so tall!<NL>
+Don't you ever get dizzy?<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+[Yuna]<NL>
+Let's go find Sir [Auron]!<END>
+
+[Lulu]<NL>
+Where in Spira have you been!?<END>
+
+[Tidus]<NL>
+Huh?<END>
+
+[Lulu]<NL>
+[Yuna]'s been kidnapped<NL>
+by the [Al Bhed Psyches].<END>
+
+[Lulu]<NL>
+In exchange for her safe return,<NL>
+they want the [Aurochs] to lose.<END>
+
+[Tidus]<NL>
+What!?<END>
+
+[Lulu]<NL>
+If they're only [blitzball] players,<NL>
+I doubt they'd do anything drastic.<END>
+
+[Lulu]<NL>
+But we shouldn't take chances.<NL>
+Let's go get her. <END>
+
+[Tidus]<NL>
+I'm going too!<END>
+
+[Tidus]<NL>
+This will be no problem!<END>
+
+[Tidus]<NL>
+They're telling the [Aurochs]<NL>
+to throw the game, as if<NL>
+they needed to!<END>
+
+[Tidus]<NL>
+I mean, how good a<NL>
+team can they be?<END>
+
+[Lulu]<NL>
+[Wakka] said the same thing.<END>
+
+[Lulu]<NL>
+He'll take care of the game.<NL>
+We should go get [Yuna].<END>
+
+[Lulu]<NL>
+The [Al Bhed] boat is in <Cor 88>dock 4<Cor 41>.<END>
+
+[Lulu]<NL>
+Let's go.<END>
+
+Datto<NL>
+You're really leavin', Cap'n?<END>
+
+Letty<NL>
+Shouldn't you heal up first?<END>
+
+[Wakka]<NL>
+[Yuna] needs me with her now.<END>
+
+[Wakka]<NL>
+I can't be lying<NL>
+around in some bed.<END>
+
+Datto<NL>
+Yeah, but...<END>
+
+[Wakka]<NL>
+Come on, look sharp!<END>
+
+[Wakka]<NL>
+The blitz season just started.<END>
+
+[Wakka]<NL>
+Don't make those faces, ya?<END>
+
+[Wakka]<NL>
+Well...<NL>
+See you, boys!<END>
+
+[Wakka]<NL>
+You be good.<END>
+
+[Aurochs]<NL>
+Cap'n...<END>
+
+[Wakka]<NL>
+I can't hear you!<END>
+
+[Aurochs]<NL>
+Cap'n!<END>
+
+<TEXT>
+Map Debug Menu<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Update Map Data<NL>
+    <CHOICE3>Select Event<NL>
+    <CHOICE4>Control Map Line<NL>
+    <CHOICE5>Change Model<NL>
+    <CHOICE6>Cat Motion<NL>
+    <CHOICE7>Invisible<NL>
+    <CHOICE8>Return to Saito<END>
+
+<TEXT>
+Model  :  <CHOICE???>B<END>
+
+<TEXT>
+[FUNC]C[FUNC]x[FUNC]“[FUNC]g[FUNC]Z[FUNC]<$93>[FUNC]N[FUNC]g<NL>
+    <CHOICE1>Cancel<NL>
+    <CHOICE2>Second largest city<NL>
+    <CHOICE3>Yuna abducted<NL>
+    <CHOICE4>Split with boys<END>
+
+<TEXT>
+Select Blitz Result<NL>
+    <CHOICE1>Winner<NL>
+    <CHOICE2>Runner up<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

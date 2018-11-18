@@ -1,0 +1,69 @@
+[Tidus]<NL>
+A sunken city!<END>
+
+[Wakka]<NL>
+A machina city--<NL>
+a thousand years old!<END>
+
+[Wakka]<NL>
+They built the city on top<NL>
+of bridges across the river.<END>
+
+[Lulu]<NL>
+But the weight of the city<NL>
+caused the bridges to collapse,<NL>
+and it all sank to the bottom.<END>
+
+[Wakka]<NL>
+Right. It's a good lesson.<END>
+
+[Tidus]<NL>
+A lesson?<END>
+
+[Wakka]<NL>
+Yeah.<END>
+
+[Wakka]<NL>
+Why build a city over a river, ya?<END>
+
+[Tidus]<NL>
+Uh... Well, it would be convenient,<NL>
+with all that water there.<END>
+
+[Wakka]<NL>
+Nope, that's not why.<END>
+
+[Wakka]<NL>
+They just wanted to prove they<NL>
+could defy the laws of nature!<END>
+
+[Tidus]<NL>
+Hmmm?<NL>
+I'm not so sure about that.<END>
+
+[Wakka]<NL>
+[Yevon2] has taught us:<END>
+
+[Wakka]<NL>
+When humans have power,<NL>
+they seek to use it.<END>
+
+[Wakka]<NL>
+If you don't stop them,<NL>
+they go too far, ya?<END>
+
+[Wakka]<NL>
+[Yuna], we'll save you!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

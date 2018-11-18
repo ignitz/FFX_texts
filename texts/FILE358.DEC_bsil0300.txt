@@ -1,0 +1,143 @@
+[Tidus]<NL>
+What's the big idea?<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+Lemme go!<END>
+
+[Wakka]<NL>
+Got a favor to ask ya.<END>
+
+[Tidus]<NL>
+You want me on your team, right?<END>
+
+<NL>
+          <END>
+
+[Wakka]<NL>
+A major blitz tournament's coming up.<NL>
+All the teams in [Spira]'ll be there!<END>
+
+[Wakka]<NL>
+It's so huge, I'm sure someone<NL>
+there will recognize you!<END>
+
+[Wakka]<NL>
+Then you can go back<NL>
+to your old team, right?<END>
+
+[Wakka]<NL>
+It'll be fun!<NL>
+What do you say, huh?<NL>
+Come on, come on!<END>
+
+[Wakka]<NL>
+Dude! Our team<NL>
+is gonna rock, eh?<END>
+
+<NL>
+I thought then that [blitzball] and<NL>
+[Sin] were the only two things that<NL>
+[Spira] and [Zanarkand] had in common.<END>
+
+<NL>
+I wasn't too far off, either.<END>
+
+[Tidus]<NL>
+Huh?<END>
+
+[Tidus]<NL>
+Sure thing.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

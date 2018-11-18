@@ -1,0 +1,629 @@
+<NL>
+<END>
+
+<NL>
+Slaying Sin should<NL>
+calm Spira's seas.<END>
+
+<NL>
+I shouldn't say this out loud, but<NL>
+the temples are way outta line!<NL>
+Dang it, I said it out loud...<END>
+
+<NL>
+Every time I hear about a wedding,<NL>
+I start thinking, perhaps I should settle<NL>
+down. But I never go through with it.<END>
+
+<NL>
+You think you can have just one more drink.<NL>
+Just one more. But as long as you<NL>
+think that way, you can never quit.<END>
+
+<NL>
+I couldn't get any tickets, so I was<NL>
+watching the game on that sphere.<END>
+
+<NL>
+I was lucky to miss the fiends.<END>
+
+<NL>
+I was lucky. That's all I can say.<NL>
+Praise be to [Yevon2]!<END>
+
+<NL>
+I'd like to recruit as many as<NL>
+possible and rebuild the [Crusader]s.<END>
+
+<NL>
+It may actually be nice to<NL>
+quit the [Crusader]s and join<NL>
+the warrior monks.<END>
+
+<NL>
+[Spira] is full of fiends.<NL>
+Who knows when or where they'll strike?<END>
+
+<NL>
+Never expected that the [Crusader]s<NL>
+would try to recruit me. Not in a<NL>
+million years.<END>
+
+<NL>
+The [Crusader]s and warrior monks<NL>
+share a common desire to protect<NL>
+the people.<END>
+
+<NL>
+So, basically, you don't<NL>
+know anything, huh?<END>
+
+<NL>
+It's almost time for the [Calm].<NL>
+I'm sure that [Maester Mika] is<NL>
+smiling from the Farplane.<END>
+
+<NL>
+The high summoner's daughter would never<NL>
+turn traitor. The temple must be mistaken.<END>
+
+<NL>
+Maester [Seymor] is getting married?<NL>
+Aww, what a shame.<END>
+
+<NL>
+There are warrior monks everywhere<NL>
+you look. I think it's an occupation!<END>
+
+<NL>
+[Seymor]'s aeon was really something,<NL>
+wasn't it? I've never seen anything like it!<END>
+
+<NL>
+I'd like to believe that a maester of<NL>
+such power could keep [Spira] peaceful.<END>
+
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+<NL>
+When the flying ship came by,<NL>
+we raised our glasses and sang.<END>
+
+<NL>
+Is Lady [Yuna] a traitor or not?<NL>
+With everyone gabbing, I don't<NL>
+know what to believe.<END>
+
+<NL>
+The wedding of Maester [Seymor]<NL>
+and Lady [Yuna] will be extravagant.<NL>
+I'm sure it will go down in history.<END>
+
+<NL>
+It may take awhile for the<NL>
+[Crusader]s to recover. I wonder<NL>
+what they're going to do now.<END>
+
+<NL>
+Hey, you're an [Aurochs] player,<NL>
+aren't you? You were great today!<END>
+
+<NL>
+You ended a twenty-three-year losing streak.<NL>
+I never thought it would happen. What a miracle!<END>
+
+<NL>
+Even though you didn't win, it was<NL>
+a good game. Keep up the good work.<END>
+
+<NL>
+If Sin is really defeated, we<NL>
+should hold a tournament<NL>
+to herald the new Calm.<END>
+
+<NL>
+We should hold a [blitzball] tournament<NL>
+to aid Yevon in this time of crisis.<END>
+
+<NL>
+We should have a [blitzball]<NL>
+tournament in celebration of<NL>
+Maester [Seymor]'s marriage.<END>
+
+<NL>
+So shall we start a [blitzball] tournament<NL>
+to console the defeated [Crusader]s?<END>
+
+<NL>
+The tournament's finally over.<NL>
+Gimme some peace, will you?<END>
+
+<NL>
+It's terrible. The fiends attacked<NL>
+while His Holiness was here.<END>
+
+<NL>
+The tournament committee wasn't<NL>
+pleased when the captain of the<NL>
+guard lost his nerve and ran.<END>
+
+<NL>
+I've got some news for you! They<NL>
+say that Lord [Braska]'s daughter<NL>
+is on that flying ship!<END>
+
+<NL>
+I heard that the [Guado] razed the<NL>
+[Al Bhed]'s hometown. That's horrible! <END>
+
+<NL>
+I think the Maester's wedding<NL>
+should be held at Luca Stadium.<NL>
+It'll be more festive there, no?<END>
+
+<NL>
+Seems that summoners are<NL>
+disappearing from all over Spira, huh?<END>
+
+<NL>
+It was so cool when the flying<NL>
+ship came by. Everyone was singing<NL>
+and drinking. It was wild!<END>
+
+<NL>
+The temple's in chaos? Really?<NL>
+That's too bad, but we've got other<NL>
+problems to worry about, like [blitzball].<END>
+
+<NL>
+I wonder if anyone will quit<NL>
+the [Crusader]s and help out<NL>
+with the stadium repairs.<END>
+
+<NL>
+I heard the operation failed.<NL>
+I guess machina weapons just<NL>
+don't do the trick.<END>
+
+<NL>
+We have to repair the stadium<NL>
+now because of the fiends.<END>
+
+<TEXT>
+Use the <Cor 43>[Celestial Mirror]<Cor 41>?<NL>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<TEXT>
+Use the <Cor 43>[Cloudy Mirror]<Cor 41>?<NL>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<NL>
+Amazing.<NL>
+I can say that I'm honored to<NL>
+hand over the family heirloom.<END>
+
+<NL>
+Our ancestors received this<NL>
+artifact from Lord [High Summoner Ohalland].<NL>
+Please use it with care!<END>
+
+<NL>
+Hello! Blitzball players<NL>
+are welcome here any time!<END>
+
+<NL>
+Doesn't matter if you can't play.<NL>
+After all, a player is a player!<NL>
+Good luck. I'm with you all the way!<END>
+
+<NL>
+The temple is a wreck.<NL>
+I really want to quit the warrior monks.<END>
+
+<NL>
+Then join the [Crusader]s!<NL>
+We'd love to have you join our force.<END>
+
+<NL>
+With [Operation Mi'ihen] a failure,<NL>
+it's over for the [Crusader]s...<END>
+
+<NL>
+Then do you wanna become a warrior monk?<NL>
+I'll introduce you to our leader.<END>
+
+<NL>
+What? We disobeyed the<NL>
+teachings, but it's still okay?<END>
+
+<NL>
+Hey, we all help each other<NL>
+out in a time of need, right?<END>
+
+<NL>
+The fiends were the [Al Bhed]'s doing!<NL>
+They're out to get the temples!<END>
+
+<NL>
+What're you saying?<NL>
+You know the [Al Bhed] use machina!<END>
+
+<NL>
+Yeah, I guess you're right.<END>
+
+<NL>
+The fiends were the [Crusader]s' doing!<NL>
+They're out to sabotage the tournament!<END>
+
+<NL>
+You're making no sense at all.<NL>
+And you aren't the least<NL>
+bit convincing, either.<END>
+
+<NL>
+Yeah, I agree.<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+[Auron]'s not here.<END>
+
+<NL>
+<END>
+
+[Yuna]<NL>
+Let's ask around!<END>
+
+<NL>
+<END>
+
+<NL>
+Why not talk, [Kimahri]?<NL>
+Not see [Yenke] for ten years!<NL>
+Say something!<END>
+
+[Yenke]<NL>
+[Kimahri] forget [Yenke]?<NL>
+Forget [Biran]?<END>
+
+[Biran]<NL>
+Leave [Kimahri], [Yenke].<NL>
+[Kimahri] is small [Ronso].<END>
+
+[Biran]<NL>
+[Kimahri] so small can't see<NL>
+[Yenke] and [Biran]'s faces.<END>
+
+<NL>
+          <END>
+
+[Yenke]<NL>
+[Kimahri] forget [Ronso] friends?<NL>
+We taught you much<NL>
+at time of horn-molt!<END>
+
+[Yenke]<NL>
+[Biran] taught [Kimahri]<NL>
+to be strong [Ronso].<END>
+
+[Biran]<NL>
+Maybe taught too much.<END>
+
+[Tidus]<NL>
+Take 'em on!<END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<NL>
+<END>
+
+<NL>
+Take it outside!<NL>
+The tournament's starting, you hear?<END>
+
+[Tidus]<NL>
+The game!<END>
+
+[Mika]<NL>
+Today, on this glorious day,<NL>
+players from all over<NL>
+[Spira] have assembled here...<END>
+
+[Mika]<NL>
+to participate in this great contest<NL>
+of bravery, skill, and strength.<END>
+
+[Tidus]<NL>
+[Kimahri]! [Yuna]'s gone!<END>
+
+<NL>
+You're a good player,<NL>
+but still need some work.<END>
+
+<NL>
+If you want to get your hands on that<NL>
+thing, you'll have to win more games.<END>
+
+<NL>
+Wow, you've become a great player!<END>
+
+<NL>
+Now, as long as you bring it to me,<NL>
+I'll present you with our heirloom.<END>
+
+<NL>
+Hey there, star player!<END>
+
+<NL>
+Hey, you have it, right?<NL>
+Lemme see it for a second.<END>
+
+<NL>
+Yeah, yeah, that's it!<NL>
+Hmm...but it still doesn't<NL>
+have enough power.<END>
+
+<NL>
+Aw, too bad! If it had enough,<NL>
+I would've given you our heirloom.<END>
+
+<NL>
+This is the legendary ball<NL>
+of Lord [High Summoner Ohalland].<END>
+
+<NL>
+We have treasured it for generations.<END>
+
+<NL>
+I beg of you, carry on the spirit<NL>
+of Lord [High Summoner Ohalland].<END>
+
+<TEXT>
+Map Debug Menu<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Update Map Data<NL>
+    <CHOICE3>Select Event<NL>
+    <CHOICE4>Change Model<NL>
+    <CHOICE5>Switch Background<NL>
+    <CHOICE6>Control Ronzo Display<NL>
+    <CHOICE7>Ronzo Motion<NL>
+    <CHOICE8>Legendary Weapons<NL>
+    <CHOICE9>Control Map Line<NL>
+    <CHOICE???>9Return to Saito<END>
+
+<TEXT>
+Model  :  <CHOICE???>B<END>
+
+<TEXT>
+:Legendary Weapon Menu<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Initialize Weapon<NL>
+    <CHOICE3>Can Cancel<NL>
+    <CHOICE4>Cannot Cancel<NL>
+    <CHOICE5>Set Scenario<NL>
+    <CHOICE6>Blitz Results:<VAR12 30><END>
+
+<TEXT>
+Initialization<END>
+
+<TEXT>
+Pub Background Selection<NL>
+    <CHOICE1>As Is<NL>
+    <CHOICE2>Default<NL>
+    <CHOICE3>Cut Fight<NL>
+    <CHOICE4>Cut Monitor<NL>
+    <CHOICE5>Ronzo Fight<END>
+
+<TEXT>
+Pub Event Selection<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Nasty Ronzo<NL>
+    <CHOICE3>Yuna is Missing<NL>
+    <CHOICE4>Wait Adjustment<END>
+
+<TEXT>
+Wait<VAR12 30>  :  <CHOICE???>C<END>
+
+<TEXT>
+Motion  :  <CHOICE???>B<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,144 @@
+[Rikku]<NL>
+Pretty please?<NL>
+Just a few minutes?<END>
+
+[Rikku]<NL>
+I'm scared of lightning!<NL>
+Let's rest, please? Pretty please?<END>
+
+[Rikku]<NL>
+I'm too young to die!<END>
+
+[Rikku]<NL>
+You're mean...cruel!<NL>
+Your moms would be ashamed of you!<END>
+
+[Rikku]<NL>
+Are you having fun doing this to me?<END>
+
+[Auron]<NL>
+Fine, we rest.<NL>
+She's worse than the storm.<END>
+
+Tired of being struck by lightning?<NL>
+Feeling burnt out?<NEWPAGE>
+Then come on in for a rest at the<NL>
+Bilghen Memorial Travel Agency.<NL>
+You'll feel refreshed in no time!<END>
+
+Even several bouts of electrocution<NL>
+won't keep you down! For your admirable<NL>
+display of courage, the Bilghen<NL>
+Memorial Travel Agency confers<NL>
+upon you the Fighting Spirit Award.<END>
+
+Congratulations! You've dodged<NL>
+5 lightning bolts in a row.<NEWPAGE>
+The Bilghen Memorial Travel Agency<NL>
+presents you with this small<NL>
+commemorative gift.<END>
+
+Congratulations! You've dodged<NL>
+10 lightning bolts in a row.<NEWPAGE>
+The Bilghen Memorial Travel Agency<NL>
+presents you with this small<NL>
+commemorative gift.<END>
+
+Congratulations! You've dodged<NL>
+20 lightning bolts in a row.<NEWPAGE>
+The Bilghen Memorial Travel Agency<NL>
+presents you with this small<NL>
+commemorative gift.<END>
+
+Congratulations! You've dodged<NL>
+50 lightning bolts in a row.<NEWPAGE>
+The Bilghen Memorial Travel Agency<NL>
+presents you with this small<NL>
+commemorative gift.<END>
+
+Congratulations! You've dodged<NL>
+100 lightning bolts in a row.<NEWPAGE>
+The Bilghen Memorial Travel Agency<NL>
+presents you with this small<NL>
+commemorative gift.<END>
+
+Amazing! You've dodged<NL>
+150 lightning bolts in a row!<NEWPAGE>
+The Bilghen Memorial Travel Agency<NL>
+is proud to honor you with<NL>
+this prize.<END>
+
+Amazing! You've dodged<NL>
+200 lightning bolts in a row!<NEWPAGE>
+The Bilghen Memorial Travel Agency<NL>
+is proud to honor you with<NL>
+this prize.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

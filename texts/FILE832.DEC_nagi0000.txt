@@ -1,0 +1,1757 @@
+<NL>
+This gorge is called the Scar.<END>
+
+<NL>
+They say that when the high summoner<NL>
+cornered [Sin], Sin tore the earth here<NL>
+asunder with the last of its strength.<END>
+
+<NL>
+The high summoner and [Sin] struck each<NL>
+other down at the gorge's bottom. Lord<NL>
+Gandof's sacrifice brought us the Calm.<END>
+
+<TEXT>
+<Cor 43>Select Training Course<Cor 41><NL>
+<CHOICE1>Wobbly chocobo<NL>
+<CHOICE2>Dodger chocobo<NL>
+<CHOICE3>Hyper dodger chocobo<NL>
+<CHOICE4>Catcher chocobo<END>
+
+<TEXT>
+<Cor 43>Select Training Course<Cor 41><NL>
+<CHOICE1>Wobbly chocobo<NL>
+<CHOICE2>Dodger chocobo<NL>
+<CHOICE3>Hyper dodger chocobo<END>
+
+<TEXT>
+<Cor 43>Select Training Course<Cor 41><NL>
+<CHOICE1>Wobbly chocobo<NL>
+<CHOICE2>Dodger chocobo<END>
+
+<NL>
+It's simple.<NEWPAGE>
+<NL>
+Just get from where you are<NL>
+to where I am before time<NL>
+runs out.<END>
+
+<NL>
+Since you're riding a wild<NL>
+chocobo, it'll just run<NL>
+whichever way it feels like.<NEWPAGE>
+<NL>
+Press [Direcional Esquerda] and [Direcional Direita] to steer it<NL>
+between my chocobo and me.<END>
+
+<NL>
+Keep an eye on the clock and<NL>
+try not to miss the finish line.<NEWPAGE>
+<NL>
+Don't hesitate to ask me about the<NL>
+<Cor 43>controls<Cor 41> if you need help, okay?<END>
+
+<NL>
+Let's begin, shall we?<NL>
+We'll shoot for <VAR12 35>:<VAR12 34>.<VAR12 33>.<END>
+
+<NL>
+Let's begin, shall we?<NL>
+Your record is <VAR12 35>:<VAR12 34>.<VAR12 33>!<END>
+
+<NL>
+Everything will be pretty much the same<NL>
+as the first exercise, except that your<NL>
+chocobo will run straight now.<END>
+
+<NL>
+But watch out for incoming balls!<NL>
+Dodge them with [Direcional Esquerda] and [Direcional Direita].<NEWPAGE>
+<NL>
+Your chocobo will be stunned if he's<NL>
+hit, so do your best to avoid them!<END>
+
+<NL>
+Also, don't hesitate to ask me<NL>
+about the <Cor 43>controls<Cor 41>, okay?<END>
+
+<NL>
+Let's begin, shall we?<NL>
+We'll shoot for <VAR12 35>:<VAR12 34>.<VAR12 33>.<END>
+
+<NL>
+Let's begin, shall we?<NL>
+Your record is <VAR12 35>:<VAR12 34>.<VAR12 33>!<END>
+
+<NL>
+Balls and things come flying,<NL>
+so dodge them with [Direcional Esquerda] and [Direcional Direita].<NEWPAGE>
+<NL>
+Your chocobo will be stunned if he's<NL>
+hit, so do your best to avoid them!<END>
+
+<NL>
+Let's begin, shall we?<NL>
+We'll shoot for <VAR12 35>:<VAR12 34>.<VAR12 33>.<END>
+
+<NL>
+Let's begin, shall we?<NL>
+Your record is <VAR12 35>:<VAR12 34>.<VAR12 33>!<END>
+
+<NL>
+We're near the [Calm Lands] exit to<NL>
+[Macalania Woods].<NEWPAGE>
+<NL>
+This is the starting line.<END>
+
+<NL>
+And the finish line is the far<NL>
+right edge of the plain over there.<NEWPAGE>
+<NL>
+Yes, over there.<END>
+
+<NL>
+Basically, if you get there<NL>
+before I do, you win.<NEWPAGE>
+<NL>
+But that's not all.<END>
+
+<NL>
+Each balloon you pick up<NL>
+along the way shaves three<NL>
+seconds off your final time.<NEWPAGE>
+<NL>
+But each bird that hits you<NL>
+adds three seconds to your<NL>
+final time.<END>
+
+<NL>
+We take the total time, subtract<NL>
+bonuses, and add penalties to decide<NL>
+the outcome of the race.<NEWPAGE>
+<NL>
+So even if I reach the finish<NL>
+line first, you can still win<NL>
+if you catch enough balloons.<END>
+
+<NL>
+That's all for now.<NL>
+Let's race, shall we?<NEWPAGE>
+<NL>
+We'll shoot for <VAR12 35>:<VAR12 34>.<VAR12 33>.<END>
+
+<NL>
+I guess I'm the challenger.<NL>
+Enjoy it while you can!<NEWPAGE>
+<NL>
+By the way, your best time<NL>
+so far is <VAR12 35>:<VAR12 34>.<VAR12 33>.<END>
+
+<NL>
+Come challenge me<NL>
+again sometime.<NEWPAGE>
+<NL>
+I'll keep a record of<NL>
+your best time.<NEWPAGE>
+<NL>
+And, your best is currently<NL>
+<VAR12 35>:<VAR12 34>.<VAR12 33>!<END>
+
+<NL>
+Ready?<END>
+
+<TEXT>
+<CHOICE1>As ready as ever.<NL>
+<CHOICE2>Get me off this bird!<NL>
+<CHOICE3>Show me the controls.<END>
+
+<TEXT>
+<CHOICE1>As ready as ever.<NL>
+<CHOICE2>I want off!<NL>
+<CHOICE3>Show me the controls.<NL>
+<CHOICE4>Let me see the course.<END>
+
+<NL>
+You really want to quit?<END>
+
+<TEXT>
+<CHOICE1>Keep going.<NL>
+<CHOICE2>Really quit.<END>
+
+<NL>
+Hey!<NL>
+Make up your mind!<END>
+
+<TEXT>
+<Cor 43>Controls<Cor 41><NL>
+- The chocobo runs automatically.<NL>
+- It runs zigzag, so try to keep it<NL>
+  on course with [Direcional Esquerda] and [Direcional Direita].<NL>
+- It avoids going completely out of bounds.<NEWPAGE>
+<Cor 43>Changing Camera Position<Cor 41><NL>
+Press [Botão R1] and [Botão R2] to change views.<NL>
+[Botão R1] cycles through:<NL>
+1. Default View<NL>
+2. Rider's View<NL>
+3. Overhead View<NL>
+<NL>
+[Botão R2] cycles through them in reverse.<END>
+
+<TEXT>
+<Cor 43>Controls<Cor 41><NL>
+- The chocobo runs automatically.<NL>
+- It runs in a straight line,<NL>
+  and avoids going out of bounds.<NL>
+- Balls come flying toward you,<NL>
+  so dodge them with [Direcional Esquerda] and [Direcional Direita].<NEWPAGE>
+<Cor 43>Changing Camera Position<Cor 41><NL>
+Press [Botão R1] and [Botão R2] to change views.<NL>
+[Botão R1] cycles through:<NL>
+1. Default View<NL>
+2. Rider's View<NL>
+3. Overhead View<NL>
+<NL>
+[Botão R2] cycles through them in reverse.<END>
+
+<TEXT>
+<Cor 43>Controls<Cor 41><NL>
+- The chocobo runs automatically.<NL>
+- It runs in a straight line,<NL>
+  and avoids going out of bounds.<NL>
+- Dodge incoming objects<NL>
+  with [Direcional Esquerda] and [Direcional Direita].<NEWPAGE>
+<Cor 43>Changing Camera Position<Cor 41><NL>
+Press [Botão R1] and [Botão R2] to change views.<NL>
+[Botão R1] cycles through:<NL>
+1. Default View<NL>
+2. Rider's View<NL>
+3. Overhead View<NL>
+<NL>
+[Botão R2] cycles through them in reverse.<END>
+
+<TEXT>
+<Cor 43>Controls<Cor 41><NL>
+- The chocobo runs automatically.<NL>
+- It runs in a straight line,<NL>
+  and avoids going out of bounds.<NL>
+- Use [Direcional Esquerda] and [Direcional Direita] to steer.<NL>
+- Each bird inflicts a 3-second <Cor 94>penalty<Cor 41>.<NL>
+- Each balloon grants a 3-second <Cor 88>bonus<Cor 41>.<NL>
+- Bonuses and penalties are tallied<NL>
+  after reaching the finish line.<NL>
+- You cannot change camera views.<NL>
+- The time limit is 2 minutes.<END>
+
+<NL>
+<TEXT>
+[Botão Círculo]: Exit<END>
+
+<NL>
+<TEXT>
+<Cor 43>Target time: <VAR12 35>:<VAR12 34>.<VAR12 33><Cor 41><END>
+
+<NL>
+<TEXT>
+<Cor 43>Best time: <VAR12 35>:<VAR12 34>.<VAR12 33><Cor 41><END>
+
+<TEXT>
+3<END>
+
+<TEXT>
+2<END>
+
+<TEXT>
+1<END>
+
+<TEXT>
+<NL>
+GO!<END>
+
+<NL>
+<TEXT>
+<Cor 43>Finish!<END>
+
+<NL>
+All right!<NL>
+You crossed the finish line!<NEWPAGE>
+<NL>
+I clocked you at <Cor 88><VAR12 32>:<VAR12 31>.<VAR12 30><Cor 41>.<END>
+
+<NL>
+<TEXT>
+<Cor 88>Time: <VAR12 32>:<VAR12 31>.<VAR12 30><Cor 41><END>
+
+<NL>
+<TEXT>
+<Cor 88>[Tidus]<END>
+
+<NL>
+<TEXT>
+<Cor 94>Trainer<END>
+
+<NL>
+<TEXT>
+<Cor 94>Time: <VAR12 38>:<VAR12 37>.<VAR12 36><Cor 41><END>
+
+<NL>
+<TEXT>
+<Cor 88>Balloons: <VAR07 EA><VAR12 39><NL>
+Birds: <VAR07 EA><VAR12 3A><END>
+
+<NL>
+<TEXT>
+<Cor 94>Balloons: <VAR07 EA><VAR12 3B><NL>
+Birds: <VAR07 EA><VAR12 3C><END>
+
+<NL>
+After tallying all the birds and<NL>
+balloons, our total times are...<END>
+
+<NL>
+You've trained a chocobo!<NL>
+Good job!<NEWPAGE>
+<NL>
+From now on, you can go chocobo<NL>
+riding whenever you please.<NL>
+Just ask me and he's yours.<NEWPAGE>
+<NL>
+By the way, your chocobo is ready<NL>
+for some advanced training now.<END>
+
+<NL>
+Good job!<NL>
+You trained your chocobo well.<NEWPAGE>
+<NL>
+He's ready for even more<NL>
+advanced training exercises now.<END>
+
+<NL>
+Here's your prize!<NEWPAGE>
+<NL>
+Whenever you tie or break<NL>
+your record, you'll get<NL>
+a prize like this.<END>
+
+<NL>
+You did it! Looks like dodging<NL>
+is a snap for you now.<NEWPAGE>
+<NL>
+I think you're ready for<NL>
+the final exercise.<END>
+
+<NL>
+Here's your prize!<NEWPAGE>
+<NL>
+Whenever you tie or break<NL>
+your record, you'll get<NL>
+a prize like this.<END>
+
+<NL>
+I'm so happy someone finally<NL>
+finished all the exercises!<END>
+
+<NL>
+You've completed all the training<NL>
+exercises, but there's one last<NL>
+favor I want to ask...<NEWPAGE>
+<NL>
+Race me!<END>
+
+<NL>
+Challenge me anytime.<NL>
+I love a good race.<END>
+
+<NL>
+Ah, I almost forgot!<NL>
+Here's your prize!<NEWPAGE>
+<NL>
+Whenever you tie or break<NL>
+your record, you'll get<NL>
+a prize like this.<END>
+
+<NL>
+Wow, you won.<NL>
+Congratulations!<END>
+
+<NL>
+I knew you were good,<NL>
+but not this good!<NEWPAGE>
+<NL>
+I'll have to train harder<NL>
+to match you.<END>
+
+<NL>
+Feel free to stop by<NL>
+for training anytime.<END>
+
+<NL>
+Here's your prize for<NL>
+beating me. You earned it.<NEWPAGE>
+<NL>
+Whenever you tie or break<NL>
+your own record, you'll get<NL>
+a prize like this.<END>
+
+<NL>
+Wow! That's a new personal best!<NEWPAGE>
+<NL>
+Congratulations!<NL>
+I'll jot it down in my book.<END>
+
+<NL>
+I may have won, but that<NL>
+was your best run yet.<NEWPAGE>
+<NL>
+I'll write it down for you.<NL>
+Maybe you can beat me next time.<END>
+
+<NL>
+Here's your prize!<END>
+
+<NL>
+Unbelievable!<NL>
+That was a perfect run!<END>
+
+<NL>
+Wait!<NL>
+I have something special for you.<NEWPAGE>
+<NL>
+I never thought I'd see the day<NL>
+that someone would actually<NL>
+achieve a perfect time!<NEWPAGE>
+<NL>
+Here you go. I don't know<NL>
+what it's for, but I've<NL>
+heard it's priceless.<END>
+
+<NL>
+Hmm... I think your chocobo<NL>
+could use some more training.<END>
+
+<NL>
+Nice try, but I won.<NL>
+Better luck next time!<NEWPAGE>
+<NL>
+Feel free to train as<NL>
+much as you want.<END>
+
+<NL>
+Don't give up.<NL>
+Someday you'll hold the record!<END>
+
+<NL>
+Don't give up.<NL>
+Someday you'll hold the record!<NEWPAGE>
+<NL>
+Wait, you do hold the record.<NL>
+Oh, well.<END>
+
+<NL>
+<TEXT>
+<Cor 43>Miss!<END>
+
+<NL>
+Hey, you've got to pass<NL>
+between me and my chocobo!<END>
+
+<NL>
+<TEXT>
+Once more?<END>
+
+<TEXT>
+<CHOICE1>One more time!<NL>
+<CHOICE2>I quit.<END>
+
+<TEXT>
+<CHOICE1>One more time!<NL>
+<CHOICE2>I quit.<NL>
+<CHOICE3>Let's do something else.<END>
+
+<NL>
+<TEXT>
+<Cor 43>Hit!<END>
+
+<NL>
+<Cor 94>Time's Up!<Cor 41><END>
+
+<NL>
+Whoops, I ran out of time.<NL>
+Here, this is for you.<END>
+
+<NL>
+Always keep an eye on the clock!<END>
+
+<NL>
+<TEXT>
+<Cor 88>[Tidus] is hit!<END>
+
+<NL>
+<TEXT>
+<Cor 94>Trainer is hit!<END>
+
+[Lulu]<NL>
+The [Calm Lands].<END>
+
+[Lulu]<NL>
+Long ago, the high summoners<NL>
+fought [Sin] here.<END>
+
+[Lulu]<NL>
+The road ends here.<END>
+
+[Lulu]<NL>
+Beyond, there're no towns,<NL>
+no villages. Only endless plains. <END>
+
+[Auron]<NL>
+Many summoners stray from<NL>
+their path and lose their way here.<END>
+
+[Yuna]<NL>
+I've always known where to go.<END>
+
+[Tidus]<NL>
+I...<END>
+
+[Tidus]<NL>
+I won't let you die.<NL>
+I'll find a way, somehow.<END>
+
+[Yuna]<NL>
+Let's go.<END>
+
+<NL>
+I told [Yuna] I would find a way.<END>
+
+<NL>
+I guess I wanted to believe that<NL>
+words could make it come true.<END>
+
+[Lulu]<NL>
+Father [Zuke]!<END>
+
+[Zuke]<NL>
+Long time no see.<END>
+
+[Zuke]<NL>
+You are [Yuna]?<END>
+
+[Zuke]<NL>
+Hmm...<END>
+
+[Zuke]<NL>
+You certainly don't look<NL>
+like [Maester Kinoc]'s murderer.<END>
+
+[Wakka]<NL>
+What'd you say?<END>
+
+[Yuna]<NL>
+Please, tell us what has happened!<END>
+
+[Zuke]<NL>
+[Maester Mika] just issued<NL>
+a personal order, you know.<END>
+
+[Zuke]<NL>
+It said that you and your guardians<NL>
+murdered [Maester Kinoc] and fled.<END>
+
+[Zuke]<NL>
+We are to kill you on sight,<NL>
+or so it says.<END>
+
+[Auron]<NL>
+What of [Bevelle]?<END>
+
+[Zuke]<NL>
+Things are calm on the surface,<NL>
+but the depths are turbulent.<END>
+
+[Zuke]<NL>
+After the death of [Maester Kinoc],<NL>
+[Kelk] [Ronso] left [Yevon2].<END>
+
+[Auron]<NL>
+Convenient.<END>
+
+[Auron]<NL>
+Getting around will be easier<NL>
+with [Yevon2] in disarray.<END>
+
+[Zuke]<NL>
+But be careful, my friends.<NL>
+You have been branded enemies of [Yevon2].<END>
+
+[Zuke]<NL>
+You should avoid temples<NL>
+for the time being.<END>
+
+[Yuna]<NL>
+Thank you, Father [Zuke],<NL>
+for your warning.<END>
+
+[Lulu]<NL>
+Father, you came all the<NL>
+way here just to tell us this?<END>
+
+[Zuke]<NL>
+To tell the truth,<NL>
+I was a little curious to see...<END>
+
+[Zuke]<NL>
+this summoner you are guarding.<END>
+
+[Zuke]<NL>
+I hope her pilgrimage goes well.<END>
+
+[Zuke]<NL>
+For your sake, too.<END>
+
+[Lulu]<NL>
+Thank you, Father.<END>
+
+[Zuke]<NL>
+I must be off.<NL>
+I shall pray for all of you.<END>
+
+[Tidus]<NL>
+Who was that?<END>
+
+[Lulu]<NL>
+Until half a year ago,<NL>
+he was a summoner.<NL>
+[Wakka] and I were his guardians.<END>
+
+[Wakka]<NL>
+It was kind of a short pilgrimage.<END>
+
+[Lulu]<NL>
+He gave up halfway.<NL>
+Here, on this plain.<END>
+
+[Lulu]<NL>
+Now, he is a monk<NL>
+at the [Bevelle] temple.<END>
+
+[Lulu]<NL>
+This is my third<NL>
+pilgrimage as a guardian.<END>
+
+[Lulu]<NL>
+Father [Zuke] was my second.<NL>
+And my first, well...<END>
+
+[Lulu]<NL>
+It ended here, too.<END>
+
+[Lulu]<NL>
+I've never been to the lands beyond.<END>
+
+[Lulu]<NL>
+<Cor 88>[Mt. Gagazet]<Cor 41> towers to the north,<NL>
+and <Cor 88>[Zanarkand]<Cor 41> lies beyond that.<END>
+
+[Wakka]<NL>
+When I was guarding [Zuke]...<END>
+
+[Wakka]<NL>
+I already told you this, ya?<END>
+
+[Wakka]<NL>
+'Bout when I was too into the<NL>
+game to be a good guardian?<END>
+
+[Wakka]<NL>
+So when Father [Zuke]<NL>
+said he wanted out...<END>
+
+[Wakka]<NL>
+Tell you the truth, I was kinda glad.<END>
+
+[Wakka]<NL>
+<Cor 88>[Zanarkand]<Cor 41>'s right around the corner.<NL>
+So close already.<END>
+
+[Auron]<NL>
+Messy.<END>
+
+[Tidus]<NL>
+What is?<END>
+
+[Auron]<NL>
+[Yevon2].<NL>
+[Mika] and [Seymor] are not of one mind.<END>
+
+[Auron]<NL>
+Remember what [Seymor]<NL>
+said last we met.<END>
+
+[Auron]<NL>
+I do not think [Mika] will concur.<END>
+
+[Auron]<NL>
+If [Yevon2] founders,<NL>
+so will [Spira].<END>
+
+[Rikku]<NL>
+She's not stopping, is she?<END>
+
+[Tidus]<NL>
+[Yuna]...she's made her decision.<END>
+
+[Rikku]<NL>
+But, I can't just let her go.<END>
+
+[Tidus]<NL>
+We won't have to.<END>
+
+[Tidus]<NL>
+We'll save [Yuna] even<NL>
+if she calls the Final Aeon.<END>
+
+[Rikku]<NL>
+But how?<END>
+
+[Tidus]<NL>
+I'll think of a way.<END>
+
+[Rikku]<NL>
+But what if you can't?<END>
+
+[Tidus]<NL>
+I'm tired of talking to you.<END>
+
+[Tidus]<NL>
+It's always "but" this, "but" that.<END>
+
+[Rikku]<NL>
+But...<END>
+
+[Tidus]<NL>
+Let's think together!<END>
+
+[Rikku]<NL>
+Okay.<END>
+
+[Tidus]<NL>
+And, if we can't think of something...<END>
+
+[Tidus]<NL>
+we find another way!<END>
+
+[Rikku]<NL>
+Okay!<END>
+
+[Rikku]<NL>
+Ugh... This is a toughie.<END>
+
+[Kimahri]<NL>
+[Gagazet] is [Ronso] land.<NL>
+[Kimahri] home.<END>
+
+[Tidus]<NL>
+Hey! We might meet your family.<END>
+
+[Kimahri]<NL>
+[Kimahri] has no family.<END>
+
+[Tidus]<NL>
+Oh, sorry.<END>
+
+[Kimahri]<NL>
+But [Kimahri] not alone.<END>
+
+[Kimahri]<NL>
+Sacred mountain Gagazet.<NL>
+Not change for one thousand years.<END>
+
+[Yuna]<NL>
+So, we are officially traitors, then.<END>
+
+[Tidus]<NL>
+Hey, let them say what they want.<END>
+
+[Yuna]<NL>
+It's okay, I'm not worried.<END>
+
+[Yuna]<NL>
+Well, maybe just a little.<NL>
+It's so hard not to be.<END>
+
+[Tidus]<NL>
+Hey, it's okay to worry. And<NL>
+if it gets too rough, just yell!<END>
+
+[Yuna]<NL>
+Yell? Hmm...<END>
+
+[Yuna]<NL>
+Okay, I might just do that.<END>
+
+[Tidus]<NL>
+Yeah!<END>
+
+[Yuna]<NL>
+I wonder if my father<NL>
+got lost here, too?<END>
+
+[Tidus]<NL>
+Maybe, with my old man helping him!<END>
+
+[Yuna]<NL>
+Maybe I'll ask Sir [Auron].<END>
+
+[Tidus]<NL>
+[Auron]?<NL>
+That grouch never tells me anything.<END>
+
+[Yuna]<NL>
+"That is none of your business!"<END>
+
+[Tidus]<NL>
+Not that he keeps out of<NL>
+other people's business,<NL>
+you know what I mean?<END>
+
+[Yuna]<NL>
+Just a little farther to <Cor 88>[Zanarkand]<Cor 41>.<END>
+
+<NL>
+Welcome.<END>
+
+<NL>
+What can I do for you?<END>
+
+<NL>
+You can ride any of the chocobos<NL>
+running around this place for free.<END>
+
+<NL>
+But most of them are wild.<NL>
+Those won't let you ride them.<END>
+
+<NL>
+Wild chocobos aren't bridled.<NL>
+That's how you tell them apart.<END>
+
+[Maechen]<NL>
+Perhaps you would like to<NL>
+know a bit about these plains?<END>
+
+[Maechen]<NL>
+What a pity.<END>
+
+<NL>
+          <END>
+
+[Maechen]<NL>
+As you know, these plains<NL>
+were once a battlefield.<END>
+
+[Maechen]<NL>
+A great battle between [Bevelle]<NL>
+and [Zanarkand], a melee of machina! <END>
+
+[Maechen]<NL>
+That war left this place<NL>
+a barren, lifeless land.<END>
+
+[Maechen]<NL>
+Then, time passed.<END>
+
+[Maechen]<NL>
+The summoners took note<NL>
+of this uninhabited land.<END>
+
+[Maechen]<NL>
+Great battles could be fought here,<NL>
+with no harm to the common folk.<END>
+
+[Maechen]<NL>
+Perfect for a final battle<NL>
+with [Sin], as it were.<END>
+
+[Maechen]<NL>
+Summoners wait here, ready<NL>
+to perform the Final Summoning.<END>
+
+[Maechen]<NL>
+Ah, to know what they must feel!<END>
+
+[Maechen]<NL>
+In any case, when [Sin] is defeated here,<NL>
+the [Calm] will visit [Spira] once more.<END>
+
+[Maechen]<NL>
+That's why this place is<NL>
+now known as the [Calm] Lands.<NL>
+Exactly who dubbed it so is unknown.<END>
+
+[Maechen]<NL>
+And that, as they say, is that.<END>
+
+[Maechen]<NL>
+Oh dear, I almost forgot<NL>
+to tell you something.<END>
+
+[Maechen]<NL>
+There's a chasm, a great rend<NL>
+in the earth, in these parts.<END>
+
+[Maechen]<NL>
+A scar left from High Summoner<NL>
+[Gandof]'s bitter battle with [Sin],<NL>
+four hundred years past.<END>
+
+[Maechen]<NL>
+Like to hear about<NL>
+this place once more?<END>
+
+<NL>
+Traitors should be more cautious.<END>
+
+<NL>
+If you go on talking to every<NL>
+stranger you meet, one of them<NL>
+will call the guards.<END>
+
+[Tidus]<NL>
+Go ahead and call them!<END>
+
+<NL>
+After I've just given you a head start?<END>
+
+<NL>
+Don't worry, though. I don't pay much<NL>
+attention to the temple these days.<END>
+
+<NL>
+Like your guardian over there.<END>
+
+<NL>
+          <END>
+
+[Auron]<NL>
+Who are you?<END>
+
+<NL>
+[Belgemine], a summoner.<END>
+
+[Belgemine]<NL>
+Though, I gave up my pilgrimage<NL>
+a good many years ago...<END>
+
+[Belgemine]<NL>
+All I can hope to do now is help<NL>
+out a young summoner on her quest--<NL>
+if she's willing.<END>
+
+[Belgemine]<NL>
+How about it, [Yuna]?<NL>
+I could show you a trick or two.<END>
+
+[Belgemine]<NL>
+Perhaps you'd like to test your<NL>
+mettle against another summoner?<END>
+
+[Belgemine]<NL>
+Oh, you again. You're quite<NL>
+the notorious traitor these days.<END>
+
+[Tidus]<NL>
+What's it to you?<END>
+
+[Belgemine]<NL>
+Ah, you shouldn't take what<NL>
+the maesters say too seriously.<END>
+
+[Belgemine]<NL>
+For summoners, destroying [Sin]<NL>
+is everything. We are no tools<NL>
+of [Yevon2], understand?<END>
+
+[Yuna]<NL>
+Yes.<END>
+
+[Belgemine]<NL>
+So, are you up to the task?<END>
+
+[Yuna]<NL>
+I do not know,<NL>
+but I will do my best.<END>
+
+[Belgemine]<NL>
+You've got spirit, but<NL>
+you'll need more to beat [Sin].<END>
+
+[Belgemine]<NL>
+An aeon duel!<NL>
+Show me what you're made of.<END>
+
+[Belgemine]<NL>
+No time to fight? I understand.<NL>
+I was in your shoes once.<END>
+
+[Belgemine]<NL>
+Hmm? Changed your mind?<END>
+
+[Belgemine]<NL>
+Excellent. But before we begin...<END>
+
+[Belgemine]<NL>
+I've just healed your aeons for you.<NL>
+Let us begin!<END>
+
+[Belgemine]<NL>
+Impressive.<NL>
+Remarkable talent.<END>
+
+[Belgemine]<NL>
+Traitor or no, you may have<NL>
+what it takes to beat [Sin].<END>
+
+[Belgemine]<NL>
+Take this.<NL>
+You have earned it.<END>
+
+[Yuna]<NL>
+Thank you.<END>
+
+[Belgemine]<NL>
+I think you will do just fine.<END>
+
+[Belgemine]<NL>
+But, if you ever feel like<NL>
+you want more training, seek<NL>
+the hidden temple of Remiem.<END>
+
+[Belgemine]<NL>
+I will be waiting there.<NL>
+Farewell.<END>
+
+[Belgemine]<NL>
+I hope you will do better<NL>
+against [Sin], for your sake.<END>
+
+[Belgemine]<NL>
+You need more training.<NL>
+That much is clear, summoner.<END>
+
+[Belgemine]<NL>
+The hidden temple, Remiem.<NL>
+I'll be waiting.<END>
+
+[Belgemine]<NL>
+Come, and I will train you.<END>
+
+[Yuna]<NL>
+Th-Thank you!<END>
+
+[Belgemine]<NL>
+Focus, and grow strong, [Yuna].<NL>
+Farewell.<END>
+
+<NL>
+This gorge is called the Scar.<NEWPAGE>
+<NL>
+They say that when the high summoner<NL>
+cornered [Sin], Sin tore the earth here<NL>
+asunder with the last of its strength.<END>
+
+<NL>
+The high summoner and [Sin] struck each<NL>
+other down at the gorge's bottom. Lord<NL>
+Gandof's sacrifice brought us the Calm.<END>
+
+<NL>
+In the [Calm Lands], we bury<NL>
+our dead in this gorge.<NEWPAGE>
+<NL>
+We cannot send them because few<NL>
+summoners ever make it this far.<END>
+
+<NL>
+I've heard that the dead that don't<NL>
+receive a proper sending roam the<NL>
+bottom of the gorge as fiends.<END>
+
+<NL>
+I have a message from [Cid].<NEWPAGE>
+<NL>
+He says:<NEWPAGE>
+<NL>
+We've gone to repair the [airship].<NL>
+We'll come get you when we're done.<NEWPAGE>
+<NL>
+Until then, keep [Yuna] safe<NL>
+or you'll be sorry, kid.<END>
+
+<NL>
+After dropping you off in [Bevelle],<NL>
+the [airship] stopped here.<NEWPAGE>
+<NL>
+They let all [summoner] off,<NL>
+and went for repairs.<END>
+
+<NL>
+There ain't no temple on these plains,<NL>
+even with [Bevelle] so close by.<NEWPAGE>
+<NL>
+Those priests seem to think it<NL>
+ain't worth their trouble to come<NL>
+out to such a barren place.<NEWPAGE>
+<NL>
+But people do live here, you know?<NL>
+Ah, they don't care about nothin'<NL>
+but their own sweet behinds.<END>
+
+<NL>
+We don't need no temple anyway.<NL>
+Done just fine so far without one.<NEWPAGE>
+<NL>
+Earnest prayer and an honest heart,<NL>
+that's what matters.<END>
+
+<NL>
+We don't need no temple.<NL>
+Done just fine so far without one.<END>
+
+<NL>
+Even if I don't know what I'm<NL>
+watching for, duty's duty.<NEWPAGE>
+<NL>
+I'm not moving.<NEWPAGE>
+<NL>
+Well, unless something really<NL>
+unique happens, that is.<END>
+
+<NL>
+Even if I don't know what I'm<NL>
+watching for, duty's duty.<NEWPAGE>
+<NL>
+I'm not moving.<NEWPAGE>
+<NL>
+Well, unless something really<NL>
+nifty happens, that is.<END>
+
+<NL>
+Ever tried watching a gorge for<NL>
+years and years? Not my idea of fun.<NEWPAGE>
+<NL>
+If only something interesting<NL>
+would happen...<END>
+
+<NL>
+It's been ages since I could<NL>
+get my mind off my job!<NL>
+I've gotta thank you.<END>
+
+<NL>
+I guess I broke family tradition...<NL>
+But nobody saw me, right?<NEWPAGE>
+<NL>
+Well, I'd better get back to my watch.<END>
+
+<NL>
+Hey, I saw it!<NL>
+I saw the race!<NEWPAGE>
+<NL>
+You were amazing!<NL>
+I can't believe you won!<NEWPAGE>
+<NL>
+But you were lucky.<NL>
+I mean, sometimes she's hot,<NL>
+and sometime's she's not.<END>
+
+<NL>
+What? Who's watching the gorge?<NL>
+Uh, no one.<NEWPAGE>
+<NL>
+Shouldn't hurt, right?<END>
+
+<NL>
+I hope you're not planning<NL>
+to cross this place on foot.<END>
+
+<NL>
+I suppose you're right.<NL>
+Fighting fiends lets you<NL>
+polish your skills.<END>
+
+<NL>
+Well, these plains are home to<NL>
+lots of wild chocobos.<NEWPAGE>
+<NL>
+First we must train them<NL>
+to be dependable mounts.<END>
+
+<NL>
+I'm training some chocobos now,<NL>
+but they're not quite tame yet.<NL>
+I'm sorry I can't lend you any.<NEWPAGE>
+<NL>
+Walking might be faster than<NL>
+waiting for one of my chocobos.<END>
+
+<NL>
+Bye, now. Maybe next time<NL>
+I'll have a chocobo ready for you.<END>
+
+<NL>
+That's easier said than done.<NL>
+It's not that simple, you know.<NEWPAGE>
+<NL>
+You're sure you want to try?<END>
+
+<NL>
+Hi there.<NL>
+Want to ride a chocobo?<END>
+
+<NL>
+All right.<NL>
+Come with me.<END>
+
+<NL>
+I'm sorry. These things<NL>
+take time, you know?<END>
+
+<NL>
+You're doing well!<NL>
+Keep it up!<END>
+
+<NL>
+Oh, you want to train chocobos?<END>
+
+<NL>
+Most chocobos around here are<NL>
+wild, so you can't ride them<NL>
+without training them first.<END>
+
+<NL>
+I've trained some chocobos.<NL>
+Do you want to ride one?<END>
+
+<NL>
+Lost? Follow me if you<NL>
+want to go back to [Bevelle].<END>
+
+<NL>
+Look, these plains go on forever.<NL>
+Take it easy or you'll die out here!<END>
+
+<NL>
+Smart travellers like me ride<NL>
+chocobos to avoid fiends!<END>
+
+<NL>
+Most chocobos around here are wild,<NL>
+but a few will let you ride them.<END>
+
+<NL>
+Look for chocobos with bridles.<NL>
+Those are the ones you want.<END>
+
+<NL>
+Chocobos here don't belong to anyone.<NL>
+They're free to choose their riders.<END>
+
+<TEXT>
+<CHOICE1>Fight.<NL>
+<CHOICE2>Pass.<END>
+
+<NL>
+Rumor of the [airship] is spreading.<NL>
+The [Yevon2] clergy is afraid of it,<NL>
+seems like.<END>
+
+<NL>
+More and more people are leaving<NL>
+[Bevelle]. The temple's finished,<NL>
+I say.<END>
+
+<NL>
+When [Sin] fell on [Bevelle],<NL>
+I could hear and feel the tremors<NL>
+from here!<END>
+
+<NL>
+This kid seems to like me<NL>
+for some reason.<END>
+
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+<NL>
+Hey, hey!<NL>
+You can't go down there!<END>
+
+<NL>
+What can I do for you?<END>
+
+<TEXT>
+<CHOICE1>How do you ride a chocobo?<NL>
+<CHOICE2>Let me train one.<NL>
+<CHOICE3>Never mind.<END>
+
+<TEXT>
+<Cor 43>How to Ride a Chocobo<Cor 41><NL>
+<NL>
+<Cor 88>Movement:<Cor 41><NL>
+Move far:<VAR07 E4>[Direcional Cima]<VAR07 60>Move near:<VAR07 E4>[Direcional Baixo]<NL>
+Move left:<VAR07 E4>[Direcional Esquerda]<VAR07 60>Move right:<VAR07 E4>[Direcional Direita]<NL>
+<NL>
+<Cor 88>Getting on and off:<Cor 41><NL>
+Press <VAR07 E8>[Botão Círculo] while facing a chocobo to mount.<NL>
+<NL>
+Press <VAR07 E8>[Botão Xis] to dismount.<NL>
+Chocobos can only be ridden in the [Calm Lands].<NL>
+You cannot enter [Macalania Woods] or pass beyond<NL>
+the [Calm Lands] while riding a chocobo.<END>
+
+<TEXT>
+Your chocobo will wait for you where<NL>
+you leave it unless:<NL>
+- You leave the [Calm Lands].<NL>
+- You get another chocobo.<END>
+
+<NL>
+There might be a place where your<NL>
+chocobo will wait for you even if<NL>
+you leave the [Calm Lands].<END>
+
+<TEXT>
+<CHOICE1>Let me ride one!<NL>
+<CHOICE2>I'll walk.<NL>
+<CHOICE3>Let me train one.<NL>
+<CHOICE4>How do you ride a chocobo?<END>
+
+<TEXT>
+<CHOICE1>I want to ride a chocobo!<NL>
+<CHOICE2>Walking's not that bad.<END>
+
+<TEXT>
+<CHOICE1>Let me train one!<NL>
+<CHOICE2>Thanks anyway.<END>
+
+<TEXT>
+<CHOICE1>Of course!<NL>
+<CHOICE2>Maybe not.<END>
+
+<TEXT>
+<CHOICE1>Maybe next time.<NL>
+<CHOICE2>Do tell!<END>
+
+<NL>
+The high priests of [St. Bevelle]<NL>
+do nothing but squabble over<NL>
+politics these days.<NEWPAGE>
+<NL>
+They've forgotten their<NL>
+duty to us, their people!<END>
+
+<NL>
+[Bevelle] is in chaos. Hoodlums walk<NL>
+the streets as openly as any priest!<NEWPAGE>
+<NL>
+Many have left the city already, and<NL>
+many more will leave, I'm sure.<END>
+
+<NL>
+We've always lived by the<NL>
+teachings, but look at us now.<END>
+
+<NL>
+I don't care whether they're<NL>
+machina-using [Al Bhed] or not.<NEWPAGE>
+<NL>
+As long as they wipe out [Sin],<NL>
+I'm all for them!<END>
+
+<NL>
+I sang the Hymn! Put all my heart<NL>
+into it! I hope that flying ship wins.<END>
+
+<NL>
+[Rin]'s Travelling Agency, at your service!<NL>
+We offer fine wares at reasonable prices.<NEWPAGE>
+<NL>
+Please consider making a purchase<NL>
+before crossing these vast plains.<END>
+
+<TEXT>
+<CHOICE1>Got any weapons?<NL>
+<CHOICE2>Got any items?<NL>
+<CHOICE3>Leave.<END>
+
+<NL>
+Have a safe and pleasant<NL>
+crossing.<END>
+
+<NL>
+My husband and I decided to leave<NL>
+[Bevelle] for our son's sake.<NEWPAGE>
+<NL>
+[Bevelle] is not a safe place<NL>
+for children anymore.<END>
+
+<NL>
+We had nothing but the clothes on our<NL>
+backs when we fled here, but the people<NL>
+here helped us.<NEWPAGE>
+<NL>
+Would [Yevon2] forgive us for accepting<NL>
+aid from the [Al Bhed], I wonder...<END>
+
+<NL>
+We have nowhere to turn now.<NL>
+What should we do?<END>
+
+<NL>
+Our son won't stay away<NL>
+from that [Al Bhed].<END>
+
+<NL>
+He'd better not be teaching<NL>
+him anything sacrilegious.<END>
+
+<NL>
+We left our house in [Bevelle].<NL>
+I don't really understand what's going<NL>
+on, but Mom said it was dangerous.<END>
+
+<NL>
+I don't care where we go, as<NL>
+long as I'm with Mom and Dad!<END>
+
+<NL>
+Aw, I want a mask like his, too!<NEWPAGE>
+<NL>
+But he said only [Al Bhed]<NL>
+wear them!<NEWPAGE>
+<NL>
+I wanna be an [Al Bhed]<NL>
+when I grow up!<END>
+
+<NL>
+That nice [Al Bhed] man<NL>
+sang the Hymn with me!<END>
+
+<NL>
+Do you think they'll let me ride<NL>
+the flying ship if I became [Al Bhed]?<END>
+
+<NL>
+It won't open.<END>
+
+<NL>
+The <Cor 43>[Celestial Mirror]<Cor 41> seems to react.<END>
+
+<TEXT>
+Use the <Cor 43>[Celestial Mirror]<Cor 41>?<NL>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<NL>
+The <Cor 43>[Cloudy Mirror]<Cor 41> seems to react.<END>
+
+<TEXT>
+Use the <Cor 43>[Cloudy Mirror]<Cor 41>?<NL>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<NL>
+Not enough energy...<END>
+
+<NL>
+Made of clay hardened by intense<NL>
+heat, it must be hundreds of<NL>
+years old.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<NL>
+With the vale at your back<NL>
+go forty-nine,<NEWPAGE>
+<NL>
+then seven to the right<NL>
+in the truest line.<END>
+
+<TEXT>
+<NL>
+With me at your back go twenty,<NL>
+then twenty to the right.<END>
+
+<TEXT>
+<NL>
+Right sixteen<NL>
+and right four.<END>
+
+<TEXT>
+<NL>
+Continue on.<NL>
+Find me.<END>
+
+<TEXT>
+<NL>
+The password is...<NL>
+GODHAND<END>
+
+<TEXT>
+<NL>
+Something is written here.<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. XXIII!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>F<Cor 41> [RIGHT] <Cor 97>W<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

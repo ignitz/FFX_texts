@@ -1,0 +1,608 @@
+<NL>
+É melhor você se apressar!<NL>
+O jogo não pode começar sem você!<END>
+
+<NL>
+Mostre suas jogadas lá, cara<END>
+
+<NL>
+Dizem que você tem alguns truques<NL>
+que nem seu velho poderia fazer!<END>
+
+<NL>
+O jantar é por minha conta se vocês ganharem!<NL>
+Eu até reservei uma mesa para você.<END>
+
+<NL>
+Eu não me sinto muito bem... é como se eu<NL>
+estivesse descendo numa montanha russa.<END>
+
+<NL>
+Talvez toda essa agitação seja<NL>
+demais para mim.<END>
+
+<NL>
+Anda logo!<NL>
+O jogo já vai começar!<END>
+
+<NL>
+Estamos contando com você, campeão<END>
+
+<NL>
+Nossa... Estou tremendo.<NL>
+Talvez eu esteja ficando doente...<END>
+
+<NL>
+Você sente frio? Nah, talvez<NL>
+seja só eu. Deixa pra lá.<END>
+
+<NL>
+Cara, os ingressos para o jogo<NL>
+me custaram os olhos da cara!<END>
+
+<NL>
+Os ingressos estavam esgotados!<NL>
+Espero que alguém tenha algum extra.<END>
+
+<NL>
+Eles me deixarão entrar se eu disser,<NL>
+"[Tidus] e eu somos amigos", certo?<END>
+
+<NL>
+Não vou contar para ninguém.<NL>
+Será nosso segredo!<END>
+
+<NL>
+Ah, que pena...<NL>
+Eu teria torcido por você...<END>
+
+<NL>
+Está bem, sério!<NL>
+Eu estarei bem aqui...sozinho...<END>
+
+<NL>
+S-Sério?<NL>
+Você é o melhor!<NEWPAGE>
+<NL>
+Como posso retribuir?<NL>
+Aqui, pegue isso!<END>
+
+<NL>
+Oh, bem.<NL>
+Valeu à tentativa.<END>
+
+<NL>
+Ora, ora! Se não<NL>
+é o [Jecht] junior!<END>
+
+<NL>
+Só de olhar o seu rosto<NL>
+    já dá para ver que você acha que vai ganhar!<END>
+
+<NL>
+Todos de [Zanarkand] estão assistindo,<NL>
+então dê um show para eles!<END>
+
+<NL>
+Mostre a eles o que<NL>
+realmente é jogar [blitzball]!<END>
+
+<NL>
+Esta noite teremos um ótimo jogo<NL>
+Tenho certeza!<END>
+
+<NL>
+O jogo desta noite entrará<NL>
+para a história!<END>
+
+<NL>
+Os [Zanarkand Abes] contam<NL>
+com você! Não os desaponte!<END>
+
+<NL>
+É melhor se apressar... Ou você só está<NL>
+tentando animar a multidão?<END>
+
+<NL>
+Tenho certeza que você será o jogador do ano.<END>
+
+<NL>
+Afinal de contas, você é o filho de [Jecht]!<END>
+
+<NL>
+Ei, Sr. Craque dos Abes!<NL>
+Jogue bem esta noite!<END>
+
+<NL>
+A defesa deles não vai<NL>
+saber o que os atingiu!<END>
+
+<NL>
+Cuidado, os [Zanarkand Duggles]<NL>
+vão dar trabalho esta noite!<END>
+
+<NL>
+Ouvi dizer que os [Zanarkand Duggles] jogam sujo!<END>
+
+<NL>
+Acerte eles com um [Jecht] Shot, certo?<END>
+
+<NL>
+Seu pai foi o melhor, [Tidus]<NL>
+Eu queria ter um pai como você!<END>
+
+<NL>
+Boa sorte, [Tidus]!<END>
+
+<NL>
+Anda, você vai chegar atrasado!<NL>
+Rápido! Rápido!<END>
+
+<NL>
+Os [Zanarkand Abes] comandam!<END>
+
+<NL>
+Minha mãe também é uma grande fã sua!<NL>
+Ela me disse para te convidar para o jantar!<END>
+
+<NL>
+É melhor vencer esta noite,<NL>
+ou você vai ver! Pô!<END>
+
+<NL>
+Eu quero jogar no seu time<NL>
+quando eu crescer, [Tidus]!<END>
+
+<NL>
+Eu estava num café, fugindo<NL>
+de casa quando eu ouvi a noticia.<END>
+
+<NL>
+Nosso herói, Jecht, se fora.<NL>
+Sumira do mapa!<END>
+
+<NL>
+Meu pai deve ter sido seu maior fã.<NL>
+Eu sabia o quão triste ele estaria.<NL>
+Caramba, todos nós estávamos aquele dia.<END>
+
+<NL>
+"Zanar," eu disse para mim mesmo,<NL>
+"O que você está pensando?"<END>
+
+<NL>
+Eu corri de volta para casa.<NL>
+Sentamos e falamos sobre Jecht a noite toda.<END>
+
+<NL>
+Meu pai e eu não conversávamos muito.<NL>
+Opa... Não era minha intenção falar<NL>
+tanto do passado, pessoal.<END>
+
+<NL>
+Enfim... Dez anos depois, acontece<NL>
+a final da Copa Memorial Jecht!<END>
+
+<NL>
+Os dois times que chegaram<NL>
+às finais são...é claro, os Abes<NL>
+do Leste-A, e os Duggles do Sul-C.<END>
+
+<NL>
+Eu sei tem muita gente veio aqui hoje<NL>
+para ver a estrela dos Abes!<END>
+
+<NL>
+Em apenas um ano, ele se tornou<NL>
+o jogador número um do time!<END>
+
+<NL>
+Ele é o sangue de Jecht, e a nova<NL>
+esperança do blitzball! Que tipo de<NL>
+super jogada ele nos mostrará hoje?<END>
+
+<NL>
+Será que veremos o chute lendário de seu<NL>
+pai? Não creio que eu seja o único<NL>
+ansioso aqui, pessoal!<END>
+
+<NL>
+Você não pode me arranjar um ingresso?<NL>
+Eu quero ver o jogo de perto.<END>
+
+<TEXT>
+<CHOICE1>Claro.<NL>
+<CHOICE2>Me desculpe.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

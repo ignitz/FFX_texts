@@ -1,0 +1,368 @@
+<TEXT>
+Save current game?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+[Tidus]<NL>
+[Rikku]!<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+Blitzball!<END>
+
+<NL>
+Hey!<NL>
+You okay?<END>
+
+[Tidus]<NL>
+Heeey!<END>
+
+<NL>
+Whoa-ho!<END>
+
+[Tidus]<NL>
+Yo! Hiya!<END>
+
+<NL>
+You wanna try that<NL>
+move one more time?<END>
+
+<NL>
+Finally, things were<NL>
+starting to look up.<END>
+
+<NL>
+<END>
+
+<NL>
+You're no amateur.<NL>
+Who you play for?<END>
+
+[Tidus]<NL>
+The [Zanarkand Abes]!<END>
+
+<NL>
+<END>
+
+<NL>
+What team you say again?<END>
+
+[Tidus]<NL>
+Uh, I meant...<NL>
+Forget that.<END>
+
+[Tidus]<NL>
+I got too, uh...close to [Sin]<NL>
+and my head's all foggy-like.<END>
+
+[Tidus]<NL>
+So I don't know where this place is.<NL>
+Or even where I came from.<END>
+
+<NL>
+[Sin]'s toxin got to you.<END>
+
+<NL>
+But, you're still alive.<END>
+
+<NL>
+Praise be to [Yevon2]!<END>
+
+<NL>
+All right, back to practice!<END>
+
+<NL>
+I'm [Wakka], coach and captain<NL>
+of the [Besaid Aurochs], brudda.<END>
+
+[Wakka]<NL>
+What?<NL>
+You hungry?<END>
+
+[Wakka]<NL>
+Okay! Back to the village.<NL>
+I'll get you somethin'!<END>
+
+<NL>
+I felt like I could trust this<NL>
+[Wakka], so I just had to ask.<END>
+
+[Wakka]<NL>
+Long time ago, there were a whole<NL>
+lot of cities in [Spira]. Big cities<NL>
+with machina--machines--to run 'em.<END>
+
+[Wakka]<NL>
+People played all day and<NL>
+let the machina do the work.<END>
+
+[Wakka]<NL>
+And then, well, take a look.<END>
+
+[Wakka]<NL>
+[Sin] came, and destroyed<NL>
+the machina cities.<END>
+
+[Wakka]<NL>
+And [Zanarkand] along with 'em.<END>
+
+[Wakka]<NL>
+Yeah, that was about a thousand<NL>
+years ago, just like you said.<END>
+
+[Wakka]<NL>
+If you ask me, [Sin]'s our punishment<NL>
+for letting things get out of hand.<END>
+
+[Wakka]<NL>
+What gets me, though...<END>
+
+[Wakka]<NL>
+is we gotta suffer, 'cause of what<NL>
+some goofballs did way back when!<END>
+
+[Wakka]<NL>
+'Course, we must always repent<NL>
+for our sins! That's important!<END>
+
+[Wakka]<NL>
+It's just that, it's hard to<NL>
+keep at it sometimes, you know?<END>
+
+<NL>
+It was just as [Rikku] said.<END>
+
+<NL>
+[Wakka] and [Rikku] couldn't both<NL>
+be lying. Why would they?<END>
+
+<NL>
+          <END>
+
+[Wakka]<NL>
+But you from the [Zanarkand Abes]--<NL>
+that was a good one!<END>
+
+<NL>
+I appreciated the fact that<NL>
+[Wakka] was trying to cheer me up.<END>
+
+<NL>
+But at that time, all<NL>
+I could think about was...<END>
+
+<NL>
+everything that happened to<NL>
+me--all this--started with [Sin].<END>
+
+<NL>
+Maybe if I could find [Sin]<NL>
+one more time, I could go home!<END>
+
+<NL>
+For now, I'd just live life until<NL>
+that time came. No more worrying<NL>
+about where, or when, I was.<END>
+
+<NL>
+Sure it was hard not to think of home.<NL>
+But I started to feel better already.<END>
+
+<NL>
+A little better...maybe.<END>
+
+Datto<NL>
+I gotta stop closing my eyes<NL>
+when the ball comes down.<END>
+
+Datto<NL>
+That toxin's nasty stuff, ya?<NL>
+You should go rest up.<END>
+
+Datto<NL>
+What am I saying?<NL>
+Take this, it might help!<END>
+
+Datto<NL>
+You being a blitzball player's<NL>
+probably what saved you out there.<NEWPAGE>
+Datto<NL>
+The best players--they can<NL>
+hold their breath, like, forever!<NEWPAGE>
+Datto<NL>
+I wish I could do that.<END>
+
+Datto<NL>
+We had an underwater race once, ya?<NL>
+To see how long we could go.<NEWPAGE>
+Datto<NL>
+Two laps and we were out, but <NL>
+Cap'n [Wakka] went five, no sweat!<END>
+
+Letty<NL>
+I can head the ball pretty good.<NL>
+Today's just a bad day, ya?<END>
+
+Letty<NL>
+This is really weird, ya?<NL>
+I could do five in a row yesterday!<END>
+
+Letty<NL>
+I'm nowhere near Cap'n [Wakka],<NL>
+but I can hold my own underwater, ya?<NEWPAGE>
+Letty<NL>
+It's just that...<NL>
+I'm not so good with the ball.<END>
+
+Letty<NL>
+It true that the best players<NL>
+can even sleep underwater?<NEWPAGE>
+Letty<NL>
+Man, that's like...superhuman, you know?<END>
+
+Jassu<NL>
+That shot was spectacular, brudda!<NL>
+Wish I could shoot like that.<END>
+
+Jassu<NL>
+Cap'n [Wakka]'s waiting for you.<NL>
+You better get going, ya?<END>
+
+Jassu<NL>
+There's fiends on the road, ya?<NL>
+Use this if you get in trouble.<END>
+
+Botta<NL>
+I really want to make Cap'n [Wakka]<NL>
+proud at this year's tournament.<END>
+
+Botta<NL>
+Come practice with us once<NL>
+the toxin wears off, okay?<END>
+
+Botta<NL>
+Hope you get better soon, brudda.<END>
+
+Keepa<NL>
+Hey, I'll admit it. We're<NL>
+not the best blitzers in Spira.<END>
+
+Keepa<NL>
+"To do our best!" That's our motto.<NL>
+Guess it's not enough, though.<END>
+
+Keepa<NL>
+Here, take this.<NL>
+And do your best, ya?<END>
+
+Keepa<NL>
+We're always top dogs for the<NL>
+first few minutes of the game, ya?<NEWPAGE>
+Keepa<NL>
+Then we start to run out of breath.<NL>
+That's when they get us.<NEWPAGE>
+Keepa<NL>
+But Cap'n [Wakka], man,<NL>
+he don't stop!<NEWPAGE>
+Keepa<NL>
+No halftime breath for him, ya?<NL>
+He just keeps going!<END>
+
+[Wakka]<NL>
+Hey, I'm not saying the<NL>
+team never existed, ya?<END>
+
+[Wakka]<NL>
+But you gotta figure a team livin' in<NL>
+luxury like that'd be pretty soft, eh?<END>
+
+[Tidus]<NL>
+It's true [Zanarkand] was destroyed,<NL>
+right? A thousand years ago?<END>
+
+[Tidus]<NL>
+So it's just a big pile<NL>
+of rubble now, isn't it?<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

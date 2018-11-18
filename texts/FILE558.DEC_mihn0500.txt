@@ -1,0 +1,250 @@
+[Shelinda]<NL>
+Word has gotten around about me.<END>
+
+[Shelinda]<NL>
+Now all the [Crusader]s<NL>
+are ignoring me!<END>
+
+[Shelinda]<NL>
+Thank you so much<NL>
+for your words yesterday.<END>
+
+[Maechen]<NL>
+A safe journey to you!<END>
+
+[Maechen]<NL>
+Would you like to<NL>
+hear about the Highroad?<END>
+
+[Maechen]<NL>
+Hmm...pity.<END>
+
+[Maechen]<NL>
+We are currently travelling a part of the<NL>
+[Mi'ihen] Highroad called the Newroad.<END>
+
+[Maechen]<NL>
+Naturally, that suggests that<NL>
+there is, or was, an Oldroad.<END>
+
+[Maechen]<NL>
+The road that runs below this Newroad<NL>
+is the original [Mi'ihen] Highroad.<END>
+
+[Maechen]<NL>
+Hence, the road that Lord [Mi'ihen]<NL>
+walked is not this road, but the Oldroad.<END>
+
+[Maechen]<NL>
+The Newroad was built to<NL>
+replace the Oldroad destroyed<NL>
+by [Sin] five hundred years ago.<END>
+
+[Maechen]<NL>
+But sometimes, standing on the<NL>
+Oldroad and reminiscing about the past<NL>
+can be a pleasurable pastime.<END>
+
+<NL>
+The road's finally opened, so<NL>
+I'm planning on heading north.<NEWPAGE>
+<NL>
+Actually, I'm kinda scared about going.<NL>
+A lot of people died there.<END>
+
+<NL>
+I'll bet the dead soldiers became fiends,<NL>
+and are creeping around.<END>
+
+<TEXT>
+<CHOICE1>Not one bit.<NL>
+<CHOICE2>Please.<END>
+
+<NL>
+There are some [Al Bhed] wandering around.<NL>
+What are they up to now?<END>
+
+<NL>
+The [Al Bhed] wouldn't be acting so big<NL>
+if the warrior monks were here.<END>
+
+<NL>
+That ship is an [Al Bhed2] machina, right?<NL>
+I can't believe the clergy's relying on it.<NL>
+<END>
+
+<NL>
+If the temples were to disappear,<NL>
+what would we pray to?<END>
+
+<NL>
+We live in the desert, so<NL>
+I have never seen so many flowers.<END>
+
+<NL>
+I like the flower here and the flower<NL>
+in the desert. I like them both.<END>
+
+<NL>
+My dad is riding on an [airship].<END>
+
+<NL>
+I sang out loud so that Dad can hear me.<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. IX!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>E<Cor 41> [RIGHT] <Cor 97>I<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

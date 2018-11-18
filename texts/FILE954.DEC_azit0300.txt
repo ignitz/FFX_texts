@@ -1,0 +1,340 @@
+[Cid]<NL>
+This bites!<END>
+
+[Cid]<NL>
+[Rikku]! You read me?<END>
+
+[Cid]<NL>
+You go under, too!<NL>
+I am leveling [Home]!<END>
+
+[Cid]<NL>
+And the [fiend] with it!<END>
+
+[Rikku]<NL>
+Oh, no!<END>
+
+[Wakka]<NL>
+What'd he say!?<END>
+
+[Rikku]<NL>
+We have to get underground!<END>
+
+[Auron]<NL>
+Where's [Yuna]?<END>
+
+[Rikku]<NL>
+The Summoners' Sanctum!<NL>
+This way!<END>
+
+[Rikku]<NL>
+Over here!<END>
+
+[Wakka]<NL>
+This place done for.<END>
+
+[Wakka]<NL>
+[Rikku]...<END>
+
+[Wakka]<NL>
+Damn those [Guado]!<NL>
+What are they thinking?<END>
+
+[Lulu]<NL>
+[Rikku], what is the<NL>
+Summoners' Sanctum?<END>
+
+[Rikku]<NL>
+The Summoners' Sanctum is<NL>
+where we keep the summoners.<NL>
+We keep them safe there.<END>
+
+[Wakka]<NL>
+You kidnapped them.<END>
+
+<NL>
+          <END>
+
+[Rikku]<NL>
+I know it's against the<NL>
+teachings and all that...<END>
+
+[Wakka]<NL>
+I get why you did it, but...<END>
+
+[Tidus]<NL>
+Right?<END>
+
+[Tidus]<NL>
+Right!?<END>
+
+[Kimahri]<NL>
+It's quiet. [Kimahri] goes now.<END>
+
+[Rikku]<NL>
+[Yuna], please be here!<END>
+
+[Rikku]<NL>
+You're right.<NL>
+You're right, [Wakka].<END>
+
+[Rikku]<NL>
+We [Al Bhed], we...<NL>
+we weren't always like this.<END>
+
+[Rikku]<NL>
+[Sin] destroyed the island<NL>
+where we all used to live.<END>
+
+[Rikku]<NL>
+After that, we were scattered<NL>
+to every corner of Spira.<END>
+
+[Rikku]<NL>
+But then, my dad brought<NL>
+the [Al Bhed] together again.<END>
+
+[Rikku]<NL>
+If we put our minds to it and<NL>
+worked together, then we could<NL>
+make a new home.<END>
+
+[Rikku]<NL>
+Everyone worked hard, we<NL>
+had our [Home] back again...<END>
+
+[Rikku]<NL>
+But now... Why did things<NL>
+have to turn out this way?<END>
+
+[Tidus]<NL>
+Well, I sure don't<NL>
+get it, [Wakka].<END>
+
+[Tidus]<NL>
+They might get hurt on their<NL>
+pilgrimage so you kidnap them?<END>
+
+[Tidus]<NL>
+I mean, if the summoners don't do<NL>
+their job, then who will beat [Sin]?<END>
+
+[Tidus]<NL>
+You want to protect them, I know.<NL>
+But guardians are there for that.<END>
+
+[Tidus]<NL>
+If guardians do their job<NL>
+well, summoners will be safe!<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. XXI!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>I<Cor 41> [RIGHT] <Cor 97>U<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

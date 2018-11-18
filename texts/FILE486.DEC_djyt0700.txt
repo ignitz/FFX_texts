@@ -1,0 +1,152 @@
+[Dona]<NL>
+Well, well.<NL>
+You again.<END>
+
+[Dona]<NL>
+Still travelling with<NL>
+quite the crowd, I see.<END>
+
+[Dona]<NL>
+What is it, [Barthello]?<NL>
+You know this riffraff?<END>
+
+[Barthello]<NL>
+You are...[Auron], no?<END>
+
+[Auron]<NL>
+What of it?<END>
+
+[Barthello]<NL>
+Can...I shake your hand?<END>
+
+[Barthello]<NL>
+[Auron]--no, Sir [Auron].<END>
+
+[Barthello]<NL>
+You're the reason<NL>
+I became a guardian!<END>
+
+[Barthello]<NL>
+Thank you, sir!<NL>
+This means so much to me!<END>
+
+[Wakka]<NL>
+Calling the personal guardian<NL>
+to Lord [Braska] riffraff?<END>
+
+[Lulu]<NL>
+And you call yourself a summoner?<END>
+
+<NL>
+<END>
+
+[Dona]<NL>
+[Barthello], enough!<NL>
+Get back here!<END>
+
+[Tidus]<NL>
+Hang in there, buddy, eh?<END>
+
+[Barthello]<NL>
+I swear, I'll never<NL>
+wash this hand again!<END>
+
+[Dona]<NL>
+Please! Touch me with that<NL>
+hand and I'll remove it!<END>
+
+[Wakka]<NL>
+We wait here.<END>
+
+[Wakka]<NL>
+Not all summoners are<NL>
+like [Yuna], I guess.<END>
+
+[Wakka]<NL>
+Quite the show, ya?<NL>
+Not so good on the heart, though.<END>
+
+[Kimahri]<NL>
+You grow stronger,<NL>
+but are still a pup.<END>
+
+[Kimahri]<NL>
+Pick spot.<NL>
+Shut up. Wait.<END>
+
+[Auron]<NL>
+Stop pacing around.<NL>
+Be calm, and wait.<END>
+
+[Lulu]<NL>
+You should try to settle down.<NL>
+[Yuna] will be blamed if anything happens.<END>
+
+[Lulu]<NL>
+Now we wait.<NL>
+This is also a guardian's duty.<END>
+
+[Dona]<NL>
+We've got places to go.<NL>
+We can't be kept waiting like this.<END>
+
+[Dona]<NL>
+How much longer? She sure<NL>
+is taking her sweet time.<END>
+
+[Barthello]<NL>
+I met Sir [Auron]!<NL>
+THE Sir [Auron]!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

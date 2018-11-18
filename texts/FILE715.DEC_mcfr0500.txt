@@ -1,0 +1,159 @@
+<NL>
+You can't enter [Bevelle] now.<NL>
+The guard is on full alert, you know.<NEWPAGE>
+<NL>
+So just go back to where<NL>
+you came from, got it?<END>
+
+<NL>
+You commoners should stay quiet and<NL>
+obey the temple. Mind your mouth<NL>
+or we'll mind it for you.<END>
+
+<NL>
+Townsfolk 1 dialogue 3 after sacred kiss<END>
+
+<NL>
+The road to [Bevelle] is closed.<NL>
+None may pass.<END>
+
+<NL>
+It's been several days since I<NL>
+was ordered to guard this road.<NEWPAGE>
+<NL>
+I haven't received any new orders since then...<NL>
+they better not have forgotten about me.<END>
+
+<NL>
+I guess I'll have to keep watch<NL>
+until I receive new orders.<END>
+
+<NL>
+No entry allowed in [Bevelle].<NL>
+Pray somewhere else.<END>
+
+<NL>
+That road's closed.<END>
+
+<NL>
+Hey, did you not hear me the<NL>
+first time!? Get outta here, kid!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,296 @@
+<NL>
+We've always fought side by side.<NL>
+Now we go back home together.<END>
+
+<NL>
+We're leaving the [Crusader]s.<NL>
+Why fight? We know we can't win.<END>
+
+<NL>
+It's not much of a wound... I should<NL>
+be able to go on...but I can't.<END>
+
+<NL>
+The mission fails. I can't even<NL>
+walk... What did I do to deserve this?<END>
+
+<NL>
+[Al Bhed] might come and try to<NL>
+disrupt Lord [Seymor]'s wedding.<NEWPAGE>
+<NL>
+I assure you, those ruffians will<NL>
+never set foot in [Guadosalam]!<END>
+
+<NL>
+After she is wed, we [Guado]<NL>
+will protect Lady [Yuna].<END>
+
+[Shelinda]<NL>
+Good day, everyone.<END>
+
+[Shelinda]<NL>
+We can all learn a lesson from <NL>
+what has happened to the [Crusader]s.<END>
+
+[Shelinda]<NL>
+Only the truly faithful have<NL>
+a hope of defeating [Sin].<END>
+
+[Shelinda]<NL>
+I'm thinking of going to<NL>
+[Guadosalam].<END>
+
+[Shelinda]<NL>
+I have not spoken with<NL>
+the [Guado] for some time.<END>
+
+[Shelinda]<NL>
+Lady Summoner, good fortune<NL>
+to you and your guardians.<END>
+
+[Biran]<NL>
+Look! One of [Kimahri]'s friends.<NL>
+Looks just like him.<END>
+
+[Tidus]<NL>
+What?<END>
+
+[Biran]<NL>
+Both follow summoners on all fours!<NL>
+Hornless goatlings!<END>
+
+[Yenke]<NL>
+Hornless! Hornless!<END>
+
+[Kimahri]<NL>
+You come to insult [Kimahri]?<END>
+
+[Biran]<NL>
+Wrong.<NL>
+We come to warn little [Kimahri].<END>
+
+[Yenke]<NL>
+Summoners disappear. Never return.<END>
+
+[Biran]<NL>
+Next will be [Kimahri]'s summoner.<END>
+
+[Yenke]<NL>
+Poor [Kimahri]!<NL>
+Lost his horn, next lose his summoner!<END>
+
+[Biran]<NL>
+Pitiful [Kimahri]!<NL>
+Howl alone! Howl alone!<END>
+
+[Tidus]<NL>
+Do those two got<NL>
+something against you?<END>
+
+[Tidus]<NL>
+What, they were just picking on you?<END>
+
+[Kimahri]<NL>
+[Kimahri] will deal with them.<END>
+
+[Tidus]<NL>
+And I'll help!<END>
+
+[Kimahri]<NL>
+[Kimahri] alone.<END>
+
+[Tidus]<NL>
+But...<END>
+
+[Wakka]<NL>
+It's [Kimahri]'s problem.<END>
+
+[Wakka]<NL>
+We can't interfere; it's a rule.<END>
+
+[Lulu]<NL>
+I'm worried.<END>
+
+[Wakka]<NL>
+Let the [Ronso] deal with<NL>
+[Ronso] problems, ya?<END>
+
+[Wakka]<NL>
+That's how it's always been.<END>
+
+[Lulu]<NL>
+I mean I'm worried about<NL>
+those summoners disappearing.<END>
+
+[Auron]<NL>
+They aren't just<NL>
+disappearing into thin air.<END>
+
+[Tidus]<NL>
+Hey, if we guardians do our job...<NL>
+no problem, right?<END>
+
+[Wakka]<NL>
+Whoa!<END>
+
+[Lulu]<NL>
+Confident.<END>
+
+[Tidus]<NL>
+Yeah!<END>
+
+<NL>
+The summoner [Yuna] and her party.<END>
+
+[Tidus]<NL>
+How'd you know?<END>
+
+<NL>
+You're famous.<END>
+
+<NL>
+The daughter of a famous summoner,<NL>
+helping those who defy [Yevon2]?<END>
+
+<NL>
+No two summoners are alike,<NL>
+but you're something else!<END>
+
+[Yuna]<NL>
+You are a summoner, too?<END>
+
+<NL>
+The name's [Belgemine].<END>
+
+[Belgemine]<NL>
+Well, [Yuna].<NL>
+I think fate has brought us together.<END>
+
+[Belgemine]<NL>
+Shall we make the best of it, then?<END>
+
+[Belgemine]<NL>
+A contest of aeons.<END>
+
+[Belgemine]<NL>
+It would be a good chance<NL>
+for you to hone your skills.<NL>
+That is, if you wish to.<END>
+
+[Belgemine]<NL>
+We meet again.<END>
+
+[Belgemine]<NL>
+I heard you took part<NL>
+in [Operation Mi'ihen].<END>
+
+[Belgemine]<NL>
+You've seen that<NL>
+machina aren't the answer.<END>
+
+[Belgemine]<NL>
+In the end, only summoners<NL>
+can hope to defeat [Sin].<END>
+
+[Yuna]<NL>
+You are right. I must train harder.<END>
+
+[Belgemine]<NL>
+I can help with that, if you like.<END>
+
+[Belgemine]<NL>
+I propose a contest of aeons.<NL>
+A friendly contest, of course.<END>
+
+[Belgemine]<NL>
+As you wish.<NL>
+A pity, though.<END>
+
+[Belgemine]<NL>
+I'm ready anytime,<NL>
+if you change your mind.<END>
+
+[Yuna]<NL>
+I'm ready.<END>
+
+[Belgemine]<NL>
+That's the spirit!<NL>
+But before we begin...<END>
+
+[Belgemine]<NL>
+I have healed your aeons.<NL>
+Well, shall we?<END>
+
+[Belgemine]<NL>
+You're good.<NL>
+You bested me fairly.<END>
+
+[Belgemine]<NL>
+Here, your prize.<NL>
+Go on, take it.<END>
+
+[Belgemine]<NL>
+I look forward to meeting you again.<NL>
+Till next time, [Yuna].<END>
+
+[Belgemine]<NL>
+Still wet behind the ears,<NL>
+but you have spirit.<END>
+
+[Belgemine]<NL>
+Study, [Yuna], and grow strong.<END>
+
+<TEXT>
+<CHOICE1>Fight.<NL>
+<CHOICE2>Pass.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,164 @@
+[Yuna]<NL>
+The wind...it's nice.<END>
+
+[Yuna]<NL>
+You're a [blitzball] player, aren't you?<NL>
+From [Zanarkand], right?<END>
+
+[Tidus]<NL>
+You hear that from [Wakka]?<END>
+
+[Tidus]<NL>
+[Wakka] doesn't believe me at all.<END>
+
+[Yuna]<NL>
+I've heard, in [Zanarkand]...<END>
+
+[Yuna]<NL>
+there is a great stadium,<NL>
+all lit up even at night!<END>
+
+[Yuna]<NL>
+A man named [Jecht] told me.<NL>
+He was my father's guardian.<END>
+
+[Tidus]<NL>
+My father...his name is [Jecht]!<END>
+
+[Yuna]<NL>
+Amazing!<END>
+
+[Yuna]<NL>
+You know, our meeting like this<NL>
+must be the blessing of [Yevon2]!<END>
+
+[Tidus]<NL>
+My old man, he died. Ten years ago,<NL>
+off the coast of [Zanarkand].<END>
+
+[Yuna]<NL>
+I'm sorry.<END>
+
+[Tidus]<NL>
+He went out to sea for training<NL>
+one day...and never came back.<END>
+
+[Tidus]<NL>
+And no one's seen him since then.<END>
+
+[Yuna]<NL>
+I remember,<NL>
+that was the day my father left.<END>
+
+[Yuna]<NL>
+The date fits, doesn't it?<END>
+
+[Yuna]<NL>
+You're here, are you not?<END>
+
+<NL>
+Sin!<END>
+
+[Wakka]<NL>
+What do you think you're doing?<END>
+
+[Wakka]<NL>
+Stick a harpoon in him<NL>
+and we'll all get dragged under!<END>
+
+<NL>
+[Sin] is going for [Kilika]!<NL>
+We gotta distract it!<END>
+
+<NL>
+Our families are in [Kilika]!<NL>
+Forgive us, Lady Summoner!<END>
+
+[Wakka]<NL>
+Wait!<END>
+
+[Wakka]<NL>
+Oh, boy...<END>
+
+[Yuna]<NL>
+But I believe you!<END>
+
+[Yuna]<NL>
+Great [blitzball] tournaments are held<NL>
+there, and the stands are always full!<END>
+
+[Tidus]<NL>
+How do you know that?<END>
+
+[Tidus]<NL>
+Sounds like him,<NL>
+but it can't be him.<END>
+
+[Yuna]<NL>
+Why not?<END>
+
+[Yuna]<NL>
+Why, that's the day that<NL>
+[Jecht] came to [Spira].<END>
+
+[Yuna]<NL>
+It's true! I first met [Jecht]<NL>
+ten years and three months ago!<END>
+
+[Tidus]<NL>
+Yeah, but how would he get here?<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

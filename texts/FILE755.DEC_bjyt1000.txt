@@ -1,0 +1,24 @@
+<TEXT>
+Six treasures lie within six temples.<NL>
+Open every <Cor 43>chest<Cor 41> within each <Cor 43>Cloister of Trials<Cor 41>.<NL>
+Then stand before this statue to open the way<NL>
+to the <Cor 88>Chamber of the Fayth<Cor 41>.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,128 @@
+<NL>
+<TEXT>
+A <Cor 43>Bevelle Sphere<Cor 41> is inserted here.<END>
+
+<TEXT>
+<CHOICE1>Take sphere.<NL>
+<TEXT>
+<CHOICE2>Do nothing.<END>
+
+<NL>
+<TEXT>
+Removed <Cor 43>Bevelle Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+A <Cor 43>Glyph Sphere<Cor 41> is inserted here.<END>
+
+<NL>
+<TEXT>
+Removed <Cor 43>Glyph Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+A <Cor 43>Destruction Sphere<Cor 41> is inserted here.<END>
+
+<NL>
+<TEXT>
+Removed <Cor 43>Destruction Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+You see a sphere-shaped recess.<END>
+
+<TEXT>
+<CHOICE1>Insert sphere.<NL>
+<TEXT>
+<CHOICE2>Do nothing.<END>
+
+<NL>
+<TEXT>
+Inserted <Cor 43>Bevelle Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+Inserted <Cor 43>Glyph Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+Inserted <Cor 43>Destruction Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+You can only hold one sphere at a time.<END>
+
+<NL>
+<TEXT>
+<VAR07 E4>[Botão Círculo]: Confirm direction<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

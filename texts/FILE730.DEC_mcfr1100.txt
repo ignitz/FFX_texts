@@ -1,0 +1,308 @@
+<NL>
+We escaped with our skins intact,<NL>
+but [Yuna] lost something.<END>
+
+<NL>
+I could already tell, her faith was<NL>
+shaken. [Yevon2] had betrayed her.<END>
+
+<NL>
+I felt like I should do<NL>
+or say something--anything...<END>
+
+<NL>
+But nothing came.<NL>
+I was just as lost as she was.<NL>
+And then...<END>
+
+[Wakka]<NL>
+Well?<END>
+
+[Auron]<NL>
+We're all clear.<END>
+
+[Auron]<NL>
+We will have to avoid<NL>
+[Bevelle] in the future.<END>
+
+[Auron]<NL>
+[Yuna]?<END>
+
+[Rikku]<NL>
+Said she wanted to be alone.<END>
+
+[Auron]<NL>
+Of course.<END>
+
+[Auron]<NL>
+Maybe you should talk to her?<END>
+
+[Auron]<NL>
+I am...tired.<END>
+
+[Wakka]<NL>
+Must be tough for [Yuna].<END>
+
+[Wakka]<NL>
+We leave at daybreak.<END>
+
+[Wakka]<NL>
+If [Yuna] figures out<NL>
+where we're going, that is.<END>
+
+[Wakka]<NL>
+I feel kinda bad leaving<NL>
+everything up to her, you know?<END>
+
+<NL>
+          <END>
+
+[Lulu]<NL>
+[Yuna]'s off in the woods.<END>
+
+[Lulu]<NL>
+[Kimahri]'s with her, but<NL>
+maybe you should go, too?<END>
+
+[Lulu]<NL>
+I think it might help<NL>
+if you were there.<END>
+
+<NL>
+          <END>
+
+[Lulu]<NL>
+It would be so easy to fight<NL>
+without thinking...<NL>
+Walk a straight line. So easy.<END>
+
+[Rikku]<NL>
+Wonder what [Yunie]'ll do, huh?<NL>
+Think she'll quit her pilgrimage?<END>
+
+[Tidus]<NL>
+That's what you want, right?<END>
+
+[Rikku]<NL>
+Well...<END>
+
+[Rikku]<NL>
+If [Yunie] really wants<NL>
+to keep going, then...<END>
+
+[Rikku]<NL>
+I guess I shouldn't<NL>
+stop her, you know?<END>
+
+[Rikku]<NL>
+That's what I think, anyway.<END>
+
+[Rikku]<NL>
+I wonder if there's a way to perform<NL>
+the Final Summoning and not die?<END>
+
+[Rikku]<NL>
+That'd be great, wouldn't it?<END>
+
+[Rikku]<NL>
+I guess someone would've thought<NL>
+of it in the last thousand years, huh?<END>
+
+[Rikku]<NL>
+Hey, maybe you should<NL>
+go talk to [Yunie].<END>
+
+<NL>
+          <END>
+
+[Yuna]<NL>
+Sir [Auron]?<END>
+
+[Yuna]<NL>
+[Wakka]?<END>
+
+[Yuna]<NL>
+[Lulu]?<END>
+
+[Yuna]<NL>
+[Kimahri]?<END>
+
+[Yuna]<NL>
+[Rikku]?<END>
+
+[Yuna]<NL>
+Everyone, we leave at dawn.<END>
+
+[Yuna]<NL>
+And...<END>
+
+[Yuna]<NL>
+I'm sorry for putting<NL>
+you through all this.<END>
+
+[Yuna]<NL>
+And...um...<END>
+
+[Auron]<NL>
+Enough. You need your rest.<END>
+
+[Yuna]<NL>
+Yes.<END>
+
+[Yuna]<NL>
+Good night.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

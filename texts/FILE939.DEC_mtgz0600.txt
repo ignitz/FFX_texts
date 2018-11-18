@@ -1,0 +1,171 @@
+[Auron]<NL>
+They'll be upon us soon.<END>
+
+[Auron]<NL>
+She has sent fiends to test<NL>
+our summoner's strength.<END>
+
+[Yuna]<NL>
+Who is "she"?<END>
+
+[Auron]<NL>
+Yunalesca.<END>
+
+[Yuna]<NL>
+Lady Yunalesca?<END>
+
+[Auron]<NL>
+In [Zanarkand], she awaits<NL>
+the arrival of the strongest.<END>
+
+[Yuna]<NL>
+She...is still alive?<END>
+
+[Auron]<NL>
+As much as [Mika] and [Seymor].<END>
+
+[Yuna]<NL>
+I see.<END>
+
+[Auron]<NL>
+Lost your nerve?<END>
+
+[Yuna]<NL>
+No.<END>
+
+[Yuna]<NL>
+Nothing frightens me now.<END>
+
+[Auron]<NL>
+[Braska] would be proud.<END>
+
+[Yuna]<NL>
+Then...I must not let him down.<END>
+
+[Wakka]<NL>
+Looks like we got a job to do, ya?<END>
+
+[Lulu]<NL>
+If anything should happen in the<NL>
+water, we're relying on you three.<END>
+
+[Lulu]<NL>
+If it gets dangerous, pull out quick.<END>
+
+[Wakka]<NL>
+Right!<END>
+
+[Yuna]<NL>
+Be careful, okay?<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+Warp Select<END>
+
+<TEXT>
+<CHOICE1>Mt. Gagazet - Gate<NL>
+<CHOICE2>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

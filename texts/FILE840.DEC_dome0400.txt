@@ -1,0 +1,393 @@
+[Rikku]<NL>
+Someone's coming!<END>
+
+[Yuna]<NL>
+Lady [Yunalesca].<END>
+
+[Yunalesca]<NL>
+Welcome to [Zanarkand].<END>
+
+[Yunalesca]<NL>
+I congratulate you, summoner.<NL>
+You have completed your pilgrimage.<END>
+
+[Yunalesca]<NL>
+I will now bestow you<NL>
+with that which you seek.<END>
+
+[Yunalesca]<NL>
+The Final Summoning...will be yours.<END>
+
+[Yunalesca]<NL>
+Now, choose.<END>
+
+[Yunalesca]<NL>
+You must choose the<NL>
+one whom I will change...<END>
+
+[Yunalesca]<NL>
+to become the fayth<NL>
+of the Final Summoning.<END>
+
+[Yunalesca]<NL>
+There must be a bond, between<NL>
+chosen and summoner, for that is<NL>
+what the Final Summoning embodies:<END>
+
+[Yunalesca]<NL>
+the bond between husband<NL>
+and wife, mother and child,<NL>
+or between friends.<END>
+
+[Yunalesca]<NL>
+If that bond is strong enough,<NL>
+its light will conquer [Sin].<END>
+
+[Yunalesca]<NL>
+A thousand years ago, I chose my<NL>
+husband [Zaon] as my [fayth].<END>
+
+[Yunalesca]<NL>
+Our bond was true, and I<NL>
+obtained the Final Aeon.<END>
+
+[Yunalesca]<NL>
+There is nothing to fear.<END>
+
+[Yunalesca]<NL>
+You will soon be freed<NL>
+of worry and pain.<END>
+
+[Yunalesca]<NL>
+For once you call forth the<NL>
+Final Aeon, your life will end.<END>
+
+[Yunalesca]<NL>
+Death is the ultimate<NL>
+and final liberation.<END>
+
+[Yunalesca]<NL>
+Your father, [Braska],<NL>
+chose this path.<END>
+
+[Auron]<NL>
+It is not too late!<NL>
+Let us turn back!<END>
+
+[Braska]<NL>
+If I turn back,<NL>
+who will defeat [Sin]?<END>
+
+[Braska]<NL>
+Would you have some other summoner<NL>
+and his guardians go through this?<END>
+
+[Auron]<NL>
+But...my lord, there<NL>
+must be another way!<END>
+
+[Jecht]<NL>
+This is the only way we got now!<END>
+
+[Jecht]<NL>
+Fine.<END>
+
+[Jecht]<NL>
+Make me the [fayth].<END>
+
+[Jecht]<NL>
+I been doing some thinking.<END>
+
+[Jecht]<NL>
+My dream is back in<NL>
+the other [Zanarkand].<END>
+
+[Jecht]<NL>
+I wanted to make that<NL>
+runt into a star blitz player.<END>
+
+[Jecht]<NL>
+Show him the view<NL>
+from the top, you know.<END>
+
+[Jecht]<NL>
+But now I know there's<NL>
+no way home for me.<END>
+
+[Jecht]<NL>
+I'm never going to see him again.<NL>
+My dream's never gonna come true.<END>
+
+[Jecht]<NL>
+So make me the [fayth].<END>
+
+[Jecht]<NL>
+I'll fight [Sin] with you, [Braska].<END>
+
+[Jecht]<NL>
+Then maybe my life will<NL>
+have meaning, you know.<END>
+
+[Auron]<NL>
+Don't do this, [Jecht]!<END>
+
+[Auron]<NL>
+If you live...<END>
+
+[Auron]<NL>
+there may be another way!<NL>
+We'll think of something, I know!<END>
+
+[Jecht]<NL>
+Believe me, I thought this through.<END>
+
+[Jecht]<NL>
+Besides...<END>
+
+[Jecht]<NL>
+I ain't gettin' any younger, so<NL>
+I might as well make myself useful.<END>
+
+[Braska]<NL>
+[Jecht].<END>
+
+[Jecht]<NL>
+What! You're not gonna<NL>
+try to stop me, too?<END>
+
+[Braska]<NL>
+Sorry. I mean...thank you.<END>
+
+[Jecht]<NL>
+[Braska] still has<NL>
+to fight [Sin], [Auron].<END>
+
+[Jecht]<NL>
+Well, let's go.<END>
+
+[Jecht]<NL>
+Guard him well.<NL>
+Make sure he gets there.<END>
+
+[Auron]<NL>
+Lord [Braska]! [Jecht]!<END>
+
+[Jecht]<NL>
+What do you want now?<END>
+
+[Auron]<NL>
+[Sin] always comes back.<END>
+
+[Auron]<NL>
+It comes back after<NL>
+the [Calm] every time!<END>
+
+[Auron]<NL>
+The cycle will continue and<NL>
+your deaths will mean nothing!<END>
+
+[Braska]<NL>
+But there's always a chance<NL>
+it won't come back this time.<END>
+
+[Braska]<NL>
+It's worth trying.<END>
+
+[Jecht]<NL>
+I understand what<NL>
+you're saying, [Auron].<END>
+
+[Jecht]<NL>
+I'll find a way to break the cycle.<END>
+
+<TEXT>
+[Auron]<NL>
+You have a plan?<END>
+
+<TEXT>
+[Braska]<NL>
+[Jecht]?<END>
+
+[Auron]<NL>
+And the cycle went on.<END>
+
+[Tidus]<NL>
+We'll break it!<END>
+
+[Wakka]<NL>
+But how?<END>
+
+[Wakka]<NL>
+What, you got a plan now?<END>
+
+[Lulu]<NL>
+If one of us has<NL>
+to become a [fayth]...<END>
+
+[Lulu]<NL>
+I volunteer.<END>
+
+[Wakka]<NL>
+Me too, [Yuna]!<END>
+
+[Lulu]<NL>
+If you want everything,<NL>
+you'll end up with nothing.<END>
+
+[Tidus]<NL>
+But I want everything!<END>
+
+[Wakka]<NL>
+Now you're being childish!<END>
+
+[Rikku]<NL>
+"You'll think of something"?<END>
+
+[Tidus]<NL>
+I'll go ask [Yunalesca].<END>
+
+[Tidus]<NL>
+She's got to know something.<END>
+
+[Rikku]<NL>
+You really think she'll help you?<END>
+
+[Tidus]<NL>
+I don't know, but I have to try.<END>
+
+[Jecht]<NL>
+Trust me, I'll think of something.<END>
+
+[Tidus]<NL>
+That still won't change anything,<NL>
+you know? You'd bring the Calm,<NL>
+and then what?<END>
+
+[Tidus]<NL>
+That won't break the cycle!<END>
+
+<TEXT>
+[Wakka]<NL>
+Listen...<END>
+
+[Wakka]<NL>
+You wanna defeat [Sin]<NL>
+and keep [Yuna] alive...<END>
+
+[Wakka]<NL>
+You don't want [Sin]<NL>
+to come back, ya?<END>
+
+[Wakka]<NL>
+That is just not gonna<NL>
+happen, brudda, you know?<END>
+
+[Tidus]<NL>
+I give up.<END>
+
+[Tidus]<NL>
+So what would an adult do, then?<END>
+
+[Tidus]<NL>
+They know they can just throw<NL>
+away a summoner, then they<NL>
+can do whatever they like.<END>
+
+[Tidus]<NL>
+You're right, I might<NL>
+not even have a chance.<END>
+
+[Tidus]<NL>
+But no way am I gonna just<END>
+
+[Tidus]<NL>
+stand here and let [Yuna] go.<END>
+
+[Tidus]<NL>
+And what [Auron] said<NL>
+about there being a way...<END>
+
+[Tidus]<NL>
+I think it's true.<END>
+
+[Tidus]<NL>
+This is my story.<END>
+
+[Tidus]<NL>
+It'll go the way I want it...<NL>
+or I'll end it here.<END>
+
+[Yuna]<NL>
+Wait.<END>
+
+[Yuna]<NL>
+You say it's your story,<NL>
+but it's my story, too, you know?<END>
+
+[Yuna]<NL>
+It would be so easy...<END>
+
+[Yuna]<NL>
+to let my fate just carry me away...<END>
+
+[Yuna]<NL>
+following this same path<NL>
+my whole life through.<END>
+
+[Yuna]<NL>
+But I know...I can't.<END>
+
+[Yuna]<NL>
+What I do, I do...<NL>
+with no regrets.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

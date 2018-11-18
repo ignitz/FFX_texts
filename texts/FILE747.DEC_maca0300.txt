@@ -1,0 +1,442 @@
+[Lulu]<NL>
+I hope that you're not<NL>
+too mad at [Wakka].<END>
+
+[Tidus]<NL>
+Hey, not at all.<END>
+
+[Lulu]<NL>
+Thank you.<END>
+
+[Tidus]<NL>
+Say, what do you<NL>
+think of [Rikku]?<END>
+
+[Lulu]<NL>
+Me?<END>
+
+[Lulu]<NL>
+She's...fun to be with.<END>
+
+[Tidus]<NL>
+That all?<END>
+
+[Lulu]<NL>
+Well, I can tell<NL>
+she's not a bad person.<END>
+
+[Tidus]<NL>
+Yeah.<END>
+
+[Tidus]<NL>
+You know what the problem is?<NL>
+She's just another [Al Bhed] to [Wakka].<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+[Wakka]'s head is<NL>
+as hard as a rock.<END>
+
+[Tidus]<NL>
+I bet it's because of [Yevon2].<NL>
+Or, you know, something like that.<END>
+
+[Lulu]<NL>
+Well, there's more to it than that.<END>
+
+<TEXT>
+[Tidus]<NL>
+Hmm?<END>
+
+[Lulu]<NL>
+[Wakka] doesn't like the [Al Bhed]<NL>
+because of his brother [Chappu].<END>
+
+[Tidus]<NL>
+Oh...he used a<NL>
+machina weapon, right?<END>
+
+[Tidus]<NL>
+And got killed by [Sin].<END>
+
+[Tidus]<NL>
+Killed by my old man.<END>
+
+[Tidus]<NL>
+Damn you, [Jecht].<END>
+
+<TEXT>
+[Lulu]<NL>
+What?<END>
+
+[Tidus]<NL>
+Oh, nothing!<END>
+
+<TEXT>
+[Tidus]<NL>
+Hey...<END>
+
+[Tidus]<NL>
+Can someone, like, a<NL>
+human become [Sin] ever?<END>
+
+[Lulu]<NL>
+I can't say that I know, but why?<END>
+
+[Tidus]<NL>
+Just a thought.<END>
+
+[Lulu]<NL>
+[Sin] is the punishment for, and the<NL>
+incarnation of, crimes we have committed.<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+So, no one really knows what it is?<END>
+
+[Lulu]<NL>
+There's no need to<NL>
+know, so no one asks.<END>
+
+[Lulu]<NL>
+You run or you fight.<NL>
+That is really all you can do.<END>
+
+[Lulu]<NL>
+There's no sense brooding over it.<END>
+
+[Tidus]<NL>
+What, that's all?<NL>
+I mean, you don't even wonder?<END>
+
+<NL>
+          <END>
+
+[Lulu]<NL>
+You really do come from a world<NL>
+where there is no [Sin], like you say.<END>
+
+[Tidus]<NL>
+Sorry about [Wakka].<END>
+
+<NL>
+          <END>
+
+[Rikku]<NL>
+He didn't have to be so mean, yeah?<END>
+
+[Rikku]<NL>
+I almost cried.<END>
+
+[Tidus]<NL>
+Uh...[Rikku]?<END>
+
+[Rikku]<NL>
+Just kidding!<END>
+
+[Rikku]<NL>
+It's okay.<NL>
+At least you're still nice.<END>
+
+[Rikku]<NL>
+Hey, do I look like<NL>
+[Yunie], you think?<END>
+
+<NL>
+          <END>
+
+[Rikku]<NL>
+Well, my dad's sister is<NL>
+[Yunie]'s mother, you get it?<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+I had no idea!<NL>
+If you say so.<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+Okay! I guess you're<NL>
+guarding your family, then.<END>
+
+[Rikku]<NL>
+[Yuna]'s not the only one<NL>
+that I want to protect.<END>
+
+<NL>
+          <END>
+
+[Rikku]<NL>
+We [Al Bhed] want to protect<NL>
+all of the summoners, you know?<END>
+
+[Rikku]<NL>
+Summoners are...<END>
+
+[Rikku]<NL>
+Well, you could say that...<END>
+
+[Rikku]<NL>
+they sacrifice themselves to,<NL>
+well...to bring happiness to [Spira].<END>
+
+[Tidus]<NL>
+What do you mean?<END>
+
+<NL>
+          <END>
+
+<TEXT>
+[Tidus]<NL>
+[Rikku]?<END>
+
+<TEXT>
+[Rikku]<NL>
+Yes?<END>
+
+[Tidus]<NL>
+"Sacrifice themselves"?<END>
+
+[Rikku]<NL>
+You know, the pilgrimage...<END>
+
+[Rikku]<NL>
+It takes a lot out of you.<END>
+
+[Tidus]<NL>
+Oh, right.<END>
+
+[Tidus]<NL>
+But you know, [Yuna]'s real<NL>
+serious about being a summoner.<END>
+
+[Tidus]<NL>
+For [Yuna], well the pilgrimage<NL>
+kinda means everything to her.<END>
+
+[Tidus]<NL>
+You are going to help her,<NL>
+too, aren't you, [Rikku]?<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+So you shouldn't say that<NL>
+[Yuna]'s sacrificing herself.<END>
+
+[Tidus]<NL>
+[Rikku]?<END>
+
+[Rikku]<NL>
+I hope you're right.<END>
+
+[Tidus]<NL>
+You're no fun to ride with at all.<END>
+
+<TEXT>
+[Auron]<NL>
+What?<END>
+
+[Tidus]<NL>
+I'll take [Kimahri] over you any day!<END>
+
+<TEXT>
+[Auron]<NL>
+Hmph.<END>
+
+[Auron]<NL>
+Just don't do anything rash.<END>
+
+[Tidus]<NL>
+What's that mean?<END>
+
+[Auron]<NL>
+I'm saying you should<NL>
+not complicate matters.<END>
+
+[Auron]<NL>
+Or you'll find yourself<NL>
+trapped, understand?<END>
+
+[Tidus]<NL>
+I don't need you to tell me that!<END>
+
+[Tidus]<NL>
+I guess there's some sense<NL>
+in what you're saying.<END>
+
+[Auron]<NL>
+Make mistakes.<END>
+
+<NL>
+          <END>
+
+[Auron]<NL>
+That's what youth is for after all.<NL>
+Do not waste it.<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+So which is it!?<END>
+
+[Tidus]<NL>
+Say...<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+What do you think about [Rikku]<NL>
+being an [Al Bhed]?<END>
+
+[Kimahri]<NL>
+[Ronso] are followers of [Yevon2].<NL>
+[Ronso] dislike [Al Bhed].<END>
+
+[Tidus]<NL>
+Oh, I get it.<END>
+
+[Kimahri]<NL>
+Not [Kimahri].<END>
+
+<NL>
+          <END>
+
+[Kimahri]<NL>
+[Al Bhed] are [Al Bhed].<NL>
+[Rikku] is [Rikku].<END>
+
+[Kimahri]<NL>
+[Rikku] swore to protect [Yuna].<END>
+
+[Kimahri]<NL>
+And [Rikku] is not a liar.<NL>
+[Kimahri] can tell.<END>
+
+[Kimahri]<NL>
+So, she is a friend.<END>
+
+[Tidus]<NL>
+You know, you might want<NL>
+to tell her that later.<END>
+
+[Tidus]<NL>
+I think she needs to know<NL>
+that we still want her with us.<END>
+
+[Kimahri]<NL>
+[Kimahri] is surprised.<END>
+
+<TEXT>
+[Tidus]<NL>
+Why?<END>
+
+[Kimahri]<NL>
+[Kimahri] think you are kind.<END>
+
+[Tidus]<NL>
+Uh, don't tell anyone, okay?<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

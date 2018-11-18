@@ -1,0 +1,430 @@
+[Auron]<NL>
+[Jecht]... He's waiting for you.<END>
+
+[Cid]<NL>
+Well, son, the main gun is still busted!<NL>
+We can't give you any cover fire!<END>
+
+[Tidus]<NL>
+Hey, just take us in.<NL>
+We'll do the rest.<END>
+
+[Cid]<NL>
+All right.<END>
+
+[Cid]<NL>
+Take us up, flush to the mouth!<END>
+
+[Cid]<NL>
+No mistakes, or I'm gonna<NL>
+tear out that mop you call hair!<END>
+
+[Brother]<NL>
+Trust...me. Me...take you there.<NL>
+No problem...ya?<END>
+
+[Tidus]<NL>
+Let's get ready to blitz!<END>
+
+[Yuna]<NL>
+Our fathers' wishes...<NL>
+Let's make them come true!<END>
+
+[Rikku]<NL>
+Don't worry, I'll cover you!<END>
+
+[Lulu]<NL>
+Let's go.<NL>
+Just you and me.<END>
+
+[Wakka]<NL>
+Time to show them<NL>
+what we're made of, ya?<END>
+
+[Auron]<NL>
+My story must end as well.<END>
+
+[Kimahri]<NL>
+You are [Kimahri]'s friend.<END>
+
+[Wakka]<NL>
+Man, we must have hit<NL>
+that thing enough by now!<END>
+
+[Wakka]<NL>
+We been through a lot, ya?<NL>
+And hey, we're not finished yet!<END>
+
+[Wakka]<NL>
+All [Spira]'s rooting for us!<NL>
+Let's not let them down, ya?<END>
+
+[Wakka]<NL>
+And to think, if you hadn't come<NL>
+floating out of the sea that day.<END>
+
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+[Rikku]<NL>
+Pop's machina always seem to<NL>
+break when you need them most.<END>
+
+[Rikku]<NL>
+Sometimes, when I got a lot on<NL>
+my mind, it just helps to go "Aaaaa!"<END>
+
+[Rikku]<NL>
+Once the Calm starts, we'll take<NL>
+the [airship] to your [Zanarkand]!<END>
+
+[Rikku]<NL>
+Just a feeling, but I think<NL>
+my dad kinda likes you.<END>
+
+[Rikku]<NL>
+When the fighting's all done,<NL>
+we'll rebuild [Home].<END>
+
+[Rikku]<NL>
+Better watch out! Next time,<NL>
+it might be you we kidnap!<END>
+
+[Auron]<NL>
+This isn't over.<NL>
+Not yet.<END>
+
+[Auron]<NL>
+I'd like to meet [Jecht]<NL>
+before he fades away.<END>
+
+[Auron]<NL>
+When this is over, I will leave.<NL>
+I have played at life too long.<END>
+
+[Auron]<NL>
+Ten years ago...<END>
+
+[Auron]<NL>
+I honored [Jecht]'s last words,<NL>
+and travelled to [Zanarkand].<END>
+
+[Auron]<NL>
+I planned to stay there,<NL>
+watching over you.<END>
+
+[Auron]<NL>
+But when [Sin] attacked [Zanarkand]<NL>
+that day, I changed my mind.<END>
+
+[Auron]<NL>
+Outside the dream world,<NL>
+life can be harsh--even cruel.<NL>
+But it is life.<END>
+
+[Auron]<NL>
+He wanted you to<NL>
+have a shot at life.<END>
+
+[Auron]<NL>
+I saw it in [Sin]'s eyes.<END>
+
+[Auron]<NL>
+That's why I brought<NL>
+you here, to [Spira].<END>
+
+[Lulu]<NL>
+I think it's a little<NL>
+early to start celebrating.<END>
+
+[Lulu]<NL>
+You've proven yourself as a guardian.<NL>
+Maybe even as the best.<END>
+
+[Lulu]<NL>
+You know, your meeting<NL>
+[Yuna] was really quite...<END>
+
+[Lulu]<NL>
+Can't say "Praise be to [Yevon2]"<NL>
+anymore, can we?<END>
+
+[Lulu]<NL>
+When this is all over, maybe we<NL>
+can talk more. Just the two of us.<END>
+
+[Yuna]<NL>
+No matter what happens, I'll see<NL>
+this through to the end. I promise.<END>
+
+[Yuna]<NL>
+We're almost done.<END>
+
+[Yuna]<NL>
+How are you doing?<END>
+
+<CHOICE1>Never better!<NL>
+<CHOICE2>Okay.<NL>
+<CHOICE3>Not so good.<END>
+
+[Yuna]<NL>
+You know, I am too.<END>
+
+[Yuna]<NL>
+Really? I'm great...<NL>
+thanks to you.<END>
+
+[Yuna]<NL>
+I see.<END>
+
+[Yuna]<NL>
+You don't have to smile,<NL>
+if it's too tough.<END>
+
+[Yuna]<NL>
+I've been able to smile through<NL>
+all of this, because of you.<END>
+
+[Cid]<NL>
+We're counting on you, kid.<END>
+
+[Brother]<NL>
+What will we do?<END>
+
+[Brother]<NL>
+The song! It is not working on [Sin]!<END>
+
+[Brother]<NL>
+Will [Sin] truly return again?<END>
+
+[Brother]<NL>
+You go into [Sin] once more, eh?<NL>
+Leave it to me!<END>
+
+[Brother]<NL>
+We will fly anywhere<NL>
+you want to go!<END>
+
+[Brother]<NL>
+Father!<NL>
+I cannot believe what I see!<END>
+
+[Cid]<NL>
+Believe it, son! They've<NL>
+done it! It is happening!<END>
+
+[Brother]<NL>
+[Rikku], excellent!<END>
+
+[Yuna]<NL>
+It's going to come back, isn't it?<END>
+
+[Tidus]<NL>
+I know.<END>
+
+[Cid]<NL>
+What? You're kidding me!<END>
+
+[Tidus]<NL>
+No!<NL>
+We have to beat the guy inside [Sin].<END>
+
+[Wakka]<NL>
+The [Crusader]s would be<NL>
+out of a job if it was this easy.<END>
+
+[Lulu]<NL>
+But it has weakened.<NL>
+I'm sure of it.<END>
+
+[Rikku]<NL>
+Yeah! We're winning!<END>
+
+[Cid]<NL>
+All right, I'll do what<NL>
+I can with the main gun!<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

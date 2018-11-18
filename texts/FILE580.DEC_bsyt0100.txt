@@ -1,0 +1,308 @@
+<NL>
+<TEXT>
+<Cor 43>You cannot push the pedestal over steps.<Cor 41><END>
+
+<NL>
+You can obtain hidden items by <NL>
+using <Cor 43>Destruction Spheres<Cor 41>.<END>
+
+<NL>
+<TEXT>
+A <Cor 43>glyph<Cor 41> glows on the wall.<END>
+
+<TEXT>
+<CHOICE1>Touch glyph.<NL>
+<TEXT>
+<CHOICE2>Cancel.<END>
+
+<NL>
+<TEXT>
+You see a sphere-shaped recess.<END>
+
+<NL>
+<TEXT>
+You are holding a <Cor 43>Besaid Sphere<Cor 41>.<END>
+
+<TEXT>
+<CHOICE1>Insert sphere.<NL>
+<TEXT>
+<CHOICE2>Cancel.<END>
+
+<NL>
+<TEXT>
+Inserted <Cor 43>Besaid Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+You are holding a <Cor 43>Glyph Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+Inserted <Cor 43>Glyph Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+You are holding a <Cor 43>Destruction Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+Inserted <Cor 43>Destruction Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+A <Cor 43>Besaid Sphere<Cor 41> is set here.<END>
+
+<TEXT>
+<CHOICE1>Take sphere.<NL>
+<TEXT>
+<CHOICE2>Cancel.<END>
+
+<NL>
+<TEXT>
+Removed <Cor 43>Besaid Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+You can only hold one sphere at a time.<END>
+
+<NL>
+<TEXT>
+A <Cor 43>Glyph Sphere<Cor 41> is set here.<END>
+
+<NL>
+<TEXT>
+Removed <Cor 43>Glyph Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+A <Cor 43>Destruction Sphere<Cor 41> is set here.<END>
+
+<NL>
+<TEXT>
+Removed <Cor 43>Destruction Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+The door seems to be locked<NL>
+by an unseen force.<END>
+
+<NL>
+<TEXT>
+Something can be placed in the recess.<END>
+
+<NL>
+Move the pedestal set with<NL>
+a sphere to the correct place.<NEWPAGE>
+<NL>
+If you move it improperly,<NL>
+step on the <Cor 43>shining glyph<Cor 41> to return<NL>
+the pedestal to its original place.<END>
+
+<TEXT>
+<CHOICE1>Touch symbols.<NL>
+<TEXT>
+<CHOICE2>Cancel.<END>
+
+<NL>
+You found a <Cor 43>[Besaid] Sphere<Cor 41>.<END>
+
+<NL>
+Maybe this wasn't such a good idea<NL>
+after all.<END>
+
+<TEXT>
+[Wakka]<NL>
+<TEXT>
+Hey!<END>
+
+[Wakka]<NL>
+What's gotten into you?<END>
+
+[Wakka]<NL>
+Hey, it's okay.<END>
+
+[Wakka]<NL>
+Only summoners, apprentice summoners,<NL>
+and their guardians can enter here.<END>
+
+[Wakka]<NL>
+It's a tradition.<NL>
+Very important.<END>
+
+[Tidus]<NL>
+So what about you?<END>
+
+[Wakka]<NL>
+Me? I'm a guardian.<END>
+
+[Tidus]<NL>
+A guardian?<END>
+
+[Wakka]<NL>
+Summoners go on a pilgrimage<NL>
+to pray at every temple in [Spira].<END>
+
+[Wakka]<NL>
+Guardians protect them.<END>
+
+[Wakka]<NL>
+The guardians in there now...<END>
+
+[Wakka]<NL>
+One of them's got a short fuse,<NL>
+and who knows what the other's thinking.<END>
+
+[Wakka]<NL>
+Well, now that we've come this far...<END>
+
+[Wakka]<NL>
+might as well go all the way!<END>
+
+<TEXT>
+<Cor 43>The Cloister of Trials<Cor 41><NL>
+Those who seek to learn of Yevon's secret<NL>
+arts are tested by the <Cor 43>Cloister of Trials<Cor 41>.<NL>
+Find the right way, and you will be<NL>
+taken to the <Cor 88>Chamber of the Fayth<Cor 41>.<NL>
+Examine objects with [Botão Círculo] to open the way.<END>
+
+<NL>
+A strange <Cor 43>glyph<Cor 41> glows.<END>
+
+<NL>
+You must use a sphere to go any further.<END>
+
+<NL>
+<Cor 43>Glyph Spheres<Cor 41> open the way to<NL>
+the <Cor 88>Chamber of the Fayth<Cor 41>.<END>
+
+<NL>
+<Cor 43>Destruction Spheres<Cor 41> open the way to<NL>
+hidden treasure.<END>
+
+<NL>
+It seems that <Cor 43>[Besaid] Spheres<Cor 41><NL>
+are also necessary.<END>
+
+<NL>
+You can carry only one sphere<NL>
+at a time.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

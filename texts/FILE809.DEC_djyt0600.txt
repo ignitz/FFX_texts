@@ -1,0 +1,136 @@
+<NL>
+<TEXT>
+A <Cor 43>Djose Sphere<Cor 41> is inserted here.<END>
+
+<NL>
+<TEXT>
+A <Cor 43>Destruction Sphere<Cor 41> is inserted here.<END>
+
+<NL>
+<TEXT>
+You can only hold one sphere at a time.<END>
+
+<NL>
+<TEXT>
+You see a sphere-shaped recess.<END>
+
+<TEXT>
+<CHOICE1>Take sphere.<NL>
+<TEXT>
+<CHOICE2>Do nothing.<END>
+
+<NL>
+<TEXT>
+You are holding a <Cor 43>Djose Sphere<Cor 41>.<END>
+
+<TEXT>
+<CHOICE1>Insert sphere.<NL>
+<TEXT>
+<CHOICE2>Do nothing.<END>
+
+<NL>
+<TEXT>
+You are holding a <Cor 43>Destruction Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+A <Cor 43>glyph<Cor 41> glows on the wall.<END>
+
+<TEXT>
+<CHOICE1>Touch glyph.<NL>
+<TEXT>
+<CHOICE2>Do nothing.<END>
+
+[Wakka]<NL>
+All right! <NL>
+Guardians, at attention!<END>
+
+[Yuna]<NL>
+We are ready.<END>
+
+[Wakka]<NL>
+All right... <NL>
+Let's do it!<END>
+
+<NL>
+<TEXT>
+Removed <Cor 43>Djose Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+Removed <Cor 43>Destruction Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+Inserted <Cor 43>Djose Sphere<Cor 41>.<END>
+
+<NL>
+<TEXT>
+Inserted <Cor 43>Destruction Sphere<Cor 41>.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

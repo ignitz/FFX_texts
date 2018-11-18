@@ -1,0 +1,412 @@
+<TEXT>
+<Cor 43>Moving across the Thunder Plains<Cor 41><NL>
+Lightning can strike [Tidus]<NL>
+on the [Gandof] Thunder Plains.<END>
+
+<TEXT>
+Lightning can strike at any time,<NL>
+so keep moving.<END>
+
+<TEXT>
+The lightning rod towers absorb nearby<NL>
+lightning. Seek shelter under them.<END>
+
+<TEXT>
+When there are no towers nearby,<NL>
+you can dodge lightning by pressing [Botão Círculo].<END>
+
+<TEXT>
+Hit [Botão Círculo] as soon as you see a<NL>
+lightning flash. If successful,<NL>
+you can dodge the thunderbolt.<END>
+
+<TEXT>
+Constantly mashing [Botão Círculo],<NL>
+however, can be dangerous.<END>
+
+<TEXT>
+Good luck on your journey.<END>
+
+[Shelinda]<NL>
+Ah, good day!<END>
+
+[Tidus]<NL>
+Hi there.<END>
+
+[Shelinda]<NL>
+Is it true?<END>
+
+[Shelinda]<NL>
+I heard that Maester [Seymor]<NL>
+and Lady [Yuna] are to be wed!<END>
+
+[Shelinda]<NL>
+It's such great news!<NL>
+I have to tell everyone!<END>
+
+[Tidus]<NL>
+Where'd you hear that?<END>
+
+[Shelinda]<NL>
+From the [Guado].<NL>
+They were all very excited!<END>
+
+[Tidus]<NL>
+I'm afraid you heard a little wrong.<NL>
+[Yuna]'s gonna turn him down.<END>
+
+[Shelinda]<NL>
+Oh... Really?<END>
+
+<TEXT>
+<CHOICE1>Yep! No wedding!<NL>
+<CHOICE2>Just kidding!<END>
+
+[Shelinda]<NL>
+I see...<END>
+
+[Shelinda]<NL>
+That's unfortunate.<END>
+
+[Shelinda]<NL>
+Well I'm sure that people<NL>
+would have rejoiced all over [Spira].<END>
+
+[Shelinda]<NL>
+Hey!<END>
+
+[Shelinda]<NL>
+It will not do to joke<NL>
+about a thing like that.<END>
+
+[Shelinda]<NL>
+Please give Lady [Yuna]<NL>
+my best regards!<END>
+
+[Shelinda]<NL>
+Maester [Seymor]<NL>
+and Lady [Yuna]--how wonderful!<END>
+
+[Shelinda]<NL>
+Oh, please go ahead.<END>
+
+[Rikku]<NL>
+Oh, no...<NL>
+We're here.<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+How are we supposed to cross that?<END>
+
+[Lulu]<NL>
+See the lightning rod towers?<END>
+
+[Lulu]<NL>
+The lightning is drawn<NL>
+to them...hopefully.<END>
+
+[Wakka]<NL>
+We head north, not too near and not<NL>
+too far from the towers, ya?<END>
+
+[Lulu]<NL>
+Meaning we should<NL>
+avoid wide, open areas.<END>
+
+<NL>
+          <END>
+
+[Rikku]<NL>
+I think I forgot something<NL>
+in [Guadosalam].<END>
+
+[Auron]<NL>
+Nice knowing you.<END>
+
+[Rikku]<NL>
+Okay, okay! I'll go!<END>
+
+[Wakka]<NL>
+Whoa! That was a close one!<END>
+
+[Lulu]<NL>
+Stop kidding around.<END>
+
+[Wakka]<NL>
+Yes, ma'am...<END>
+
+[Rikku]<NL>
+Heh heh heh heh heh heh heh...<END>
+
+[Wakka]<NL>
+Hmm? What's wrong?<END>
+
+[Rikku]<NL>
+Eh heh heh heh heh heh heh...<END>
+
+[Tidus]<NL>
+"Heh heh heh..."<NL>
+You're givin' me the creeps!<END>
+
+<NL>
+          <END>
+
+[Rikku]<NL>
+Let's go rest over there!<NL>
+Please?<END>
+
+[Auron]<NL>
+This storm never stops.<NL>
+Better to cross quickly.<END>
+
+[Rikku]<NL>
+I know, but...<NL>
+Just for a little while?<END>
+
+[Tidus]<NL>
+Heh, well? What now?<END>
+
+[Rikku]<NL>
+I wanna go home!<END>
+
+[Rikku]<NL>
+I hate lightning!<NL>
+I hate thunder!<END>
+
+[Maechen]<NL>
+Well, hello there.<NL>
+Would you like to hear about this place?<END>
+
+<TEXT>
+<CHOICE1>Maybe next time.<NL>
+<CHOICE2>Sure.<END>
+
+[Maechen]<NL>
+Pity.<END>
+
+[Maechen]<NL>
+Very well, let me tell<NL>
+you about the Crossing.<END>
+
+[Maechen]<NL>
+A long time ago,<NL>
+this place was a traveller's nightmare.<END>
+
+[Maechen]<NL>
+"Plains of lightning, plains of thunder,<NL>
+those who cross are torn asunder."<END>
+
+[Maechen]<NL>
+Or...so they used to say.<END>
+
+[Maechen]<NL>
+Then a man by the<NL>
+name of Bilghen appeared.<END>
+
+[Maechen]<NL>
+Using machina, he built towers<NL>
+that served as lightning rods<NL>
+across the plains.<END>
+
+[Maechen]<NL>
+Finally, travellers were<NL>
+able to cross in safety.<END>
+
+[Maechen]<NL>
+Bilghen was building<NL>
+that tower over there...<END>
+
+[Maechen]<NL>
+when he was struck<NL>
+and killed by lightning.<END>
+
+[Maechen]<NL>
+Bilghen was an [Al Bhed].<NL>
+Our history books never mention him.<END>
+
+[Maechen]<NL>
+Take care, and farewell.<END>
+
+<NL>
+A strange stone.<END>
+
+<NL>
+It won't open.<END>
+
+<NL>
+The <Cor 43>[Celestial Mirror]<Cor 41> seems to react.<END>
+
+<TEXT>
+Use the <Cor 43>[Celestial Mirror]<Cor 41>?<NL>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<NL>
+The <Cor 43>[Cloudy Mirror]<Cor 41> seems to react.<END>
+
+<TEXT>
+Use the <Cor 43>[Cloudy Mirror]<Cor 41>?<NL>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<NL>
+Not enough energy...<END>
+
+[Tidus]<NL>
+[Guadosalam]? It's probably<NL>
+crawling with [Seymor]'s cronies.<END>
+
+[Tidus]<NL>
+Now's no time to be picking fights<NL>
+with the [Guado], that's for sure.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<NL>
+                  Moonflow<NL>
+                                  Djose Temple <NL>
+<NL>
+  Guadosalam<NL>
+<NL>
+<NL>
+<NL>
+               Luca<NL>
+                                  Kilika Port<NL>
+<NL>
+<NL>
+                      Besaid<END>
+
+<ÁREA><NL>
+Thunder Plains<END>
+
+<ÁREA><NL>
+Macalania Woods<END>
+
+<TEXT>
+Obtained [Jecht]'s sphere!<END>
+
+<TEXT>
+<CHOICE1>Take a look.<NL>
+<CHOICE2>Leave it alone.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

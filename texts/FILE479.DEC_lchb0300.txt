@@ -1,0 +1,423 @@
+<TEXT>
+Battle with Al Bhed Machina<NL>
+    <CHOICE1>Waiting for Command<NL>
+    <CHOICE2>Seamless Test<NL>
+    <CHOICE3>Retry Event<NL>
+    <CHOICE4>Unconditional Win<END>
+
+<NL>
+A-Are they gone?<NL>
+What are machina doing here?<END>
+
+<NL>
+A watchman is posted at<NL>
+every dock for your safety.<END>
+
+<NL>
+To my left is <Cor 88>dock number 2<Cor 41> and<NL>
+to my right is <Cor 88>dock number 4<Cor 41>.<END>
+
+<NL>
+Lord Seymour will lead the<NL>
+Guado to eternal repose.<END>
+
+<NL>
+Seems like they scaled back on security<NL>
+this year. Hope nothing bad happens.<END>
+
+<NL>
+Hey, hey, hey! You can't board a<NL>
+military vessel without permission!<END>
+
+<NL>
+If I were ten years younger, those<NL>
+machina would be scrap metal!<END>
+
+<NL>
+I'm terribly sorry, but no one<NL>
+is allowed to board this ship.<END>
+
+<NL>
+I'm really glad I got assigned to [Luca].<NL>
+I can catch the game on my day off.<END>
+
+<NL>
+Machina are an unholy abomination!<NL>
+We must destroy them all!<END>
+
+<NL>
+I am patrolling the area!<END>
+
+<NL>
+[Maester Kinoc] sent us<NL>
+here to protect [Luca]!<END>
+
+<NL>
+We don't need your help!<NL>
+The warrior monks will guard<NL>
+the maester's vessel just fine!<END>
+
+<NL>
+Don't confuse us with those heathen<NL>
+Crusaders. Warrior monks are the<NL>
+true defenders of Yevon!<END>
+
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+Bickson<NL>
+The battle against [Sin] is<NL>
+reaching its climax!<NL>
+We can't let our fans down now.<END>
+
+Bickson<NL>
+Whether you're a traitor or not<NL>
+means nothing in the sphere pool.<END>
+
+Bickson<NL>
+The Goers must always dominate.<NL>
+After all, our fans demand<NL>
+nothing less!<END>
+
+Bickson<NL>
+Our biggest mistake was going<NL>
+too easy on you [Aurochs].<NL>
+We won't hold back next time.<END>
+
+Bickson<NL>
+We [Luca Goers] will always<NL>
+be on top. Crawl your way<NL>
+up if you think you can.<END>
+
+Graav<NL>
+The Calm? I've got more<NL>
+important things to worry<NL>
+about--like the next game.<END>
+
+Graav<NL>
+We're going to keep on blitzing no<NL>
+matter what becomes of the temple.<END>
+
+Graav<NL>
+Instead of wasting so much<NL>
+time strolling around,<NL>
+why not work on your game?<END>
+
+Graav<NL>
+I consider your victory<NL>
+a total fluke.<END>
+
+Graav<NL>
+Just be grateful that your<NL>
+twenty-three-year losing<NL>
+streak is finally over.<END>
+
+Abus<NL>
+The players and the fans all sang<NL>
+the Hymn when the ship flew by.<END>
+
+Abus<NL>
+Rumor has it that you guys are traitors.<NL>
+Some people sure talk rubbish.<END>
+
+Abus<NL>
+I'm grateful that the warrior monks<NL>
+are here to protect [Luca], but<NL>
+aren't there a few too many?<END>
+
+Abus<NL>
+We thought you'd be a pushover.<NL>
+You [Aurochs] sure have improved!<END>
+
+Abus<NL>
+Another tournament, another victory...<NL>
+But no parade, thanks to those fiends.<END>
+
+Doram<NL>
+That flying ship is an [Al Bhed]<NL>
+machina, right? Do you think<NL>
+it can really beat [Sin]?<END>
+
+Doram<NL>
+You always seem to be walking around.<NL>
+When do you have time to practice?<END>
+
+Doram<NL>
+You're a guardian now, right?<NL>
+Are you still going to blitz?<END>
+
+Doram<NL>
+We didn't lose to the [Aurochs], we lost<NL>
+to [Wakka]'s spirit and dedication.<END>
+
+Doram<NL>
+Hey, great game! So you're not<NL>
+just a pretty boy after all.<END>
+
+Balgerda<NL>
+Everyone's wondering who the next<NL>
+grand maester will be, but we blitzers<NL>
+have other things to worry about.<END>
+
+Balgerda<NL>
+What in Spira's name is the<NL>
+temple thinking these days?<END>
+
+Balgerda<NL>
+So many warrior monks<NL>
+watch the games.<NL>
+Have they no sense of duty?<END>
+
+Balgerda<NL>
+How could we lose to the [Aurochs],<NL>
+of all teams? This is a disgrace!<END>
+
+Balgerda<NL>
+Had enough?<NL>
+Come back when you're a man.<END>
+
+Raudy<NL>
+I don't know who's flying that ship,<NL>
+but I just hope they get the job done.<END>
+
+Raudy<NL>
+Both the Ronso and the<NL>
+Al Bhed teams play extra hard<NL>
+to help cheer their fans up.<END>
+
+Raudy<NL>
+I hear the [Crusader]s failed<NL>
+miserably. As expected.<END>
+
+Raudy<NL>
+We're just lending you the trophy<NL>
+until next year's tournament.<NL>
+Keep it nice and shiny for us.<END>
+
+Raudy<NL>
+How can the [Aurochs] be runners-up?<NL>
+The competition these days just<NL>
+ain't what it used to be.<END>
+
+<TEXT>
+Map Debug Menu<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Update Map Data<NL>
+    <CHOICE3>The Other Dock 3<NL>
+    <CHOICE4>Control Map Line<NL>
+    <CHOICE5>Return to Saito<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,620 @@
+<NL>
+<END>
+
+[Wakka]<NL>
+Where'd you meet<NL>
+Sir [Auron], anyway?<END>
+
+<TEXT>
+<CHOICE1>I'm not telling.<NL>
+<CHOICE2>[Zanarkand].<END>
+
+[Wakka]<NL>
+Ah, never mind.<END>
+
+[Wakka]<NL>
+[Sin]'s toxin sure is<NL>
+taking its time wearing off.<END>
+
+[Wakka]<NL>
+Anyway, I knew you'd find<NL>
+someone you knew here.<END>
+
+[Wakka]<NL>
+We'll be taking the <Cor 88><NL>
+[Mi'ihen] Highroad<Cor 41> north,<NL>
+toward <Cor 88>[Djose] Temple<Cor 41>.<END>
+
+[Lulu]<NL>
+You're a real guardian now,<NL>
+so no mistakes. Understood?<END>
+
+[Auron]<NL>
+Remember, you're suffering from<NL>
+[Sin]'s toxin.<NL>
+Don't say otherwise.<END>
+
+<NL>
+There are so many people<NL>
+fleeing [Bevelle]. They say<NL>
+it's utter chaos over there.<END>
+
+<NL>
+Their owner's a [Crusader]<NL>
+and he hasn't returned yet...<END>
+
+<NL>
+They haven't eaten at all.<NL>
+They're waiting for their<NL>
+master to come home and feed them.<END>
+
+<NL>
+Their owner's a [Crusader].<NL>
+I'm only looking after 'em<NL>
+while the operation's going on.<END>
+
+<NL>
+I'd hate to see these fellas left<NL>
+on their own. I hope their owner<NL>
+returns safely.<END>
+
+<NL>
+The [Crusader]s are guarding the stadium.<NL>
+If any fiends appear, we'll destroy<NL>
+them even if it means our lives.<END>
+
+<NL>
+I heard Lady [Yuna] is to marry. We will<NL>
+keep watch at the wedding to ensure<NL>
+nothing disrupts that happy day.<END>
+
+<NL>
+The warrior monks will defend<NL>
+[Luca] and keep the stadium<NL>
+secure. You can count on it.<END>
+
+<NL>
+Nothing you say will sway us.<NL>
+The [Crusader]s will proceed with<NL>
+the operation as planned.<END>
+
+<NL>
+I am well aware of the risks of this<NL>
+mission. But we cannot simply run away.<END>
+
+<NL>
+The Crusaders are kicking up a real<NL>
+ruckus down the Highroad. This operation<NL>
+of theirs is getting out of hand.<END>
+
+<NL>
+Well, if they really can wipe out [Sin],<NL>
+I guess it's worth a little confusion.<END>
+
+<NL>
+The youth of [Luca] are flocking<NL>
+to the [Crusader]s in droves!<NL>
+Lord Mi'ihen would be proud.<END>
+
+<NL>
+I hope the surviving [Crusader]s<NL>
+rest well and recover quickly.<END>
+
+<NL>
+I tried to stop the [Crusader]s,<NL>
+but I tell you, those youngsters<NL>
+won't listen to anybody!<END>
+
+<NL>
+I fear [Sin] will crush them<NL>
+and teach them just how futile<NL>
+repentance is then.<END>
+
+[Gatta]<NL>
+Hmm?<END>
+
+[Gatta]<NL>
+Whatcha doing here?<NL>
+The tournament's about to start!<END>
+
+[Tidus]<NL>
+I'm looking for someone.<END>
+
+[Luzzu]<NL>
+Well, you're looking in the wrong place.<NL>
+There aren't many people here.<END>
+
+[Gatta]<NL>
+Everyone's either at the stadium<NL>
+or watching the game on the sphere.<END>
+
+[Gatta]<NL>
+They love their [blitzball].<END>
+
+[Tidus]<NL>
+Aren't you gonna watch?<END>
+
+[Luzzu]<NL>
+We'd like to, but we're<NL>
+waiting for some couriers.<END>
+
+[Luzzu]<NL>
+Hmm, they're late...<END>
+
+[Luzzu]<NL>
+Wanna ditch the courier<NL>
+and go watch the game?<END>
+
+[Gatta]<NL>
+But...but we're still on duty.<NL>
+What about the mission, sir?<END>
+
+<NL>
+<END>
+
+[Luzzu]<NL>
+See what I mean?<END>
+
+[Luzzu]<NL>
+We might be a little late, <NL>
+but we will go watch you play.<END>
+
+[Gatta]<NL>
+You'd better be winning<NL>
+when we get there.<END>
+
+[Tidus]<NL>
+Yes, sir!<END>
+
+[Yuna]<NL>
+Are you sure?<END>
+
+[Wakka]<NL>
+Never liked long goodbyes anyway.<END>
+
+[Wakka]<NL>
+Sorry for making you wait, [Yuna].<NL>
+I had some promises to keep, ya?<END>
+
+[Wakka]<NL>
+From now on,<NL>
+I'm your full-time guardian.<END>
+
+[Yuna]<NL>
+Then welcome back, Sir [Wakka].<END>
+
+[Yuna]<NL>
+Good to have you with us.<END>
+
+[Wakka]<NL>
+Hey, it's good to be back, ya?<END>
+
+[Wakka]<NL>
+So, any news on what happened?<END>
+
+<NL>
+<END>
+
+[Yuna]<NL>
+Maester [Seymor]'s aeon...<NL>
+It was so powerful.<END>
+
+[Wakka]<NL>
+Do you think he's<NL>
+gonna stay here?<END>
+
+[Lulu]<NL>
+Sir [Auron] knows him, apparently.<NL>
+You were right.<NL>
+He did meet someone he knew. <END>
+
+[Yuna]<NL>
+Do you think he'll find<NL>
+a way back to [Zanarkand]?<END>
+
+[Wakka]<NL>
+In any case,<NL>
+I'll miss having him around.<END>
+
+[Yuna]<NL>
+He's still in town, isn't he?<NL>
+I think I'll go see him...<END>
+
+[Yuna]<NL>
+Oh!<END>
+
+[Wakka]<NL>
+Whoa.<END>
+
+[Yuna]<NL>
+Sir [Auron]?<END>
+
+[Auron]<NL>
+[Yuna].<END>
+
+[Yuna]<NL>
+Sir?<END>
+
+[Auron]<NL>
+I wish to become your guardian.<NL>
+Do you accept?<END>
+
+<NL>
+          <END>
+
+[Wakka]<NL>
+You're serious?<END>
+
+[Auron]<NL>
+You refuse?<END>
+
+[Yuna]<NL>
+No, no!<END>
+
+[Yuna]<NL>
+We accept!<NL>
+Right, everyone?<END>
+
+[Wakka]<NL>
+O-Of course!<NL>
+No problem at all!<END>
+
+[Lulu]<NL>
+But...why?<END>
+
+[Auron]<NL>
+I promised [Braska].<END>
+
+[Yuna]<NL>
+You promised my father?<END>
+
+[Yuna]<NL>
+Thank you, Sir [Auron]!<NL>
+You're welcome to join us!<END>
+
+[Auron]<NL>
+And...he comes too.<END>
+
+[Tidus]<NL>
+Hi...guys.<NL>
+Eh...howdy!<END>
+
+[Auron]<NL>
+This one I promised [Jecht].<END>
+
+[Yuna]<NL>
+Is Sir [Jecht] alive?<END>
+
+[Auron]<NL>
+Can't say. Haven't<NL>
+seen him in ten years.<END>
+
+[Yuna]<NL>
+I...see.<END>
+
+[Auron]<NL>
+You'll meet eventually.<END>
+
+[Yuna]<NL>
+Yes, I'm looking forward to it!<END>
+
+[Auron]<NL>
+What's our itinerary?<END>
+
+<NL>
+<END>
+
+[Auron]<NL>
+Where are we headed?<END>
+
+[Yuna]<NL>
+Hey! Come with me!<END>
+
+[Yuna]<NL>
+Hey, watch!<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+Hey, you got pretty good.<END>
+
+[Yuna]<NL>
+You sound sad.<END>
+
+[Tidus]<NL>
+Yeah, maybe.<END>
+
+[Yuna]<NL>
+Wanna scream?<END>
+
+[Tidus]<NL>
+I really don't think<NL>
+that's gonna help this time.<END>
+
+[Yuna]<NL>
+You know what?<END>
+
+[Yuna]<NL>
+It's embarrassing to say this myself...<END>
+
+[Yuna]<NL>
+But summoners and their guardians<NL>
+are kind of like [Spira]'s ray of light.<END>
+
+[Yuna]<NL>
+A lot of people in<NL>
+Spira depend on us.<END>
+
+[Yuna]<NL>
+I learned to practice smiling<NL>
+when I'm feeling sad, you know?<END>
+
+<NL>
+<END>
+
+[Yuna]<NL>
+I know it's hard.<END>
+
+[Tidus]<NL>
+Yeah...<NL>
+I understand. I think.<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+[Yuna]<NL>
+Come on!<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+[Yuna]<NL>
+You probably shouldn't<NL>
+laugh any more.<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+[Yuna]<NL>
+I want my journey to<NL>
+be full of laughter.<END>
+
+[Tidus]<NL>
+Okay.<END>
+
+[Yuna]<NL>
+If we should get separated, just whistle.<END>
+
+[Yuna]<NL>
+I'll come running.<NL>
+I promise.<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+Well, let's go.<END>
+
+[Yuna]<NL>
+Okay.<END>
+
+[Tidus]<NL>
+What're you looking at?<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+[Yuna]<NL>
+Right, now let's see what you can do!<END>
+
+[Tidus]<NL>
+Huh?<END>
+
+[Tidus]<NL>
+This is weird!<END>
+
+[Yuna]<NL>
+Next, try laughing out loud!<END>
+
+[Tidus]<NL>
+What?<END>
+
+[Yuna]<NL>
+Come on, show me!<END>
+
+[Yuna]<NL>
+Too funny!<END>
+
+[Tidus]<NL>
+It was your idea!<END>
+
+[Yuna]<NL>
+Um...thank you.<END>
+
+[Wakka]<NL>
+We were just worried<NL>
+you guys might've gone crazy!<END>
+
+[Yuna]<NL>
+Sorry!<END>
+
+[Yuna]<NL>
+Well then, alright.<END>
+
+[Yuna]<NL>
+Now, we will go to<NL>
+the temple at <Cor 88>Djose<Cor 41>.<END>
+
+[Yuna]<NL>
+And guardians?<NL>
+Don't forget to smile!<END>
+
+[Lulu]<NL>
+Not really.<END>
+
+[Lulu]<NL>
+We don't know where<NL>
+the fiends came from.<END>
+
+[Lulu]<NL>
+[Maester Mika] is safe and sound,<NL>
+thanks to Maester [Seymor].<END>
+
+[Lulu]<NL>
+That's about it.<END>
+
+<TEXT>
+Map Debug Menu<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Update Map Data<NL>
+    <CHOICE3>Wait Count<NL>
+    <CHOICE4>Motion Frame<NL>
+    <CHOICE5>Play Capture<NL>
+    <CHOICE6>No Character Detection<NL>
+    <CHOICE7>Change Model<NL>
+    <CHOICE8>Invisible<NL>
+    <CHOICE9>Control Map Line<NL>
+    <CHOICE???>9Return to Saito<END>
+
+<TEXT>
+Capture Select Menu<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Wakka Joins<NL>
+    <CHOICE3>Braska/Jecht Promise<NL>
+    <CHOICE4>Yuna's Whistle<END>
+
+<TEXT>
+Model  :  <CHOICE???>B<END>
+
+<TEXT>
+Merge Capture<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>For Work<NL>
+    <CHOICE3>From Beginning<END>
+
+<TEXT>
+Promise Capture<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>For Work<NL>
+    <CHOICE3>From Beginning<END>
+
+<TEXT>
+Whistle Capture<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Character Position<NL>
+    <CHOICE3>For Work<NL>
+    <CHOICE4>From the Beginning<END>
+
+<TEXT>
+Frame  :  <CHOICE???>D<END>
+
+<TEXT>
+Wait Count<NL>
+    <CHOICE1>End Setting<NL>
+    <CHOICE2>01      <CHOICE7>06<NL>
+    <CHOICE3>02      <CHOICE8>07<NL>
+    <CHOICE4>03      <CHOICE9>08<NL>
+    <CHOICE5>04      <CHOICE???>909<NL>
+    <CHOICE6>05      <CHOICE???> 10<END>
+
+<TEXT>
+Wait<VAR12 30>  :  <CHOICE???>D<END>
+
+<ÁREA><NL>
+Besaid<END>
+
+<ÁREA><NL>
+Kilika Port<END>
+
+<ÁREA><NL>
+Luca<END>
+
+<ÁREA><NL>
+Temple of Yevon-Djose<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,491 @@
+[Auron]<NL>
+You're worried about [Yuna].<END>
+
+[Tidus]<NL>
+'Course I'm worried about her.<END>
+
+[Tidus]<NL>
+What is she thinking?<END>
+
+[Auron]<NL>
+The simplest answer would be...<END>
+
+[Auron]<NL>
+in exchange for<NL>
+agreeing to marry him...<END>
+
+[Auron]<NL>
+she hopes to negotiate<NL>
+with [Seymor].<END>
+
+[Tidus]<NL>
+Negotiate what?<END>
+
+[Auron]<NL>
+I wonder.<END>
+
+[Tidus]<NL>
+What? All by herself?<END>
+
+[Auron]<NL>
+She's strong, but [Seymor]<NL>
+is the better negotiator.<END>
+
+[Tidus]<NL>
+Well then, why don't we<NL>
+do something about it?<END>
+
+[Auron]<NL>
+[Yuna] wants it this way.<END>
+
+[Tidus]<NL>
+Argh!<END>
+
+[Tidus]<NL>
+I just don't get it!<NL>
+Doesn't she trust us?<END>
+
+[Auron]<NL>
+On the contrary...<END>
+
+[Auron]<NL>
+She doesn't want us caught up<NL>
+in whatever it is she's planning.<END>
+
+[Tidus]<NL>
+Yeah, that's what I thought.<END>
+
+[Tidus]<NL>
+But that makes me worry even more.<END>
+
+[Tidus]<NL>
+She could just tell us.<END>
+
+[Auron]<NL>
+That's the way she is.<END>
+
+[Auron]<NL>
+She's naive, serious to a fault,<NL>
+and doesn't ask for help.<END>
+
+[Tidus]<NL>
+You're probably right.<END>
+
+[Auron]<NL>
+[Yuna]'s easy to read.<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+Yeah, she is.<END>
+
+[Auron]<NL>
+But hard to guard.<END>
+
+[Auron]<NL>
+Stand by her, always.<END>
+
+[Rikku]<NL>
+Slowpokes!<END>
+
+[Tidus]<NL>
+Sorry!<END>
+
+<NL>
+It's funny how calm I was.<END>
+
+<NL>
+Maybe it was because I'd realized that<NL>
+[Yuna] wasn't marrying [Seymor] for love.<NL>
+Not really.<END>
+
+<NL>
+It was just her duty--something she had<NL>
+to do before returning to her pilgrimage.<END>
+
+<NL>
+That's what I kept<NL>
+telling myself, anyway.<END>
+
+<NL>
+And well, maybe...<END>
+
+<NL>
+I realized that [Yuna] and<NL>
+I'd never... You know...<END>
+
+[Tidus]<NL>
+[Yuna], let's go.<END>
+
+[Lucil]<NL>
+Lady [Yuna], it is good to see<NL>
+you made it through safely.<END>
+
+[Lucil]<NL>
+And, if I may,<NL>
+congratulations on your betrothal.<END>
+
+[Elma]<NL>
+Maester [Seymor]'s<NL>
+people are expecting you.<END>
+
+[Lucil]<NL>
+Take that road<NL>
+to go to <Cor 88>[Macalania Temple]<Cor 41>.<END>
+
+[Lucil]<NL>
+This road leads to [Bevelle].<END>
+
+[Lucil]<NL>
+You should hurry to the temple in Macalania.<END>
+
+[Elma]<NL>
+This isn't the way to the temple!<END>
+
+[Elma]<NL>
+Weren't you listening<NL>
+to Captain [Lucil]?<END>
+
+[Lucil]<NL>
+We've received several reports of<NL>
+summoners disappearing<NL>
+these last few days.<END>
+
+[Lucil]<NL>
+Please be careful, my lady.<END>
+
+[Lucil]<NL>
+When our assignment here is done<NL>
+we will be heading north.<END>
+
+[Lucil]<NL>
+Hopefully we'll catch some<NL>
+chocobos and rebuild our unit.<END>
+
+[Lucil]<NL>
+But I must say...<NL>
+it's been a while.<END>
+
+[Lucil]<NL>
+Maybe too long since<NL>
+we've had anything to celebrate.<END>
+
+[Elma]<NL>
+We're on watch duty at the temple<NL>
+at least until the wedding's done.<END>
+
+[Elma]<NL>
+Anyone tries to crash our party,<NL>
+we'll send 'em packing!<END>
+
+[Elma]<NL>
+Oh, yeah, [Clasko]'s back there<NL>
+with the chocobo.<END>
+
+[Elma]<NL>
+Stop and say hi<NL>
+if you've got the time.<END>
+
+[Elma]<NL>
+Next time you see us, we'll be the<NL>
+proud Chocobo Knights once again!<END>
+
+<NL>
+Hm? What do you want?<END>
+
+<NL>
+I'm waiting for my dad!<END>
+
+<NL>
+It's too dangerous to walk to<NL>
+<Cor 88>[Macalania Temple]<Cor 41> without my dad.<END>
+
+<NL>
+Are you a guardian?<NL>
+Keep up the good work.<END>
+
+<NL>
+I'd like to go to <Cor 88>[Macalania Temple]<Cor 41><NL>
+with my son, but with so many fiends here,<NL>
+I'd feel better with my husband along.<END>
+
+<NL>
+I guess you could say<NL>
+he is like my guardian.<END>
+
+<NL>
+Maester [Seymor] awaits.<NL>
+Please hurry to <Cor 88>[Macalania Temple]<Cor 41>.<END>
+
+<NL>
+I leave Lady [Yuna] in your hands<NL>
+until you are through these woods.<END>
+
+<NL>
+I'm supposed to meet my dad<NL>
+here, but he's late!<END>
+
+<NL>
+Oh, no. Maybe he forgot<NL>
+where we're supposed to meet...<END>
+
+<NL>
+My dad forgets a lot of things.<END>
+
+<NL>
+I'm supposed to meet my husband here,<NL>
+but he hasn't shown up for the longest time.<END>
+
+<NL>
+I hope nothing bad has happened.<NL>
+<END>
+
+<NL>
+He's so forgetful. Maybe he's just<NL>
+forgotten our meeting place.<END>
+
+<NL>
+I was reunited with my wife<NL>
+thanks to all of you.<END>
+
+<NL>
+But now my boy's missing.<NL>
+He went into the woods alone.<END>
+
+<NL>
+I guess he went looking for me<NL>
+since I was late. I'd better find<NL>
+him before the fiends do.<END>
+
+<NL>
+I finally met up with my<NL>
+husband, thanks to your help.<NL>
+I can't thank you enough.<END>
+
+<NL>
+But my son went off into the<NL>
+woods before my husband came.<END>
+
+<NL>
+I...I don't know what to do.<END>
+
+[Wantz]<NL>
+[O'aka]'s, open for business!<END>
+
+[Wantz]<NL>
+Welcome! We've got<NL>
+some goodies today!<END>
+
+[Wantz]<NL>
+Hey, that's my treasure!<END>
+
+[Wantz]<NL>
+Uh...keep it a secret, will ya?<END>
+
+<TEXT>
+<CHOICE1>Got any items?<NL>
+<CHOICE2>Got any weapons?<NL>
+<CHOICE3>Leave.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<NL>
+                                               Thunder Plains<NL>
+                                Guadosalam<NL>
+                     Luca                        Moonflow<NL>
+<NL>
+      Besaid<NL>
+              Kilika Port<NL>
+                                        Temple of Djose-Yevon<END>
+
+<ÁREA><NL>
+Macalania Woods<END>
+
+<ÁREA><NL>
+Temple of Yevon-Macalania<END>
+
+<TEXT>
+Obtained [Jecht]'s sphere!<END>
+
+<TEXT>
+<CHOICE1>Take a look.<NL>
+<CHOICE2>Leave it alone.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

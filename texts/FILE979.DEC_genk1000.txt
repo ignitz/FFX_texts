@@ -1,0 +1,363 @@
+<TEXT>
+[Auron]<NL>
+[Yuna]!<END>
+
+<NL>
+          <END>
+
+<NL>
+[']Thank you.[/']<END>
+
+Driver<NL>
+Shoopuf launchin'!<END>
+
+[Wakka]<NL>
+Hey.<END>
+
+<NL>
+<END>
+
+[Wakka]<NL>
+Take a look.<END>
+
+[Tidus]<NL>
+What?<END>
+
+[Tidus]<NL>
+Whoa!<END>
+
+[Tidus]<NL>
+A sunken city!<END>
+
+[Wakka]<NL>
+A machina city--<NL>
+a thousand years old!<END>
+
+[Wakka]<NL>
+They built the city on top<NL>
+of bridges across the river.<END>
+
+[Lulu]<NL>
+But the weight of the city<NL>
+caused the bridges to collapse,<NL>
+and it all sank to the bottom.<END>
+
+[Wakka]<NL>
+Right. It's a good lesson.<END>
+
+[Tidus]<NL>
+A lesson?<END>
+
+[Wakka]<NL>
+Yeah.<END>
+
+[Wakka]<NL>
+Why build a city over a river, ya?<END>
+
+[Tidus]<NL>
+Uh... Well, it would be convenient,<NL>
+with all that water there.<END>
+
+[Wakka]<NL>
+Nope, that's not why.<END>
+
+[Wakka]<NL>
+They just wanted to prove they<NL>
+could defy the laws of nature!<END>
+
+[Tidus]<NL>
+Hmmm?<NL>
+I'm not so sure about that.<END>
+
+[Wakka]<NL>
+[Yevon2] has taught us:<END>
+
+[Wakka]<NL>
+When humans have power,<NL>
+they seek to use it.<END>
+
+[Wakka]<NL>
+If you don't stop them,<NL>
+they go too far, ya?<END>
+
+[Tidus]<NL>
+Yeah, but don't you<NL>
+use machina, too?<END>
+
+[Tidus]<NL>
+Like the stadium and stuff, right?<END>
+
+[Lulu]<NL>
+Yevon, it decides...<END>
+
+[Lulu]<NL>
+which machina we may use,<NL>
+and which we may not.<END>
+
+[Tidus]<NL>
+So what kind of machina<NL>
+may we not use, then?<END>
+
+[Wakka]<NL>
+Remember [Operation Mi'ihen]?<NL>
+That kind.<END>
+
+[Lulu]<NL>
+Or war will rage again.<END>
+
+[Tidus]<NL>
+War?<END>
+
+[Yuna]<NL>
+More than a thousand years ago...<END>
+
+[Yuna]<NL>
+Mankind waged war using<NL>
+machina to kill!<END>
+
+[Wakka]<NL>
+They kept building more and<NL>
+more powerful machina.<END>
+
+[Lulu]<NL>
+They made weapons so powerful...<END>
+
+[Lulu]<NL>
+It was thought they could<NL>
+destroy the entire world.<END>
+
+[Yuna]<NL>
+The people feared that<NL>
+[Spira] would be destroyed.<END>
+
+[Wakka]<NL>
+But the war did not stop!<END>
+
+[Tidus]<NL>
+Wh-What happened then?<END>
+
+[Yuna]<NL>
+[Sin] came, and it destroyed<NL>
+the cities and their machina.<END>
+
+[Lulu]<NL>
+The war ended...<END>
+
+[Lulu]<NL>
+and our reward...<NL>
+was [Sin].<END>
+
+[Wakka]<NL>
+So, [Sin]'s our punishment for<NL>
+lettin' things get out of hand, eh?<END>
+
+[Tidus]<NL>
+Man, that's rough.<END>
+
+[Wakka]<NL>
+Yeah, it is.<END>
+
+[Tidus]<NL>
+But, it's not like the<NL>
+machina are bad.<END>
+
+[Lulu]<NL>
+Only as bad as their users.<END>
+
+[Wakka]<NL>
+It's because of people like the<NL>
+[Al Bhed] screwin' everything up!<END>
+
+Driver<NL>
+Whatsh could thatsh be?<END>
+
+[Auron]<NL>
+Sit down!<END>
+
+[Yuna]<NL>
+S-Sorry!<END>
+
+[Wakka]<NL>
+The [Al Bhed]!<END>
+
+[Lulu]<NL>
+Are you hurt?<END>
+
+[Yuna]<NL>
+No, I'm fine.<END>
+
+<NL>
+<END>
+
+[Wakka]<NL>
+Grrah! Those [Al Bhed]!<END>
+
+Driver<NL>
+Ish ebullibody okay?<END>
+
+[Yuna]<NL>
+I'm sorry! We're all okay now!<END>
+
+Driver<NL>
+Shoopuf full shpeed aheads!<END>
+
+[Wakka]<NL>
+Damn the [Al Bhed]!<END>
+
+[Wakka]<NL>
+What do they want from us?<END>
+
+[Wakka]<NL>
+Could it have something<NL>
+to do with Luca?<END>
+
+[Wakka]<NL>
+What are they after [Yuna] for?<END>
+
+[Wakka]<NL>
+Wait!<NL>
+They're mad they lost the tournament!<END>
+
+[Wakka]<NL>
+Or, wait!<NL>
+They're mad about [Operation Mi'ihen]!<END>
+
+[Lulu]<NL>
+I wonder...<END>
+
+[Lulu]<NL>
+Didn't [Kimahri]'s<NL>
+clansman say something...<END>
+
+[Lulu]<NL>
+about summoners...disappearing?<END>
+
+[Wakka]<NL>
+Ah!<NL>
+So the [Al Bhed] are behind that!<END>
+
+[Wakka]<NL>
+Those sand-blasted grease monkeys!<END>
+
+[Tidus]<NL>
+Hey, [Wakka].<END>
+
+[Tidus]<NL>
+It's no use complaining<NL>
+about the [Al Bhed] now, right?<END>
+
+[Tidus]<NL>
+We'll protect [Yuna]<NL>
+from anyone, anywhere.<END>
+
+[Tidus]<NL>
+It's that easy.<NL>
+That's all I need to know!<END>
+
+[Wakka]<NL>
+Well...<END>
+
+[Wakka]<NL>
+I guess so.<END>
+
+[Lulu]<NL>
+You're right.<END>
+
+<TEXT>
+<NL>
+            Temple of Yevon-Djose<NL>
+<NL>
+<NL>
+<NL>
+<NL>
+<NL>
+Luca<NL>
+           Kilika Port<NL>
+<NL>
+<NL>
+      Besaid<END>
+
+<ÁREA><NL>
+Moonflow - South Bank<END>
+
+<ÁREA><NL>
+Moonflow - North Bank<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

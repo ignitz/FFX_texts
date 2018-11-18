@@ -1,0 +1,285 @@
+<NL>
+Hic! Eh...I've been protecting<NL>
+Maester [Seymor] since he was a wee lad.<END>
+
+<NL>
+Ask me anything ye want to know 'bout<NL>
+Maester [Seymor].<END>
+
+<TEXT>
+<CHOICE1>[Seymor] as a young child.<NL>
+<CHOICE2>[Seymor] as a young man.<NL>
+<CHOICE3>[Seymor] as a monk.<NL>
+<CHOICE4>[Seymor] as a summoner.<NL>
+<CHOICE5>Don't care to know.<END>
+
+<NL>
+Both [Guado] and human blood flow<NL>
+through Maester [Seymor]'s veins.<NEWPAGE>
+<NL>
+This mixed heritage caused him a<NL>
+deal of grief in his childhood.<NEWPAGE>
+<NL>
+But because of that very experience...<NEWPAGE>
+<NL>
+he grew to become a great leader<NL>
+who aspired to bring [Guado] and<NL>
+humans together in friendship.<END>
+
+<NL>
+Ye do wanna know more<NL>
+about Maester [Seymor], no?<END>
+
+<NL>
+Lord [Braska] vanquished [Sin]<NL>
+when Lord [Seymor] was about your age.<NEWPAGE>
+<NL>
+During the celebration of the Calm's<NL>
+arrival, [Maester Mika2] ordained<NL>
+Lord [Jyscal] a maester of [Yevon2].<NEWPAGE>
+<NL>
+He praised Lord [Jyscal]'s achievements,<NL>
+including the conversion of the [Guado2]<NL>
+to the teachings of Yevon.<NEWPAGE>
+<NL>
+Maester [Seymor] was still a young lad<NL>
+then, but he tried hard to assist Lord [Jyscal].<END>
+
+<NL>
+As a monk, Maester [Seymor] soon<NL>
+distinguished himself.<NEWPAGE>
+<NL>
+His accomplishments were many and<NL>
+acclaimed by all. He shot up through<NL>
+the ranks quickly, he did.<NEWPAGE>
+<NL>
+Aye, he rose high on his own, never<NL>
+riding Lord [Jyscal]'s coattails.<NEWPAGE>
+<NL>
+He's truly a remarkable young man.<END>
+
+<NL>
+As a summoner, Maester [Seymor]'s<NL>
+strength is matchless.<NEWPAGE>
+<NL>
+Yet, he became a maester of [Yevon2]<NL>
+instead of undertaking the pilgrimage<NL>
+to battle [Sin].<NEWPAGE>
+<NL>
+I think he believes that there's more to a<NL>
+summoner's duty than just destroying [Sin].<END>
+
+<NL>
+Don't you hold back, now.<END>
+
+<NL>
+With [Seymor] gone and<NL>
+Maester [Mika] dead...<NEWPAGE>
+<NL>
+we've lost all our emotional support.<END>
+
+<NL>
+This is truly a disgrace.<NL>
+Monks are supposed to guide the<NL>
+people, not behave like this.<END>
+
+<NL>
+I can't believe [Seymor]'s getting married.<NL>
+It's certainly something to celebrate!<END>
+
+<NL>
+Please give this congratulatory gift<NL>
+to Lady Yuna.<END>
+
+<NL>
+When [Seymor] was first<NL>
+ordained a monk, he was my junior.<NEWPAGE>
+<NL>
+Now look at him!<NL>
+He's a maester, betrothed to a summoner.<NEWPAGE>
+<NL>
+I'm absolutely nothing<NL>
+compared to him.<END>
+
+<NL>
+[Seymor] doesn't flaunt his status.<NL>
+He's a down-to-earth gentleman.<END>
+
+<NL>
+[Seymor]'s actions are inexcusable,<NL>
+but I cannot condemn him...<NEWPAGE>
+<NL>
+because I remember how he suffered at<NL>
+the hands of both human and [Guado2]<NL>
+in his youth.<END>
+
+<NL>
+If he hadn't strayed from the path,<NL>
+I believe [Seymor] would have<NL>
+become a fine maester.<END>
+
+<NL>
+Maester [Seymor] always<NL>
+smells so nice!<NEWPAGE>
+<NL>
+Isn't he grand?<END>
+
+<NL>
+The [Guado] used to come here<NL>
+often, but now, everyone's gone.<END>
+
+<NL>
+I miss my [Guado] friends.<END>
+
+<NL>
+I thought I heard a scream!<NEWPAGE>
+<NL>
+I know we're celebrating Maester [Seymor]'s<NL>
+marriage, but it musn't get out of hand.<END>
+
+<NL>
+These are leftovers from the banquet.<NL>
+Go ahead, take 'em with you, lad.<END>
+
+<NL>
+The [Guado] have apparently lost their<NL>
+willpower and are in low spirits. They<NL>
+never leave [Guadosalam] anymore.<END>
+
+<NL>
+I feel like shutting myself away in a<NL>
+temple, too. I just can't believe<NL>
+anything anymore.<END>
+
+<NL>
+Such a fine day to celebrate!<NL>
+The monks should let loose today!<END>
+
+<NL>
+Live it up, everyone! Have a<NL>
+blast and make everyone happy!<END>
+
+<NL>
+With rank set aside like this, I believe<NL>
+everyone is behaving a little too wildly.<END>
+
+<NL>
+Strip away the exterior, and the<NL>
+devout monk is just another man,<NL>
+it seems.<END>
+
+<NL>
+Did you see my cousin outside?<NL>
+We're always competing with each other.<END>
+
+<NL>
+But unlike him, I'm a diligent worker.<NL>
+I only sleep on the job sometimes...<NL>
+Not all the time.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

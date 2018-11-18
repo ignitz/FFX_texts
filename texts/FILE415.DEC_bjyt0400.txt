@@ -1,0 +1,232 @@
+[Tidus]<NL>
+Cold...<END>
+
+[Tidus]<NL>
+Need...fire.<END>
+
+[Tidus]<NL>
+I need food!<END>
+
+[Tidus]<NL>
+Hey, wait! Wait!<NL>
+Don't go out on me!<END>
+
+[Tidus]<NL>
+Just hold on.<NL>
+I'll get more wood!<END>
+
+[Tidus]<NL>
+Whew! That was close.<END>
+
+[Tidus]<NL>
+Hey, lemme go!<END>
+
+<NL>
+What is this?<END>
+
+<NL>
+A [fiend]! In human disguise!<END>
+
+<NL>
+Yes! It is so!<END>
+
+<NL>
+We kill it?<END>
+
+<NL>
+Wait!<END>
+
+<NL>
+What if it is human?<END>
+
+<NL>
+They are the same in death.<END>
+
+<NL>
+I forbid it!<NL>
+We bring it with us.<END>
+
+<NL>
+Sorry.<END>
+
+<NL>
+The remains of a campfire.<END>
+
+<NL>
+With flint and tinder, you could<NL>
+start another fire here.<END>
+
+<NL>
+You need flint to start a fire.<END>
+
+<NL>
+To start a fire, you need<NL>
+some kind of flammable tinder.<END>
+
+<NL>
+A creepy statue.<END>
+
+<NL>
+Some withered flowers have<NL>
+been left here.<END>
+
+<NL>
+They have soaked up too much<NL>
+rainwater to serve as tinder...<END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<TEXT>
+<NL>
+<Cor 41>[Botão Círculo]: Examine<Cor 41><END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

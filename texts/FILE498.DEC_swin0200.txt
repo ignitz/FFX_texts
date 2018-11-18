@@ -1,0 +1,790 @@
+[Tidus]<NL>
+What are you all talking about?<END>
+
+Bickson<NL>
+Who are you supposed to be?<END>
+
+Graav<NL>
+Ah, I remember him.<NL>
+Guy from Kilika.<END>
+
+Bickson<NL>
+Hmm?<END>
+
+Graav<NL>
+You know, one of the [Besaid Aurochs].<NL>
+Said somethin' about winning the cup.<END>
+
+Bickson<NL>
+Oh, right.<NL>
+You're that idiot.<END>
+
+[Yuna]<NL>
+Don't call him that!<END>
+
+Bickson<NL>
+But he is an idiot.<END>
+
+Bickson<NL>
+They don't got what<NL>
+it takes to win the cup.<END>
+
+[Tidus]<NL>
+Well, they do now that I'm here!<END>
+
+[Yuna]<NL>
+Yes, they will win!<END>
+
+[Yuna]<NL>
+He used to be the star player<NL>
+of the [Zanarkand Abes]!<END>
+
+Bickson<NL>
+That so? Then you're the<NL>
+star of a team of one.<END>
+
+Graav<NL>
+Yeah, as if anyone<NL>
+lived in those ruins.<END>
+
+[Yuna]<NL>
+It's not ruins, there's a<NL>
+big city there! There is!<END>
+
+[Tidus]<NL>
+I-I got too close to [Sin] and--<END>
+
+[Yuna]<NL>
+There is a city, really!<END>
+
+Bickson<NL>
+Right. Whatever<NL>
+Your Ladyship says.<END>
+
+[Tidus]<NL>
+What's wrong? You seemed<NL>
+kinda mad back there.<END>
+
+[Yuna]<NL>
+They were being rude and...<END>
+
+[Yuna]<NL>
+I do believe your Zanarkand<NL>
+exists. I really do, you know!<END>
+
+[Tidus]<NL>
+How come? <END>
+
+[Yuna]<NL>
+Sir [Jecht] used to<NL>
+always tell me stories.<END>
+
+[Yuna]<NL>
+It'd be great to<NL>
+see your home someday.<END>
+
+[Yuna]<NL>
+I'd love to go there.<END>
+
+[Tidus]<NL>
+Yeah.<END>
+
+<NL>
+So, [Yuna], wanna come<NL>
+over to my place?<END>
+
+<NL>
+Right, sure... As if I<NL>
+had a place to show her.<END>
+
+[Lulu]<NL>
+Well? Say something.<END>
+
+[Lulu]<NL>
+You'll take responsibility?<END>
+
+[Wakka]<NL>
+Relax! He's bound to<NL>
+know someone in Luca.<END>
+
+[Lulu]<NL>
+And if not?<END>
+
+[Wakka]<NL>
+He could always join a blitz team.<END>
+
+[Wakka]<NL>
+Anyhow, it's better than<NL>
+just leaving him in Besaid! <END>
+
+[Lulu]<NL>
+What? Just leaving him in Luca?<END>
+
+[Wakka]<NL>
+What do you want me to do?<END>
+
+[Lulu]<NL>
+[Yuna] wants to<NL>
+make him a guardian.<END>
+
+[Wakka]<NL>
+Oh yeah, geez...<NL>
+There's that too, eh?<END>
+
+[Lulu]<NL>
+And whose fault is that?<END>
+
+[Wakka]<NL>
+Not mine!<END>
+
+[Wakka]<NL>
+It is mine, huh?<END>
+
+[Wakka]<NL>
+Why do you think she wants<NL>
+to make him a guardian, anyway?<END>
+
+[Lulu]<NL>
+Because he's Sir [Jecht]'s son.<END>
+
+[Wakka]<NL>
+Oh, right.<END>
+
+[Wakka]<NL>
+Wait, you sure 'bout that?<NL>
+He's really Sir [Jecht]'s son?<END>
+
+[Lulu]<NL>
+It's hard to say, but<NL>
+[Yuna] seems to believe so.<END>
+
+[Wakka]<NL>
+Okay.<END>
+
+[Lulu]<NL>
+"Okay?" "Okay?"<NL>
+That's all you have to say?<END>
+
+[Wakka]<NL>
+Well, yeah, I mean...<END>
+
+[Wakka]<NL>
+He's gotta decide for himself, ya?<NL>
+Well, him and [Yuna], I guess.<END>
+
+[Lulu]<NL>
+You're right, for once.<END>
+
+[Wakka]<NL>
+Ahem!<END>
+
+[Lulu]<NL>
+I wonder which is best...<END>
+
+[Lulu]<NL>
+Why don't you tell him he should?<END>
+
+[Wakka]<NL>
+Should what?<END>
+
+[Lulu]<NL>
+Become [Yuna]'s guardian.<END>
+
+[Wakka]<NL>
+Why me?<END>
+
+[Lulu]<NL>
+Because [Yuna] can't.<END>
+
+[Wakka]<NL>
+Why not?<END>
+
+[Lulu]<NL>
+He hates his father--<NL>
+what he was, what he did.<END>
+
+[Lulu]<NL>
+Do you really think she<NL>
+can possibly say to him...<END>
+
+[Lulu]<NL>
+"I want you to be my guardian,<NL>
+like your father was to mine?"<END>
+
+[Wakka]<NL>
+Aren't you being over-sensitive?<END>
+
+[Wakka]<NL>
+All right, all right.<END>
+
+[Wakka]<NL>
+I'll try talking to him<NL>
+after the tournament.<END>
+
+[Lulu]<NL>
+Be discreet.<END>
+
+[Wakka]<NL>
+I know.<NL>
+It's his decision.<END>
+
+[Wakka]<NL>
+He doesn't like his father?<END>
+
+[Lulu]<NL>
+Apparently.<NL>
+He told [Yuna] as much.<END>
+
+[Wakka]<NL>
+Hating your own father, huh?<NL>
+Sounds like a luxury to me.<END>
+
+[Wakka]<NL>
+I don't even remember my parents.<END>
+
+[Wakka]<NL>
+Can't say how I feel about 'em.<END>
+
+[Lulu]<NL>
+I...I was five then,<NL>
+so I remember mine a little.<END>
+
+[Wakka]<NL>
+Dammit!<END>
+
+[Wakka]<NL>
+[Sin] just takes<NL>
+everything away from us.<END>
+
+[Lulu]<NL>
+I'm sorry. I need<NL>
+some time to think.<END>
+
+[Wakka]<NL>
+Go to bed, bud.<NL>
+Tournament starts tomorrow morning.<END>
+
+[Wakka]<NL>
+Someone's bound to recognize you<NL>
+when they see your moves out there.<END>
+
+<TEXT>
+DEV TEST MODE<NL>
+Press [Botão Círculo] to bring up messages in order<END>
+
+<TEXT>
+<NL>
+I'm the best!<END>
+
+<TEXT>
+<NL>
+You're out of your league!<END>
+
+<TEXT>
+<NL>
+No one else can do it.<END>
+
+<TEXT>
+<NL>
+Gahahahah!<END>
+
+<TEXT>
+<NL>
+You can't do it, kid.<END>
+
+<TEXT>
+<NL>
+I'm the best!<END>
+
+<TEXT>
+<NL>
+You can't do it, kid.<END>
+
+<TEXT>
+<NL>
+No one else can do it.<END>
+
+<TEXT>
+<NL>
+You're out of your league!<END>
+
+<TEXT>
+END TEST MODE<END>
+
+<TEXT>
+<VAR07 31><Cor 43>The Jecht Shot Challenge<Cor 41><NL>
+Memories of that day still haunt<NL>
+[Tidus] and interfere with his<NL>
+concentration. Try to shake off<NL>
+the memories and successfully<NL>
+perform the Jecht Shot.<END>
+
+<TEXT>
+For example, when a memory appears<NL>
+in the upper left, press [Direcional Cima+Esquerda]+[Botão Círculo].<NEWPAGE>
+Similarly, press [Direcional Cima]+[Botão Círculo] when it<NL>
+appears straight above.<NEWPAGE>
+Press [Direcional Esquerda+Baixo]+[Botão Círculo] when it appears<NL>
+in the lower left corner. Always<NL>
+press the buttons simultaneously.<END>
+
+<TEXT>
+Press [Direcional Cima+Esquerda]+[Botão Círculo]<NL>
+at the same time!<END>
+
+<TEXT>
+Press [Direcional Cima]+[Botão Círculo]<NL>
+at the same time!<END>
+
+<TEXT>
+Press [Direcional Esquerda+Baixo]+[Botão Círculo]<NL>
+at the same time!<END>
+
+<TEXT>
+[Botão Círculo]<END>
+
+<TEXT>
+Simply press [Botão Círculo] without directional<NL>
+buttons when it appears in the center.<END>
+
+<TEXT>
+Let's try practicing a little.<NL>
+Press buttons following the<NL>
+on-screen instructions.<END>
+
+<TEXT>
+Press [Direcional Cima+Direita]+[Botão Círculo]<NL>
+at the same time!<END>
+
+<TEXT>
+Press [Direcional Esquerda]+[Botão Círculo]<NL>
+at the same time!<END>
+
+<TEXT>
+Press [Direcional Baixo+Direita]+[Botão Círculo]<NL>
+at the same time!<END>
+
+<TEXT>
+Did you get the hang of it?<NL>
+Now for the real thing!<NEWPAGE>
+Show Jecht what you can do!<END>
+
+[Jecht]<NL>
+Told you you couldn't do it!<END>
+
+[Wakka]<NL>
+Whoa! What's that called?<END>
+
+[Tidus]<NL>
+Doesn't have a name.<NL>
+Anyone can do it if they try.<END>
+
+[Wakka]<NL>
+Show us one more time, ya?<END>
+
+[Wakka]<NL>
+I knew it! I knew you<NL>
+were somethin' special!<END>
+
+[Yuna]<NL>
+That was the [Jecht] Shot, wasn't it?<END>
+
+[Yuna]<NL>
+You tried to do a [Jecht] Shot, right?<END>
+
+[Tidus]<NL>
+How do you know that?<END>
+
+[Yuna]<NL>
+Sir [Jecht] showed it to<NL>
+me when I was a child.<END>
+
+[Yuna]<NL>
+He called it the "Sublimely<NL>
+Magnificent [Jecht] Shot Mark III." <END>
+
+[Tidus]<NL>
+Stupid name, huh?<END>
+
+[Tidus]<NL>
+You know what? There is no<NL>
+Mark I or Mark II, you know?<END>
+
+[Tidus]<NL>
+My old man said the name Mark III<NL>
+was just something to hook the crowd.<END>
+
+[Tidus]<NL>
+He said they'd come back every night<NL>
+expecting to see Mark I and Mark II.<END>
+
+[Tidus]<NL>
+And, they really did come back.<END>
+
+[Tidus]<NL>
+I used to get so mad.<END>
+
+[Tidus]<NL>
+Is he alive, you think?<END>
+
+[Yuna]<NL>
+I don't know.<END>
+
+[Yuna]<NL>
+But, Sir [Jecht] was<NL>
+my father's guardian.<END>
+
+[Tidus]<NL>
+So he's famous here, too?<END>
+
+[Yuna]<NL>
+Yes.<END>
+
+[Yuna]<NL>
+So if anything happened to him,<NL>
+I should think word would get around fast.<END>
+
+[Tidus]<NL>
+Uh-huh.<END>
+
+[Yuna]<NL>
+What would you do,<NL>
+if you found him?<END>
+
+[Tidus]<NL>
+Who knows? I thought<NL>
+he died ten years ago.<END>
+
+[Tidus]<NL>
+Well...<END>
+
+[Tidus]<NL>
+I'd probably just smack him one.<END>
+
+[Tidus]<NL>
+After everything he put<NL>
+Mom and me through.<END>
+
+[Tidus]<NL>
+And because he was<NL>
+famous, I was always...<END>
+
+[Tidus]<NL>
+Well, you should know, [Yuna].<END>
+
+[Tidus]<NL>
+Your father's famous, too.<NL>
+Everyone in Spira knows him, right? <END>
+
+[Tidus]<NL>
+Ain't it tough?<END>
+
+[Yuna]<NL>
+It is hard to follow in his<NL>
+footsteps, as a summoner.<END>
+
+[Tidus]<NL>
+Well, there wasn't much to honor<NL>
+about my old man, that's for sure.<END>
+
+[Yuna]<NL>
+You shouldn't say<NL>
+that about your father!<END>
+
+[Tidus]<NL>
+I got the right!<END>
+
+[Yuna]<NL>
+I guess you do.<END>
+
+[Wakka]<NL>
+Show me that move again!<END>
+
+[Wakka]<NL>
+Hey! It's past your<NL>
+bedtime, kiddos!<END>
+
+<NL>
+I didn't think my old<NL>
+man would come to Luca.<END>
+
+<NL>
+He never did like watching<NL>
+other people play.<END>
+
+<NL>
+But I couldn't help feeling something<NL>
+bad was gonna happen. And these<NL>
+feelings of mine are usually right.<END>
+
+<NL>
+Sure, I had told [Wakka] I'd help him<NL>
+win the tournament. But I wasn't sure<NL>
+I had it in me to play at all anymore.<END>
+
+<NL>
+The [Aurochs] are the<NL>
+team to watch this year.<NEWPAGE>
+<NL>
+They say they got a blitzer from<NL>
+[Zanarkand] on their team!<END>
+
+<NL>
+Oh, come on! You actually<NL>
+believe that rumor?<END>
+
+<NL>
+Ha! No way. I only meant<NL>
+it'll be fun to watch.<END>
+
+[Tidus]<NL>
+The best? Yeah, right.<END>
+
+[Tidus]<NL>
+Sure.<END>
+
+[Yuna]<NL>
+But the honor of having a father<NL>
+like him surpasses all that, I think.<END>
+
+Datto<NL>
+Looks like the toxin's still getting to you.<NL>
+Take it easy and go to bed early, ya?<END>
+
+Datto<NL>
+We wanted to have our final practice<NL>
+in [Kilika], but that's impossible<NL>
+after what happened to the place.<END>
+
+Datto<NL>
+I feel a little nervous with<NL>
+Lady [Yuna] watching us, ya?<END>
+
+Datto<NL>
+Yeow... I-I hurt my back.<END>
+
+Letty<NL>
+[Wakka] is busy right now.<NL>
+Maybe you shouldn't bother him.<END>
+
+Letty<NL>
+Let's pray we don't have to go<NL>
+against the Goers until the finals!<END>
+
+Letty<NL>
+Is Datto alright? It's right<NL>
+before the big game and all.<END>
+
+Letty<NL>
+That was one amazing shot you just did!<NL>
+They don't call you an ace for nothin'.<END>
+
+Jassu<NL>
+We can finally relax now that<NL>
+the Goers are down in the cabin.<END>
+
+Jassu<NL>
+Don't mind [Kimahri] for not answering you.<NL>
+He's the silent type, you know?<END>
+
+Jassu<NL>
+I'm gonna tell Botta and Keepa<NL>
+all about that shot you just did.<NEWPAGE>
+Jassu<NL>
+They'll be so mad when they<NL>
+find out what they missed!<END>
+
+Jassu<NL>
+I'm glad the Goers weren't here to see it.<NL>
+Let's keep it secret until the finals!<END>
+
+<NL>
+The [Aurochs] are getting too<NL>
+hyped up before the match.<END>
+
+<NL>
+You can practice in the water all you<NL>
+like, but the ship isn't going to wait.<END>
+
+<NL>
+What a bunch of reckless guys.<NL>
+You want to swim to [Luca] or something?<END>
+
+<NL>
+Put yourself in my shoes.<NEWPAGE>
+<NL>
+Everyone always blames the<NL>
+crew when ships are late.<END>
+
+<NL>
+The [Luca] Goers fans will beat<NL>
+the pulp out of us if that happens.<END>
+
+<NL>
+Everyone in [Luca] is a Goers fan.<NL>
+Watch your backs--you're on enemy ground.<END>
+
+<NL>
+I loved that crazy stunt you [Aurochs]<NL>
+pulled back there. Good luck in the game.<END>
+
+<NL>
+You're a blitzer from [Zanarkand], right?<NL>
+At least put up a good fight, you hear me?<END>
+
+<NL>
+That guy poking around back there<NL>
+is taking sphere shots of Lady [Yuna].<END>
+
+<NL>
+You should go rest. You're gonna drown<NL>
+during the match if you're sleep-deprived.<END>
+
+<NL>
+We've got important guests onboard, so don't<NL>
+interfere with our jobs. You got that?<NL>
+<END>
+
+<NL>
+Our guests this trip are nothing but trouble,<NL>
+not to mention those excommunicated [Crusader]s!<END>
+
+<NL>
+[Zanarkand], eh...?<NEWPAGE>
+<NL>
+If you're going to bluff at all, say<NL>
+something a little more believable.<END>
+
+<NL>
+You've got nerve to say you're from [Zanarkand].<NL>
+Go home and relearn [Yevon2]'s teachings.<END>
+
+<ÁREA><NL>
+Kilika Port<END>
+
+<ÁREA><NL>
+Besaid<END>
+
+<ÁREA><NL>
+Luca<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

@@ -1,0 +1,318 @@
+[Dona]<NL>
+Look, I'm really tired.<NL>
+Leave me.<END>
+
+[Dona]<NL>
+If it's not an emergency,<NL>
+would you mind leaving?<END>
+
+[Tidus]<NL>
+Okay.<END>
+
+[Dona]<NL>
+Wait... There's something<NL>
+I want to ask you.<END>
+
+[Dona]<NL>
+What would you think if I said<NL>
+I...I was giving up my pilgrimage?<END>
+
+<TEXT>
+<CHOICE1>Sure! Sounds good to me.<NL>
+<CHOICE2>Who cares?<END>
+
+[Dona]<NL>
+Unusual.<END>
+
+[Dona]<NL>
+Most people would never<NL>
+forgive a summoner who quit.<END>
+
+[Tidus]<NL>
+Why's that?<END>
+
+[Dona]<NL>
+Behind my back, they would<NL>
+say I was abandoning my duty.<END>
+
+[Tidus]<NL>
+So, who cares?<END>
+
+[Tidus]<NL>
+Why not do your own thing and<NL>
+let them say what they want!<END>
+
+[Dona]<NL>
+Easy for you to say.<END>
+
+[Dona]<NL>
+But...you do have a point.<END>
+
+[Dona]<NL>
+Maybe [Barthello] and I should<NL>
+go someplace far away.<END>
+
+[Dona]<NL>
+Show some sympathy!<END>
+
+[Tidus]<NL>
+Oh, like all the sympathy you<NL>
+showed me first time we met?<END>
+
+[Dona]<NL>
+You're right.<END>
+
+[Dona]<NL>
+Quitting now would be<NL>
+sort of anti-climactic, no?<END>
+
+[Dona]<NL>
+Tell [Yuna] something, would you?<END>
+
+[Dona]<NL>
+Tell her she still has a rival: me!<END>
+
+[Dona]<NL>
+Tell her she'd better<NL>
+do her best, or be bested.<END>
+
+[Dona]<NL>
+You'll tell her, won't you?<END>
+
+[Dona]<NL>
+Thanks for the company.<NL>
+I feel so much better now.<END>
+
+[Dona]<NL>
+It's too cramped<NL>
+to call aeons here.<END>
+
+[Dona]<NL>
+I'll leave this fight to you.<NL>
+Show us your stuff!<END>
+
+[Isaaru]<NL>
+We'll leave the other<NL>
+compartments to you.<END>
+
+<NL>
+Years of sweat and toil to build<NL>
+it, and now [Home] is rubble!<END>
+
+<NL>
+Come, [Guado]! I challenge you!<NL>
+I will fight till you are all dust!<END>
+
+<NL>
+I must tell the other players<NL>
+in [Luca] what has happened!<END>
+
+<NL>
+My friends, they died protecting<NL>
+[summoner]. I will do the same.<END>
+
+<NL>
+We don't know how [Sin] will react.<END>
+
+<NL>
+If you are prepared, we can<NL>
+attack [Sin] at any time!<END>
+
+<NL>
+The gravity, it bends!<NL>
+And with [Sin] at the center!<END>
+
+<NL>
+[Sin] is still living.<NL>
+How will we stop it?<END>
+
+<NL>
+You attack from the front?<NL>
+It is a crazy, but delightful plan!<END>
+
+<NL>
+Let us destroy [Sin]<NL>
+once and for all!<END>
+
+<NL>
+No time for tears and shouting!<NL>
+All we must do is rebuild our [Home].<END>
+
+<NL>
+Okay, okay!<END>
+
+<NL>
+I finally have figured out how<NL>
+it is that this ship is moved.<END>
+
+<NL>
+When you battle with [Sin]<NL>
+I will be singing too, yes!<END>
+
+<NL>
+Leave the ship to my hands!<NL>
+You go now to the deck!<END>
+
+<NL>
+The ship must be tuned to<NL>
+be ready for the final fight!<END>
+
+<NL>
+Our ship is in top shape!<NL>
+Now, go and fell the great [Sin]!<END>
+
+<NL>
+The ship is fine, even<NL>
+inside [Sin], I think.<END>
+
+<NL>
+I hit my head when the ship shook.<NL>
+Now I have a lump!<END>
+
+<NL>
+Not scared, not scared!<NL>
+Not scared, not scared!<END>
+
+<NL>
+When will we go [Home]?<END>
+
+<NL>
+Even without our [Home], we must<NL>
+live on! I only hope I am able.<END>
+
+<NL>
+The corridor is protected by [summoner].<NL>
+So this room should be safe!<END>
+
+<NL>
+We left kids on the ground.<NL>
+Safer for them.<END>
+
+<NL>
+I am glad you made it back from [Bevelle].<NL>
+They didn't welcome us last time.<END>
+
+<NL>
+I will sing here too!<NL>
+Good luck!<END>
+
+<NL>
+I wish to be done with battle,<NL>
+to see my little brother again!<END>
+
+<NL>
+Do not be lazy!<NL>
+[Sin] is right before us!<END>
+
+<NL>
+Once the [Calm] comes,<NL>
+[Home] must be rebuilt.<END>
+
+<NL>
+Poor child, he does not understand<NL>
+that our [Home] is no more.<END>
+
+<NL>
+Chased by [fiend]! We are all<NL>
+very tired, and very scared.<END>
+
+<NL>
+It pains me most to see<NL>
+the children so scared.<END>
+
+<NL>
+The [summoner] and [guardian]<NL>
+seem full of worry.<END>
+
+<NL>
+I can use a weapon!<NL>
+I will show them how [Al Bhed] fight!<END>
+
+<NL>
+These things here belong to Mister [Rin].<NL>
+They are not yours to take!<END>
+
+<NL>
+There is much to buy,<NL>
+so do not be shy!<END>
+
+<NL>
+Do you have all that you need?<NL>
+Talk to Mister [Rin]!<END>
+
+<NL>
+We must repair the damaged ship.<NL>
+But have we the parts?<END>
+
+<NL>
+It will be a battle most violent!<NL>
+Check that you have all you need!<END>
+
+<NL>
+All that is here is at your<NL>
+disposal! Be prepared!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

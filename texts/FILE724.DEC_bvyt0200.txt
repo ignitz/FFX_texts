@@ -1,0 +1,60 @@
+[Lulu]<NL>
+It's too quiet.<END>
+
+[Lulu]<NL>
+A trap?<END>
+
+[Tidus]<NL>
+Who cares?<NL>
+[Yuna]'s waiting for us!<END>
+
+[Rikku]<NL>
+Huh?<END>
+
+[Wakka]<NL>
+What's a machina doing in the temple?<END>
+
+[Rikku]<NL>
+I suppose it comes in handy.<END>
+
+[Wakka]<NL>
+That's not what I mean! The teachings!<NL>
+What about the teachings?<END>
+
+[Rikku]<NL>
+Hey, don't look at me!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

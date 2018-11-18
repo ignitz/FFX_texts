@@ -1,0 +1,290 @@
+<NL>
+          <END>
+
+[Rikku]<NL>
+What's a [fayth] doing<NL>
+in a place like this?<END>
+
+[Tidus]<NL>
+Don't ask me!<END>
+
+[Lulu]<NL>
+They say it was stolen<NL>
+from a temple long ago.<END>
+
+[Tidus]<NL>
+Huh?<END>
+
+[Auron]<NL>
+With no [fayth],<NL>
+summoners cannot train.<END>
+
+[Auron]<NL>
+Without training, they<NL>
+cannot call the Final Aeon.<END>
+
+[Auron]<NL>
+Without the Final Aeon,<NL>
+they cannot defeat [Sin].<END>
+
+[Auron]<NL>
+That is why.<END>
+
+[Rikku]<NL>
+'Cause then the summoner won't die!<END>
+
+[Wakka]<NL>
+That must be what<NL>
+the thief was thinking.<END>
+
+[Tidus]<NL>
+I kinda agree with him.<END>
+
+[Wakka]<NL>
+Peh! Another [Guado] fiend?<END>
+
+[Kimahri]<NL>
+No. An unsent.<END>
+
+[Lulu]<NL>
+It is...<NL>
+It's you, is it not, Lady Ginnem?<END>
+
+[Lulu]<NL>
+Forgive me.<NL>
+I was too young.<END>
+
+[Lulu]<NL>
+There is no human left<NL>
+in you now, is there?<END>
+
+[Lulu]<NL>
+Very well, then.<END>
+
+[Lulu]<NL>
+Allow me to perform my last duty to you.<NL>
+My last as your guardian.<END>
+
+[Lulu]<NL>
+Strange.<NL>
+I thought it would be sadder, somehow.<END>
+
+[Lulu]<NL>
+Maybe I've gotten used to farewells.<END>
+
+[Wakka]<NL>
+You're stronger now.<END>
+
+[Lulu]<NL>
+[Wakka],<END>
+
+[Lulu]<NL>
+I hope you're right.<END>
+
+[Lulu]<NL>
+[Yuna], the [fayth] is inside.<NL>
+Go do what you came to do.<END>
+
+<NL>
+<TEXT>
+[Botão Círculo]: Warp to back of cavern<END>
+
+<NL>
+<TEXT>
+[Botão Círculo]: Return<END>
+
+<NL>
+<TEXT>
+<VAR07 E4>[Direcional Cima]: Chamber of the Fayth<VAR07 81><VAR07 E4>[Direcional Baixo]: Entrance<NL>
+<VAR07 E4>[Direcional Esquerda]: ???<VAR07 81><VAR07 E4>[Direcional Direita]: ???<NL>
+[Botão Círculo]: Confirm<END>
+
+<NL>
+<TEXT>
+<VAR07 E4>[Direcional Baixo]: Entrance<NL>
+<VAR07 E4>[Direcional Esquerda]: ???<VAR07 60><VAR07 E4>[Direcional Direita]: ???<NL>
+[Botão Círculo]: Confirm<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. XXV!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>O<Cor 41> [RIGHT] <Cor 97>Y<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

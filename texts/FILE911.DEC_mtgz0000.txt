@@ -1,0 +1,993 @@
+<NL>
+The sacred heights of [Gagazet] shun<NL>
+the weak. Use [Ronso] weapons!<END>
+
+<TEXT>
+<CHOICE1>Buy weapons.<NL>
+<CHOICE2>Buy items.<NL>
+<CHOICE3>Leave.<END>
+
+<NL>
+[Ronso] always prepared to fight.<NL>
+Always keep weapons and armor in top shape.<END>
+
+<NL>
+Quarrel between [Biran] and [Kimahri]<NL>
+started ten years ago.<NEWPAGE>
+<NL>
+Young [Ronso] fight each<NL>
+other to show strength.<NEWPAGE>
+<NL>
+[Biran] beat [Kimahri], but [Kimahri]<NL>
+never admit losing. Not once.<NEWPAGE>
+<NL>
+Angry [Biran] broke [Kimahri]'s horn.<NEWPAGE>
+<NL>
+[Kimahri] could not bear shame<NL>
+and left sacred mountain.<END>
+
+<NL>
+[Kimahri] talk less<NL>
+after horn broken.<END>
+
+<NL>
+[Biran] and [Yenke] are brave [Ronso].<NL>
+No bad feelings for losing duel.<NEWPAGE>
+<NL>
+They will praise valiant [Kimahri]<NL>
+for winning with own strength.<END>
+
+<NL>
+[Kimahri] beat [Biran].<NL>
+[Kimahri] learn much in ten years.<END>
+
+<NL>
+To [Ronso], losing horn is<NL>
+greatest disgrace.<NEWPAGE>
+<NL>
+But hornless [Kimahri] return<NL>
+to mountain. Why?<END>
+
+<NL>
+[Kimahri] stand tall, unashamed.<NL>
+Lose horn, but gain friends.<END>
+
+<NL>
+Listen to the wind howl!<NL>
+[Mt. Gagazet] praises [Kimahri]'s victory.<END>
+
+<NL>
+The cold winds of sacred mountain,<NL>
+sharper than [Ronso] fangs.<NEWPAGE>
+<NL>
+It stands in way of the weak,<NL>
+and buries them in ice.<END>
+
+<NL>
+Prepare your body and mind.<NL>
+Reach for the peak of the mountain!<END>
+
+<NL>
+Worry not, small guardian.<NL>
+Summoner's back, we [Ronso] protect.<END>
+
+<NL>
+Young or old, [Ronso] all warriors.<NL>
+All must protect sacred mountain.<NEWPAGE>
+<NL>
+[Ronso] sharpens fangs,<NL>
+until day of death.<END>
+
+<NL>
+It is great joy to see [Kimahri]<NL>
+return after ten years, a mighty [Ronso]!<NEWPAGE>
+<NL>
+With this all is well.<NL>
+Praise to [Yevon2]!<END>
+
+<NL>
+Now, be off.<NL>
+Mount [Gagazet] awaits.<END>
+
+<NL>
+It must be the guidance of Summoner<NL>
+[Yuna] that [Kimahri] gained such strength.<NEWPAGE>
+<NL>
+I extend our gratitude<NL>
+on behalf of all [Ronso].<END>
+
+<NL>
+Pursuers from [Yevon2] will<NL>
+come soon. Make haste.<END>
+
+[Maechen]<NL>
+Shall I tell you about the<NL>
+[Spira] of days long past, eh?<END>
+
+<TEXT>
+<CHOICE1>Maybe next time.<NL>
+<CHOICE2>I'd love to hear.<END>
+
+[Maechen]<NL>
+Hmph. Suit yourself.<END>
+
+[Maechen]<NL>
+There is a legend, you know.<END>
+
+[Maechen]<NL>
+Just before the horrible<NL>
+[Sin] appeared...<END>
+
+[Maechen]<NL>
+a terrible war raged between<NL>
+[Bevelle] and [Zanarkand].<END>
+
+[Maechen]<NL>
+When the armies of [Bevelle] attacked<NL>
+Mount Gagazet, they heard a song<NL>
+echoing across the snowy slopes.<END>
+
+[Maechen]<NL>
+"'Tis a song from an otherworld," they<NL>
+said. The soldiers panicked and ran.<END>
+
+[Maechen]<NL>
+And then, as if to pursue the<NL>
+retreating armies, [Sin] appeared!<END>
+
+[Maechen]<NL>
+Some time later, scouts from<NL>
+[Bevelle] braved the mountain.<END>
+
+[Maechen]<NL>
+On the other side, they witnessed<NL>
+the ruins that had been [Zanarkand].<END>
+
+[Maechen]<NL>
+The city destroyed. Not a<NL>
+single soul left standing. Gone!<END>
+
+[Maechen]<NL>
+In its place, a multitude of the<NL>
+[fayth] had gathered on Gagazet.<END>
+
+[Maechen]<NL>
+They were singing a song.<END>
+
+[Maechen]<NL>
+It's the song we now call<NL>
+the "Hymn of the Fayth."<END>
+
+[Maechen]<NL>
+And that, as they say, is that.<END>
+
+[Maechen]<NL>
+Well...maybe not all of it.<END>
+
+[Maechen]<NL>
+Would you like to hear the rest?<END>
+
+<TEXT>
+<CHOICE1>Maybe next time.<NL>
+<CHOICE2>Let's continue.<END>
+
+[Maechen]<NL>
+Rumors flew in [Bevelle] about<NL>
+[Sin]'s sudden appearance.<END>
+
+[Maechen]<NL>
+They said that the people of<NL>
+[Zanarkand] became the [fayth],<NL>
+that they had called [Sin].<END>
+
+[Maechen]<NL>
+And that the man responsible...<END>
+
+[Maechen]<NL>
+was none other than the summoner<NL>
+[Yevon2], ruler of [Zanarkand]! <END>
+
+[Maechen]<NL>
+Yes, the lord father of Lady Yunalesca.<END>
+
+[Maechen]<NL>
+On the eve of [Zanarkand]'s<NL>
+destruction, Lady Yunalesca...<END>
+
+[Maechen]<NL>
+had fled to safety<NL>
+with her husband, [Zaon].<END>
+
+[Maechen]<NL>
+Later, the two used the<NL>
+Final Summoning to defeat [Sin].<END>
+
+[Maechen]<NL>
+Yet the people of [Bevelle]<NL>
+still feared Yu [Yevon2].<END>
+
+[Maechen]<NL>
+It was to quell his wrath<NL>
+that they revered him, and<NL>
+first spread his teachings.<END>
+
+[Maechen]<NL>
+And so were born<NL>
+the temples of [Yevon2].<END>
+
+[Maechen]<NL>
+I suppose it's possible<NL>
+Yunalesca had planned it<NL>
+that way from the start!<END>
+
+[Maechen]<NL>
+A fair trade, she defeats<NL>
+[Sin] in exchange for her<NL>
+lord father's honor.<END>
+
+[Maechen]<NL>
+Of course, there's no proof.<NL>
+No, the facts are lost<NL>
+in the mists of time.<END>
+
+[Maechen]<NL>
+And who'd admit [Yevon2] was<NL>
+an enemy of [Bevelle]?<END>
+
+[Maechen]<NL>
+You can bet the temples had a<NL>
+hand in covering that one up!<END>
+
+[Maechen]<NL>
+And that, as they say, is that.<END>
+
+[Maechen]<NL>
+Like to hear more, would you?<END>
+
+<TEXT>
+<CHOICE1>Maybe next time.<NL>
+<CHOICE2>Continue.<END>
+
+[Maechen]<NL>
+Let me tell you about<NL>
+the Hymn of the Fayth.<END>
+
+[Maechen]<NL>
+It was once a [Zanarkand] song,<NL>
+sung in defiance of [Bevelle]!<END>
+
+[Maechen]<NL>
+Of course, the [Yevon2] clergy<NL>
+of [Bevelle] forbade it.<END>
+
+[Maechen]<NL>
+Then, as these things often go, those<NL>
+who disliked [Yevon2] began to sing it.<END>
+
+[Maechen]<NL>
+The [Al Bhed], for instance.<END>
+
+[Maechen]<NL>
+The Hymn of the Fayth became<NL>
+the symbol of defiance against [Yevon2].<END>
+
+[Maechen]<NL>
+[Yevon2] could do<NL>
+nothing but capitulate.<END>
+
+[Maechen]<NL>
+They lifted the ban on the song,<NL>
+and spread a new story.<END>
+
+[Maechen]<NL>
+They said the hymn was a song<NL>
+sung to soothe the souls of the dead.<END>
+
+[Maechen]<NL>
+And so saying, they took the song<NL>
+and made it scripture.<END>
+
+[Maechen]<NL>
+That's why today, the hymn<NL>
+is sung all over [Spira].<END>
+
+[Maechen]<NL>
+You could say that, though<NL>
+[Zanarkand] is gone from this<NL>
+world, it lives on in the song.<END>
+
+[Maechen]<NL>
+Aaaah, but look at the time.<NL>
+I've rambled on again.<END>
+
+[Maechen]<NL>
+I do love stories, you see.<END>
+
+[Maechen]<NL>
+Well, I owe you my gratitude<NL>
+for hearing this old scholar out.<END>
+
+[Maechen]<NL>
+Like to hear about<NL>
+this place once more?<END>
+
+<TEXT>
+<CHOICE1>Never mind.<NL>
+<CHOICE2>The destruction of [Zanarkand].<NL>
+<CHOICE3>[Yevon2] and [Yunalesca].<NL>
+<CHOICE4>The Hymn of the Fayth.<END>
+
+<NL>
+My mate died in battle.<NL>
+It was a proud death, fit for [Ronso].<NEWPAGE>
+<NL>
+He marched to [Farplane]<NL>
+with horn held high!<END>
+
+<NL>
+Cold are the winds of [Gagazet].<NL>
+Tears turn into ice.<NEWPAGE>
+<NL>
+[Ronso] must lay tears aside<NL>
+to stand up against sorrow.<END>
+
+<NL>
+All [Ronso] are warriors.<NL>
+[Ronso] will stay with mountain.<END>
+
+<NL>
+[Yevon2] shakes, but it is too<NL>
+early to abandon teachings.<NEWPAGE>
+<NL>
+Keep watch on changing of times<NL>
+and guard what you value most.<END>
+
+<NL>
+The flying ship came from<NL>
+beyond the mountain!<NL>
+Maybe from ancient [Zanarkand]?<END>
+
+<NL>
+Even young [Ronso] have mighty<NL>
+horns, greater than any fiend!<NEWPAGE>
+<NL>
+In snow and ice, this [Ronso]<NL>
+grow as big as mountain!<END>
+
+<NL>
+We [Ronso] also wait for<NL>
+[Calm] of Summoner [Yuna].<END>
+
+<NL>
+[Ronso] sang the Hymn from soul<NL>
+for warriors on flying ship.<NEWPAGE>
+<NL>
+[Ronso] pray for success with<NL>
+the Hymn to bring [Calm].<END>
+
+<NL>
+If peace really comes to [Spira], [Ronso]<NL>
+may once again travel and see the world.<END>
+
+<NL>
+Many [Ronso] have fallen to hands<NL>
+of the unsent [Seymor].<NEWPAGE>
+<NL>
+It is fate of [Ronso] to die<NL>
+in battle. But...so few are left.<END>
+
+<NL>
+[Ronso] will guard the<NL>
+mountain to the very last.<END>
+
+<NL>
+When Hymn of Fayth was sung,<NL>
+loud rumble shook the mountain.<NEWPAGE>
+<NL>
+Mount [Gagazet] sang with the [Ronso].<END>
+
+<NL>
+No strength left in the [Ronso] to<NL>
+fight [Sin] now. It is great shame.<END>
+
+[Kelk]<NL>
+Summoner [Yuna] and guardians,<NL>
+leave here at once!<END>
+
+[Kelk]<NL>
+Gagazet is [Ronso] land,<NL>
+sacred mountain of [Yevon2].<END>
+
+[Kelk]<NL>
+The mountain will not bear<NL>
+the footsteps of infidels!<END>
+
+[Biran]<NL>
+Enemy of [Yevon2] is enemy<NL>
+of [Ronso]! Leave, traitors!<END>
+
+[Yuna]<NL>
+I have cast aside [Yevon2]!<NL>
+I follow the temple no more!<END>
+
+[Kelk]<NL>
+Then you will die by those words!<END>
+
+[Yuna]<NL>
+So be it.<END>
+
+[Yuna]<NL>
+[Yevon2] has warped the<NL>
+teachings and betrayed us all!<END>
+
+[Wakka]<NL>
+Nothing but a bunch of<NL>
+low-down tricksters, eh?<END>
+
+[Tidus]<NL>
+Yeah! Yeah!<END>
+
+[Rikku]<NL>
+Yeah! Yeah!<END>
+
+[Yuna]<NL>
+We have no regrets.<END>
+
+[Yenke]<NL>
+Blasphemers!<END>
+
+[Kelk]<NL>
+A summoner and her guardians...<END>
+
+[Lulu]<NL>
+Lord [Kelk] [Ronso], if I may.<END>
+
+[Lulu]<NL>
+Have you not also turned<NL>
+your back on [Bevelle]?<END>
+
+[Auron]<NL>
+But still, you guard Gagazet<NL>
+as a [Ronso], not a maester.<END>
+
+[Auron]<NL>
+[Yuna] is much the same.<END>
+
+<NL>
+          <END>
+
+[Biran]<NL>
+Elder [Kelk]!<END>
+
+[Biran]<NL>
+Let [Biran] rend them asunder!<END>
+
+[Yenke]<NL>
+No escape! Not one!<END>
+
+[Yuna]<NL>
+No, we will not flee.<END>
+
+[Yuna]<NL>
+We will fight, and continue on.<END>
+
+[Kelk]<NL>
+You have been branded a traitor,<NL>
+but still you would fight [Sin]?<END>
+
+[Kelk]<NL>
+Lost to the temple, hated by<NL>
+the people, yet you continue<NL>
+your pilgrimage?<END>
+
+[Kelk]<NL>
+Everything lost!<NL>
+What do you fight for?<END>
+
+[Yuna]<NL>
+I fight for [Spira].<END>
+
+[Yuna]<NL>
+The people long for the [Calm].<NL>
+I can give it to them.<END>
+
+[Yuna]<NL>
+It's all I can give.<END>
+
+[Yuna]<NL>
+Defeating [Sin], ending pain...<END>
+
+[Yuna]<NL>
+this I can do.<END>
+
+[Kelk]<NL>
+Even sacrificing yourself?<END>
+
+[Kelk]<NL>
+[Ronso], let them pass!<END>
+
+[Kelk]<NL>
+Summoner [Yuna], your will<NL>
+is stronger than steel.<END>
+
+[Kelk]<NL>
+Tempered steel that even the mightiest<NL>
+[Ronso] could not hope to bend.<END>
+
+[Kelk]<NL>
+[Yuna], we bow to your will!<END>
+
+[Kelk]<NL>
+Now go!<END>
+
+[Kelk]<NL>
+The sacred heights<NL>
+of Gagazet welcome you.<END>
+
+[Yuna]<NL>
+We thank you.<END>
+
+[Kelk]<NL>
+Summoner [Yuna]'s words,<NL>
+they ring clear in my soul.<END>
+
+[Kelk]<NL>
+Small voice, small frame, but a<NL>
+will that towers over Gagazet's peak.<END>
+
+[Kelk]<NL>
+The path to the sacred heights is steep,<NL>
+and lined with the dens of fiends.<END>
+
+[Kelk]<NL>
+Strong guardians, be prepared,<NL>
+and guard your summoner well.<END>
+
+[Kelk]<NL>
+Guard your summoner<NL>
+with all your heart.<END>
+
+[Yuna]<NL>
+It's just a little farther now.<END>
+
+[Lulu]<NL>
+[Yuna]'s...grown stronger.<END>
+
+[Tidus]<NL>
+Stronger, huh?<END>
+
+[Tidus]<NL>
+I'd say it's more like she's<NL>
+driven, don't you think?<END>
+
+[Lulu]<NL>
+That's why she's strong.<NL>
+She's still pressing forward.<END>
+
+[Lulu]<NL>
+When weak people are driven they<NL>
+can't go far before they break.<END>
+
+[Lulu]<NL>
+She keeps going forward,<NL>
+because she is strong.<END>
+
+[Lulu]<NL>
+[Yuna] has grown strong.<END>
+
+[Lulu]<NL>
+And I... All I can do is<NL>
+try and keep up with her.<END>
+
+[Lulu]<NL>
+Let's get ready for the climb.<END>
+
+[Wakka]<NL>
+Gaah, my neck's hurtin'.<END>
+
+[Tidus]<NL>
+[Zanarkand]'s on<NL>
+the other side, huh?<END>
+
+[Wakka]<NL>
+Yeah...your home, ya?<END>
+
+[Tidus]<NL>
+As if you believed me.<END>
+
+[Wakka]<NL>
+Maybe I do.<END>
+
+[Wakka]<NL>
+The one on the other side here's<NL>
+probably just a pile of rubble, ya?<END>
+
+[Wakka]<NL>
+But somewhere out there<NL>
+is your [Zanarkand].<END>
+
+[Wakka]<NL>
+Somewhere, ya? Yeah,<NL>
+you'll be home soon enough!<END>
+
+[Tidus]<NL>
+I...hope you're right.<END>
+
+[Wakka]<NL>
+Yeah! Cheer up!<NL>
+Let's do this!<END>
+
+[Wakka]<NL>
+Better get ready. Ain't<NL>
+no shops where we're goin'.<END>
+
+[Rikku]<NL>
+You think of anything yet?<END>
+
+[Rikku]<NL>
+I...there's just so<NL>
+little time. I don't know.<END>
+
+[Rikku]<NL>
+Ugh...<NL>
+This is a toughie...<END>
+
+[Kimahri]<NL>
+[Biran] and [Yenke] gone.<END>
+
+[Tidus]<NL>
+I wonder what they're up to?<END>
+
+[Tidus]<NL>
+Eh, it's probably nothing!<END>
+
+[Kimahri]<NL>
+[Biran] is hero of [Ronso].<NL>
+[Yenke] is powerful warrior.<END>
+
+[Tidus]<NL>
+Great... I hope we don't<NL>
+have to fight them.<END>
+
+[Kimahri]<NL>
+[Kimahri] must fight.<NL>
+[Kimahri] must win.<END>
+
+[Kimahri]<NL>
+The sacred Gagazet.<NL>
+First time [Kimahri] climbs.<END>
+
+[Auron]<NL>
+It is as I thought.<END>
+
+[Tidus]<NL>
+What is?<END>
+
+[Auron]<NL>
+[Yevon2] is in turmoil.<END>
+
+[Auron]<NL>
+[Mika] tries to keep it whole,<NL>
+but it crumbles around him.<END>
+
+[Tidus]<NL>
+Look, I couldn't care<NL>
+less what happens to [Yevon2].<END>
+
+[Auron]<NL>
+Because you are not of this world.<END>
+
+[Auron]<NL>
+To those who truly believe<NL>
+in the teachings...<END>
+
+[Auron]<NL>
+a time of much pain is coming.<END>
+
+[Auron]<NL>
+Ten years ago, I looked up at<NL>
+Gagazet from where we stand now.<END>
+
+[Tidus]<NL>
+My old man say anything?<END>
+
+[Auron]<NL>
+I do not remember.<END>
+
+[Auron]<NL>
+All I could think of was how...<END>
+
+[Auron]<NL>
+how I might keep [Braska] alive.<END>
+
+[Auron]<NL>
+Your duties as guardian will soon end.<END>
+
+[Biran]<NL>
+Halt!<END>
+
+[Tidus]<NL>
+Haven't you bothered us enough?<END>
+
+[Biran]<NL>
+Summoner may pass.<NL>
+Guardians may pass.<END>
+
+[Biran]<NL>
+[Kimahri] not pass!<END>
+
+[Biran]<NL>
+[Kimahri] shame [Ronso] brothers.<NL>
+[Kimahri] forget his birth.<END>
+
+[Yenke]<NL>
+Forget his people, forget his mountain.<NL>
+Little [Ronso]! Weakling [Ronso]!<END>
+
+[Biran]<NL>
+Mountain hate the weak, hate<NL>
+the small. If you will climb...<END>
+
+[Kimahri]<NL>
+Then I must prove my strength!<END>
+
+[Biran]<NL>
+Think you will win?<END>
+
+[Biran]<NL>
+You not forget who took<NL>
+your horn! Never forget!<END>
+
+[Yenke]<NL>
+[Kimahri] never beat<NL>
+brother [Biran]! Never win!<END>
+
+[Kimahri]<NL>
+This time, I win.<NL>
+I will win!<END>
+
+[Tidus]<NL>
+This some kind of [Ronso] thing?<END>
+
+[Kimahri]<NL>
+[Kimahri] problem.<END>
+
+[Biran]<NL>
+Strong is [Kimahri].<NL>
+[Biran] is happy.<END>
+
+[Biran]<NL>
+Sacred Mount Gagazet!<END>
+
+[Biran]<NL>
+I honor the name of strong<NL>
+warrior who defeats [Biran].<END>
+
+[Biran]<NL>
+Remember always, Gagazet!<NL>
+That name is [Kimahri]!<END>
+
+[Yenke]<NL>
+Mountain knows [Kimahri] strong.<NL>
+[Kimahri] may pass.<END>
+
+[Biran]<NL>
+Summoner!<END>
+
+[Biran]<NL>
+We [Ronso] will stop<NL>
+pursuers from temple.<END>
+
+[Yuna]<NL>
+Truly?<END>
+
+[Biran]<NL>
+Penance for breaking<NL>
+[Kimahri]'s horn, long ago.<END>
+
+[Yenke]<NL>
+We crush enemies following behind.<END>
+
+[Kimahri]<NL>
+[Kimahri] crush enemies<NL>
+standing before.<END>
+
+[Biran]<NL>
+You are most fortunate summoner.<END>
+
+[Yuna]<NL>
+I thank you.<END>
+
+[Yenke]<NL>
+[Ronso] will shine<NL>
+your statue brightest.<END>
+
+[Yuna]<NL>
+Thank you.<END>
+
+[Yuna]<NL>
+But I fear that no one will make<NL>
+a statue for a traitor such as I am.<END>
+
+[Biran]<NL>
+Then [Ronso] will make!<END>
+
+[Yenke]<NL>
+With grand horn on head!<END>
+
+[Yuna]<NL>
+That...would be wonderful.<END>
+
+<NL>
+I wanted to see Yuna's statue, too.<NL>
+But I wanted to see it...<END>
+
+<NL>
+with [Yuna] by my side.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<NL>
+                        Mt. Gagazet<NL>
+<NL>
+                               Calm Lands<NL>
+<NL>
+             Temple of Yevon-Bevelle<NL>
+               Temple of Yevon-Macalania<NL>
+<NL>
+                   Macalania Woods<NL>
+Guadosalam<NL>
+                     Thunder Plains<END>
+
+<ÁREA><NL>
+Zanarkand Ruins<END>
+
+<TEXT>
+Select Destination<END>
+
+<TEXT>
+<CHOICE1>No destination available<END>
+
+<TEXT>
+<CHOICE1>Mountain trail<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<CHOICE1>Mountain trail<NL>
+<CHOICE2>Cave entrance<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Mountain trail<NL>
+<CHOICE2>Cave entrance<NL>
+<CHOICE3>Cave exit<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Mountain trail<NL>
+<CHOICE2>Cave entrance<NL>
+<CHOICE3>Cave exit<NL>
+<CHOICE4>Near the Zanarkand Ruins<NL>
+<CHOICE5>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

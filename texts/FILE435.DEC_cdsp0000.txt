@@ -1,0 +1,491 @@
+<TEXT>
+<Cor 43>Using the Sphere Grid<Cor 41><END>
+
+<TEXT>
+The Sphere Grid is used to develop your<NL>
+characters by activating nodes with spheres.<NL>
+Let's see how this is done.<END>
+
+<NL>
+You want to hear again?<END>
+
+<TEXT>
+<CHOICE1>Yeah.<NL>
+<CHOICE2>What?<END>
+
+<NL>
+<END>
+
+<NL>
+<END>
+
+<NL>
+Sit, captive!<END>
+
+[Tidus]<NL>
+Hey, that hurts!<END>
+
+<NL>
+No moving, hear?<END>
+
+[Tidus]<NL>
+Whoa... Okay.<END>
+
+<NL>
+Search him!<END>
+
+<NL>
+Do you not speak?<END>
+
+[Tidus]<NL>
+Right. Whatever.<END>
+
+[Tidus]<NL>
+I said I don't understand!<END>
+
+<NL>
+Insolence!<END>
+
+<NL>
+Wait!<END>
+
+<NL>
+He said you can stay<NL>
+if you make yourself useful.<END>
+
+[Tidus]<NL>
+You...You understand me?<END>
+
+[Tidus]<NL>
+All right, I'll work!<END>
+
+<NL>
+Oh, almost forgot!<END>
+
+<NL>
+Okay! Let's get to work!<END>
+
+[Tidus]<NL>
+What's this?<NL>
+Some kind of crane?<END>
+
+<NL>
+Hey, you!<NL>
+Get away from there!<END>
+
+[Tidus]<NL>
+All right, all right!<NL>
+You don't have to shout!<END>
+
+<NL>
+We found the [airship]!<END>
+
+<NL>
+The records were right.<END>
+
+<NL>
+Now, how to drag it up?<END>
+
+<NL>
+You, outside!<END>
+
+[Tidus]<NL>
+Hey, I helped out, didn't I?<END>
+
+[Tidus]<NL>
+Uhh...hungry.<END>
+
+[Tidus]<NL>
+Whoa! Right on!<END>
+
+<NL>
+It's 'cause you eat too fast!<END>
+
+<NL>
+Hey!<END>
+
+[Tidus]<NL>
+Hello there. What is your name?<END>
+
+<NL>
+[Rikku].<END>
+
+[Tidus]<NL>
+Whoa! You really do understand!<END>
+
+[Tidus]<NL>
+Why didn't you say so earlier?<END>
+
+[Rikku]<NL>
+I didn't get a chance to!<END>
+
+[Rikku]<NL>
+Everyone thought oui were a fiend.<END>
+
+[Tidus]<NL>
+Uh..."we"?<END>
+
+[Rikku]<NL>
+Oh, "oui" means "you."<END>
+
+[Tidus]<NL>
+Who are you guys, anyway?<END>
+
+[Rikku]<NL>
+We're [Al Bhed]. Can't you tell?<END>
+
+[Rikku]<NL>
+Wait. You're not an<NL>
+[Al Bhed]-hater, are you?<END>
+
+[Tidus]<NL>
+I don't even know<NL>
+what an [Al Bhed] is.<END>
+
+[Rikku]<NL>
+Where are you from?<END>
+
+[Tidus]<NL>
+[Zanarkand].<END>
+
+[Tidus]<NL>
+I'm a [blitzball] player.<NL>
+Star player of the<NL>
+[Zanarkand Abes]!<END>
+
+[Rikku]<NL>
+Did you hit your head or something?<END>
+
+[Tidus]<NL>
+Um, you guys hit me.<END>
+
+[Rikku]<NL>
+Oh, right... Do you remember<NL>
+anything before that?<END>
+
+<NL>
+So I told her everything there was to tell<END>
+
+<NL>
+about [Zanarkand]...<END>
+
+<NL>
+About life there, [blitzball],<NL>
+and [Sin]'s attack...<END>
+
+<NL>
+and about how [Auron] and I<NL>
+were engulfed in this light.<END>
+
+<NL>
+I just said things as they came to mind.<NL>
+But then I started to wonder.<END>
+
+[Tidus]<NL>
+Did I say something funny?<END>
+
+[Rikku]<NL>
+You were near [Sin].<END>
+
+[Rikku]<NL>
+Don't worry,<NL>
+you'll be better in no time.<END>
+
+[Rikku]<NL>
+They say your head gets<NL>
+funny when [Sin] is near.<END>
+
+[Rikku]<NL>
+Maybe you just had<NL>
+some kind of dream?<END>
+
+[Tidus]<NL>
+You mean I'm sick?<END>
+
+[Rikku]<NL>
+Because of [Sin]'s toxin, yeah.<END>
+
+[Tidus]<NL>
+You sure?<END>
+
+[Rikku]<NL>
+Yeah, there is no [Zanarkand] anymore.<END>
+
+[Rikku]<NL>
+[Sin] destroyed it<NL>
+a thousand years ago. <END>
+
+[Rikku]<NL>
+So...no one plays [blitzball] there.<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+What do you mean,<NL>
+a thousand years ago?<END>
+
+[Tidus]<NL>
+But I saw [Sin] attack [Zanarkand]!<END>
+
+[Tidus]<NL>
+You're saying that happened<NL>
+a thousand years ago? No way!<END>
+
+[Rikku]<NL>
+You said...<END>
+
+[Rikku]<NL>
+You play [blitzball]?<END>
+
+[Rikku]<NL>
+You know, you should go to [Luca].<END>
+
+[Rikku]<NL>
+Someone might know<NL>
+who you are, or you<NL>
+might find<END>
+
+[Rikku]<NL>
+someone you recognize.<END>
+
+[Tidus]<NL>
+[Luca]?<END>
+
+[Rikku]<NL>
+Okay, leave it to me!<NL>
+I'll get you to Luca, promise!<END>
+
+[Rikku]<NL>
+You'd rather stay here?<END>
+
+[Rikku]<NL>
+Okay, I'll go tell the<NL>
+others. Wait here.<END>
+
+[Rikku]<NL>
+Oh, and one thing.<END>
+
+[Rikku]<NL>
+Don't tell anyone you're<NL>
+from [Zanarkand], okay?<END>
+
+[Rikku]<NL>
+[Yevon2] says it's a holy place.<NL>
+You might upset someone.<END>
+
+<NL>
+My [Zanarkand], some kind of holy place?<NL>
+Yeah right, I thought.<END>
+
+<NL>
+Since when?<END>
+
+<NL>
+[Yevon2]? [Sin]? [Luca]?<END>
+
+<NL>
+I thought [Sin] just took me to a<NL>
+faraway place, that I could go<NL>
+back in a day or two.<END>
+
+[Tidus]<NL>
+But a thousand years<NL>
+into the future?<END>
+
+[Tidus]<NL>
+No way!<END>
+
+<NL>
+[Sin]!<END>
+
+<NL>
+[Sin] is come!<END>
+
+<NL>
+Under us! Under us!<END>
+
+<NL>
+Move it!<NL>
+Get to work, immediately!<END>
+
+<NL>
+Go on, earn your pay.<END>
+
+<NL>
+If you're near death,<NL>
+really near death, use this!<END>
+
+<NL>
+You afraid of the sea?<NL>
+Weakling!<END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<NL>
+We found some ancient ruins<NL>
+right beneath us.<END>
+
+<NL>
+It's not active now, but there<NL>
+should still be some power left.<END>
+
+<NL>
+We're gonna go down<NL>
+there and activate it...<END>
+
+<NL>
+and then we should be able to<NL>
+salvage the big prize!<END>
+
+<NL>
+We'll go as soon as you're ready!<END>
+
+<NL>
+Roger!<END>
+
+<NL>
+<END>
+
+<TEXT>
+<NL>
+<Cor 41>[Botão Quadrado]: Return to ship<NL>
+[Botão Xis]: Dive<Cor 41><END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. I!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>Y<Cor 41> [RIGHT] <Cor 97>A<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

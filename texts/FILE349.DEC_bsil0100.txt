@@ -1,0 +1,292 @@
+[Yuna]<NL>
+Goodbye.<END>
+
+<NL>
+Lady [Yuna]!<NL>
+Don't forget me, okay?<END>
+
+<NL>
+I'll be good while you're<NL>
+gone! I promise, ya?<END>
+
+<NL>
+Here, take this. Daddy<NL>
+says it's an offering.<END>
+
+<NL>
+I have to keep watch!<NL>
+[Sin] could come any day!<END>
+
+<NL>
+When are the [Aurochs]<NL>
+gonna come back?<END>
+
+<NL>
+All I wanna do is join the Crusaders,<NL>
+but they say I'm too young!<END>
+
+<NL>
+I wonder if the fiends will<NL>
+go away once Sin's gone...<END>
+
+<NL>
+We'll miss Lady Yuna!<NL>
+Come back soon, ya?<END>
+
+<NL>
+Where are you going<NL>
+on that big boat?<END>
+
+<NL>
+When is Lady [Yuna] going<NL>
+to bring us the Calm?<END>
+
+<NL>
+Look at me! I'm Lady [Yuna]!<NL>
+I'll be a summoner when I grow up!<END>
+
+<NL>
+There's a ship, flying in the sky!<NL>
+I saw it! Honest!<END>
+
+<NL>
+I sung and everything, so now<NL>
+Lady [Yuna]'s Calm will come, ya?<END>
+
+<NL>
+I heard there's some foreigners around.<NL>
+Be on your guard!<END>
+
+<NL>
+There was a summoner here a while ago.<NL>
+One of his guardians was my age!<NEWPAGE>
+<NL>
+His name was [Pacce] or something.<END>
+
+<NL>
+Some mean-looking people were here,<NL>
+looking for [Yuna]!<END>
+
+<NL>
+I wonder if all this singing's<NL>
+really gonna help beat [Sin].<END>
+
+<NL>
+I knew this time would<NL>
+come someday. I knew.<END>
+
+<NL>
+Please watch over Lady [Yuna].<END>
+
+<NL>
+Here, have this.<NL>
+You may find use for it.<END>
+
+<NL>
+A summoner arrived<NL>
+here just recently.<NEWPAGE>
+<NL>
+He seemed to have disappeared.<NL>
+But where to, so quickly?<END>
+
+<NL>
+I believe his name was<NL>
+Lord [Isaaru]...yes, that's it.<END>
+
+<NL>
+I heard the sailors' gossip<NL>
+about Lady [Yuna] getting married?<END>
+
+<NL>
+I should think Lady [Yuna] would be the<NL>
+last to marry and quit her pilgrimage!<END>
+
+<NL>
+The people of [Besaid] are friends to Lady [Yuna].<NL>
+Come to us if you are ever in need.<END>
+
+<NL>
+That flying ship--now that's what<NL>
+I call a blessing of [Yevon2].<END>
+
+<NL>
+I got separated from Sir [Luzzu]<NL>
+and [Gatta] during the battle.<NEWPAGE>
+<NL>
+They haven't come back yet.<NL>
+Where could they be?<END>
+
+<NL>
+That new plan, it must be working.<NL>
+I mean, I haven't seen [Sin] around, have you?<END>
+
+<NL>
+Hey, no one's loafing around here!<NL>
+I'm keeping a lookout for [Sin]!<END>
+
+<NL>
+[Sin] is still out there.<NL>
+This is a job for the [Crusader]s!<END>
+
+<NL>
+Haven't seen [Sin] in a long while.<NL>
+Perhaps the [Crusader]s have stopped it at last?<END>
+
+<NL>
+Oh hoh hoh, have I news for you!<NEWPAGE>
+<NL>
+The daughter of Lord [Braska]<NL>
+is to marry the leader of the [Guado]!<END>
+
+<NL>
+What? Already knew, did you?<NL>
+Hmph. You're no fun.<END>
+
+<NL>
+We're getting fewer and fewer<NL>
+passengers--maybe due to all<NL>
+the turmoil in the temples.<END>
+
+<NL>
+Just once in my life,<NL>
+I'd like to ride on a flying ship.<END>
+
+<NL>
+Oh! There are so many<NL>
+things I want to tell her.<NEWPAGE>
+<NL>
+But seeing her there, smiling...<NL>
+I just can't say them.<END>
+
+<NL>
+Hey, you! The sea's crawling with<NL>
+fiends, so give this to [Yuna], okay?<END>
+
+<NL>
+I won't cry...<NL>
+I won't, ya?<END>
+
+<NL>
+They're really leaving.<END>
+
+<NL>
+Here, a farewell gift<NL>
+from all the village.<END>
+
+<NL>
+I understand why some people<NL>
+didn't come down here.<NEWPAGE>
+<NL>
+It's hard to say goodbye.<NL>
+<END>
+
+<NL>
+May [Yevon2]'s blessings be with<NL>
+our summoner on her pilgrimage.<END>
+
+<NL>
+Here, a gift from the temple<NL>
+to sanctify her departure.<END>
+
+<NL>
+The journey will be long. Believe the<NL>
+teachings, and you will not go astray.<END>
+
+<NL>
+We're headed for <Cor 88>[Kilika Island]<Cor 41>.<NL>
+All aboard!<END>
+
+<TEXT>
+<CHOICE1>Yeah, let's go!<NL>
+<CHOICE2>Not just yet.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

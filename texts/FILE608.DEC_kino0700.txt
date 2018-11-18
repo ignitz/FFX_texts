@@ -1,0 +1,471 @@
+<NL>
+I thought I sensed my old man there.<END>
+
+<NL>
+Somewhere...<END>
+
+<NL>
+Or maybe it was just [Sin]'s<NL>
+toxin playing tricks on my mind.<END>
+
+<NL>
+          <END>
+
+<NL>
+How many died today?<END>
+
+<NL>
+People die, and [Yuna] dances.<END>
+
+<NL>
+When will she stop dancing?<NL>
+When will it stop?<END>
+
+<NL>
+[Yuna] won't stop dancing--<NL>
+not until [Sin] is gone.<END>
+
+<NL>
+Those were my thoughts then...I think.<END>
+
+[Auron]<NL>
+I see you're still here.<END>
+
+[Tidus]<NL>
+Huh?<END>
+
+[Auron]<NL>
+Many stories ended here today...<END>
+
+[Auron]<NL>
+But...<END>
+
+[Auron]<NL>
+Yours goes on, I see.<END>
+
+[Tidus]<NL>
+What?<END>
+
+<NL>
+[Sin] had come and gone,<NL>
+but I remained here.<END>
+
+[Auron]<NL>
+A swift retreat.<END>
+
+[Auron]<NL>
+Satisfied?<END>
+
+[Kinoc]<NL>
+What do you mean?<END>
+
+[Auron]<NL>
+Those who turned from [Yevon2]<NL>
+died, while the faithful live on.<END>
+
+<NL>
+          <END>
+
+[Kinoc]<NL>
+The past ten years have<NL>
+changed you, I see.<END>
+
+[Seymor]<NL>
+You do not look so well.<END>
+
+[Seymor]<NL>
+But now more than ever, you<NL>
+must be the people's strength,<NL>
+their confidence.<END>
+
+[Seymor]<NL>
+Anyone else would be expected<NL>
+to show their sorrow.<END>
+
+[Seymor]<NL>
+But you...are a summoner.<NL>
+You are [Spira]'s hope.<END>
+
+[Seymor]<NL>
+Until [Sin] is defeated, you must<NL>
+not relent. Do you understand?<END>
+
+[Yuna]<NL>
+Yes. I understand.<END>
+
+[Seymor]<NL>
+Are you afraid?<END>
+
+[Seymor]<NL>
+[Yuna], take me as your pillar<NL>
+of strength. As [Yunalesca]<NL>
+had her lord [Zaon].<END>
+
+[Seymor]<NL>
+Lady [Yuna].<NL>
+Until next we meet, farewell.<END>
+
+[Auron]<NL>
+[Sin] is [Jecht]. <END>
+
+[Tidus]<NL>
+Yeah, for a while there,<NL>
+I thought I could feel him.<END>
+
+[Tidus]<NL>
+But that doesn't<NL>
+mean I believe you.<END>
+
+[Auron]<NL>
+[Sin] is [Jecht].<NL>
+He came here for you.<END>
+
+[Tidus]<NL>
+So he killed all those people<NL>
+just for a chance to see me?<END>
+
+[Auron]<NL>
+That's what [Sin] does.<END>
+
+[Auron]<NL>
+He wanted to show that to you.<END>
+
+[Auron]<NL>
+Do you know why?<END>
+
+[Tidus]<NL>
+How am I supposed to know?<END>
+
+[Auron]<NL>
+So you would kill him.<END>
+
+[Auron]<NL>
+As long as he is [Sin],<NL>
+[Jecht] will keep killing.<END>
+
+[Auron]<NL>
+He wants you to stop him.<END>
+
+[Tidus]<NL>
+You gotta be kidding.<END>
+
+[Tidus]<NL>
+How do you know<NL>
+all of this, anyway?<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+I'm not done talking to you!<NL>
+Don't you run away!<END>
+
+[Auron]<NL>
+You're the one running.<END>
+
+[Lulu]<NL>
+You were in contact with [Sin] again.<NL>
+The toxin--are you okay?<END>
+
+[Lulu]<NL>
+[Yuna] was worried about you.<END>
+
+[Lulu]<NL>
+You should let her<NL>
+know you're all right.<END>
+
+[Wakka]<NL>
+You can't ignore the teachings.<END>
+
+[Lulu]<NL>
+Rest while you can.<NL>
+We leave soon.<END>
+
+<NL>
+          <END>
+
+[Yuna]<NL>
+Maesters are strict.<END>
+
+[Yuna]<NL>
+I guess...<NL>
+I guess I'll just have to do better.<END>
+
+[Shelinda]<NL>
+Are you all right?<END>
+
+[Shelinda]<NL>
+Hold still.<END>
+
+[Shelinda]<NL>
+Thank you, I will.<END>
+
+[O'aka]<NL>
+I made a bundle with<NL>
+the operation prices.<END>
+
+[O'aka]<NL>
+But the way it turned out,<NL>
+they deserved a better deal.<END>
+
+[O'aka]<NL>
+I guess the summoners<NL>
+are our only hope.<END>
+
+[O'aka]<NL>
+Huh? You wanna buy something?<END>
+
+<NL>
+W...Water.<NL>
+Give me some water.<END>
+
+<NL>
+Mom...<END>
+
+<NL>
+More than half of our<NL>
+frontline soldiers perished.<NEWPAGE>
+<NL>
+My battalion was annihilated, too...<NL>
+The [Crusader]s will never rise again.<END>
+
+<NL>
+We shouldn't have<NL>
+defied the teachings.<END>
+
+<NL>
+I'm lucky to be alive.<END>
+
+<NL>
+My wounds are nothing compared<NL>
+to what the others suffered.<END>
+
+<NL>
+It wasn't supposed to end like this.<END>
+
+<NL>
+Damn it!<NL>
+How many died today?<END>
+
+<NL>
+Stupid [Al Bhed]!<NL>
+Leaving their junk behind.<NEWPAGE>
+<NL>
+We can't get our cart through<NL>
+because this thing's in the way.<NEWPAGE>
+<NL>
+Now we have to carry everything.<END>
+
+<NL>
+How could they leave that crap<NL>
+in the middle of the Highroad!<END>
+
+<NL>
+I'm offering prayers for all the<NL>
+soldiers who lost their lives in<NL>
+that futile operation.<NEWPAGE>
+<NL>
+How they must be lamenting on the<NL>
+[Farplane] now for renouncing<NL>
+the precepts...<END>
+
+<NL>
+So many youths have died, all<NL>
+because of that [Al Bhed] machina.<NL>
+It's heartbreaking.<END>
+
+<NL>
+The warrior monks who were<NL>
+patrolling the Highroad have left.<NEWPAGE>
+<NL>
+They've been ordered to protect<NL>
+the palace in [St. Bevelle].<NEWPAGE>
+<NL>
+Of course [Bevelle]'s security is<NL>
+important too, but who will look<NL>
+after our safety now?<END>
+
+<NL>
+I wish they'd attend<NL>
+to our needs, too.<END>
+
+<TEXT>
+<CHOICE1>Whatcha got?<NL>
+<CHOICE2>Leave.<END>
+
+<TEXT>
+<CHOICE1>Please heal us.<NL>
+<CHOICE2>Keep up the good work!<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

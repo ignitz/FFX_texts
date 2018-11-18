@@ -1,0 +1,120 @@
+[Rikku]<NL>
+Wow! Your face is beet red!<END>
+
+[Tidus]<NL>
+You okay?<END>
+
+[Yuna]<NL>
+He...he asked me to marry him!<END>
+
+[Tidus]<NL>
+You serious?<END>
+
+[Auron]<NL>
+You know what [Yuna] must do.<END>
+
+<TEXT>
+[Seymor]<NL>
+<TEXT>
+Of course.<END>
+
+[Seymor]<NL>
+Lady [Yuna]--no, all summoners--are<NL>
+charged with bringing peace to [Spira].<END>
+
+[Seymor]<NL>
+But this means more<NL>
+than just defeating [Sin].<END>
+
+[Seymor]<NL>
+She must ease the<NL>
+suffering of all [Spira].<END>
+
+[Seymor]<NL>
+She must be a leader for the people.<END>
+
+[Seymor]<NL>
+I proposed to Lady [Yuna]<NL>
+as a maester of [Yevon2].<END>
+
+[Auron]<NL>
+[Spira] is no playhouse.<END>
+
+[Auron]<NL>
+A moment's diversion may amuse an<NL>
+audience, but it changes nothing.<END>
+
+[Seymor]<NL>
+Even so, the actors<NL>
+must play their parts.<END>
+
+[Seymor]<NL>
+There's no need to answer right away.<NL>
+Please, think it over.<END>
+
+[Auron]<NL>
+We will do so, then.<END>
+
+<TEXT>
+[Auron]<NL>
+<TEXT>
+We leave.<END>
+
+[Seymor]<NL>
+Lady [Yuna],<NL>
+I await your favorable reply.<END>
+
+[Seymor]<NL>
+Why are you still here, sir?<END>
+
+<TEXT>
+[Seymor]<NL>
+<TEXT>
+I beg your pardon.<END>
+
+[Seymor]<NL>
+We [Guado] are keen<NL>
+to the scent of the [Farplane].<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

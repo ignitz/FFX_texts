@@ -1,0 +1,503 @@
+<NL>
+All hail Maester [Seymor]!<END>
+
+[Seymor]<NL>
+Brave [Crusader]s of [Spira],<NL>
+protectors of all [Spira].<END>
+
+[Seymor]<NL>
+Believe in the path you have chosen,<NL>
+let faith be your strength!<END>
+
+[Seymor]<NL>
+I, [Seymor] [Guado], maester of [Yevon2],<NL>
+will bear witness to your deeds today.<END>
+
+<TEXT>
+<NL>
+Sir!<END>
+
+[Wakka]<NL>
+What's goin' on?<END>
+
+[Wakka]<NL>
+Why's Maester [Seymor] backing<NL>
+the [Crusader]s, eh?<END>
+
+[Wakka]<NL>
+They're using the [Al Bhed]'s machina!<NL>
+They're violating the teachings!<END>
+
+[Yuna]<NL>
+Even going against the teachings<NL>
+they're willing to risk<NL>
+it for the greater good.<END>
+
+[Yuna]<NL>
+Wakka, I think Maester<NL>
+[Seymor] sees that, too.<END>
+
+[Wakka]<NL>
+[Lulu]?<END>
+
+[Lulu]<NL>
+Hmm... I can only speculate.<END>
+
+[Auron]<NL>
+Ask him yourself.<END>
+
+[Seymor]<NL>
+Ah, Sir [Auron]. It is an honor.<END>
+
+[Seymor]<NL>
+I would be most interested<NL>
+in hearing what you've been<NL>
+doing these past ten years.<END>
+
+[Auron]<NL>
+I've got nothing to say about it.<END>
+
+[Seymor]<NL>
+I...see.<END>
+
+[Seymor]<NL>
+Sir [Auron] must be a<NL>
+great asset as a guardian.<END>
+
+[Yuna]<NL>
+Your Grace!<END>
+
+[Seymor]<NL>
+Please, there's no need for formalities.<END>
+
+[Wakka]<NL>
+Excuse me...<END>
+
+[Wakka]<NL>
+Maester [Seymor]?<END>
+
+[Wakka]<NL>
+Why is your Lordship...<NL>
+presently...present here...sir?<END>
+
+[Seymor]<NL>
+Please, speak as you normally would.<END>
+
+[Wakka]<NL>
+Isn't this operation against the teachings<NL>
+of [Yevon2]? Aren't you gonna stop them?<END>
+
+[Seymor]<NL>
+It's true... I should.<END>
+
+[Seymor]<NL>
+However...<END>
+
+[Seymor]<NL>
+Both the [Crusader]s and the [Al Bhed]<NL>
+truly wish peace for [Spira].<END>
+
+[Seymor]<NL>
+This [Operation Mi'ihen] was born<NL>
+from that wish they share.<END>
+
+[Seymor]<NL>
+Although it may be sacrilege to<NL>
+[Yevon2], their intentions are pure.<END>
+
+[Seymor]<NL>
+And I, [Seymor] [Guado]--<NL>
+the person, not the maester of [Yevon2]...<END>
+
+[Seymor]<NL>
+As a denizen of [Spira],<NL>
+I wish them well in their endeavor.<END>
+
+[Wakka]<NL>
+But, using machina...<NL>
+That's bad, isn't it?<END>
+
+[Seymor]<NL>
+Pretend you didn't see them.<END>
+
+[Wakka]<NL>
+Beg your pardon, but that's not<NL>
+something a maester should say!<END>
+
+[Seymor]<NL>
+Then, pretend I didn't say it.<END>
+
+[Wakka]<NL>
+You're kidding!<END>
+
+<NL>
+From the first time I laid eyes on him,<NL>
+I never did like [Seymor]...<END>
+
+<NL>
+But you know, some of the things he said<NL>
+that day... They made a lot of sense to me.<END>
+
+[Clasko]<NL>
+Excuse me, Lady Summoner [Yuna]?<END>
+
+[Yuna]<NL>
+Yes?<END>
+
+[Clasko]<NL>
+The command center...<END>
+
+[Clasko]<NL>
+Maester [Seymor] requests<NL>
+your presence there, ma'am.<END>
+
+[Yuna]<NL>
+Thank you.<END>
+
+[Clasko]<NL>
+Take that road to the<NL>
+command center. It's not far.<END>
+
+[Clasko]<NL>
+We're still in the midst of<NL>
+preparations this way. Sorry.<END>
+
+[Clasko]<NL>
+No, not this way, that way.<NL>
+I guess I'm not good at explaining.<END>
+
+[Clasko]<NL>
+I'm just doing my job.<END>
+
+[Clasko]<NL>
+I know, I know.<NL>
+I don't even make a good guide.<END>
+
+[Clasko]<NL>
+Much less a member of the<NL>
+proud order of Chocobo Knights.<END>
+
+[Clasko]<NL>
+Captain [Lucil] yells at me<NL>
+all the time. I'm a disgrace.<END>
+
+[Clasko]<NL>
+I'm just a good-for-nothing.<END>
+
+[Tidus]<NL>
+Come on, don't say that!<NL>
+Everyone's good at something!<END>
+
+[Clasko]<NL>
+No, no...<NL>
+I deserve it anyway.<END>
+
+<NL>
+Here, this should come in handy.<END>
+
+<NL>
+The [Crusader]s supplied us<NL>
+with some goods. Here you go.<END>
+
+<NL>
+Here, take this, and try to<NL>
+stay out of our way, okay?<END>
+
+<NL>
+You must take full precautions here.<NL>
+Please use this if the need arises.<END>
+
+<NL>
+Stay alert during your trip.<NL>
+I hope this helps.<END>
+
+<NL>
+We're sealing off this area for the<NL>
+operation. All passage will be denied.<END>
+
+<NL>
+Maester [Seymor] got you in,<NL>
+and now you wanna leave?<END>
+
+<NL>
+[Yevon2] did not forsake us after all.<NL>
+Now we can fight without regret.<END>
+
+<NL>
+I've dispatched my men on patrol.<NL>
+Fiends have infested the area.<END>
+
+<NL>
+[Master Seymor] came to witness our<NL>
+deeds here today. We will destroy Sin,<NL>
+even if it means our lives!<END>
+
+<NL>
+I must relay Lord [Seymor]'s message<NL>
+to the men. This will be great for morale!<END>
+
+<NL>
+I guess we have [Yevon2]'s blessing, since<NL>
+the maester himself wished us good fortune.<END>
+
+<NL>
+Who knows, Maester [Seymor] might<NL>
+even summon aeons and fight alongside us.<END>
+
+[Wakka]<NL>
+Curse these...!<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+He really hates them, huh?<END>
+
+[Lulu]<NL>
+[Chappu]...<END>
+
+[Lulu]<NL>
+He left the sword [Wakka]<NL>
+gave him in [Besaid].<END>
+
+[Lulu]<NL>
+And he fought with an [Al Bhed]<NL>
+machina weapon instead.<END>
+
+[Wakka]<NL>
+That's got nothing to do with it!<END>
+
+[Wakka]<NL>
+I just hate these<NL>
+sacrilegious contraptions!<END>
+
+<NL>
+I will be the one to finish [Sin] off.<NL>
+<END>
+
+<NL>
+We will use the ancient [machina]<NL>
+to destroy [Sin].<END>
+
+<NL>
+The [Yevon2] fools will soon witness<NL>
+the power of the [Al Bhed].<END>
+
+<NL>
+The cannon got out of place when we fired<NL>
+a test shot. Packed too much powder, I guess.<END>
+
+<NL>
+I have to set her in<NL>
+place before the operation.<END>
+
+<NL>
+Once [Sin] emerges from the sea,<NL>
+we'll commence firing.<NEWPAGE>
+<NL>
+Our shots should stun it long enough<NL>
+for the [Al Bhed] machina to finish it off.<END>
+
+<NL>
+We just fired a test shot,<NL>
+and this puppy roars!<NEWPAGE>
+<NL>
+It near knocked me out. Heck, it<NL>
+probably echoed as far as [Luca]!<END>
+
+<NL>
+[Sin]'s gonna be a huge target.<NL>
+We probably won't even have to aim.<END>
+
+[O'aka]<NL>
+Welcome to [O'aka]'s! The operation's<NL>
+only shop, open fer business!<END>
+
+[O'aka]<NL>
+Good day, lad!<END>
+
+[O'aka]<NL>
+Sneaked past the guards, I did!<END>
+
+[O'aka]<NL>
+Be makin' a fortune with<NL>
+"[Operation Mi'ihen]" prices!<END>
+
+[O'aka]<NL>
+But you, lad, you get a discount!<NL>
+I owes ya one, eh?<END>
+
+[O'aka]<NL>
+Welcome to [O'aka]'s!<END>
+
+<NL>
+The warrior monks and the [Guado2]<NL>
+have joined forces to guard the Highroad.<NEWPAGE>
+<NL>
+Normally, it is the [Crusader]s' duty.<NEWPAGE>
+<NL>
+Maesters [Maester Kinoc] and [Seymor]<NL>
+consider the people's safety above all.<END>
+
+<NL>
+The [Crusader]s have done their duty.<NL>
+From now on, the warrior monks and<NL>
+the [Guado] will protect [Spira].<END>
+
+<NL>
+I'm just a measly sentry now<NL>
+that the [Crusader]s failed.<NEWPAGE>
+<NL>
+Why do I have to suffer for<NL>
+what those faithless morons did?<END>
+
+<NL>
+The [Guado2] are pretty brusque,<NL>
+but they make reliable comrades.<END>
+
+<NL>
+Fiends are on the rampage!<NL>
+Be on your guard.<END>
+
+<NL>
+After [Operation Mi'ihen], the<NL>
+warrior monks took over the<NL>
+Highroad guard duty.<NEWPAGE>
+<NL>
+But now they've pulled out, saying<NL>
+that they must protect [Bevelle].<NEWPAGE>
+<NL>
+It seems it's time that we<NL>
+[Crusader]s resume our duty here.<END>
+
+<TEXT>
+<CHOICE1>Let him be.<NL>
+<CHOICE2>Cheer him up.<END>
+
+<TEXT>
+<CHOICE1>Got any weapons?<NL>
+<CHOICE2>Got any items?<NL>
+<CHOICE3>Leave.<END>
+
+<NL>
+<TEXT>
+[Botão Círculo]: Up<END>
+
+<NL>
+<TEXT>
+[Botão Círculo]: Down<END>
+
+<TEXT>
+Use the <Cor 43>[Rusty Sword]<Cor 41>?<NL>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<NL>
+What is a statue of<NL>
+[Mi'ihen] doing here?<END>
+
+<NL>
+There's a <Cor 43>sword<Cor 41> here, too...<NL>
+An offering to [Mi'ihen]?<END>
+
+<NL>
+It's a statue of someone. Looks like<NL>
+the same one that was in [Mi'ihen Highroad].<END>
+
+<NL>
+There's a <Cor 43>sword<Cor 41> here, too...<NL>
+What is its significance?<END>
+
+<NL>
+It won't open.<END>
+
+<NL>
+The <Cor 43>[Celestial Mirror]<Cor 41> seems to react.<END>
+
+<TEXT>
+Use the <Cor 43>[Celestial Mirror]<Cor 41>?<NL>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<NL>
+The <Cor 43>[Cloudy Mirror]<Cor 41> seems to react.<END>
+
+<TEXT>
+Use the <Cor 43>[Cloudy Mirror]<Cor 41>?<NL>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+<NL>
+Not enough energy...<END>
+
+<ÁREA><NL>
+Besaid<END>
+
+<ÁREA><NL>
+Kilika Port<END>
+
+<ÁREA><NL>
+Luca<END>
+
+<ÁREA><NL>
+Mushroom Rock Road<END>
+
+<ÁREA><NL>
+Temple of Yevon-Djose<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

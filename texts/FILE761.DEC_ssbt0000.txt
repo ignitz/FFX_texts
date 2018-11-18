@@ -1,0 +1,66 @@
+[Tidus]<NL>
+Damn you, old man...<END>
+
+[Cid]<NL>
+Hey, I saw somethin' shine<NL>
+at the base of [Sin]'s arm!<END>
+
+[Cid]<NL>
+I reckon it's a weak spot!<END>
+
+[Brother]<NL>
+Shoot!<END>
+
+[Cid]<NL>
+What, what?<END>
+
+[Brother]<NL>
+We are pulled by [Sin]!<END>
+
+[Rikku]<NL>
+[Sin]'s pulling us in!<END>
+
+[Cid]<NL>
+Everyone, back inside!<END>
+
+[Brother]<NL>
+Too late! It comes!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

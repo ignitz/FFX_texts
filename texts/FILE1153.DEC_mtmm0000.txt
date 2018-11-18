@@ -1,0 +1,147 @@
+[Braska]<NL>
+Hello, [Yuna].<NL>
+I hope you are well.<END>
+
+[Braska]<NL>
+I wonder how old you are,<NL>
+now that you're watching this sphere.<END>
+
+[Braska]<NL>
+You must be very beautiful,<NL>
+like your mother.<END>
+
+[Braska]<NL>
+I wish I could see you.<END>
+
+[Braska]<NL>
+Oh, by the way...<END>
+
+[Braska]<NL>
+[Jecht] and [Auron]<NL>
+send their regards.<END>
+
+[Braska]<NL>
+So far, our journey has<NL>
+been very entertaining.<END>
+
+[Braska]<NL>
+Of course, it is a hard journey,<NL>
+but I have no regrets.<END>
+
+[Braska]<NL>
+It is the path I have chosen.<END>
+
+[Braska]<NL>
+[Yuna], when you have grown,<NL>
+you will have to find your own path.<END>
+
+[Braska]<NL>
+Do what you must do,<NL>
+the way you want to do it.<END>
+
+[Braska]<NL>
+Doors will always open themselves<NL>
+to those who do.<END>
+
+[Braska]<NL>
+Listen close, [Yuna].<END>
+
+[Braska]<NL>
+Your future is yours to make.<NL>
+Live the way you want to.<END>
+
+[Braska]<NL>
+Whatever way that may be,<NL>
+you have your father's full support.<END>
+
+[Braska]<NL>
+[Yuna], I will always be with you.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

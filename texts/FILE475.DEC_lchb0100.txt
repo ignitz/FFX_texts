@@ -1,0 +1,334 @@
+<TEXT>
+Total: <VAR12 30> Gil<END>
+
+<TEXT>
+Total loan: <VAR12 31> Gil<END>
+
+<TEXT>
+[Direcional Cima][Direcional Baixo][Direcional Esquerda][Direcional Direita]Select amount<NL>
+[Botão Círculo]Confirm<END>
+
+<TEXT>
+How much do you want to lend?<NL>
+Lend <CHOICE???>G Gil to [O'aka].<END>
+
+[O'aka]<NL>
+Hey, lad. I appreciate yer offer,<NL>
+but ye ain't got enough Gil.<END>
+
+[O'aka]<NL>
+Blimey, lad! Will ye actually<NL>
+lend me <VAR12 32> Gil?<END>
+
+<TEXT>
+<CHOICE1>Wait a minute.<NL>
+<CHOICE2>No sweat.<NL>
+<CHOICE3>Cancel.<END>
+
+[O'aka]<NL>
+But I'm always open for business!<END>
+
+<TEXT>
+<CHOICE1>Got any weapons?<NL>
+<CHOICE2>Got any items?<NL>
+<CHOICE3>Lend Gil to [O'aka].<NL>
+<CHOICE4>No, thanks.<END>
+
+[O'aka]<NL>
+Have you got some to lend?<END>
+
+<TEXT>
+<CHOICE1>Yes.<NL>
+<CHOICE2>No.<END>
+
+[O'aka]<NL>
+Welcome to [O'aka]'s!<END>
+
+<NL>
+The flying machina ship is<NL>
+such a spectacle to look at!<END>
+
+<NL>
+A ferry bound for [Kilika] is anchored<NL>
+here at <Cor 88>dock number 2<Cor 41>.<END>
+
+<NL>
+Patrolling a large structure such<NL>
+as this would be next to impossible.<END>
+
+<NL>
+That is why we have a guard<NL>
+stationed at every dock.<END>
+
+<NL>
+I shang the Hymn.<NL>
+Sho now the Calm will come?<END>
+
+<NL>
+I wonderss what that ship ish?<NL>
+An anshient mashina?<END>
+
+<NL>
+Tournament over. [Ronso] return to<NL>
+mountain to protect [Yevon2] holy land.<END>
+
+<NL>
+[Maester Mika2] is safe.<NL>
+[Master Kelk Ronso] is relieved.<END>
+
+<NL>
+Ice and snow from the holy peaks of<NL>
+[Gagazet] have strengthened [Ronso] spirit.<NEWPAGE>
+<NL>
+The [Ronso Fangs] will win the cup.<NL>
+Any [Ronso] know that.<END>
+
+<NL>
+The valiant [Ronso Fangs] have<NL>
+sworn victory on their horns.<NEWPAGE>
+<NL>
+[Ronso] never break promise.<END>
+
+<NL>
+Shum blitzer tried to recruit me,<NL>
+but I don't want to practish ebulliday!<END>
+
+<NL>
+Thish ish a big ribber.<NL>
+You shink shoopuf can make it here okay?<END>
+
+<NL>
+[Biran] and [Yenke] protect<NL>
+the people in stadium.<NEWPAGE>
+<NL>
+They defeat more fiends than<NL>
+you can count with both hands.<END>
+
+<NL>
+[Biran Ronso] is [Ronso]'s bravest warrior.<NL>
+All young [Ronso] yearn to be like<NL>
+[Biran Ronso].<END>
+
+<NL>
+We come all the way from [Gagazet].<NL>
+[Ronso] will surely win!<END>
+
+<NL>
+The [Ronso Fangs] are the strongest.<NL>
+They will not be defeated!<END>
+
+<NL>
+Th-That flying ship... Have the [Al Bhed] finally<NL>
+brought out their big guns? I hope they will<NL>
+avenge the fallen [Crusader]s for me!<END>
+
+<NL>
+[Luca] is such a strange place.<NL>
+The [Al Bhed2] are walking around freely.<END>
+
+<NL>
+I ran out of [Bevelle] as fast as I could,<NL>
+so I didn't pack any summer clothes.<END>
+
+<NL>
+Beating [Sin] with a song sounded crazy.<NL>
+But I'd believe anything now that I've<NL>
+seen a ship fly!<END>
+
+<NL>
+Is it true that the temple is in chaos?<NL>
+I don't believe that one bit!<END>
+
+<NL>
+I hear Lady [Yuna]'s wedding<NL>
+was called off.<END>
+
+<NL>
+The ferries that run to [Kilika] and<NL>
+[Besaid] have resumed operation.<NL>
+It's gonna get busy!<END>
+
+<NL>
+Even though the sea is close by, I still<NL>
+miss being out on the vast ocean.<END>
+
+<NL>
+I feel a lot safer, now that the warrior<NL>
+monks are keeping a watchful eye on us.<END>
+
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+<NL>
+I will not ride the [airship].<NL>
+I get airsick easily.<END>
+
+<NL>
+Many [Al Bhed] lost their<NL>
+lives in the operation.<END>
+
+<NL>
+The [Al Bhed] had nothing to do with that<NL>
+[fiend] attack. That is the truth!<END>
+
+<NL>
+I do not know a thing!<NL>
+I swear to you!<END>
+
+<NL>
+Nothing beats [blitz]!<NL>
+I wish you luck.<END>
+
+[O'aka]<NL>
+The stores in the stadium are<NL>
+closed during the tournament.<END>
+
+[O'aka]<NL>
+The people here are so into the<NL>
+game, they don't even look<NL>
+at what they're buying!<END>
+
+[O'aka]<NL>
+Gotta love blitz, eh?<END>
+
+[O'aka]<NL>
+I guess it pays to ask!<NL>
+Thank ye kindly, lad!<END>
+
+[O'aka]<NL>
+Fine seed money for<NL>
+the [O'aka] merchant empire!<END>
+
+[O'aka]<NL>
+Eh, it figures.<END>
+
+[O'aka]<NL>
+Should've expected as much.<END>
+
+<TEXT>
+Map Debug Menu<NL>
+    <CHOICE1>Quit<NL>
+    <CHOICE2>Update Map Data<NL>
+    <CHOICE3>Change Crowd Model<NL>
+    <CHOICE4>Control Map Line<NL>
+    <CHOICE5>Return to Saito<END>
+
+<TEXT>
+Crowd  :  <CHOICE???>A<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

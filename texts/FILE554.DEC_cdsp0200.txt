@@ -1,0 +1,114 @@
+[Lulu]<NL>
+I hope you hurt them.<END>
+
+[Yuna]<NL>
+A little.<END>
+
+[Yuna]<NL>
+What is it?<END>
+
+[Tidus]<NL>
+There were these [Al Bhed] that saved<NL>
+my life when I first came to [Spira].<END>
+
+[Tidus]<NL>
+They took me on their ship,<NL>
+even gave me food.<END>
+
+[Tidus]<NL>
+I was kinda hoping this was<NL>
+the same ship. But it's not.<END>
+
+[Tidus]<NL>
+I wonder if they're all gone.<END>
+
+[Yuna]<NL>
+What happened?<END>
+
+[Tidus]<NL>
+[Sin] came up near us.<END>
+
+[Tidus]<NL>
+I made it out okay, but I don't know<NL>
+what happened to their ship.<END>
+
+[Yuna]<NL>
+Um, was there anyone<NL>
+called Cid on that ship?<END>
+
+[Tidus]<NL>
+I don't know. They were all<NL>
+speaking that [Al Bhed] language.<END>
+
+[Yuna]<NL>
+I see...<END>
+
+[Tidus]<NL>
+So who's [Cid]?<END>
+
+[Yuna]<NL>
+He's my uncle, but I've<NL>
+never actually met him.<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+Wait.<END>
+
+[Tidus]<NL>
+That means you're<NL>
+[Al Bhed], too, [Yuna]?<END>
+
+[Yuna]<NL>
+On my mother's side, yes.<END>
+
+[Yuna]<NL>
+[Cid] is my mother's brother.<END>
+
+[Yuna]<NL>
+He became distant<NL>
+after my mother married.<END>
+
+[Yuna]<NL>
+But she told me to seek him<NL>
+out if I ever needed help.<END>
+
+[Tidus]<NL>
+You're worried he was...?<END>
+
+[Lulu]<NL>
+Don't tell [Wakka]<NL>
+about [Yuna]'s lineage.<END>
+
+[Lulu]<NL>
+The thing about [Wakka]--he never<NL>
+had much love for the [Al Bhed].<END>
+
+[Tidus]<NL>
+Whoa!<END>
+
+[Tidus]<NL>
+I gotta tell [Wakka]!<END>
+
+[Lulu]<NL>
+I thought I told you<NL>
+not to tell [Wakka]!<END>
+
+[Yuna]<NL>
+The game!<END>
+
+[Lulu]<NL>
+Oh!<END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+<END>
+

@@ -1,0 +1,232 @@
+[Tidus]<NL>
+[Yuna]!<END>
+
+[Kinoc]<NL>
+This has gone far enough!<END>
+
+[Auron]<NL>
+Stop!<END>
+
+[Seymor]<NL>
+You would play at marriage<NL>
+just for a chance to send me?<END>
+
+[Seymor]<NL>
+Your resolve is admirable.<END>
+
+[Seymor]<NL>
+All the more fitting<NL>
+to be my lovely wife.<END>
+
+[Mika]<NL>
+Stop!<END>
+
+[Mika]<NL>
+Do you not value your friends' lives?<END>
+
+[Mika]<NL>
+Your actions determine their fate.<END>
+
+[Mika]<NL>
+Protect them...<END>
+
+[Mika]<NL>
+or throw them away.<END>
+
+[Mika]<NL>
+The choice is yours.<END>
+
+[Seymor]<NL>
+You are wise.<END>
+
+[Kinoc]<NL>
+I am sorry, but<NL>
+it is for [Yevon2].<END>
+
+[Auron]<NL>
+Aren't those weapons<NL>
+forbidden by [Yevon2]?<END>
+
+[Kinoc]<NL>
+There are exceptions.<END>
+
+[Yuna]<NL>
+No!<END>
+
+[Yuna]<NL>
+Throw down your weapons!<NL>
+Let them go, or else...<END>
+
+[Yuna]<NL>
+Leave now! Please!<END>
+
+[Tidus]<NL>
+You're coming with us!<END>
+
+[Yuna]<NL>
+Don't worry! Go!<END>
+
+[Seymor]<NL>
+This is foolish.<NL>
+If you fall, you'll die.<END>
+
+[Yuna]<NL>
+Don't worry.<NL>
+I can fly.<END>
+
+[Yuna]<NL>
+Believe.<END>
+
+[Tidus]<NL>
+[Yuna]!<END>
+
+[Rikku]<NL>
+Cover your eyes!<END>
+
+[Wakka]<NL>
+Wh-What was that?<END>
+
+[Rikku]<NL>
+An [Al Bhed] flashbomb!<END>
+
+[Tidus]<NL>
+Lemme go! I'm gonna<NL>
+kill that [Seymor]!<END>
+
+[Kimahri]<NL>
+[Yuna] said leave!<NL>
+We leave!<END>
+
+[Lulu]<NL>
+We'll join up with her later!<END>
+
+[Auron]<NL>
+Break through!<END>
+
+[Kinoc]<NL>
+Fire!<END>
+
+[Seymor]<NL>
+Come.<END>
+
+[Seymor]<NL>
+Kill them.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

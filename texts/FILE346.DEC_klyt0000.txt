@@ -1,0 +1,259 @@
+<TEXT>
+[Wakka]<NL>
+What's up?<END>
+
+[Lulu]<NL>
+[Yuna]'s saying she<NL>
+wants you with us.<END>
+
+[Yuna]<NL>
+I want to ask you to be my guardian.<END>
+
+[Wakka]<NL>
+[Yuna]! What?<NL>
+This is no time for jokes, ya?<END>
+
+[Wakka]<NL>
+He may be a [blitzball] whiz kid,<NL>
+but up against fiends, he's a newbie.<END>
+
+[Yuna]<NL>
+Not a guardian, then...<NL>
+I just want him nearby.<END>
+
+[Tidus]<NL>
+What? What do you mean?<END>
+
+[Yuna]<NL>
+It's just that, well...<END>
+
+[Lulu]<NL>
+We're all going to the temple anyway.<NL>
+Can't this wait till later?<END>
+
+[Yuna]<NL>
+I'm sorry.<NL>
+I shouldn't have...<END>
+
+[Tidus]<NL>
+There's nothing to be sorry about.<NL>
+I'm just not really sure<NL>
+what's going on.<END>
+
+[Yuna]<NL>
+My apologies.<END>
+
+[Gatta]<NL>
+Told you it'd be rough going in there.<END>
+
+[Luzzu]<NL>
+Only the Lord of the Wood could<NL>
+fall asleep after a battle like that.<END>
+
+[Luzzu]<NL>
+Let it go.<NL>
+Save your strength for the next battle.<END>
+
+<NL>
+          <END>
+
+[Luzzu]<NL>
+A summoner and her guardians.<NL>
+Very impressive!<END>
+
+[Gatta]<NL>
+Sir, we should fight, too!<END>
+
+[Luzzu]<NL>
+We'll get our chance soon enough.<END>
+
+[Gatta]<NL>
+Young [Crusader]s gather round!<END>
+
+[Gatta]<NL>
+We'll beat [Sin] into the ground!<END>
+
+<NL>
+On our way, sir!<END>
+
+<NL>
+Yes, sir! On our way, sir!<END>
+
+[Luzzu]<NL>
+The Ochu is no garden-variety fiend.<END>
+
+[Luzzu]<NL>
+We could throw a hundred [Crusader]s<NL>
+at it and still lose.<END>
+
+[Luzzu]<NL>
+Ochu poison is a surefire way<NL>
+to get to the [Farplane], and fast.<END>
+
+[Luzzu]<NL>
+The fiend before us is<NL>
+Ochu, Lord of the Wood!<END>
+
+[Luzzu]<NL>
+We've had trouble with this one before.<NL>
+Remember, discretion is the better<NL>
+part of valor.<END>
+
+[Luzzu]<NL>
+Do your best, kid.<NL>
+[Wakka]'s counting on you.<END>
+
+[Gatta]<NL>
+Standing guard, sir!<END>
+
+[Gatta]<NL>
+Company, halt!<END>
+
+[Gatta]<NL>
+Don't even think<NL>
+about fighting it.<END>
+
+[Gatta]<NL>
+Hey, after the tournament,<NL>
+you should join the [Crusader]s!<END>
+
+<NL>
+I can't believe you defeated Ochu!<NL>
+Say, how would you like to join the [Crusader]s?<END>
+
+<NL>
+Here's a little something for your victory.<END>
+
+<NL>
+I'd steer clear of Ochu, Lord of the Wood.<NL>
+It's a powerful fiend even we [Crusader]s avoid.<END>
+
+<NL>
+Are you heading for <Cor 88>[Kilika Temple]<Cor 41>?<NL>
+Then just follow this trail.<END>
+
+<NL>
+There are poisonous fiends in the forest.<NL>
+Be on your guard!<END>
+
+<NL>
+We [Crusader]s are training for<NL>
+the upcoming operation.<NL>
+Call on us if you see any [sinspawn].<END>
+
+<NL>
+Are you okay? Don't be so reckless!<NL>
+Sometimes it's best to just go around it.<END>
+
+<NL>
+Fiends are everywhere.<NL>
+Never let your guard down.<END>
+
+<NL>
+Every [Crusader] must pray for<NL>
+the fiends' souls.<NEWPAGE>
+<NL>
+We all want the dead to find peace<NL>
+on the [Farplane], right?<END>
+
+<NL>
+Good day, guardians!<NEWPAGE>
+<NL>
+Many fiends have been sighted<NL>
+in areas attacked by [Sin].<NEWPAGE>
+<NL>
+Please be careful on your journey.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<NL>
+t e p s w r s<NL>
+V C O I U<END>
+
+<TEXT>
+<NL>
+Something is written here.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

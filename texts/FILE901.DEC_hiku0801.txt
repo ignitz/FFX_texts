@@ -1,0 +1,506 @@
+[Cid]<NL>
+Well, this is it, eh?<END>
+
+[Tidus]<NL>
+Yu Yevon's hiding somewhere inside<NL>
+[Sin], and we're gonna find him.<END>
+
+[Cid]<NL>
+Well, that sounds pretty simple.<END>
+
+[Tidus]<NL>
+Simple is the way you like it, right?<END>
+
+[Cid]<NL>
+You got that right.<END>
+
+[Rikku]<NL>
+Pops!<NL>
+I'm countin' on you!<END>
+
+[Cid]<NL>
+Right, got you covered!<END>
+
+[Cid]<NL>
+How's that?<END>
+
+[Rikku]<NL>
+Right on!<END>
+
+[Lulu]<NL>
+A singing ship in the sky.<END>
+
+[Tidus]<NL>
+All right, we're going in!<END>
+
+[Wakka]<NL>
+How we gonna get inside?<END>
+
+[Tidus]<NL>
+The easy way! How else?<END>
+
+[Cid]<NL>
+Hey, how you plan<NL>
+on getting inside?<END>
+
+[Tidus]<NL>
+If we can't get through the mouth,<NL>
+we'll rip open a new one!<NL>
+You with me?<END>
+
+[Brother]<NL>
+Father! I know what to use!<END>
+
+[Cid]<NL>
+Aha! Of course!<END>
+
+[Tidus]<NL>
+Of course!<END>
+
+[Cid]<NL>
+All right!<END>
+
+[Cid]<NL>
+We'll give that thing a new blowhole.<NL>
+All you gotta do is jump!<END>
+
+[Tidus]<NL>
+Roger!<END>
+
+[Cid]<NL>
+I won't tell ya to be careful.<NL>
+Do your worst, kiddo!<END>
+
+[Tidus]<NL>
+Roger!<END>
+
+[Brother]<NL>
+Wait!<END>
+
+[Brother]<NL>
+[Rikku], you...guard.<END>
+
+[Tidus]<NL>
+Will do!<END>
+
+[Cid]<NL>
+Here goes!<NL>
+Everyone, hold on to something!<END>
+
+[Cid]<NL>
+Here we go!<END>
+
+[Cid]<NL>
+Ready? Fire!<END>
+
+[Cid]<NL>
+Yeehaw! Where next?<END>
+
+[Brother]<NL>
+It is over.<END>
+
+[Cid]<NL>
+What? We have only begun!<END>
+
+[Brother]<NL>
+But the main gun, it is broken!<END>
+
+[Cid]<NL>
+Th-That cannot be!<END>
+
+[Cid]<NL>
+The final showdown with [Sin]!<NL>
+I say let's get this show on the road!<END>
+
+[Wakka]<NL>
+There's something I want<NL>
+to say before the fight.<END>
+
+[Wakka]<NL>
+I guess I didn't know<NL>
+anything about the [Al Bhed].<END>
+
+[Wakka]<NL>
+Didn't know anything.<NL>
+Didn't want to listen to anything.<END>
+
+[Wakka]<NL>
+I was a big jerk.<END>
+
+[Wakka]<NL>
+So, I...<NL>
+Well, uh...<END>
+
+[Wakka]<NL>
+I'm sorry, ya?<NL>
+Please forgive me.<END>
+
+[Cid]<NL>
+Don't let it bother you.<END>
+
+[Cid]<NL>
+Hey, I'm guilty of hating<NL>
+those durn Yevonites, myself!<END>
+
+[Cid]<NL>
+There's a lot of folk in this world--<NL>
+some of 'em good, some of 'em bad.<END>
+
+[Cid]<NL>
+That's all there is to it.<END>
+
+[Wakka]<NL>
+When this is all over, we'll<NL>
+help you look for your [Zanarkand]!<END>
+
+[Wakka]<NL>
+A [Spira] without [Sin]...<NL>
+Hard to imagine, ya?<END>
+
+<TEXT>
+<Cor 43>Scout Level: 1<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<END>
+
+<TEXT>
+<Cor 43>Scout Level: 2<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><END>
+
+<TEXT>
+<Cor 43>Scout Level: 3<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><NL>
+<VAR12 3F><NL>
+<VAR12 40><NL>
+<VAR12 41><END>
+
+<TEXT>
+<Cor 43>Scout Level: MAX<Cor 41><NL>
+Name: <VAR12 30><NL>
+Level: <VAR12 31><NL>
+Team: <VAR12 32><NL>
+Contract: <VAR12 33> games<NL>
+Salary: <VAR12 34> Gil<NL>
+HP: <VAR12 35><VAR07 60>SP: <VAR12 36><NL>
+EN: <VAR12 37><VAR07 60>AT: <VAR12 38><NL>
+PA: <VAR12 39><VAR07 60>BL: <VAR12 3A><NL>
+SH: <VAR12 3B><VAR07 60>CA: <VAR12 3C><NL>
+<VAR12 3D><NL>
+<VAR12 3E><VAR07 68><Cor B1>Key Techniques<Cor 41><NL>
+<VAR12 3F><VAR07 68><VAR12 42><NL>
+<VAR12 40><VAR07 68><VAR12 43><NL>
+<VAR12 41><VAR07 68><VAR12 44><END>
+
+<TEXT>
+<VAR12 31><VAR07 64><VAR12 3B><VAR07 88><VAR12 45><NL>
+<VAR12 32><VAR07 64><VAR12 3C><VAR07 88><VAR12 46><NL>
+<VAR12 33><VAR07 64><VAR12 3D><VAR07 88><VAR12 47><NL>
+<VAR12 34><VAR07 64><VAR12 3E><VAR07 88><VAR12 48><NL>
+<VAR12 35><VAR07 64><VAR12 3F><VAR07 88><VAR12 49><NL>
+<VAR12 36><VAR07 64><VAR12 40><VAR07 88><VAR12 4A><NL>
+<VAR12 37><VAR07 64><VAR12 41><VAR07 88><VAR12 4B><NL>
+<VAR12 38><VAR07 64><VAR12 42><VAR07 88><VAR12 4C><NL>
+<VAR12 39><VAR07 64><VAR12 43><VAR07 88><VAR12 4D><NL>
+<VAR12 3A><VAR07 64><VAR12 44><VAR07 88><VAR12 4E><VAR07 A4><END>
+
+<TEXT>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+For how many games?<NL>
+<CHOICE???>B<END>
+
+<TEXT>
+Contract must be longer<NL>
+than one game.<END>
+
+<TEXT>
+Total salary: <VAR12 30> Gil<NL>
+Sign player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Not enough Gil.<END>
+
+<TEXT>
+You cannot sign more than 8 players<NL>
+to the Besaid Aurochs.<NL>
+Release a player?<NL>
+<CHOICE1>Yes<NL>
+<CHOICE2>No<END>
+
+<TEXT>
+Release who?<NL>
+<CHOICE1><VAR12 30><NL>
+<CHOICE2><VAR12 31><NL>
+<CHOICE3><VAR12 32><NL>
+<CHOICE4><VAR12 33><NL>
+<CHOICE5><VAR12 34><NL>
+<CHOICE6><VAR12 35><NL>
+<CHOICE7><VAR12 36><NL>
+<CHOICE8><VAR12 37><END>
+
+<TEXT>
+Cannot release that player.<END>
+
+[Rikku]<NL>
+Aww... Now I'm feeling<NL>
+all warm inside.<END>
+
+[Rikku]<NL>
+My pop says he's got<NL>
+a special surprise for [Sin].<END>
+
+[Rikku]<NL>
+Can't wait till this is over<NL>
+so we can relax for a change!<END>
+
+[Rikku]<NL>
+Don't worry, we'll be fine!<NL>
+Everyone'll sing for us. I know it!<END>
+
+[Rikku]<NL>
+Figures.<END>
+
+[Auron]<NL>
+I must admit I was worried at<NL>
+the beginning, but you've done well.<END>
+
+[Auron]<NL>
+One more trial to pass.<END>
+
+[Auron]<NL>
+Our stories will end together.<END>
+
+[Auron]<NL>
+Don't keep [Jecht] waiting.<NL>
+He never was a patient man.<END>
+
+[Lulu]<NL>
+We'll be bringing a new Calm.<NL>
+One that will last forever.<END>
+
+[Lulu]<NL>
+This will be a battle unmatched in<NL>
+the thousand years since [Sin]'s birth.<END>
+
+[Lulu]<NL>
+[Spira] without [Sin]...<NL>
+Why is it so hard to imagine?<END>
+
+[Lulu]<NL>
+Afterwards--after we defeat [Sin]--<NL>
+promise you'll stay with [Yuna].<END>
+
+[Yuna]<NL>
+All those teachings...<NL>
+what were they for?<END>
+
+[Yuna]<NL>
+Sorry, I was just thinking.<END>
+
+[Yuna]<NL>
+We're...still going forward, right?<END>
+
+[Yuna]<NL>
+We can think about what will<NL>
+happen after we beat [Sin], right?<END>
+
+[Brother]<NL>
+I have to warn you,<NL>
+thinking is not my forte.<END>
+
+[Brother]<NL>
+So if you want a plan,<NL>
+go to someone else.<END>
+
+[Brother]<NL>
+I have to fly the airship now.<NL>
+Goodbye.<END>
+
+[Brother]<NL>
+Will [Sin] truly return again?<END>
+
+[Brother]<NL>
+What will we do?<END>
+
+[Brother]<NL>
+The song! It is not working on [Sin]!<END>
+
+[Brother]<NL>
+You go into [Sin] once more, eh?<NL>
+Leave it to me!<END>
+
+[Brother]<NL>
+We will fly anywhere<NL>
+you want to go!<END>
+
+[Wakka]<NL>
+I hope everyone got the message.<END>
+
+[Brother]<NL>
+[Sin]!<END>
+
+[Lulu]<NL>
+Well? Let's go!<END>
+
+[Cid]<NL>
+Now that's what I call a plan!<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

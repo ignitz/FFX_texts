@@ -1,0 +1,137 @@
+[Tidus]<NL>
+Wha...?<END>
+
+[Tidus]<NL>
+Whoa!<END>
+
+[Yuna]<NL>
+Y-Yes?<END>
+
+[Tidus]<NL>
+I...well... It's nothing, really.<NL>
+I...I just, uh...<END>
+
+[Tidus]<NL>
+I'm sorry...<NL>
+I shouldn't have come in.<END>
+
+[Tidus]<NL>
+H-Hey!<END>
+
+[Tidus]<NL>
+Wasn't that that [Jyscal Guado] guy?<END>
+
+<NL>
+          <END>
+
+[Yuna]<NL>
+The sphere is his will...<NL>
+It says, "Take care of my son."<END>
+
+[Tidus]<NL>
+His son...? [Seymor]?<END>
+
+[Tidus]<NL>
+Well, I know one way<NL>
+to take care of him.<END>
+
+[Yuna]<NL>
+I'm sorry.<END>
+
+<NL>
+<END>
+
+[Wakka]<NL>
+What do you think you're up to?<END>
+
+[Tidus]<NL>
+[Yuna]...[Yuna] was<NL>
+acting funny, s-so...<END>
+
+[Wakka]<NL>
+Yeah, yeah!<END>
+
+[Wakka]<NL>
+She'll tell us when she's ready,<NL>
+so hold your chocobos till then, ya?<END>
+
+<NL>
+<END>
+
+[Tidus]<NL>
+All right! All right! All right!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

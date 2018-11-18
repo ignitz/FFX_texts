@@ -1,0 +1,243 @@
+[Tidus]<NL>
+Eesh...<NL>
+Can't I get a little privacy?<END>
+
+[Auron]<NL>
+Your singing reminded<NL>
+me of [Spira].<END>
+
+[Tidus]<NL>
+Oh, right. You're not originally<NL>
+from [Zanarkand], are you?<END>
+
+[Tidus]<NL>
+You homesick?<END>
+
+[Auron]<NL>
+Maybe.<END>
+
+[Tidus]<NL>
+I know.<END>
+
+[Tidus]<NL>
+You want this to end.<END>
+
+[Tidus]<NL>
+I'll find a way, promise.<END>
+
+[Tidus]<NL>
+Say, how'd you get<NL>
+to [Zanarkand] anyway?<END>
+
+[Tidus]<NL>
+[Sin]?<END>
+
+[Tidus]<NL>
+Uh-huh, I thought so.<END>
+
+<NL>
+That proved it.<END>
+
+<NL>
+[Sin] was the link<NL>
+between [Zanarkand] and [Spira].<END>
+
+<NL>
+Which means, if we kill [Sin],<NL>
+I'll never be able to go home.<END>
+
+<NL>
+          <END>
+
+[Lulu]<NL>
+The singing stopped.<END>
+
+<NL>
+          <END>
+
+[Wakka]<NL>
+There's something here!<END>
+
+[Auron]<NL>
+The ground!<END>
+
+[Yuna]<NL>
+[Sin]!?<END>
+
+<NL>
+          <END>
+
+<NL>
+          <END>
+
+[Lulu]<NL>
+The toxin! Watch out!<END>
+
+<NL>
+It was then I knew...<END>
+
+<NL>
+that [Sin] really was my old man.<END>
+
+<NL>
+For the first time, I was<NL>
+finally able to believe it.<END>
+
+[Tidus]<NL>
+The song...<NL>
+You were listening, too!<END>
+
+[Tidus]<NL>
+What is it this time?<END>
+
+[Auron]<NL>
+We should get moving soon.<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

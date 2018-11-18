@@ -1,0 +1,501 @@
+<TEXT>
+<Cor 43>[Al Bhed] First Aid Kit<Cor 41><NL>
+A first aid kit placed by the [Al Bhed2]<NL>
+to aid desert travellers.<END>
+
+[Kimahri]<NL>
+Yuna...gone.<END>
+
+[Tidus]<NL>
+It's not your fault, Kimahri!<END>
+
+[Rikku]<NL>
+Oh!<END>
+
+[Rikku]<NL>
+Hey, guys!<END>
+
+[Rikku]<NL>
+Hmm?<END>
+
+[Rikku]<NL>
+Kimahri, too!<END>
+
+[Rikku]<NL>
+Where's [Yunie]?<END>
+
+[Tidus]<NL>
+Gone.<END>
+
+[Lulu]<NL>
+Gone...<NL>
+Some guardian I am.<END>
+
+[Rikku]<NL>
+Umm...<END>
+
+[Rikku]<NL>
+There's something I wanna tell you,<NL>
+but promise not to say anything.<END>
+
+[Rikku]<NL>
+No glaring either!<END>
+
+[Rikku]<NL>
+I know where we are.<NL>
+We're on Bikanel Island.<END>
+
+[Rikku]<NL>
+There's a place us [Al Bhed]<NL>
+call [Home] near here.<END>
+
+[Rikku]<NL>
+[Yunie]'s there, I'm sure of it!<END>
+
+[Rikku]<NL>
+Other [Al Bhed] must've<NL>
+come and rescued her!<END>
+
+[Wakka]<NL>
+Rescued?<NL>
+You mean kidnapped!<END>
+
+[Tidus]<NL>
+What does it matter<NL>
+as long as she's safe?<END>
+
+[Rikku]<NL>
+That's right!<END>
+
+[Rikku]<NL>
+Anyway, I will take you<NL>
+there if you promise...<END>
+
+[Rikku]<NL>
+that you won't tell anyone about it.<END>
+
+[Rikku]<NL>
+Especially not Yevonites, okay?<END>
+
+[Rikku]<NL>
+You know they don't like us [Al Bhed].<END>
+
+[Rikku]<NL>
+Who knows what they'll do if they knew?<END>
+
+[Wakka]<NL>
+Gimme a break.<NL>
+What are you accusing [Yevon2] of this time?<END>
+
+[Rikku]<NL>
+[Yevon2] did something<NL>
+really bad to us before.<END>
+
+[Wakka]<NL>
+Well, you [Al Bhed]<NL>
+must've deserved it.<END>
+
+[Tidus]<NL>
+Can't you guys...<NL>
+talk about this later?<END>
+
+[Rikku]<NL>
+Just promise you won't tell<NL>
+anyone about this island. Promise?<END>
+
+[Tidus]<NL>
+[Wakka], come on!<END>
+
+[Wakka]<NL>
+All right, I promise!<NL>
+Lead the way.<END>
+
+[Rikku]<NL>
+You got it!<END>
+
+[Rikku]<NL>
+Uhh... Which way was it again?<END>
+
+[Rikku]<NL>
+Umm... This way!<END>
+
+[Rikku]<NL>
+Umm...I think I'm lost.<END>
+
+[Rikku]<NL>
+Over here!<END>
+
+[Rikku]<NL>
+That way!<END>
+
+[Rikku]<NL>
+Wait, wait!<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. V!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>A<Cor 41> [RIGHT] <Cor 97>E<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. XIV!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>H<Cor 41> [RIGHT] <Cor 97>N<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 1-<Cor 41><NL>
+Stores a record of your travels.<NL>
+Also fully restores your party's<NL>
+HP and MP.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 2-<Cor 41><NL>
+Thanks to the [Besaid Aurochs]' achievements,<NL>
+Save Spheres are now able to teleport you<NL>
+to the [blitzball] stadium!<END>
+
+<TEXT>
+<Cor 43>-The Blitzball Scout System-<Cor 41><NL>
+Many denizens of [Spira] are avid<NL>
+[blitzball] players!<NL>
+Talk to them with [Botão Quadrado] to scout them!<NL>
+Sign the best players in [Spira] and<NL>
+lead the [Besaid Aurochs] to victory!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+The [Besaid Aurochs] are not at full<NL>
+strength. You need more members<NL>
+to participate in blitzball.<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE2>Cancel<END>
+
+<TEXT>
+<Cor 43>-Traveller's Save Sphere Level 3-<Cor 41><NL>
+Save Spheres can now teleport you back to<NL>
+the airship, thanks to [Rin] the [Al Bhed]!<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<CHOICE3>Play blitzball<NL>
+<CHOICE4>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<Cor 52>Board airship<Cor 41><NL>
+<CHOICE2>Play blitzball<NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<CHOICE1>Save<NL>
+<CHOICE2>Board airship<NL>
+<Cor 52>Play blitzball<Cor 41><NL>
+<CHOICE3>Cancel<END>
+
+<TEXT>
+<NL>
+Lake Macalania<NL>
+<NL>
+<NL>
+<NL>
+<NL>
+<NL>
+<NL>
+<NL>
+<NL>
+<NL>
+<NL>
+                Besaid                <END>
+
+<ÁREA><NL>
+Bikanel<END>
+
+<ÁREA><NL>
+Home<END>
+
+<TEXT>
+3!<END>
+
+<TEXT>
+2!<END>
+
+<TEXT>
+1!<END>
+
+<TEXT>
+= 1st TRIAL =<END>
+
+<TEXT>
+= 2nd TRIAL =<END>
+
+<TEXT>
+= 3rd TRIAL =<END>
+
+<TEXT>
+GO!<END>
+
+<TEXT>
+YOU LOSE!<END>
+
+<TEXT>
+TIME'S UP!!!<END>
+
+<TEXT>
+Needletime!<END>
+
+<TEXT>
+Needles!<END>
+
+<TEXT>
+Whoopsie!<END>
+
+<TEXT>
+Prickle!<END>
+
+<TEXT>
+<NL>
+Something's written here.<END>
+
+<TEXT>
+<NL>
+Oasis ahead.<END>
+
+<TEXT>
+<NL>
+[Home] Ahead.<END>
+
+<TEXT>
+<Cor 43>Tomay<Cor 41><NL>
+- Duties: Fetching water.<NL>
+  Takes his time and, as a<NL>
+  result, is often left<NL>
+  behind.<NL>
+- A little dim.<END>
+
+<TEXT>
+<Cor 43>Rovivea<Cor 41><NL>
+- Has no patience for<NL>
+  certain dim-witted friends.<NL>
+- Not a progressive thinker.<END>
+
+<TEXT>
+<Cor 43>Chava<Cor 41><NL>
+- Recently learned to<NL>
+  count to 50.<NL>
+- A little needy.<NL>
+- Attention deficit.<END>
+
+<TEXT>
+<Cor 43>Alek & Aloja<Cor 41><NL>
+- Two brothers, rarely separated.<NL>
+- They move as one, their closeness<NL>
+  a paragon of brotherhood.<END>
+
+<TEXT>
+<Cor 43>Vachella<Cor 41><NL>
+- Loves new things.<NL>
+- Hard on others, easy on self.<NL>
+- Stingy.<END>
+
+<TEXT>
+<Cor 43>Robeya<Cor 41><NL>
+- A real needle brain.<NL>
+- Likes cramped spaces.<NL>
+- Check out his great collection!<END>
+
+<TEXT>
+<Cor 43>Isrra<Cor 41><NL>
+- The philosopher about town.<NL>
+  Today, he digs holes. Again.<NL>
+- A cautious sort.<END>
+
+<TEXT>
+<Cor 43>Elio<Cor 41><NL>
+- To see what lies beyond the sands,<NL>
+  he travels far to distant lands.<NL>
+- Hyper-reactive and a bad poet.<END>
+
+<TEXT>
+<Cor 43>Flaile<Cor 41><NL>
+- The guy you never invite<NL>
+  but he always shows up anyway.<NL>
+- Cheeky.<END>
+
+<TEXT>
+<Cor 43>Village of the Cactuars<Cor 41><NL>
+- Using spheres to control the sands,<NL>
+  the Cactuars defend their village.<NL>
+  They are the Gatekeepers.<NL>
+- Present all 10 of the spheres they<NL>
+  bear to the stone altar,<NL>
+  and the way to the village will open.<END>
+
+<TEXT>
+<Cor 43>Way of the Gatekeepers I<Cor 41><NL>
+- It may look like fun and games, but the<NL>
+  Gatekeepers are a proud race of warriors.<NL>
+- While they dislike combat, they will turn<NL>
+  and face any enemy that takes their back.<END>
+
+<TEXT>
+<Cor 43>Way of the Gatekeepers II<Cor 41><NL>
+- Should you fail to sneak up on them<NL>
+  they will realize they have over-estimated<NL>
+  their enemy and depart in disgust.<END>
+
+<TEXT>
+<Cor 43>Way of the Gatekeepers III<Cor 41><NL>
+- Sneak up on the cactuars when their<NL>
+  backs are turned to confront them.<NL>
+  It's better that way, believe me.<END>
+
+<TEXT>
+<Cor 43>Spheres<Cor 41><NL>
+- Fail to catch the gatekeeper<NL>
+  unaware, and you'll obtain the<NL>
+  Sphere del Perdedor!<NL>
+- Best the gatekeeper and obtain<NL>
+  his personalized sphere!<NL>
+- Collect lots of spheres to<NL>
+  receive an award at the village.<END>
+
+<TEXT>
+Obtained Tomay's Sphere!<END>
+
+<TEXT>
+Obtained Rovivea's Sphere!<END>
+
+<TEXT>
+Obtained Chava's Sphere!<END>
+
+<TEXT>
+Obtained Alek and Aloja's Sphere!<END>
+
+<TEXT>
+Obtained Vachella's Sphere!<END>
+
+<TEXT>
+Obtained Robeya's Sphere!<END>
+
+<TEXT>
+Obtained Isrra's Sphere!<END>
+
+<TEXT>
+Obtained Elio's Sphere!<END>
+
+<TEXT>
+Obtained Flaile's Sphere!<END>
+
+<TEXT>
+Obtained the Sphere del Perdedor!<END>
+
+<NL>
+<TEXT>
+<Cor 88>Time: <VAR12 32>:<VAR12 31>.<VAR12 30><Cor 41><END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

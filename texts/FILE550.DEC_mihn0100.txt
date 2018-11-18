@@ -1,0 +1,266 @@
+[Tidus]<NL>
+Check it out!<END>
+
+<NL>
+That sunset was different from<NL>
+the one I saw in Kilika.<NL>
+It was quiet--almost gentle.<END>
+
+[Tidus]<NL>
+Whatcha up to?<END>
+
+[Yuna]<NL>
+Pretty...<END>
+
+[Tidus]<NL>
+Sure is.<END>
+
+[Yuna]<NL>
+I wish I could live<NL>
+in a place like this.<END>
+
+[Yuna]<NL>
+Peaceful... Living with a smile<NL>
+on my face every day.<END>
+
+[Tidus]<NL>
+You can, once<NL>
+you beat [Sin], right?<END>
+
+[Yuna]<NL>
+But then a new [Sin]<NL>
+will be born anyway.<END>
+
+[Tidus]<NL>
+Well then, you can<NL>
+just beat it again.<END>
+
+[Yuna]<NL>
+I wish I could.<END>
+
+[Tidus]<NL>
+Hey, you can! Trust me!<NL>
+You are the best summoner out there!<END>
+
+[Tidus]<NL>
+[Yuna], why does [Sin]<NL>
+always come back?<END>
+
+[Yuna]<NL>
+[Sin] is our punishment<NL>
+for our vanity.<END>
+
+[Yuna]<NL>
+And it will not go away<NL>
+until we've atoned.<END>
+
+[Tidus]<NL>
+How do we do that?<END>
+
+<NL>
+          <END>
+
+[Tidus]<NL>
+What did we do that was<NL>
+so bad in the first place?<END>
+
+[Tidus]<NL>
+Was it using lots of machina<NL>
+or something? Oh... Wait, was<NL>
+that such a bad thing, really?<END>
+
+[Yuna]<NL>
+It's funny...<END>
+
+<NL>
+          <END>
+
+[Yuna]<NL>
+Ever since I was young,<NL>
+I never questioned it.<END>
+
+[Yuna]<NL>
+But now that you ask me if it<NL>
+is that bad or not...I don't know.<END>
+
+[Yuna]<NL>
+There are so many<NL>
+things I don't know.<END>
+
+[Tidus]<NL>
+Well then, we're the same!<END>
+
+[Tidus]<NL>
+Such thinking is very<NL>
+unbecoming of a summoner!<END>
+
+[Tidus]<NL>
+Sound like [Mika]?<END>
+
+[Yuna]<NL>
+That's not very nice, you know!<END>
+
+[Tidus]<NL>
+You know...<END>
+
+[Tidus]<NL>
+During a game, you have to think<NL>
+of blitz and nothing else, you know?<END>
+
+[Yuna]<NL>
+Okay.<END>
+
+[Tidus]<NL>
+You can't think, "That's a cute girl<NL>
+in the fifth seat from the right."<END>
+
+[Tidus]<NL>
+And you can't be thinking about<NL>
+where you're going to go on that<NL>
+date, because the minute you do,<NL>
+that's when you lose!<END>
+
+[Tidus]<NL>
+You see, uh, [Yuna], what I mean is,<NL>
+you really shouldn't worry, you know?<END>
+
+[Tidus]<NL>
+After we beat [Sin], that's when<NL>
+you can worry about the future.<END>
+
+[Yuna]<NL>
+I guess.<END>
+
+[Tidus]<NL>
+But, [Yuna], how are you supposed<NL>
+to beat something big like that?<END>
+
+[Yuna]<NL>
+The Final Summoning.<END>
+
+[Yuna]<NL>
+It's the only way to defeat Sin.<NL>
+The only way.<END>
+
+[Yuna]<NL>
+With it, we can call the Final Aeon.<NL>
+That's the goal of the pilgrimage.<END>
+
+[Yuna]<NL>
+The Fayth of the Final Summoning lies<NL>
+waiting in the far north, to greet<NL>
+summoners that complete their pilgrimage.<END>
+
+[Yuna]<NL>
+At the world's edge...<NL>
+in [Zanarkand].<END>
+
+[Tidus]<NL>
+In [Zanarkand]?<END>
+
+[Auron]<NL>
+She means the ruins of a city<NL>
+destroyed a thousand years ago.<END>
+
+[Tidus]<NL>
+You sure it's ruins?<END>
+
+[Yuna]<NL>
+That's what I've heard.<END>
+
+[Auron]<NL>
+You'll see it for<NL>
+yourself soon enough.<END>
+
+[Auron]<NL>
+[Yuna], come back inside.<END>
+
+[Yuna]<NL>
+You will go with us...<NL>
+to [Zanarkand]?<END>
+
+[Tidus]<NL>
+Yeah, I'll go.<END>
+
+[Tidus]<NL>
+I'll go to [Zanarkand] to<NL>
+see it with my own eyes.<END>
+
+<NL>
+I knew it couldn't be my [Zanarkand].<NL>
+But I had to make sure.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

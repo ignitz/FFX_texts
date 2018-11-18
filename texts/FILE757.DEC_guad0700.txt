@@ -1,0 +1,143 @@
+[Yuna]<NL>
+Lady Yunalesca!<END>
+
+[Seymor]<NL>
+She was the first person to defeat [Sin]<NL>
+and save the world from its ravages.<END>
+
+[Seymor]<NL>
+And you have inherited her name.<END>
+
+[Yuna]<NL>
+It was my father who named me.<END>
+
+[Seymor]<NL>
+Lord [Braska] was entrusting<NL>
+you with a great task.<END>
+
+[Seymor]<NL>
+He wanted you to face [Sin],<NL>
+as Lady Yunalesca did.<END>
+
+[Seymor]<NL>
+However, Lady Yunalesca<NL>
+did not save the world alone.<END>
+
+[Seymor]<NL>
+To defeat the undefeatable [Sin]...<END>
+
+[Seymor]<NL>
+it took an unbreakable bond of love--<NL>
+of the kind that binds two hearts<NL>
+for eternity.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

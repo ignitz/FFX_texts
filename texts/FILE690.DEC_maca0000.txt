@@ -1,0 +1,285 @@
+[O'aka]<NL>
+Welcome to [O'aka]'s!<END>
+
+[O'aka]<NL>
+Great!<NL>
+I knew I could count on you, lad!<END>
+
+[O'aka]<NL>
+Eh? You want something else?<END>
+
+[O'aka]<NL>
+You need somethin' for the big<NL>
+rescue, eh? I've got just the thing!<END>
+
+<TEXT>
+<CHOICE1>Got any weapons?<NL>
+<CHOICE2>Got any items?<NL>
+<CHOICE3>Leave.<END>
+
+[Tromell]<NL>
+Lady [Yuna],<NL>
+we've been expecting you.<END>
+
+[Tromell]<NL>
+We were surprised you<NL>
+decided to come so soon.<END>
+
+[Tromell]<NL>
+Pleasantly surprised, of course.<END>
+
+[Tromell]<NL>
+Lord [Seymor] sends his apologies<NL>
+for having left without notice.<END>
+
+[Yuna]<NL>
+It's quite all right.<END>
+
+[Yuna]<NL>
+I have one question,<NL>
+if I may, sir.<END>
+
+[Tromell]<NL>
+My lady?<END>
+
+[Yuna]<NL>
+I want to keep journeying,<NL>
+even if I marry.<END>
+
+[Yuna]<NL>
+Do you think that Maester<NL>
+[Seymor] would let me?<END>
+
+[Tromell]<NL>
+But of course, my lady.<END>
+
+[Tromell]<NL>
+Lord [Seymor] wishes<NL>
+nothing else, I'm sure.<END>
+
+[Yuna]<NL>
+Goodbye.<END>
+
+<TEXT>
+[Tromell]<NL>
+Well...<END>
+
+[Tromell]<NL>
+We must follow [Guado] tradition.<END>
+
+[Tromell]<NL>
+I'll have to ask you to wait<NL>
+here a little while longer.<END>
+
+[Tromell]<NL>
+I'll send someone to escort you.<END>
+
+<TEXT>
+[Yuna]<NL>
+<TEXT>
+I...<END>
+
+[Auron]<NL>
+We're all with you.<NL>
+Do as you will.<END>
+
+<TEXT>
+[Yuna]<NL>
+<TEXT>
+Thank you.<END>
+
+[Auron]<NL>
+Sorry.<END>
+
+[Auron]<NL>
+That was your line.<END>
+
+<TEXT>
+[Tidus]<NL>
+<TEXT>
+[Yuna]!<END>
+
+[Yuna]<NL>
+Yessir!<END>
+
+<TEXT>
+[Rikku]<NL>
+<TEXT>
+Oh, no!<END>
+
+[Wakka]<NL>
+[Al Bhed]!<END>
+
+[O'aka]<NL>
+Curse that [Rin] for<NL>
+taking up a place like this!<END>
+
+[O'aka]<NL>
+He'll be rich by tomorrow<NL>
+all on account of this celebration thing!<END>
+
+[O'aka]<NL>
+Hmm? What?<NL>
+You buyin' somethin' from me?<END>
+
+<TEXT>
+<CHOICE1>Of course!<NL>
+<CHOICE2>Maybe next time.<END>
+
+[O'aka]<NL>
+Should've expected as much.<END>
+
+[Clasko]<NL>
+Hi there.<END>
+
+[Clasko]<NL>
+Would you look at this?<END>
+
+[Clasko]<NL>
+They always leave me behind.<END>
+
+[Clasko]<NL>
+Oh. You want me to scratch you?<END>
+
+[Clasko]<NL>
+There. Good boy!<END>
+
+[Tidus]<NL>
+How'd you know what it wanted?<END>
+
+[Clasko]<NL>
+I've always been able<NL>
+to tell how chocobos feel.<END>
+
+[Clasko]<NL>
+Maybe I'd make a better chocobo<NL>
+breeder than Chocobo Knight, huh?<END>
+
+[Clasko]<NL>
+Hey, what job do<NL>
+you see me doing?<END>
+
+<TEXT>
+<CHOICE1>Chocobo Knight.<NL>
+<CHOICE2>Chocobo Breeder.<END>
+
+[Clasko]<NL>
+Oh... Really?<END>
+
+[Clasko]<NL>
+For a moment I thought<NL>
+you'd say "breeder."<END>
+
+[Clasko]<NL>
+Yeah! I think so too!<END>
+
+[Clasko]<NL>
+Hmm...<NL>
+You know, I might just give it a try.<END>
+
+[Clasko]<NL>
+We'll have to get some<NL>
+new chocobos to rebuild our unit.<END>
+
+[Clasko]<NL>
+I wonder how long<NL>
+that's gonna take. Ah, well...<END>
+
+[Clasko]<NL>
+Should I resign my commission?<END>
+
+[Clasko]<NL>
+Would Captain [Lucil] let me?<NL>
+[Elma] would probably laugh at me.<END>
+
+[Clasko]<NL>
+Wow, I think this is the first time<NL>
+I've seriously thought about my life.<END>
+
+[Clasko]<NL>
+I should be fighting,<NL>
+but my legs refuse to move.<END>
+
+[Clasko]<NL>
+I don't deserve to<NL>
+be a Chocobo Knight.<END>
+
+[Clasko]<NL>
+You think so, too, don't you?<END>
+
+<TEXT>
+<CHOICE1>It can happen to anyone.<NL>
+<TEXT>
+<CHOICE2>Yeah, you're no knight.<END>
+
+[Clasko]<NL>
+It's always like this.<END>
+
+[Clasko]<NL>
+I thought so.<NL>
+Thanks for being honest with me.<END>
+
+[Clasko]<NL>
+I'm going to resign my commission.<END>
+
+[Clasko]<NL>
+Um...<NL>
+Shouldn't you go rescue them?<END>
+
+<NL>
+Hurry to [Macalania Temple].<NL>
+Lord [Seymor] is expecting you.<END>
+
+<TEXT>
+Obtained [Al Bhed] Primer vol. XVI!<END>
+
+<TEXT>
+The secrets of the [Al Bhed]<NL>
+   language are revealed!<NL>
+            ([) <Cor A1>B<Cor 41> [RIGHT] <Cor 97>P<Cor 41> (])<END>
+
+<TEXT>
+<Cor 43>-Introduction to [Al Bhed]-<Cor 41><NL>
+Find [Al Bhed] primers to help you decipher<NL>
+the strange [Al Bhed] language.<NL>
+<Cor A1>Sycdan dra [Al Bhed] myhkiyka! Pacd uv milg!<Cor 41><END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hujela<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Pakehhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Typpman<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Maynhan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Cbaygan<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Hydeja<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Unydun<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Medanyde<Cor 41>!<END>
+
+<TEXT>
+[Tidus] has achieved the rank of <Cor 88>[Al Bhed] Sycdan<Cor 41>!<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
